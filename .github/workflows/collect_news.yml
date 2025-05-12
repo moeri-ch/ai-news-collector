@@ -2,7 +2,7 @@ name: Collect AI News
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # 毎日 UTC 1:00 (日本時間 10:00頃) に実行
+    - cron: '0 23 * * *'  # 毎日 UTC 23:00 (日本時間 8:00頃) に実行
   workflow_dispatch:  # 手動実行用
 
 jobs:
