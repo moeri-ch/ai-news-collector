@@ -64,10 +64,10 @@
   - 2024年5月15日の記事を編集して再掲載しています。 今までになかったまったく新しいガジェットが生まれるとき、世の中の受け止め方は当然ながら賛否両論。素晴らしい！と絶賛する声もあれば、手厳しいレビューが飛ぶこともあります。 近頃では、スマホに置き換わるともいわれた｢Humane Ai Pin｣が、...
 - [Findyの爆速開発を支える生成AI活用 ~MCPサーバー作成編~ - Findy Tech Blog](https://tech.findy.co.jp/entry/2025/05/12/070000)
   - こんにちは。 ファインディ株式会社 で Tech Lead をやらせてもらってる戸田です。 現在のソフトウェア開発の世界は、生成AIの登場により大きな転換点を迎えています。 GitHub Copilotやチャットベースの開発支援ツールなど、生成AIを活用した開発支援ツールが次々と登場し、開発者の日常...
-- [Web会議の“バーチャル背景”から実背景を復元する攻撃　ZoomとGoogle Meetで検証　欧州チームが発表](https://www.itmedia.co.jp/news/articles/2505/12/news042.html)
-  - Web会議はリモートワークの必須ツールとなり、自宅から職場との遠隔での通話を可能にしている。しかし、自宅環境からビデオを送信することは、背景に映り込む物品や写真を通じてプライバシー情報が漏えいするリスクをもたらす。この問題に対処するため、多くのWeb会議サービスはバーチャル背景機能を実装し、背後の実...
 - [LLMフレームワークのセキュリティリスク - LangChain, Haystack, LlamaIndex等の脆弱性事例に学ぶ - GMO Flatt Security Blog](https://blog.flatt.tech/entry/llm_framework_security)
   - はじめに こんにちは。GMO Flatt Security株式会社セキュリティエンジニアの森(@ei01241)です。 近年、大規模言語モデル（LLM）の進化により、チャットボット、データ分析・要約、自律型エージェントなど、多岐にわたるAIアプリケーション開発が進んでいます。LangChainやLl...
+- [Web会議の“バーチャル背景”から実背景を復元する攻撃　ZoomとGoogle Meetで検証　欧州チームが発表](https://www.itmedia.co.jp/news/articles/2505/12/news042.html)
+  - Web会議はリモートワークの必須ツールとなり、自宅から職場との遠隔での通話を可能にしている。しかし、自宅環境からビデオを送信することは、背景に映り込む物品や写真を通じてプライバシー情報が漏えいするリスクをもたらす。この問題に対処するため、多くのWeb会議サービスはバーチャル背景機能を実装し、背後の実...
 - [AIは「先生が言っていた」とか「短く説明して」といったワードを入力されると誤情報を生成しやすくなる、OpenAIやGoogleのAIモデルを対象にした幻覚耐性ベンチマークで判明](https://gigazine.net/news/20250512-ai-hallucination-short-answer/)
   - 生成AIが事実と異なる内容を出力することは「ハルシネーション(幻覚)」と呼ばれています。AI企業のGiskardがハルシネーションの発生条件やAIモデルごとの幻覚耐性の分析結果を公開しました。 Phare LLM Benchmark https://phare.giskard.ai/ Good an...
 - [AIで「インフルエンサーっぽい顔写真やブログ記事」を生成しまくり金を稼ごうとする人が現れている](https://gigazine.net/news/20250512-ai-fake-influencer/)
@@ -248,35 +248,6 @@ Playgroundコンペは「回帰」と「2値分類」のタスクが多い
 
 ### Zenn AI (18件)
 
-- [AIと進めるテスト設計・リファクタリングの実践](https://zenn.dev/chiilog/articles/2fab90fe67e94e)
-  - 以前作成した冷蔵庫マネージャー、レビューとリファクタリングをしようしようと思いながら後回しになっていたのですが、つい先日参加したイベントでAIとのリファクタリングのコツを教えてもらったので、教えてもらったことをもとにやってみることにしました。
-
-前提（例：あなたは〜です）
-目的（例：これから〜を実装...
-- [Vibe Coding Master：AIと共創するゲーム開発の新時代](https://zenn.dev/oggata/books/612325bc050fae)
-  - 『Vibe Coding Master：AIと共創するゲーム開発の新時代』は、AI技術と人間の創造力を融合し、これまでにない新しいゲーム開発の可能性を探求する書籍です。本書は、AIを活用したゲーム制作の最新トレンドや実践的なノウハウを、具体的なプロジェクトを通じて解説します。
-
-本書の特徴
-	
-•	...
-- [Azure AI Document IntelligenceのOCR機能を使ってPDFをテキスト化し、Difyで使えるナレッジベース化する](https://zenn.dev/solvio/articles/9d9643ec24dd96)
-  - はじめに
-業務や学習で使う膨大な量のPDFファイルから、内容の要約や必要な箇所のみの情報を確認したいときはありませんか？
-今回はAzureが提供するDocument IntelligenceのOCR機能を使って、PDFから自動でテキストを抽出し、Difyのナレッジで活用できるようにしてみました。
-
-...
-- [Gemcook AI Weekly #1 - Devin がGemcookに入社しました！](https://zenn.dev/gemcook/articles/weekly_ai_soso_2025_0427)
-  - 概要
-こんにちは、株式会社 Gemcook の soso です。
-
- Gemcook AI Weekly とは
-Gemcook AI Weekly は「AI 時代の今、AI の力を最大限に活用し、Gemcook が日本のエンジニア業界をリードしていきたい」という想いから始まりました。
-トレンドになっ...
-- [なぜPythonはAIコード生成の王者なのか：LLM時代における開発言語の選び方（2025年5月版）](https://zenn.dev/ken1618/articles/7cd623cd9e56df)
-  - 2025年5月の今、AIを活用したアプリケーション開発の鍵は「コード生成精度の高い言語を選ぶこと」にあります。生成AIはもはやアイデア段階からアプリの完成までをサポートする開発パートナーとなりつつありますが、そのパフォーマンスは選択するプログラミング言語によって大きく変わります。中でも、Python...
-- [コンテキストを作るということ - AIの思考を読み解く鍵『コンテキスト』とは何か？その本質と役割](https://zenn.dev/caphtech/articles/ai-context-making-foundations)
-  - はじめに
-生成AIは、今日のソフトウェア開発において、コード生成の強力なアシスタントとして急速に普及しています。しかしその一方で、「期待した通りのコードがなかなか得られない」「自然言語による指示の曖昧さが原因で、手戻りや修正作業が頻発する」といった課題に直面している開発者も少なくないのではないでしょ...
 - [RAGとLLMを使用した自然言語ログクエリシステムの構築してみました](https://zenn.dev/phandinhloc/articles/f0522d3e9e0a45)
   - はじめに
 LLMについてはまったくの初心者ですが、勉強の一環として「自然言語でログを検索できるシステム」を作ってみました。
@@ -339,30 +310,53 @@ https://marketplace.dify.ai/plugins/langgenius/dropbox
  「WIP制限」は本当に今も有効なのか？
 WIP（Work In Progress）制限という考え方があります。
 これは「同時進行する作業を減らし、マルチタスクによる生産性の低下を防ぐ」...
-
-### Zenn GenAI (15件)
-
-- [QAっていらなくなるの？と感じたときに読んでほしい話](https://zenn.dev/clglfh/articles/02c80c78cb8ebb)
-  - 生成AI時代にQAエンジニアが担うべき役割
-こんにちは、QAエンジニアのさかもとです！
-最近、ChatGPTなどの生成AIが一気に広がって、「もうAIがテスト書いてくれるならQAっていらないんじゃ…？」なんて話を聞くようになりました。
-正直、私も最初はドキッとしました。
-仕様書からテストケースを自動...
-- [🗓️ 開発記録｜日記アプリをCursorで作ってみた](https://zenn.dev/mic_engineer/articles/b6f01e1220c3e6)
-  - 日々の感情や出来事をサクッと記録できたら。
-しかもテンプレートがあれば、もっと気軽に続けられるかも？
-そんな思いつきから、テンプレート付き日記アプリを1日で開発してみました。
-この記事では、開発の流れ、実装した機能、直面した課題、そして今後の改善点までをまとめています。
-
-
- 🎨 完成したUIはこち...
-- [Snowflake Cortex Analystで、SlackからSQLを自動生成してみた](https://zenn.dev/sirok/articles/5605c88ad789c6)
+- [【MCP活用ノート01】Context7 MCPサーバー：最新情報でAIコーディングの限界を超える](https://zenn.dev/hongbod/articles/e53e8fc5669681)
   - はじめに
-シロクは「N organic」や「FAS」などのブランドを展開する化粧品会社です。顧客体験の向上とマーケティング効果の最大化のために、日々多様なデータが活用されています。
-各ブランドの成長に伴い、データに基づく意思決定の重要性が増しており、複数の事業部からデータチームへのレポート作成や分析...
-- [コンテキストを作るということ - AIの思考を読み解く鍵『コンテキスト』とは何か？その本質と役割](https://zenn.dev/caphtech/articles/ai-context-making-foundations)
-  - はじめに
-生成AIは、今日のソフトウェア開発において、コード生成の強力なアシスタントとして急速に普及しています。しかしその一方で、「期待した通りのコードがなかなか得られない」「自然言語による指示の曖昧さが原因で、手戻りや修正作業が頻発する」といった課題に直面している開発者も少なくないのではないでしょ...
+Context7は、LLMに最新のドキュメントを届ける仕組みとして注目されるMCPツールです。本記事ではその活用法を紹介します。
+
+ 1. Context7の登場背景：LLMの「情報の鮮度」問題
+AIによるコーディング支援は、ここ数年で急速に普及しました。Augment や Cursor ...
+- [うさぎでもわかる最新リップシンクOSS技術 - 歌ってみた動画を作るための高精度ツール比較](https://zenn.dev/taku_sid/articles/20250511_lipsync_oss)
+  - うさぎでもわかる最新リップシンクOSS技術
+👇️PodCastでも聴けます
+https://youtu.be/1x4xmKp4ZiA
+こんにちは、🐰です！今日は「歌ってみた動画を作るための最新リップシンク技術」について紹介するよ！
+「歌ってみた動画を作りたいけど、口の動きが合わなくて不自然...」
+...
+- [AI活用時の個人的Gitでよく使う機能](https://zenn.dev/nana/articles/8ccde02b7ee0e3)
+  - Git の便利機能まとめ
+僕も他の人が自分の知らない Git の機能でどんなのをどういう場面で使ってるのか気になるので、共有して欲しいためにまずは自分が書いてみるの精神。
+
+ stash
+その名の通り一時退避
+
+ 使い方
+git stash
+git stash -u  # Gitが管理対象としていな...
+- [AI実践ガイド：個人的各種AIサービスの利用方法](https://zenn.dev/paxdare_labo/books/how_i_use_ai_service)
+  - 独断と偏見に満ちた、個人的な各種AIサービスの実践ガイドです。対象となるサービスは随時追加・変更していきます...
+- [うさぎでもわかるYAML式プロンプト - 構造化で精度爆上げ！](https://zenn.dev/taku_sid/articles/20250511_yaml_prompt)
+  - うさぎでもわかるYAML式プロンプト - 構造化で精度爆上げ！
+👇️PodCastでも聴けるよ
+https://youtu.be/Q-MT6SJgJ3E
+
+こんにちは！🐰です。最近、AIとのコミュニケーションで「YAML式プロンプト」という手法が注目されているのを知っていますか？普通のテキストでAI...
+- [【テキスト分類】手を動かしてNaive Bayesを理解する](https://zenn.dev/mugi_cha/articles/21e63b9acc4b11)
+  - こんにちは！『麦ちゃーはん』です。
+今回は、Naive Bayesに興味をもったため、テキスト分類を実装しつつ勉強してみました。
+!
+この記事でわかること
+
+Naive Bayesの仕組み
+BernoulliNBとMultinomialNBの違い
+
+
+
+ Naive Bayes
+https://sc...
+
+### Zenn GenAI (16件)
+
 - [Google Cloud Next 25参加レポート: 生成AIワークロードにおけるSREとセキュリティについて学んできた](https://zenn.dev/10q89s/articles/b591eec1c6b4fa)
   - はじめに
 こんにちは、URBAN HACKSでインフラエンジニアをしています安坂です。
@@ -427,8 +421,28 @@ https://youtu.be/XOuLvXsWEHI
 AIが書いた記事を見分けるための特徴をご紹介します。
 
  特徴1：無難で誰にも刺さらない「良いこと言って...
+- [DeepRAG：Thinking to Retrieval Step by Step for LLMの論文ついて理解を深める！](https://zenn.dev/rakushaking/articles/37eab797c225ce)
+  - はじめに
+最近時マルチエージェントAIのシステム構築をプライベートでも検討しています。
+そのなかで昨年末流行りとなったDeepResearch。そこからさらに、RAGのディープ版も出てきました。RAGといえば実際のところ色んな企業でも導入されたものの、検索精度の問題で使われ勝手が悪くうまく使えない、...
+- [Day 1 — PoR入門：AIの“照合点”を見つける](https://zenn.dev/yuu6798/articles/day1-por-spike)
+  - 導入として
+PoR（Point of Resonance）とは、質問 Q がモデル内部で意味的に “芯” をつかみ、出力 E と完全に重なった瞬間の座標です。
+この一点を捉えられれば、モデルが「なぜその回答にたどり着いたか」を可視化でき、説明可能性が飛躍的に向上します。
+PoR は安全性評価・デバッ...
+- [生成AIが解く並べ替え作文](https://zenn.dev/yamahige/articles/aa97ce3dae95f7)
+  - 生成AIに並べ替え作文をやってもらったら面白かったので紹介します。こういった、突っ込まれた生成AIの「すばらしい…」に続く手のひら返しが、いつもの楽しみです。
+並べ替え作文では、断片に分かれた文章を自分が適切と思う順番に再構築します。文章のジグソーパズルですね。断片群に不要かもしれないものを含む場合...
+- [生成AIとの付き合い方を考えてこの先生きのこる](https://zenn.dev/nemunyan/articles/45ddac004734ae)
+  - 前回がとてもよかったので今回もZenncafeに参加することにしたので、何かしら自分が生成AIについてどう思ってるかをまとめてから参加して、より有意義にしたいという話
+Zenncafeでの主要な話題になっている、自分の現在の使い方、テックブログとの絡み、エンジニアがどう変わるかの三点でお送りします。...
+- [NotebookLMでポッドキャスト形式のコンテンツ作ってみるよ](https://zenn.dev/chameleonmeme/articles/2d42c67ae4ca14)
+  - 導入
+皆さんは「NotebookLM」というツールをご存知でしょうか？
+AIを活用したノート作成・情報整理ツールとして注目されてきたNotebookLMに、最近ポッドキャスト形式の音声データ生成機能が追加されました。
+これにより、エンジニアの皆さんもテキストだけでなく、音声コンテンツを手軽に作れる時...
 
-### Zenn DL (14件)
+### Zenn DL (15件)
 
 - [生成AI・LLM周りの基本をイメージで掴む！](https://zenn.dev/peishim/articles/dd2d0242fa734a)
   - はじめに
@@ -502,6 +516,10 @@ Retrieval-ba...
 「日本語音声基盤モデル「いざなみ」「くしなだ」を公開」
 https://www.aist.go.jp/aist_j/press_release/pr2025/pr20250310/pr20250310.html
 ということで、「国立研究開発法人産業技術総合研...
+- [【論文まとめ】 Semantic Library Adaptation (CVPR2025)](https://zenn.dev/cvdlhub/articles/98dd8ab71dbb2b)
+  - Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation (CVPR2025) [1]
+
+Open-vocabulary semantic segmentation...
 
 ### Zenn LLM (20件)
 
@@ -714,7 +732,7 @@ n-gram のマッチ率に基づくが、文の流れは評価できない
 今回は、NVIDIAのマルチモーダルLLMを調査した内容をまとめて書き出してみました！
 （なお、「➡」に続いてい...
 
-### Zenn Python (8件)
+### Zenn Python (6件)
 
 - [ウェイポイント追従シミュレーションの世界](https://zenn.dev/renue/articles/ca185efb5a2688)
   - ウェイポイント追従シミュレーションの世界[非AIエンジニアによるAI時代のコーディング]
@@ -747,32 +765,13 @@ https://zenn.dev/code_journey_ys/articles/9dab988afbca82
  ９．Djangoアプリケーションフォルダの作成とurls.pyの作成
 
 アプリケーションフォルダ作成画...
-- [いろんな方法で文字列結合【VSCode・エクセル・生成AI・Python】](https://zenn.dev/nnnto/articles/b02e13fc12a65d)
-  - 概要
-文字列の結合（連結）は、作業を効率化するうえで非常に便利な操作です。
-たとえば以下のような場面で役立ちます。
-
-メールで使用するための氏名を一括で生成する
-テスト用の大量のURLを作成し、それらすべての動作確認を行う
-
-現在では、さまざまなツールで文字列の結合が可能です。
-この記事では、それぞ...
-- [FastAPI で作った HTTP API を Rust に置き換えるとしたら？](https://zenn.dev/masakielastic/articles/d8779e6400b2cf)
-  - 登場人物：
-
-
-ずんだもん（質問役）：Rust 初心者。FastAPI には慣れている。
-
-めたん（解説役）：Webフレームワークと非同期処理に詳しい技術オタク。
-
-つむぎ（補足ナレーション）：仕様整理や長期的視点の提案が得意。
-
-この記事は ChatGPT で生成しました。
-
-ずんだもん：VOIC...
 
 ### Zenn GCP (19件)
 
+- [Airbyte を使った Shopify/Google スプレッドシート → BigQuery データ転送](https://zenn.dev/tsuzucle_tech/articles/63807acdbdda8d)
+  - こんにちは🐍
+株式会社 Tsuzucle SPRING 開発事業部にフリーランスインフラエンジニアとして参画している はらしゅん です。
+今回は案件で Airbyte を使って、Shopify や Google スプレッドシート上のデータを BigQuery や RDB に転送する仕組みを構築しまし...
 - [【読書感想文】Google Cloud ではじめる実践データエンジニアリング入門](https://zenn.dev/t_hayashi/articles/a06452ba42f993)
   - 読書感想文シリーズの第二弾として、「Google Cloud ではじめる実践データエンジニアリング入門」 について書いていこうと思います。
 こちらの書籍は 2021 年 2 月に第一版が出版されました。そこから 3 年の月日が経ち、2024 年の 10 月の最新の Google Cloud サービス...
@@ -861,9 +860,6 @@ Google Cloud の IAM 権限削除を効率化するスクリプトを紹介し�
 - [「Google Cloud Partner Specialization」のMLとDA認定を取得](https://zenn.dev/deloitte_jp_eng/articles/38d3c2c547d4cd)
   - *本記事は、2024年12月にhttps://www2.deloitte.comにて公開された情報を再掲載したものです。
 デロイト トーマツ コンサルティング合同会社は、「Google Cloud Partner Specialization」において、「Google Cloud Partner S...
-- [Google Cloud Partner Top Engineer 2025 / Partner All Star 2024を受賞](https://zenn.dev/deloitte_jp_eng/articles/8ab33bb489146a)
-  - *本記事は、2024年12月にhttps://www2.deloitte.comにて公開された情報を再掲載したものです。
-デロイト トーマツ グループから、5名がPartner All-Stars 2024を受賞し、3名がGoogle Cloud Partner Top Engineer 2025に...
 
 ### GCP Blog (20件)
 
