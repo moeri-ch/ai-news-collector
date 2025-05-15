@@ -1,0 +1,898 @@
+id,source,title,link,published,summary,collected_date
+d279d27063dfae52fe77057086b14e4d,Business_Insider,SEOはもう古い。最新のAIマーケティング「AEO」とは何か…急増中の新鋭スタートアップ30社リスト,https://www.businessinsider.jp/article/2505-seo-aeo-ai-chatbots-search-startups-chatgpt-openai-google/,"Thu, 15 May 2025 21:35:00 GMT",サム・アルトマンのChatGPTのようなAIチャットボットは、オンラインでの最適化の概念を一新し、「AEO」スタートアップやツールの急増を引き起こしている。これはSEOに似ているが、AIへの対策だ。,2025-05-15
+56709c310bb8d33ff4a9950cd3bdbf27,Business_Insider,セールスフォースの女性管理職に聞く、AI時代のキャリアのつくり方,https://www.businessinsider.jp/article/2505-building-a-career-in-the-age-of-ai-lessons-from-women-leaders-at-salesforce/,"Thu, 15 May 2025 08:00:00 GMT",,2025-05-15
+b598c75e45ff307d00b976864b0599b7,Business_Insider,テクノロジーの巨人IBM、急成長するAI企業に変貌中,https://www.businessinsider.jp/article/2505-ibm-stock-price-ai-arvind-krishna-wall-street-ives-wedbush/,"Thu, 15 May 2025 02:00:00 GMT",IBMはこれまで、他のAI大手企業と同列に語られることはありませんでしたが、同社は徐々にウォール街のトップ トレーダーのお気に入り企業の1つへと変貌を遂げてきました。,2025-05-15
+bd00f7e7c952d006c0a36061f5b7fdac,Business_Insider,AIは「従順なヘルパー」を生み出すが、それでは突破口は開けないと科学者が指摘,https://www.businessinsider.jp/article/2505-ai-not-revolutionaries-thomas-wolf-science-breakthrough-agent-hugging-face/,"Thu, 15 May 2025 01:30:00 GMT",AIはトレーニングデータに疑問を持ち、直感に反するアプローチを取る必要があるとHugging Faceのトップ科学者がXに書いています。,2025-05-15
+fa3e52671850364ec6b41703024b7a58,ITmedia_AI_Plus,Excelでエラーが出た→「Web検索で解決」は終わりに　「サイドバーのAI」に聞く方法,https://www.itmedia.co.jp/business/articles/2505/16/news061.html,"Fri, 16 May 2025 07:00:00 +0900",Microsoft ExcelやGoogle スプレッドシートには、サイドバーから生成AIを呼び出し、質問や対話のできる機能が用意されている。利用対象のプランに加入していれば、問題が起きたときもWeb検索で解決方法を探し回ることなくスムーズに対応できる。,2025-05-15
+34d19e3d486160bb9153a7c6bb064f80,ITmedia_AI_Plus,ソフトバンクG、AI研究で米カーネギーメロン大に約22億円を寄付　慶應大とのパートナーシップ支援,https://www.itmedia.co.jp/aiplus/articles/2505/15/news173.html,"Thu, 15 May 2025 21:48:00 +0900",ソフトバンクグループと英Armは、AI研究のため、米カーネギーメロン大学に1550万米ドル（22億4750万円、1米ドル145円換算、以下同）を寄付した。同大学と慶應義塾大学によるAI研究のパートナーシップを支援するねらい。,2025-05-15
+26b649b60fa607fa094d225284c256c2,ITmedia_AI_Plus,イオン、従業員にオールインワンの“AIデバイス”導入へ　マイクロソフトと共同で開発,https://www.itmedia.co.jp/aiplus/articles/2505/15/news163.html,"Thu, 15 May 2025 18:14:00 +0900",イオンリテールは5月15日、AIによる従業員のサポートシステムを利用できる「オールインワンデバイス」を導入すると発表した。生成AIを活用した機能「AIアシスタント」などが使えるという。,2025-05-15
+b121e2758c2150d2739f889407f83f36,ITmedia_AI_Plus,「AIエージェント」と「エージェント型AI」、何が違う？　調査会社・ガートナーの見解は,https://www.itmedia.co.jp/aiplus/articles/2505/15/news133.html,"Thu, 15 May 2025 13:19:00 +0900",調査会社のガートナージャパンは、近年AI領域で注目を集めている「AIエージェント」と「エージェント型AI」の違いについて見解を示した。「AIエージェントは、エージェント型AIの1つ」という。,2025-05-15
+a6ee14ea97d425cd37a5c360bb59064e,ITmedia_AI_Plus,プロンプトエンジニアリングは死んだのか？　“AIへの呪文不要論”がささやかれるワケ,https://www.itmedia.co.jp/aiplus/articles/2505/15/news087.html,"Thu, 15 May 2025 12:08:00 +0900",生成AIから望んだアウトプットを得るために、最適な指示を考え、インプットする技術「プロンプトエンジニアリング」。この技術はもはや不要であり、従ってプロンプトエンジニアという職業も無くなるだろうという意見が出ている。その理由はなぜか。,2025-05-15
+fda17a0f65c8c7dd729878acce7b8a0e,ITmedia_AI_Plus,マネフォ社員2500人にAI活用法を指南　同社の“効率お化け”は、生成AIをこう使う,https://www.itmedia.co.jp/aiplus/articles/2505/15/news050.html,"Thu, 15 May 2025 08:00:00 +0900",本連載では、エグゼクティブやインフルエンサー、企業内のAI活用推進者などの生成AI活用法に注目。今回はマネーフォワードでAIの研修会を開催し、社内で「効率化お化け」と呼ばれるという塚野美奈子さん（AI推進室 AIアクセラレーション部）によるAI活用術を紹介する。,2025-05-15
+5c088480906e2306e8c347fe489824c5,ITmedia_AI_Plus,DeNA南場会長×小池都知事が対談　トランプ情勢やAI踏まえ、どうなる日本のスタートアップ,https://www.itmedia.co.jp/news/articles/2505/13/news160.html,"Thu, 15 May 2025 08:00:00 +0900",二転三転するトランプ米大統領の関税措置や、日進月歩で成長するAI技術。日本のスタートアップにとってはチャンスもピンチもある状況といえるが、日本のスタートアップエコシステムはどのように対応すべきだろうか。スタートアップイベント「SusHi Tech Tokyo 2025」で、DeNA会長で経団連副会長の南場智子氏と小池百合子東京都知事が対談した。,2025-05-15
+185ae1f631b453a74506b081819f0281,ITmedia_AI_Plus,Google DeepMind、AIが自らアルゴリズムを発見・進化させる「AlphaEvolve」発表,https://www.itmedia.co.jp/aiplus/articles/2505/15/news108.html,"Thu, 15 May 2025 07:53:00 +0900",Google DeepMindは、AIが自らアルゴリズムを発見・進化させるAIエージェント「AlphaEvolve」を発表。Geminiでアイデアを生成・評価し、進化させていくもので、既に同社のデータセンターや数学分野で成果が出ているという。学術向け早期アクセスを計画中だ。,2025-05-15
+c6bd087ce0bc10093cc8acd0ecc8100f,ITmedia_AI_Plus,OpenAI、「GPT-4.1」と「GPT-4.1 mini」をChatGPTでも提供開始,https://www.itmedia.co.jp/aiplus/articles/2505/15/news105.html,"Thu, 15 May 2025 06:28:00 +0900",OpenAIは、4月にAPIでのみリリースしたAIモデル「GPT-4.1」と「GPT-4.1 mini」の、ChatGPTでの提供を開始した。無料ユーザーはGPT-4oの使用制限に達すると、GPT-4.1 miniを利用できるようになる。,2025-05-15
+4d0127f995b2032099512787fb2802bd,ITmedia_AI_Plus,ゲーム開発に使うAIは「商用可能な画像で学習」　韓国ゲーム企業が“異例”の声明　「議論の高まり」受け,https://www.itmedia.co.jp/aiplus/articles/2505/14/news181.html,"Wed, 14 May 2025 20:23:00 +0900",韓国ゲーム企業のKRAFTONは、同社が手掛けるライフシミュレーションゲーム「inZOI」における生成AIの活用に関し声明を出した。同ゲームの開発に活用するAI技術について「商用利用が許可された公開画像をもとに学習された」などと明かした。,2025-05-15
+eb95e75f7e913d9701970073787daff2,ITmedia_AI_Plus,楽天、“AI三木谷会長”が決算会見に登場　AI生成の映像と音声を利用、淡々と業績を語る,https://www.itmedia.co.jp/aiplus/articles/2505/14/news172.html,"Wed, 14 May 2025 17:22:00 +0900",楽天が5月14日に実施した2025年度第1四半期（1月1日～3月31日）決算の説明会に、同社の三木谷浩史会長をAIアバター化した「三木谷AI」が登場した。,2025-05-15
+9c4afcfffe1ee596f0ee33b9aa7f13a4,ITmedia_AI_Plus,「お金を振り込んで。君と未来を築きたい」――ソフトバンクの“詐欺体験AI”と話してみた結果……,https://www.itmedia.co.jp/aiplus/articles/2505/14/news080.html,"Wed, 14 May 2025 17:00:00 +0900",相手に恋愛感情や親近感を抱かせ、お金をだまし取るロマンス詐欺。ソフトバンクが開発したロマンス詐欺の被害を疑似体験できるツールを試してみた。,2025-05-15
+dcb8f888fda24cf5fc5a28cab2d1d19c,ITmedia_AI_Plus,生成AIでライフプランナーとの相談はどう変わる？　家族の展望を可視化,https://www.itmedia.co.jp/business/articles/2505/14/news077.html,"Wed, 14 May 2025 15:55:00 +0900",AIプロダクト事業などを展開するエクサウィザーズは、ソニーフィナンシャルグループ傘下で保険代理店を営むソニーライフ・コミュニケーションズと共同で、生成AI技術を活用したコンサルティングサービスを新たに開発した。,2025-05-15
+13920074a9569ad0eddeb18b51aee486,ITmedia_AI_Plus,一見普通のチャット会話に“秘密のメッセージ”を隠すAI技術　厳しい監視下でもSNSで秘密裏に会話,https://www.itmedia.co.jp/aiplus/articles/2505/14/news054.html,"Wed, 14 May 2025 12:00:00 +0900",ノルウェー科学技術大学などに所属する研究者らは、大規模言語モデル（LLM）を使って、普通のチャット会話の中に秘密のメッセージを隠す方法を提案した研究報告を発表した。,2025-05-15
+b2dd22759308a1b73353cd86c1d4b57d,ITmedia_AI_Plus,Notion、AI機能を統合「Notion AI for Work」,https://www.itmedia.co.jp/aiplus/articles/2505/14/news107.html,"Wed, 14 May 2025 10:25:00 +0900",「Notion」がAI関連機能を統合。「Notion AI for Work」を発表した。,2025-05-15
+bc1784b7a28ca86066a0aada426069e9,Hatena_IT,ChatGPTでの業務改善に失敗する前に読むnote｜うめもと,https://note.com/tikumin/n/n23c47148a05d,,はじめにChatGPTをはじめとする生成AIの登場により、多くの方が業務改善への活用に関心をお持ちのことと思います。 しかし、個人レベルでの活用は進んでも、チームや組織全体での業務改善となると、期待したほどの成果が得られていないケースも少なくないのではないでしょうか？ 本稿では、私自身が直近で携わった複数の...,2025-05-15
+c903d7f89f5de80dd3856025cc6d7864,Hatena_IT,DockerでmacOSを実行できる「Lumier」,https://gigazine.net/news/20250515-docker-macos-lumier/,,コンテナを用いてアプリケーションを構築・テスト・デプロイできるソフトウェアプラットフォームのDockerで、Mac向けOSであるmacOSを実行できるインターフェース「Lumier」が登場しました。 cua/libs/lumier at main · trycua/cua · GitHub https://github.com/trycua/cua/tree/main/libs/lumier 最小...,2025-05-15
+167371ae691de46bfc657de5ba97a0c7,Hatena_IT,URL共有に革命？「ChatGPT」× Chrome拡張「cocopy」は実用性・楽しさ無限大 - 窓の杜,https://forest.watch.impress.co.jp/docs/review/chie/2011162.html,,,2025-05-15
+9bfebd9bc3eb61fbc73b9dec4e659c32,Hatena_IT,AIと進めるテスト設計・リファクタリングの実践,https://zenn.dev/chiilog/articles/2fab90fe67e94e,,以前作成した冷蔵庫マネージャー、レビューとリファクタリングをしようしようと思いながら後回しになっていたのですが、つい先日参加したイベントでAIとのリファクタリングのコツを教えてもらったので、教えてもらったことをもとにやってみることにしました。 前提（例：あなたは〜です） 目的（例：これから〜を実装し...,2025-05-15
+84d887fce4299b5f39c64a97fe2ec00e,Hatena_IT,AIが進化して無限に忙しいし、知的労働ができなくなっていく｜Sotaro Karasawa,https://note.com/sotarok/n/n9673ed898982,,というのを感じています。 理想としては、↓これが、 シンプルな仕事と難しい仕事の割合がこんな感じだとして…↓こうなって欲しいのだけど(シンプルなタスクが早く片付くことにより難しい仕事に取り掛かる時間が増える)、 AIによってシンプルな仕事がさっさと片付くことによりより多くの難しい仕事ができる?↓なんか実際は...,2025-05-15
+9c6d033d9c83bc2e54e85d63b84a5395,Hatena_IT,【Plusまではオススメ】ChatGPTのモデルが増えすぎて混沌（カオス）なのでザックリ解説します【全モデル・機能解説】,https://www.youtube.com/watch?v=2KQRJLvvTPU,,■リンク ChatGPT https://chatgpt.com/ ChatbotArena https://lmarena.ai/ ■Twitter https://twitter.com/YukkuriAIch ■目次 0:00 比較表 0:38 ★モデル解説4o 1:24 4o-mini 1:47 o3 3:17 o4-mini 4:48 4.5 5:41 o1-Pro 6:20 ★機能解説...,2025-05-15
+d429c562397352fa94d12823e5f7639f,Hatena_IT,Obsidianは「データの墓場」ではなく「知識の錬成炉」｜Shin,https://note.com/iam_shin/n/nf64a4e782e9e,,Obsidian は “言葉” を “意味” へ翻訳する第二の大脳皮質である。AI が生成した膨大なテキストも、著者が残した一次情報も、リンクと構造化を経てはじめて Knowledge となり、行動可能な Wisdom へ昇華する。あなたの学びの質は、Obsidian 上で情報を再発見し続けられるかどうかで決まる。 はじめに：１枚の図が語る“変...,2025-05-15
+a38e0d142aef56ad2bf714952bd0a317,Hatena_IT,The Breakthrough Company GOを「三浦さんの会社」ではなくするためにした、いくつかの決断について。｜三浦崇宏,https://note.com/taka0916/n/n63d9abf616d9,,The Breakthrough Company GOを「三浦さんの会社」ではなくするためにした、いくつかの決断について。 はじめに–この文章は生成AIではなく本人が書いています。2025年、The Breakthrough Company GOは2017年の創業以来、初めての増資を行いました。株式会社サイバーエージェント・株式会社リンクアンドモチベーションよ...,2025-05-15
+ca0576b14459569c93191b82a37d36d1,Hatena_IT,github + zenn 連携で vscode markdown で画像を Ctrl-V したい,https://zenn.dev/mizchi/articles/vscode-zenn-image-paste,,やりたいこと Zenn で Git 連携時、リポジトリ内の images/xxx.png は ![](/image/xxx.png) でアクセスできる。 また、vscode markdown は markdown 編集時に Ctrl-V で画像を貼り付けることができる。GitHub や Zenn の Web 上のテキストエリアのような挙動。 これを組み合わせて、Windows の Win-Ctrl...,2025-05-15
+037c80bc3b6a105897ba2c690db0f7e5,Hatena_IT,Androidの位置追跡アプリ、「Find Hub」に名称変更。AirTagでおなじみUWBもサポートへ【やじうまWatch】,https://internet.watch.impress.co.jp/docs/yajiuma/2014269.html,,,2025-05-15
+4dba50a730e5f5193ecaf2258a84a95c,Hatena_IT,グーグル、非技術系学習者向けの生成AI認定資格を発表,https://japan.zdnet.com/article/35232986/,,Sabrina Ortiz （ZDNET.com） 翻訳校正： 緒方亮 吉武稔夫 （ガリレオ） 2025-05-15 10:06 Google Cloudは米国時間5月14日、「この種のものでは初」となる非技術系の学習者に向けた生成AI認定資格「Google Cloud Generative AI Leader」を発表した。管理職やビジネスリーダーなど、プログラミングだけにとどまらないAIの...,2025-05-15
+f0e7eacd865921485a6378edb68ec540,Hatena_IT,話題のAIガジェットがすごかった！コミュニケーションが苦手な私が使って分かったことを語りたい【PLAUD NotePin 本音レビュー】,https://my-best.com/magazine/3626,,話題のAIガジェットがすごかった！コミュニケーションが苦手な私が使って分かったことを語りたい【PLAUD NotePin 本音レビュー】 突然ですがみなさん、「AIボイスレコーダー」って知ってますか？ AI機能を搭載したボイスレコーダーなのですが、これが意外といい……！雑多な会話の要約、勝手にタスクリスト化、動画＆ラジ...,2025-05-15
+b6d4aceb718f03e98127ba2d9b23ecd2,Hatena_AI,AIを利用しコマンドラインで行うファイル操作を自然言語で実行できるMacアプリ「Substage」がリリース。,https://applech2.com/archives/20250515-substage-ai-control-your-mac.html,,AIを利用し通常コマンドラインで行う操作を自然言語で実行できるMacアプリ「Substage」がリリースされています。詳細は以下から。 ファイルの作成や変換、圧縮/解凍、データの取得など、日常的にMacを操作する中で操作方法や実行すべきコマンドなどを忘れることがありますが、その様な際にAIを利用しMacを自然言語で操作...,2025-05-15
+f0e7eacd865921485a6378edb68ec540,Hatena_AI,話題のAIガジェットがすごかった！コミュニケーションが苦手な私が使って分かったことを語りたい【PLAUD NotePin 本音レビュー】,https://my-best.com/magazine/3626,,話題のAIガジェットがすごかった！コミュニケーションが苦手な私が使って分かったことを語りたい【PLAUD NotePin 本音レビュー】 突然ですがみなさん、「AIボイスレコーダー」って知ってますか？ AI機能を搭載したボイスレコーダーなのですが、これが意外といい……！雑多な会話の要約、勝手にタスクリスト化、動画＆ラジ...,2025-05-15
+a6ee14ea97d425cd37a5c360bb59064e,Hatena_AI,プロンプトエンジニアリングは死んだのか？　“AIへの呪文不要論”がささやかれるワケ,https://www.itmedia.co.jp/aiplus/articles/2505/15/news087.html,,プロンプトエンジニアリングは死んだのか？　“AIへの呪文不要論”がささやかれるワケ（1/4 ページ） 生成AIから望んだアウトプットを得るために、最適な指示を考え、インプットする技術「プロンプトエンジニアリング」。2022年末のChatGPT登場以降、生成AIの普及にあわせて大きな注目を集めるようになり、そのスキルを保...,2025-05-15
+bc1784b7a28ca86066a0aada426069e9,Hatena_AI,ChatGPTでの業務改善に失敗する前に読むnote｜うめもと,https://note.com/tikumin/n/n23c47148a05d,,はじめにChatGPTをはじめとする生成AIの登場により、多くの方が業務改善への活用に関心をお持ちのことと思います。 しかし、個人レベルでの活用は進んでも、チームや組織全体での業務改善となると、期待したほどの成果が得られていないケースも少なくないのではないでしょうか？ 本稿では、私自身が直近で携わった複数の...,2025-05-15
+9ab7b3116dac139ef81a14d549c72910,Hatena_AI,Googleが開発した進化的AI「AlphaEvolve」は未知のアルゴリズムや未解決数学問題の新解法を発見可能、すでにGoogle内部ではAI開発やチップ設計の効率化に活用されている,https://gigazine.net/news/20250515-google-ai-algorithm-alphaevolve/,,GoogleのAI研究チームであるGoogle DeepMindがコーディングエージェント「AlphaEvolve」を2025年5月14日(水)に発表しました。AlphaEvolveはGeminiと進化的アルゴリズムを組み合わせたAIエージェントで、未知のアルゴリズムを発見したり未解決数学問題の新解法を発見したりできるほどの能力を備えています。 AlphaEvolve:...,2025-05-15
+1aba777cd3efb5d3522993d5023ece45,Hatena_AI,Gemini「表計算は任せろー」。Googleスプレッドシートを自然言語で操作可能に,https://pc.watch.impress.co.jp/docs/news/2014293.html,,,2025-05-15
+ca5c5c555c1278da09fc7ebe520c78ce,Hatena_AI,xAIのGrokが突然「南アフリカの白人虐殺」について語り出す不具合が報告される,https://gigazine.net/news/20250515-xai-grok-white-genocide-bug/,,xAIが提供するAIチャットボットのGrokは、X(旧Twitter)でメンションをつけながらリクエストをすると、さまざまなトピックについて解説したりファクトチェックを行ったりします。しかし、ユーザーからのリクエスト内容を無視して、Grokが関係ないトピックで突然「南アフリカにおける白人虐殺」について語り出す事例が報告...,2025-05-15
+185ae1f631b453a74506b081819f0281,Hatena_AI,Google DeepMind、AIが自らアルゴリズムを発見・進化させる「AlphaEvolve」発表,https://www.itmedia.co.jp/aiplus/articles/2505/15/news108.html,,米Google傘下のGoogle DeepMindは5月14日（現地時間）、AIが自らコンピュータの計算手順やアルゴリズムを発見し、さらに進化させる新しいAIエージェント「AlphaEvolve」を発表した。 AlphaEvolveの目的は、コンピュータサイエンスの基礎となるアルゴリズムや複雑な数学的課題に対する解法を、人間がゼロから開発するので...,2025-05-15
+dbaf230517a169e46ffa7ac4cd664505,Hatena_AI,ＡＩでソフト開発者に解雇の波、マイクロソフトの米大規模人員削減,https://www.bloomberg.co.jp/news/articles/2025-05-14/SW9MHIT1UM0W00,,米マイクロソフトが先日発表した大規模な人員削減では、製品開発を担うソフトウエアエンジニアが主な削減対象となった。ソフトウエア開発者も解雇リスクにさらされる人工知能（ＡＩ）時代の現実が浮き彫りとなった。 ブルームバーグが確認した米ワシントン州の文書によると、今回、削減対象とされた州内の従業員約2000人...,2025-05-15
+167371ae691de46bfc657de5ba97a0c7,Hatena_AI,URL共有に革命？「ChatGPT」× Chrome拡張「cocopy」は実用性・楽しさ無限大 - 窓の杜,https://forest.watch.impress.co.jp/docs/review/chie/2011162.html,,,2025-05-15
+73f536d3828bbc10ced48db034ff2f62,Hatena_AI,Bluesky MCP serverを自作し、SNS上に架空の友達を作る - すぎゃーんメモ,https://memo.sugyan.com/entry/2025/05/15/090000,,内容・目的 注意書き 使用したもの OpenAI Agents SDK (AI Agent) RMCP (MCP server) 人格の作成 1人目 2人目 動作とプロンプト アカウント作成 投稿 返信 その他 作成されたもの MCP serverを自作することについて Rustでビルドし配布できる LLMは使いこなしてくれない 今後の課題とアイデア まとめ Repository 内容・...,2025-05-15
+818542dea2d893f716ea9967e7e24ff5,Hatena_AI,ChatGPTで「GPT-4.1」が利用可能に--日常コーディングでo3の代替にも（訂正）,https://japan.cnet.com/article/35232979/,,ChatGPTでOpenAIの新モデル「GPT-4.1」が利用可能になった。Plus、Pro、Teamユーザーはすでに利用でき、EnterpriseとEducationユーザーへも今後数週間以内に拡大する。 GPT-4.1はOpenAIの最新モデルだ。コーディングタスクや指示の理解に優れており、高速なため、日常のコーディング用途にはOpenAI o3やo4-miniの代替と...,2025-05-15
+5d7ed15e80d4d4a84116f223a51f70f4,Hatena_AI,LangChain Interrupt Day 1 参加レポート！メール対応エージェントを中心としたハンズオンが中心の一日に - Generative Agents Tech Blog,https://blog.generative-agents.co.jp/entry/2025-langchain-interrupt-day1,,日本時間2025年5月14日から15日にかけて、サンフランシスコにてAIエージェント開発に特化したテックイベント「LangChain Interrupt」が開催中されています。 ジェネラティブエージェンツはLangChainアンバサダーとして本イベントに現地参加しています。 interrupt.langchain.com 本記事では、現地参加して得られたDay 1...,2025-05-15
+7991dbb7806638127f8e86e21148400a,Hatena_AI,"LangGraph Platform is now Generally Available: Deploy & manage long-running, stateful Agents",https://blog.langchain.dev/langgraph-platform-ga/,,"Today we’re excited to announce the general availability of LangGraph Platform — our purpose-built infrastructure and management layer for deploying and scaling long-running, stateful agents. Since ou...",2025-05-15
+2866105356f1d0ab5a7976001236fc8b,Hatena_AI,マスク氏の「Grok」、南ア「白人虐殺」陰謀論に執着－勝手に会話誘導,https://www.bloomberg.co.jp/news/articles/2025-05-14/SW9T9TT1UM0W00,,イーロン・マスク氏の人工知能（ＡＩ）会社、ｘＡＩが開発したチャットボット「Grok」で、14日に短時間、問いかけの内容に関係なく、南アフリカで「白人虐殺」が起きているという陰謀論に執着する現象が起きた。 法人向けソフトウエアや野球選手の年俸、自撮り写真に関する一連のソーシャルメディア投稿に対し、Grokは南...,2025-05-15
+57caf6ce764b5c240d077497fdeb0124,Hatena_AI,「AI企業がトレーニングに使った著作物の公開を義務づける修正案」をイギリス貴族院が可決、無断使用OKとの政府方針を拒否,https://gigazine.net/news/20250515-uk-parliament-kicks-back-ai-data-bill/,,AI開発企業が著作権で保護されたコンテンツをAIモデルのトレーニングに使っていることが問題視される中、イギリス政府は「権利保有者がオプトアウト(拒否の姿勢を明示)しない限り、企業が無許可でコンテンツをAIモデルのトレーニングに利用することを認める」ことを提案しています。この提案に対しては企業やアーティス...,2025-05-15
+d9ef36b44577ed7c38ac9ee80e589a50,Hatena_AI,トランプ派の味方になるはずだったGrok AI、ファクトを並べて支持者を動揺させてしまう,https://www.gizmodo.jp/2025/05/grok-ai-factfull.html,,"トランプ派の味方になるはずだったGrok AI、ファクトを並べて支持者を動揺させてしまう2025.05.15 07:008,796 AJ Dellinger - Gizmodo US ［原文］ （ Kenji P. Miyajima ） そう、Grok（グロック）って意外と中道というか、なんならリベラル寄りだったりするのよね。 イーロン・マスク氏のxAI（エックスエーアイ）が開...",2025-05-15
+9c6d033d9c83bc2e54e85d63b84a5395,Hatena_AI,【Plusまではオススメ】ChatGPTのモデルが増えすぎて混沌（カオス）なのでザックリ解説します【全モデル・機能解説】,https://www.youtube.com/watch?v=2KQRJLvvTPU,,■リンク ChatGPT https://chatgpt.com/ ChatbotArena https://lmarena.ai/ ■Twitter https://twitter.com/YukkuriAIch ■目次 0:00 比較表 0:38 ★モデル解説4o 1:24 4o-mini 1:47 o3 3:17 o4-mini 4:48 4.5 5:41 o1-Pro 6:20 ★機能解説...,2025-05-15
+fcfffe5c46114519e1080598c628641d,Hatena_AI,あるイラストレータ、「あなたの絵のタッチをAIに読ませてバリエーション作ろうと思ったけど上手くできないから描いてほしい」という依頼が増えて来て頭を抱える,https://togetter.com/li/2551049,,マツ @matsuillust5 去年くらいから、私のタッチをAIで読ませてバリエーション作ろうと思ったけど上手く出ないから描いて欲しい系の相談がちらほら。タッチに著作権はないってことで流れ的にに止まらなそうだけど、ちょっとこの先悩ましいなぁ‥。 2025-05-13 20:26:15,2025-05-15
+06d942858f2f3e70e788fa875e8668d4,Hatena_AI,SaaS公式MCPサーバーをリリースして得た学び,https://speakerdeck.com/kawamataryo/saasgong-shi-mcpsabaworirisusitede-taxue-bi,,AI Developer Meetup in Tokyo 2025/05/14,2025-05-15
+d429c562397352fa94d12823e5f7639f,Hatena_AI,Obsidianは「データの墓場」ではなく「知識の錬成炉」｜Shin,https://note.com/iam_shin/n/nf64a4e782e9e,,Obsidian は “言葉” を “意味” へ翻訳する第二の大脳皮質である。AI が生成した膨大なテキストも、著者が残した一次情報も、リンクと構造化を経てはじめて Knowledge となり、行動可能な Wisdom へ昇華する。あなたの学びの質は、Obsidian 上で情報を再発見し続けられるかどうかで決まる。 はじめに：１枚の図が語る“変...,2025-05-15
+6417a30ad0cd0db5700a5f8cb0ba0d3e,Hatena_AI,Obsidian vs Notion 徹底比較──AI時代の最適解は Obsidian？その優位性を探る｜tk | Obsidianを極める大学生,https://note.com/happy_alife/n/n81d2025df0e1,,Obsidian vs Notion 徹底比較──AI時代の最適解は Obsidian？その優位性を探る 1. はじめに生成AIが仕事や学習のワークフローを大きく塗り替えつつあるいま、私たちがツールを選ぶ基準も「人が使いやすいか」だけではなく、「AIがどれだけスムーズに読み書きできるか」へと広がっています。本記事では トップダウン型でプ...,2025-05-15
+1bb3c5cbfec5cac1496084ebddf80499,Hatena_AI,MCPにおけるセキュリティ考慮事項と実装における観点（前編） - GMO Flatt Security Blog,https://blog.flatt.tech/entry/mcp_security_first,,"MCP logo ©︎ 2024–2025 Anthropic, PBC and contributors | MIT license はじめに 本記事は、セキュリティエンジニアのAzaraこと齋藤とコーポレートセキュリティエンジニアのhamayanhamayanが、社内で行ったディスカッションを元に記述した記事です。 本記事は、MCP の利活用の際に考えるべき、セキュリティに関する考慮...",2025-05-15
+4de14741721216ec7d260e98bb5150ce,Hatena_AI,Gartner、「AIエージェント」と「エージェント型AI」の違いに混乱が生じていると見解を発表,https://enterprisezine.jp/news/detail/21969,,ガートナージャパン（以下、Gartner）は、市場で混乱が生じているAIエージェントとエージェント型AIに関する見解を発表した。 2024年には「AIエージェント」、2025年には「エージェント型AI（またはエージェンティックAI）」という言葉が注目されるようになり、両者の違いについて混乱が見られるという。Gartnerでは、AI...,2025-05-15
+cefab14483d79da92f959a012d5c4a65,Hatena_AI,メモリ最大96GB！ThinkPadのRyzen AI PRO 300シリーズ登場,https://pc.watch.impress.co.jp/docs/news/2013746.html,,,2025-05-15
+58171f78180392149bde2ba7f7de575b,Hatena_AI,ChatGPTで「図解が文字化け」…そんなときは日本語フォントを渡せば解決します！ | ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2505_how_to_fix_japanese_character_encoding_in_chatgpt/,,1：日本語フォントをダウンロードするまず、Google Fontsなどから日本語フォントをダウンロードします。 Japaneseで検索すれば、候補が現れます。一般的なNoto Sans Japaneseを利用しましたが、M PLUS Rounded 1cなども使いやすいです。 2：ZIPファイルを解凍するGoogle FontsからダウンロードしたZIPファイルを解凍する...,2025-05-15
+0f9b5432f9ccf4994b71e9cfd74e9286,Hatena_AI,『コラム「今の生成AI市場って焼き畑農業っぽくない？（2025年5月時点の所感）」｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典』へのコメント,https://b.hatena.ne.jp/entry/s/wa3.i-3-i.info/column110.html,,テクノロジー コラム「今の生成AI市場って焼き畑農業っぽくない？（2025年5月時点の所感）」｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典,2025-05-15
+139664da3482542bc350dd130e698e25,Hatena_AI,Cline × Amazon Bedrock でCRUDアプリのフルスタック開発をやってみた - Taste of Tech Topics,https://acro-engineer.hatenablog.com/entry/2025/05/14/120000,,はじめに こんにちは一史です。 先日神代植物公園に行きました、まだ藤の花が残っておりとても綺麗で癒されました。 昨今、開発支援のAIエージェントとしてClineが話題になっています。 github.com ClineはVisual Studio Code(VSCode)の拡張機能であり、単なるコード生成だけでなく、コマンド実行や動作確認・デバッグま...,2025-05-15
+0b91e3d37f51d6125ef8ffd919b7a101,Hatena_AI,OpenAI“営利化断念”も「投資価値は十分にある」――ソフトバンクG後藤CFO,https://www.itmedia.co.jp/news/articles/2505/14/news141.html,,ソフトバンクグループ（SBG）の後藤芳光CFOは5月13日の決算説明会で、営利組織への転換を取りやめると発表した米OpenAIについて「悪い方向に行っているとは考えていない」とコメントした。投資への影響が懸念されていたが「われわれが投資しているのは営利事業体であり、そこが成長していけば、投資価値は十分にある」（...,2025-05-15
+53c29b084ff09d904fc9303e3e4ad28d,Hatena_AI,TikTokが写真を動画に変換する「TikTok AI Alive」機能を発表,https://gigazine.net/news/20250514-tiktok-ai-alive/,,TikTokは2025年5月13日にTikTok初のクリエイティブ機能「TikTok AI Alive」を発表しました。AI Aliveは、アップロードした写真をAIで簡単にアニメーション化できる機能で、TikTokストーリーカメラでのみ利用可能です。 Introducing AI Alive: Bringing Your Photos to Life on TikTok Stories - Ne...,2025-05-15
+7f762502a224483b6f7a4fe0535b94fd,Hatena_AI,生成AI時代に最適なデータ分析レポートツールを「可塑性」で選びたいです｜じゃっこ,https://note.com/jackojacko_/n/n0f0b3958f751,,TL;DR (今北産業)メガベンチャーのデータアナリストの独断と偏見によると、生成AI時代のデータ分析レポートに必要なのは下記だけど、最適解のツールが見当たらないよ 生成AIの可読性(プレーンテキストである) セマンティックレイヤー連携されたデータである 探索&可視化の「可塑性」が高い はじめに: 生成AIで失職しそう...,2025-05-15
+13920074a9569ad0eddeb18b51aee486,Hatena_AI,一見普通のチャット会話に“秘密のメッセージ”を隠すAI技術　厳しい監視下でもSNSで秘密裏に会話,https://www.itmedia.co.jp/aiplus/articles/2505/14/news054.html,,研究チームが開発した「EmbedderLLM」フレームワークは、公開チャットチャネルにおいて人間のように見えるテキストを通じて暗号化通信を実現する技術。これによって政府による監視が厳しい環境下でも安全な通信手段を提供できる。 このフレームワークの核心は、LLMが生成したテキスト内の特定位置に暗号化されたメッセー...,2025-05-15
+5db3c5bcb85a34815bc113d084d3cc6b,Hatena_AI,地に足の付いた現実的な技術選定から魔力のある体験を得る『AIレシート読み取り機能』のケーススタディ / From Grounded Tech Choices to Magical UX: A Case Study of AI Receipt Scanning,https://speakerdeck.com/moznion/from-grounded-tech-choices-to-magical-ux-a-case-study-of-ai-receipt-scanning,,【技術選定を突き詰める】Online Conferenc​​e 2025 の発表資料です。,2025-05-15
+f433a6157d7ef2ba3a5bf0660782565f,Hatena_AI,SEO担当者の7割が「AIで順位UPを実感」──最も使われる工程はどこ？【LeoSophia調べ】 | Web担当者Forum,https://webtan.impress.co.jp/n/2025/05/14/49158,,広告やマーケ業界ではもはや常識？ 記事作成からキーワード選定までAIに頼る時代。 LeoSophiaは、全国の20代～50代の男女300名を対象に「AI×SEO活用の実態調査」を実施した。 関連記事 「SEOが理不尽なクソゲーになった」時代の生き方とは？ 衝撃の移籍を発表した辻さんと渡辺さんが語った ChatGPT vs Gemini――SEOライタ...,2025-05-15
+5e9c6869692f76d1714b4a9c52e65688,Hatena_AI,三井住友FGとソフトバンクが提携、OliveとPayPay接続 - 日本経済新聞,https://www.nikkei.com/article/DGXZQOUB029H60S5A500C2000000/,,三井住友フィナンシャルグループ（FG）とソフトバンクがデジタル金融サービスで提携する。三井住友FGの金融アプリ「Olive（オリーブ）」とソフトバンク系のPayPayのスマホ決済を接続する。ソフトバンクの生成AI（人工知能）を活用するほか、カード分野で新たなデータビジネスも立ち上げる。三井住友FG、子会社の三井住友...,2025-05-15
+2a62ff825db39118f49af165e26532d5,Hatena_AI,『Zenncafe #2 日比谷 - 生成AIで変わる仕事・知見の伝え方』 を開催しました。 #zenncafe | DevelopersIO,https://dev.classmethod.jp/articles/report-zenncafe-vol2-by-community-organizer/,,『Zenncafe #2 日比谷 - 生成AIで変わる仕事・知見の伝え方』 を開催しました。 #zenncafe 先日2025年05月12日(月)、エンジニアのための新しい情報共有コミュニティ、ブログメディアである「Zenn」における2回目のコミュニティイベント『Zenncafe #2 日比谷 - 生成AIで変わる仕事・知見の伝え方』を開催致しました。 イ...,2025-05-15
+6f88be7b9e72fad757f5e24c45b47f80,Hatena_AI,Kaggle の Notebook 環境を VS Code (Cursor) で触りたい,https://zenn.dev/prgckwb/articles/kaggle-vscode-link,,"はじめに 普段、Kaggle に取り組む際には様々な方法で train, test パイプラインを組んでいると思いますが、Kaggle Notebook 上で直接編集する方や Kaggle の Docker によって Kaggle Kernel と同様の環境をローカルで作り上げている方もいるのではないか、と思います。 先日、Kaggle から以下のようなメールが届きまし...",2025-05-15
+fa4c29591c0fc3ec3ce247d7592c6d32,Zenn_ML,変動率０は異常値？：TARGET=0除去による株価予測AIの精度改善,https://zenn.dev/kto2myk/articles/a7c53d3b805770,"Thu, 15 May 2025 16:04:32 GMT","実験1：TARGET=0の取扱いによる影響検証（V1 vs V2）
+
+ 1. 検証目的
+本節では、株価予測回帰モデル（XGBoost）における目的変数（以下、Target）として設定した「翌営業日のlog収益率」に対し、値が0となるデータを保持する場合（V1）と、それを除外する場合（V2）で、モデル性能や学習安定性にどのような差異が生じるかを検証する。特に、log収益率が0となるデータの存在が学習...",2025-05-15
+4c891e4e3b789591d2db25b870ac9667,Zenn_ML,【論文解説】リファクタリング精度を爆上げするマルチエージェントシステム,https://zenn.dev/giba/articles/kaisetu_mantra_refactoring,"Thu, 15 May 2025 16:01:41 GMT","Title: MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration
+Link: http://arxiv.org/abs/2503.14340
+Code: https://anonymous.4open.science/r/MUARF-B4...",2025-05-15
+f0c8ec260ddfc51ebebbe2bdf88bf1c5,Zenn_ML,XGBoostを用いた株価予測AIの特徴量分析：研究の土台と背景,https://zenn.dev/kto2myk/articles/d0908cbd92b88f,"Wed, 14 May 2025 15:23:06 GMT","株価予測は、投資家だけでなくデータサイエンティストにとっても、長年取り組まれてきた挑戦的なテーマです。本シリーズでは、機械学習モデル「XGBoost」を用いて、株価予測における特徴量設計とAIモデルの解釈可能性について深掘りしていきます。
+
+
+ 研究の背景と狙い
+昨今、XGBoostやLightGBMなどの勾配ブースティング系モデルが、金融時系列データにも広く応用されるようになってきました。しかし...",2025-05-15
+c40ed3855b87392bfb193cc9932a2931,Zenn_ML,合成データを使った二値分類モデル評価ガイド,https://zenn.dev/kotai/articles/f9e319904ac371,"Wed, 14 May 2025 07:35:01 GMT","機械学習のモデル性能を正しく評価するには、代表的な指標（ROC曲線、AUC、F1スコア、混同行列、Precision-Recall曲線など）を理解し、それらを可視化できることが重要です。本記事では、合成データを用いて二値分類評価の流れをハンズオン形式で解説します。
+
+ 1. 合成データの生成
+まずはPythonで極めてシンプルにラベルとスコアを合成します。この例では、100サンプルを不均衡（正例9...",2025-05-15
+a6d11d0a98651273cb16bd3a4747548d,Zenn_ML,「y_hat」の意味と使い方：機械学習・統計モデリングにおける命名の基礎,https://zenn.dev/kotai/articles/bc0ef81b8ad060,"Wed, 14 May 2025 03:37:02 GMT","Pythonなどのコードを読んでいると、y_hat や theta_hat といった変数名を目にすることがあります。この「_hat」という接尾辞には、単なる命名の癖以上の意味が込められています。
+本記事では、統計・機械学習における「_hat」の由来とその使い方について、数学的背景から解説します。
+
+
+ 1. 数学における「hat（ハット）」の意味
+もともと「hat（帽子）」という言葉は、数学や統計...",2025-05-15
+d4ce4d3099aa9617eb33818434bc09cd,Zenn_ML,プライステック全体像：機械学習 × 数理最適化で 100万 SKUをボタン1つで値付けする方法,https://zenn.dev/mr_dev/articles/6c9ab7d492b175,"Mon, 12 May 2025 22:55:01 GMT","1. はじめに
+大量SKUの値付けを「人力」で回している現場には、想像以上の負荷がかかっています。競合の動きを見ながら、在庫状況を確認し、季節要因を加味して...。これを人的オペレーションで、複数人・大量SKU・常に一定水準で対応し続けるのはなかなか構築できる体制ではありません。
+緻密かつスピーディな価格対応には専用AI・MAツールの開発が有効です。しかし、実際に需要予測AIからどのように価格の意...",2025-05-15
+5b5688194ce37beae32f7aecffdde1d6,Zenn_ML,Kaggleメダル獲得への挑戦 Vol.2,https://zenn.dev/motokishibayama/articles/e72899832f94ee,"Sun, 11 May 2025 09:00:01 GMT","はじめに
+この記事は30歳未経験からエンジニアに転身したド文系の僕が、機械学習エンジニアになるためにKaggleに挑戦しながらスキルを身につけていく過程をリアルタイムで発信していく連載記事となります。
+毎週末、その週に僕自身が学んだ内容を発信していきます。
+学びながら発信していきますので、場合によっては間違った情報や、誤って理解してしまっているものもあるかもしれません。
+その際はぜひ温かくご指摘を...",2025-05-15
+182c2409128ac39ebda63b1797a304d0,Zenn_ML,【テキスト分類】手を動かしてNaive Bayesを理解する,https://zenn.dev/mugi_cha/articles/21e63b9acc4b11,"Sun, 11 May 2025 08:13:36 GMT","こんにちは！『麦ちゃーはん』です。
+今回は、Naive Bayesに興味をもったため、テキスト分類を実装しつつ勉強してみました。
+!
+この記事でわかること
+
+Naive Bayesの仕組み
+BernoulliNBとMultinomialNBの違い
+
+
+
+ Naive Bayes
+https://scikit-learn.org/stable/modules/naive_bayes.html
+Nai...",2025-05-15
+9b69fbb3a7f8ab6031172d30238fea79,Zenn_ML,具身知能の進化を支える学習データとは？その作成方法・注意点・入手先について詳しく解説,https://zenn.dev/nexdataai/articles/d95d33a5cc8826,"Fri, 09 May 2025 08:17:46 GMT","はじめに
+近年、人工知能（AI）技術の急速な進化により、特に「具身知能」（Embodied Intelligence）が注目を集めています。具身知能（Embodied Intelligence）とは、物理的な身体を持つエージェント（例: ロボット）が環境と相互作用しながら学習し、知能を発展させる技術です。単なる情報処理ではなく、センサーやアクチュエータを通じて得られるリアルタイムのデータを活用し、...",2025-05-15
+29bfb649ea69ae4c9a8dee18ccfa469c,Zenn_ML,タンパク質のTransformerモデルを作ってパッケージにしてみる,https://zenn.dev/catalyst/articles/b3e747a3353bd5,"Wed, 07 May 2025 07:17:07 GMT","🐊はじめに🐊
+GWの空き時間に勢いで書いたものなので、温かい目で見てください。
+タンパク質の機械学習モデル、特にアミノ酸配列をTransformerベースで埋め込む手法は最近とてもよく見られると思います。一方で、タンパク質を対象にしたTransformerの実装を実例で学べる機会はあんまりないかなっと思います[1]。
+いろいろ探しているうちに、丁度いいサイトを見つけました
+https://open...",2025-05-15
+717cc8b329c1513639def71499060619,Zenn_ML,データサイエンティストのための確率的挙動を含むソフトウェアテスト,https://zenn.dev/green_tea/articles/58d8ad7bf7d03f,"Wed, 07 May 2025 01:00:05 GMT","はじめに
+最近 Zenn に記事を書くことをライフワークにしたいと思っている redtea です。本業として所属する組織が変わりましたので、当面の間は個人で Zenn 記事を書いていく予定です。
+機械学習や数理最適化の実務を担当していると、そのソフトウェアに含まれる確率的挙動によりデバッグやテストに苦労することがあるかもしれません。多くの場合でシード値[1]を固定することでデバッグやテストができま...",2025-05-15
+c8aaa714829a55c4f2682de2ebd768f7,Zenn_ML,日本人工知能オリンピック(JOAI)に参加しました！(第一回JOAI参加記),https://zenn.dev/setoeditor/articles/819d2173a8ec17,"Tue, 06 May 2025 07:54:27 GMT","はじめに
+こんにちは！setoです！
+この度、日本人工知能オリンピック（JOAI）に参加しました！
+初心者ながら、いろいろと頑張ったので、「せっかくだし記事にしてみよう！」と思い立ち、
+初めてのブログ執筆に挑戦しています。
+JOAIに挑戦したときのリアルな体験や感じたこと、工夫した点などをまとめています。来年以降にJOAIを受ける方や、KaggleやAIに興味を持っている方にとって、少しでも参考に...",2025-05-15
+34d213610dd546e7b1384b0be518301a,Zenn_ML,技術調査 - Gradio,https://zenn.dev/suwash/articles/gradio_20250506,"Mon, 05 May 2025 15:00:00 GMT","■概要
+Gradioは、機械学習モデルのインタラクティブなWebインターフェースを迅速に作成するためのPythonライブラリです。
+数行のコードで、モデルの入力（テキスト、画像、音声など）と出力（テキスト、画像、グラフなど）に対応するUIコンポーネントを定義し、Webアプリケーションとして起動できます。
+デバッグ、デモンストレーション、ユーザーからのフィードバック収集などに活用されます。
+
+ ■構...",2025-05-15
+b74795d09d9672ac00a40647ef8c505a,Zenn_ML,機械学習の分類,https://zenn.dev/cartellya/articles/cartellya_20250430222104_e-memo-00003,"Mon, 05 May 2025 06:16:18 GMT","はじめに
+!
+記事内容は筆者の勉強まとめ内容です。内容の正確さや漏れについては保証できません。
+ご覧いただく際は、ご自身で判断のうえ参考にしてください。
+
+
+ 概要
+
+シラバス：E資格2024#2
+機械学習の分類を知ります
+
+
+ キーワード
+教師あり学習, 半教師あり学習, 教師なし学習, 強化学習,
+次元削減
+
+ 学習内容
+
+ 教師あり学習(supervised learning)
+
+正解となる...",2025-05-15
+ff1e9b27623f9db9ac2d08672a5916f1,Zenn_AI,誰でも作れる！Roo Codeを利用したAIエージェントやワークフロー実装のチュートリアル,https://zenn.dev/globis/articles/0ac943db9784d5,"Thu, 15 May 2025 15:28:19 GMT","前回の記事では、レビュアーとして利用していたDevinをRoo Codeで置き換えた結果や設計、今後の展望などをご紹介しました。
+今回の記事では、その具体的なプロンプトやエージェント、ワークフローの実装方法をチュートリアル形式で解説していきます。
+Roo Codeのようなツールをフレームワーク的に活用することで、コードを一行も書かずに、自然言語で実装することができます。今後これらの実装はさらに簡単...",2025-05-15
+81d4671a4d85b173feafa6433f675d59,Zenn_AI,How Much does o3 Model Cost? What Developer Need to Know,https://zenn.dev/saan/articles/a3844806450e60,"Thu, 15 May 2025 14:17:44 GMT","In recent months, OpenAI’s o3 “reasoning” model has attracted considerable attention—not only for its advanced problem-solving capabilities but also for the unexpectedly steep costs associated with ru...",2025-05-15
+8d70059909bcac190a78ee54a01c535e,Zenn_AI,エンジニアリングマネジメントのさしすせそんなにやることあるの？？？,https://zenn.dev/su8/articles/104b6efd7c3462,"Thu, 15 May 2025 12:50:35 GMT","はじめに
+エンジニアリングマネジメント（EM）について全体像を整理しておこう、と思う機会があったのでまとめる。
+これは関係のない話になるが、「生成AIで書いた？」と聞かれる機会が増えた。もともとの文体が「生成AIっぽい」こともあり、情勢とあいまって疑念を加速させていることを肌身に感じる。「共生」的に利用はしているため、線引きをするのは難しいが、アウトライン含めておおよそ自分の言葉で書いている。「こ...",2025-05-15
+0db096ffbf3a62e5b8c4550999002d60,Zenn_AI,ComfyUIのStableDiffusionのサンプラーの比較,https://zenn.dev/ebimonaca/articles/b37652a3c1f272,"Thu, 15 May 2025 08:41:58 GMT","サンプラーの特徴がとてもわかりやすいように工夫してあります。
+サンプラーの違いの画像は、結果が全部同じでとても分かりずらいものが多いと思うので作りました。
+仕組み上、目に悪いサイケデリックな絵が出てきます。注意してください。
+サンプラーの詳細はcomfyuiのソースコードを読めば論文のリンクが書いてあります。
+用語:
+img2imgの元画像。
+
+プロンプト
+1girl, solo, school_...",2025-05-15
+dffa9e16be26235534e3131965c03ce2,Zenn_AI,[メモ]Model Context Protocol（MCP）とは？,https://zenn.dev/smbysdisk/articles/bf5416f2c4f7b6,"Thu, 15 May 2025 08:10:21 GMT","はじめに
+
+皆さん。こんにちは。だいすーです。
+今回は、最近耳にしたMCPについてまとめていきたいと思います。
+
+
+ なぜこの記事を書こうと思ったか
+
+今回のきっかけとしては、Xにて技術系の方のアカウントをたくさんフォローさせていただいているのですが、投稿されるものの中で「MCP」というワードを見かけることが多く、気になったためです。
+
+
+ 1.ＭＣＰとは？
+
+MCPとは「Model Contex...",2025-05-15
+682be9a7f49af333100acb5536ce8737,Zenn_AI,JetBrains IDEでJetBrains AIのすべての機能が無料で利用できるようになった（まとめ）,https://zenn.dev/nattosystem_jp/articles/1e316199bd5114,"Thu, 15 May 2025 06:31:22 GMT","はじめに
+JetBrainsの公式代理店、NATTOSYSTEMのクリハラです。
+JetBrains IDEでJetBrains AIのすべての機能が無料で利用できるようになったとのことで、以下のJetBrains公式ブログをまとめました。
+引用元：https://blog.jetbrains.com/ja/blog/2025/04/16/jetbrains-ides-go-ai/
+
+ まとめ
+
+...",2025-05-15
+7c766e78e631739eb0eeab77356b5522,Zenn_AI,うさぎでもわかる WaveSpeedAIとは？画像生成・動画生成APIの高速革命を徹底解説,https://zenn.dev/taku_sid/articles/20250515_wavespeed_ai,"Thu, 15 May 2025 02:19:49 GMT","うさぎでもわかる WaveSpeedAIとは？画像生成・動画生成APIの高速革命を徹底解説
+👇️PodCastでも聴けます
+https://youtu.be/Iu2j2oRG5qo
+
+ はじめに
+2025年のAI生成技術は驚異的な進化を遂げています。特に画像生成や動画生成の分野では、より高品質でより高速な生成技術が次々と登場しています。その中で今回紹介するWaveSpeedAIは、「超高速」を武器...",2025-05-15
+70a60c79aa41afd7f62490048c0a63d5,Zenn_AI,リッチテキスト（Quill）をOpenAI APIで翻訳するときの tips,https://zenn.dev/uzu_tech/articles/quill-openai,"Thu, 15 May 2025 02:00:05 GMT","こんにちは。株式会社 Sally エンジニアの @piesukeです。
+私たちは、マーダーミステリーを遊べることが出来るアプリ「ウズ」と、マーダーミステリーを制作してウズ上で遊べることが出来るアプリ「ウズスタジオ」を開発しています。
+最近良かったマーダーミステリーは「黒と白の狭間に」です。
+
+ はじめに
+弊社では海外展開に合わせ、アプリ内の文言を多言語化しています。ワンライナーの UI ラベルや通...",2025-05-15
+63bf3decc5f39407e7b959504246e4e6,Zenn_AI,仕様検討で絶望しかけたけど、生成AIに救われた話,https://zenn.dev/rehabforjapan/articles/4a40524e0ddb8c,"Thu, 15 May 2025 01:43:43 GMT","はじめに
+こんにちは、リハプラン/PLFチームの@mizです。
+これまで主に実装に関わることが多かったのですが、
+最近のプロジェクトで初めて企画や要件定義から担当することになりました。
+企画から開発開始までは一人で回す必要があり、
+正直「この役割をちゃんと果たせるのか…？」という不安もありました。
+そんな中で、特に仕様の実現性を検証するフェーズで行き詰まりかけたのですが、
+そこで大きな助けとなった...",2025-05-15
+93dcb2edc6b005d8029ef4e831ebf8b8,Zenn_AI,個人で地図にAIをマッピングしてみた #5 コンテキストプロンプト活用 & 地図アプリ連携,https://zenn.dev/nojimatakashi/articles/6a38f5f0b28cc7,"Thu, 15 May 2025 00:54:21 GMT","1. はじめに
+前回の記事（個人で地図にAIをマッピングしてみた #4 AWS API 構築編）では、地図AI向けに大規模なWikipediaデータを元に構築したナレッジベースを自然言語で検索できるAPIとして公開する方法を紹介しました。
+今回はその続きとして、
+
+生成AIにナレッジデータを文脈として投入する方法
+Google Maps APIと連携して、地図上からクエリ検索を実現する方法
+の2つ...",2025-05-15
+6fcf9cf6f086a3ff67e42602a8c4c5d7,Zenn_AI,What Is Vibe Coding?,https://zenn.dev/hai08320/articles/fe7950bb7a880a,"Wed, 14 May 2025 22:56:37 GMT","What Is Vibe Coding?
+A case study in how vibes get mistaken for paradigms
+
+
+ What It Originally Meant (Based on the Source)
+The term ""Vibe Coding"" was first introduced by Andrej Karpathy, former resea...",2025-05-15
+546fdee83f4dc1c7cb31ea6b64085cfc,Zenn_AI,Vibe Codingとは？,https://zenn.dev/hai08320/articles/8bb660fb7e875f,"Wed, 14 May 2025 22:55:24 GMT","Vibe Codingとは？
+語感が制度化されてしまう時代の、ひとつの症例として
+
+
+ 本来の意味（出典ベース）
+「Vibe Coding」という言葉は、OpenAIの元研究者であるアンドレイ・カルパシー氏がX（旧Twitter）上で軽くつぶやいたのが発端です。
+
+“There's a new kind of coding I call 'vibe coding', where you fully...",2025-05-15
+f0c8ec260ddfc51ebebbe2bdf88bf1c5,Zenn_AI,XGBoostを用いた株価予測AIの特徴量分析：研究の土台と背景,https://zenn.dev/kto2myk/articles/d0908cbd92b88f,"Wed, 14 May 2025 15:23:06 GMT","株価予測は、投資家だけでなくデータサイエンティストにとっても、長年取り組まれてきた挑戦的なテーマです。本シリーズでは、機械学習モデル「XGBoost」を用いて、株価予測における特徴量設計とAIモデルの解釈可能性について深掘りしていきます。
+
+
+ 研究の背景と狙い
+昨今、XGBoostやLightGBMなどの勾配ブースティング系モデルが、金融時系列データにも広く応用されるようになってきました。しかし...",2025-05-15
+7e7bef9a809a9fe2c383d6adfe91a46b,Zenn_AI,写真が一瞬でイラスト風に？AIイラストジェネレーターの可能性,https://zenn.dev/aigame/articles/f4d4631fcc6522,"Wed, 14 May 2025 15:14:06 GMT","「自分の撮った写真が、もし簡単にアニメや漫画のキャラクターみたいになったら面白いだろうな…」なんて思ったことはありませんか？ 絵心がないからと諦めていた人も多いかもしれません。
+でも最近、そんな願いを叶えてくれるかもしれない「AIイラストジェネレーター」という技術が、じわじわと注目を集めているのをご存知でしょうか。
+この記事では、このAIイラストジェネレーターが一体どんなもので、どんな可能性を秘め...",2025-05-15
+ce92e9fa9c00b762ed93cba61ebe7fab,Zenn_AI,視覚障害者を補助するAI画像認識アプリ「スイフトアイ」を支える技術,https://zenn.dev/moutend/articles/005dc9443ec177,"Wed, 14 May 2025 14:13:59 GMT","はじめに
+スイフトアイは視覚障害者を補助するAI画像認識アプリです。カメラで撮影した画像や写真アプリなどから共有された画像をAIが解析して、文章で読み上げます。
+以下のアプリ紹介動画（3:30頃から）をご覧いただくと、動作の様子がご確認いただけます。本記事では、このアプリ開発の裏側を少し紹介します。
+https://youtu.be/VZM-WIXfsWU?si=VVBS0rnDUmOd-gE2
+...",2025-05-15
+801d3a5a87486cb529c4097640423b09,Zenn_AI,線形チャットUIのオルタナティブを考える,https://zenn.dev/nwn/articles/5ebde42428727e,"Wed, 14 May 2025 12:59:47 GMT","はじめに
+ChatGPTなどの線形チャットUIはLLMと深く議論したり、試行錯誤を重ねながら考えを深めたりするには限界があるのではないでしょうか？
+ユーザーは過去のメッセージを編集し再送信したり、別モデルによるレスポンスを生成したり、元の会話の流れを維持しつつ異なるアイデアを追求したい場合があります。
+例えば木構造によるチャットUIは並行した対話スレッドを作成することでこの制約に対処します。
+
+ ...",2025-05-15
+b546a538ced1ea2ac5858a7d825159b9,Zenn_AI,DevinをRoo Codeで置き換え、レビュー精度やコスト、速度を大幅に改善した話 〜その定量 & 定性成果から、設計思想まで〜,https://zenn.dev/globis/articles/9c692a135e805a,"Wed, 14 May 2025 08:23:04 GMT","前回書いたDevinにコードレビューをさせ、コード品質と開発速度を同時に高める話が、ありがたいことに130以上のLike、はてなブックマークでも同程度の反応をいただきました。最近のトレンドを含めて、AIエージェントに対する関心の高さがわかります。
+そこで今回は、これまで Devin で行っていたレビュー機能をどうRoo Codeで実現し、精度を引き上げたのか、その設計も含めてご紹介します。
+また、...",2025-05-15
+e4edcb892c7f9850f04e85508aacd3a9,Zenn_AI,公式発表と違う…GPT-4.1 vs GPT-4o、速度検証してみた,https://zenn.dev/nocall/articles/b4726f1266c6c7,"Wed, 14 May 2025 07:04:12 GMT","初めに
+私は「本物の人間のような会話応答が可能なAI電話オペレーター」を提供するnocall株式会社にて、架電業務を自動化するサービス「nocall.ai」のカスタマーサクセスを担当しています。
+私の主な業務はクライアントの活用支援とサービス改善のサポートです。
+
+ 新たなモデル
+現在、nocall.aiではOpenAIのGPT-4oを活用し、柔軟で自然な会話を実現しています。
+そんな中、Open...",2025-05-15
+dfb1a183ef68bfe6533bd026a1308cbe,Zenn_AI,Process-Context Engine：AI時代の開発を駆動する概念モデル ～DocDDの探求と「コンテキスト」の再定義から～,https://zenn.dev/caphtech/articles/process-context-engine,"Wed, 14 May 2025 06:25:15 GMT","はじめに：ドキュメント駆動開発(DocDD)の探求から「Process-Context Engine」という新境地へ
+株式会社ゆめみで1年以上にわたり、私は生成AIを活用したソフトウェア開発の可能性を探求する研究に取り組んできました。その中心的なテーマの一つが、「ドキュメント駆動開発（DocDD：Document-Driven Development）」というアプローチでした。DocDDとは、その...",2025-05-15
+a9a7a701035cd6c7587a50c8f34e21ca,Zenn_AI,C#なのにEntityFrameworkを採用しなかった話,https://zenn.dev/nexta_/articles/ad7acaa1ee859a,"Wed, 14 May 2025 05:18:42 GMT","はじめに
+今回はタイトルにある通りSmartF開発でEntityFrameworkを採用しなかった話を書こうと思います。
+SmartFはC#で開発をしていまして、EntityFrameworkはC#でデータベースを使う場合においてよく利用されているものと思っております。実際、私もSESの頃にはEntityFrameworkを使ったプロジェクト開発を何件も行いました。
+https://learn.m...",2025-05-15
+af1fafb1c87733e2a119d9fdb59a5663,Zenn_GenAI,Day 7 – CI組込み：GitHub Actions + safe_chat ラッパー,https://zenn.dev/yuu6798/articles/day7-safe-chat-ci,"Thu, 15 May 2025 09:12:07 GMT","序文 — スコアリングをCIに載せる理由
+Day 6 までに、PoR・ΔE・grv・Δstyle による異常スコアリング Mini-Eval が構築され、実運用に耐える精度とコスト評価も完了しました。
+Day 7 では、この評価器を GitHub Actions の CI パイプラインに統合し、Pull Request（PR）単位で逸脱チェックを自動化します。
+これにより、コードの追加・変更によっ...",2025-05-15
+4140308b6ff6eea606f1790e891e2eff,Zenn_GenAI,Macのgpuで Hunyuan-3DをComfyUI から動かした話,https://zenn.dev/renue/articles/144cd47fbe9d7a,"Thu, 15 May 2025 01:48:24 GMT","はじめに
+Tencent Hunyuan-3D は複数枚の静止画から 3D メッシュを生成する先進モデルです。
+Apple Silicon（M シリーズ）環境では MPS 制約や依存ライブラリ不足が障壁となりがちですが、本稿では Mac mini M2 Pro と MacBook Air M2 のローカル環境で実際に動作させた検証結果を整理し、「まず動かす」ための最短手順をまとめます。
+Blend...",2025-05-15
+b76dae681c2e2eed848cb252384a7f0d,Zenn_GenAI,AIコーディングの実力： Shiny for Pythonでの検証,https://zenn.dev/carenet/articles/6222b838b3f4db,"Thu, 15 May 2025 00:43:55 GMT","LLMによるコード生成が広く用いられるようになってきました。
+https://www.nikkei.com/article/DGXZQOGN25E2R0V20C25A4000000/
+そこで、LLMにリクエストを投げる、簡単なウェブアプリケーションを生成する一例を作成しました。
+pythonから利用するケースがLLMでは多い前提で、pythonのフレームワークを対象としました。
+
+ フレームワーク...",2025-05-15
+5d269f21ae3c9b93273bcbf3a44fd022,Zenn_GenAI,第二回Zenncafeに参加したレポートと個人的なAI作成記事への見解,https://zenn.dev/sawa0369/articles/8391ca4d60f4da,"Wed, 14 May 2025 11:29:34 GMT","先日第二回Zenncafeが開催されたので参加した際の感想を記事にして公開します
+https://zenn.connpass.com/event/351131/
+
+ Zenncafeとは
+エンジニアのための情報共有コミュニティ「Zenn」が主催するユーザーグループのオフラインイベントです
+今回の開催は二回目で、「生成AIで変わる仕事・知見の伝え方」というテーマでイベントが進行しました
+実は私は一回...",2025-05-15
+3fecb3031962a49f1a5e810dea1be0aa,Zenn_GenAI,生成AIアプリをゼロから作る（第1回）ColabとGradioで環境を整えよう,https://zenn.dev/ykoba933/articles/f6a64d7cd1bb3c,"Wed, 14 May 2025 10:10:29 GMT","こんにちは！この連載では、Python と Gradio、OpenAI API を使って、生成AIを活用した質問応答アプリを段階的に開発していきます。
+初学者でも取り組める内容になっているので、
+
+💡「生成AIって触ってみたいけど、何から始めればいいの？」
+💡「ChatGPTの仕組みをアプリで体験してみたい！」
+
+という方にぴったりの内容です。
+
+ はじめに
+この連載では「生成AIアプリの開発」に...",2025-05-15
+639e365237921c96720c472c2572320c,Zenn_GenAI,UpstageのUniversal Information Extractionを使ってドキュメントから情報抽出してみた,https://zenn.dev/fusic/articles/840af2c906f479,"Wed, 14 May 2025 09:12:28 GMT","はじめに
+Fusicのレオナです。今回は、UpstageのUniversal Information Extraction APIを活用して、非構造化ドキュメントから必要なデータを抽出する機能について解説します。なお、弊社は生成AI分野における包括的な協業を目指し、Upstageと業務提携を結んでおります。詳細はこちらからご覧ください
+!
+現在 Universal Information Extr...",2025-05-15
+dfb1a183ef68bfe6533bd026a1308cbe,Zenn_GenAI,Process-Context Engine：AI時代の開発を駆動する概念モデル ～DocDDの探求と「コンテキスト」の再定義から～,https://zenn.dev/caphtech/articles/process-context-engine,"Wed, 14 May 2025 06:25:15 GMT","はじめに：ドキュメント駆動開発(DocDD)の探求から「Process-Context Engine」という新境地へ
+株式会社ゆめみで1年以上にわたり、私は生成AIを活用したソフトウェア開発の可能性を探求する研究に取り組んできました。その中心的なテーマの一つが、「ドキュメント駆動開発（DocDD：Document-Driven Development）」というアプローチでした。DocDDとは、その...",2025-05-15
+5d75093ffb59295a7e8e9342c00b990b,Zenn_GenAI,【Langflowの知っておきたいシリーズ: 1】Langflowの導入,https://zenn.dev/dxc_ai_driven/articles/47a7cf95621f0a,"Wed, 14 May 2025 05:36:05 GMT","ℹ️Langflowとは何か
+Langflowとは、Datastaxが開発したオープンソースのローコードのAIアプリケーションを構築できるツールです。ベースとなっているのは生成AI業界で有名なLangchainとPythonを利用しており、生成AIの開発者でも未経験の方でも直感的にアプリケーションを組み立て、アイデアの検証ができます。
+
+ ⚡️主な特徴
+Langflowの主な特徴は以下のようなもの...",2025-05-15
+01165d87048d486a95e961fe201c4d81,Zenn_GenAI,「僕が4人分になる...」ChatGPTのペルソナと会議をしてみた話,https://zenn.dev/kitacom_blog/articles/discuss_with_persona,"Wed, 14 May 2025 05:32:38 GMT","こんにちは。秋田県のIT企業、北日本コンピューターサービスのR&amp;Dチーム「AUL（アウル）」に所属しています。トラフクロウです。
+ちょっと前からChatGPTのメモリ機能が強化され、過去の会話履歴をすべて参照できるようになりました。また、同じころに、CopilotなどのAIアシスタントに特定の人格（ペルソナ）を設定してペアプロ等をやってみた、という記事をいくつか見かけました。
+これらにイン...",2025-05-15
+5b9fc958df658ac221d02aa72ef26d24,Zenn_GenAI,Web版の生成AIに複数ファイルをファイル名付きで渡す小技,https://zenn.dev/hnw/articles/36fc843dcdbb9e,"Wed, 14 May 2025 04:37:38 GMT","生成AIにコードレビューを依頼したり、複数のソースコードをまとめて処理させたい場面が増えています。IDE組み込みの生成AI環境を使っている人も多いと思いますが、契約の都合でWeb版しか使えない人がいるかもしれません。
+Web版の生成AIにファイルを渡す場合、単にファイル内容を連結して渡すだけでなく、どのファイルの内容なのかをAIに明示することで、より的確なフィードバックや処理結果が期待できます。
+...",2025-05-15
+df028600771a24aadf58f98c85c519a3,Zenn_GenAI,kaggleコミュニティコンペ開催報告と上位解法,https://zenn.dev/ryushi496/articles/6213f94a4c7f29,"Tue, 13 May 2025 10:16:55 GMT","この記事は何？
+Kaggle Competitions MasterのRyushiです！
+2025/5/10に同じくKaggle Masterのyukiさんとコンペを主催しましたので、そのまとめ記事です。
+
+ コンペ概要
+
+ 1. コンペ内容
+与えられた写真がどの国で撮影されたかを分類するコンペを開催しました。
+分類対象の国は以下の5つです。
+
+日本
+アメリカ
+イギリス
+ブラジル
+オーストラリア
+...",2025-05-15
+c6fa5382bb0ac36d81581cf6370998cd,Zenn_GenAI,AI開発支援ツールについてまとめてみた,https://zenn.dev/wannyannyanwan/articles/224115cd64c017,"Tue, 13 May 2025 08:44:14 GMT","はじめに
+AI支援開発ツールが急速に発展しており、このまま知らない状態だとハンデを負うと思い初心者ながら調べてみました。とりあえず全体像をつかみたいため、何があるのかを把握できるように整理をしています。このため課金体系をなどをあまり深堀はしていません。また、あまり詳しくないため間違いが含まれるかもしれません。
+2025年5月時点の情報です。
+
+ エディタ
+AI支援ツールが使いやすそうなもののみ。
+...",2025-05-15
+f80aceef1124ec8ab4679f2e74175ce4,Zenn_GenAI,軽量な視覚言語モデル「Heron」のiOSアプリを公開しました,https://zenn.dev/turing_motors/articles/8eeda949dc7e2a,"Tue, 13 May 2025 02:21:41 GMT","完全自動運転の実現を目指すTuringでは、Webスケールのデータセットで学習した大規模視覚言語モデル（VLM）の持つ「常識」を利用することで、幅広い状況に対応できる自動運転モデルの開発を実現できると考えています。
+この目標のもと、基盤AIチームでは2023年から視覚言語モデル「Heron」の開発に取り組んできました。
+https://www.watch.impress.co.jp/docs/ne...",2025-05-15
+d5a0e28d7c4962f4d854808e37890dcc,Zenn_GenAI,QAっていらなくなるの？と感じたときに読んでほしい話,https://zenn.dev/clglfh/articles/02c80c78cb8ebb,"Mon, 12 May 2025 09:58:00 GMT","生成AI時代にQAエンジニアが担うべき役割
+こんにちは、QAエンジニアのさかもとです！
+最近、ChatGPTなどの生成AIが一気に広がって、「もうAIがテスト書いてくれるならQAっていらないんじゃ…？」なんて話を聞くようになりました。
+正直、私も最初はドキッとしました。
+仕様書からテストケースを自動生成したり、AIが過去のバグから異常検知してくれるなんて時代が来て、「じゃあ自分の仕事って…？」と不...",2025-05-15
+afcb53c2deaa5ef4fe3037f03d3cacd9,Zenn_GenAI,🗓️ 開発記録｜日記アプリをCursorで作ってみた,https://zenn.dev/mic_engineer/articles/b6f01e1220c3e6,"Mon, 12 May 2025 09:00:01 GMT","日々の感情や出来事をサクッと記録できたら。
+しかもテンプレートがあれば、もっと気軽に続けられるかも？
+そんな思いつきから、テンプレート付き日記アプリを1日で開発してみました。
+この記事では、開発の流れ、実装した機能、直面した課題、そして今後の改善点までをまとめています。
+
+
+ 🎨 完成したUIはこちら
+
+
+感情選択（😄😐😢）で気分をワンタップ入力
+テンプレートを選ぶだけで記録が完了
+自由入力欄も完...",2025-05-15
+e04ba124a0bcf4e4c022e9c99e9d19e2,Zenn_GenAI,Snowflake Cortex Analystで、SlackからSQLを自動生成してみた,https://zenn.dev/sirok/articles/5605c88ad789c6,"Mon, 12 May 2025 04:18:17 GMT","はじめに
+シロクは「N organic」や「FAS」などのブランドを展開する化粧品会社です。顧客体験の向上とマーケティング効果の最大化のために、日々多様なデータが活用されています。
+各ブランドの成長に伴い、データに基づく意思決定の重要性が増しており、複数の事業部からデータチームへのレポート作成や分析依頼が増加しています。その一方で、以下のような課題が顕在化してきています。
+
+分析依頼の増加によるリ...",2025-05-15
+a19ad0c55744f78cd7160b9544f7fc9e,Zenn_DL,Pytorch lightning のフックとコールバックについて簡単まとめ,https://zenn.dev/fusic/articles/8be1ab53cda39d,"Tue, 13 May 2025 01:12:08 GMT","はじめに：Pytorch lightningについて
+PyTorch Lightning は、PyTorch の柔軟性をそのままに、学習ループや分散処理、ロギング、チェックポイント保存といった煩雑な実装を自動化してくれるラッパーフレームワークです。
+「モデル定義」と「訓練の仕組み（Trainer）」を明確に分離することで、可読性と再利用性の高いコードを書くことができ、研究・開発の両面で多くの場面で...",2025-05-15
+48464ec48fb3c328e6c6f2e8725d407c,Zenn_DL,生成AI・LLM周りの基本をイメージで掴む！,https://zenn.dev/peishim/articles/dd2d0242fa734a,"Sun, 11 May 2025 22:22:02 GMT","はじめに
+この記事は、chatGPTなどAIサービスは触ったことがあるけれど、あまりLLMの仕組みやAI関連の基本的な単語はわからないという新人に、超ざっくりと短時間で説明ができることを目標に作成しました。AI関連の本などを読んだ方が正しい理解ができると思いますが、本を読むとなると時間もかかるので、この記事では正しさよりもなんとなくイメージを掴むことを目的にしたいと思います。とはいえ、自分がAIの...",2025-05-15
+34ef388dc0003b30e19718e064154867,Zenn_DL,うさぎでもわかるFace-Sim評価指標 〜画像・動画生成における顔の類似性評価〜,https://zenn.dev/taku_sid/articles/20250511_face_sim_metric,"Sun, 11 May 2025 02:54:06 GMT","うさぎでもわかるFace-Sim評価指標 〜画像・動画生成における顔の類似性評価〜
+👇️PodCastでも聴けます
+https://youtu.be/g0PZ6xTrYQQ
+みなさんこんにちは！🐰です。
+最近、AI画像生成や動画生成の技術は急速に発展し、特に人物の顔を生成するタスクが重要になっています。でも、「生成された顔が元の顔とどれくらい似ているか？」を客観的に評価するのは難しい問題なんです。...",2025-05-15
+2b1f98bbbb33856b0a7b7b408080595c,Zenn_DL,うさぎでもわかる静止画から踊り動画を生成する技術,https://zenn.dev/taku_sid/articles/20250510_dance_animation,"Sat, 10 May 2025 23:26:55 GMT","うさぎでもわかる静止画から踊り動画を生成する技術
+みなさん、こんにちほ！AIうさぎです🐰
+「あの人の写真を踊らせてみたい！」「自分のキャラクターに踊りを踊らせたい！」
+そんな願望、一度は持ったことありませんか？
+最近のAI技術の進歩により、静止画の人物やキャラクターに踊りを踊らせる技術が大きく発展しました。この記事では、静止画から踊り動画を生成する最新技術について、海外（特に中国・アメリカ）の動向...",2025-05-15
+cb4253c416a5475d218212ee61bd64f8,Zenn_DL,【2025年最新】高専DCON本選入賞チーム徹底解説！7億円評価の最優秀作品とは,https://zenn.dev/taku_sid/articles/20250511_kosen_dcon,"Sat, 10 May 2025 23:24:49 GMT","2025年高専DCON本選入賞チーム徹底解説
+みなさん、こんにちは！🐰です。
+今回は2025年5月9日・10日に開催された「第6回全国高等専門学校ディープラーニングコンテスト（DCON2025）」の本選結果をご紹介します。高専生が開発した革新的なAI×ハードウェア作品と、その評価について詳しく解説していきます！
+
+ 高専DCONとは？
+高専DCON（全国高等専門学校ディープラーニングコンテスト）は...",2025-05-15
+6626af87a665e39d9136682e7e1dbeea,Zenn_DL,うさぎでもわかるHunyuanCustom：マルチモーダル動画生成の最前線,https://zenn.dev/taku_sid/articles/20250511_hunyuan_custom,"Sat, 10 May 2025 23:20:36 GMT","うさぎでもわかるHunyuanCustom
+👇️PodCastでも聴けます
+https://youtu.be/uq3Ej_EW3KE
+こんにちは！🐰です！今回はTencent（テンセント）が開発した最新の動画生成AIモデル「HunyuanCustom」について解説するぴょん！
+
+ はじめに
+2025年に入り、AI動画生成の技術はますます進化していますが、「特定の人物や動物が出演する動画を自由自在に...",2025-05-15
+b2dea5fb374490b71dbc4ab8d58c2dda,Zenn_DL,【論文解説】画像検索モデルDELG (DEep Local and Global features),https://zenn.dev/giba/articles/image_retrieval_paper_youyaku,"Fri, 09 May 2025 04:10:11 GMT","画像検索分野ではじめてend-to-endの学習を可能とした深層学習モデルについて，改めて詳細を纏めてみました。
+
+Title: Unifying Deep Local and Global Features for  Image Search
+
+Conference: ECCV2020
+Code: https://github.com/tensorflow/models/tree/master/...",2025-05-15
+47c2f338fb14e7acfe5aa85c1e5c55fd,Zenn_DL,複数のデータセットを結合したデータセットを自作（PyTorch）,https://zenn.dev/kita_no_in/articles/dd21a1ddd0aa45,"Tue, 06 May 2025 10:52:02 GMT","なんで作りたいの？
+卒業研究でPyTorchを利用した深層学習をやっていた時に、1つの音声データを細かく区切ってデータセットを作っていました。
+　データセットに入れる音声データを増やすとなったときに、データセットを一から作り直すのがひたすら面倒だったので…
+「音声データごとにデータセット作って後からくっつければ良くね？？？？？？」
+と思った次第でございます。
+　後々よく調べてみると、torch.u...",2025-05-15
+25e44c8b252ff20f5bf25d671cc1bb9f,Zenn_DL,グラフニューラルネットワークって何？②GNNと他の深層学習モデル：Transformer,https://zenn.dev/pepabo/articles/201d21cbc39782,"Tue, 06 May 2025 09:01:09 GMT","GNNって結局どんなもの？ほかの深層モデルとどう違う？
+さて、上の質問の一つ目に答えるのは比較的簡単である。というのも、GNNというものは非常に抽象的な概念であり、実際にはグラフ畳み込みネットワーク(GCN)やグラフアテンションネットワーク(GAT)等の具体的なモデルになってはじめて何をやっているのかが具体的に分かるのである。一方で、二つ目の質問は、私も学生時代に投げかけられて興味深いと感じていた...",2025-05-15
+8bf42a14519064b7c2455c15b33b61d5,Zenn_DL,OCRに関する技術調査その２（PaddleOCRベースの精度改善検討）,https://zenn.dev/starai/articles/8871df599e967e,"Sun, 04 May 2025 17:43:23 GMT","0. はじめに
+お疲れ様です。STARAI社員の中岸です！
+前回、OCR（光学文字認識（こうがくもじにんしき、英: Optical character recognition）：活字、手書きテキストの画像を文字コードの列に変換する技術）に関する記事を書きましたが、今回はもう少し深堀りして精度向上に向けてなにかできることはないかと色々と苦戦しながら調べてみた結果についてまとめてみました。
+今回は、P...",2025-05-15
+26bf777577154e3fb89d0462731f6478,Zenn_DL,[JOAI] 第一回日本人工知能オリンピックで金賞を受賞しました...！！,https://zenn.dev/kanda9685/articles/a6e9dc0cc89493,"Fri, 02 May 2025 19:32:17 GMT","この度、日本人工知能オリンピック（JOAI）に参加 し、金賞を受賞することができました！！ 🏅
+今回のコンペティションを通して様々なことを学ばせていただいたので、その記録をしておきたかったのと、これから人工知能オリンピックに参加される皆様の参考になれば良いな と思い、この記事を書くことにしました。ぜひご一読下さい...！！ 🤖✨
+https://ioai-japan.org/
+
+ 日本人工知能オリ...",2025-05-15
+f4027972ffe4e40d455b69941b1e4128,Zenn_DL,【誤差逆伝播法 -Back Propagation】計算グラフと自動微分,https://zenn.dev/boh_mouse/articles/bda13d4b15f4d9,"Wed, 30 Apr 2025 12:23:49 GMT","はじめに
+誤差逆伝播法(Back Propagation)は深層学習の基礎的な概念ですが、Pytorch・TensorFlowでは自動化されており普段の業務において意識することは少ないです。下記書籍を拝読中に、丁寧な説明を目にしたため、復習を兼ねて読書メモを残します。
+!
+この資料は『岡崎直観、荒瀬由紀他(2023)「自然言語処理の基礎」 p.55-60』を写経、一部改変した内容です。
+
+
+ Co...",2025-05-15
+756a5c6bb7780129ffdd8e845699ca76,Zenn_DL,うさぎでもわかる最新OSSの着せ替えAIモデル徹底解説,https://zenn.dev/taku_sid/articles/20250430_customizable_ai,"Wed, 30 Apr 2025 06:38:44 GMT","うさぎでもわかる最新OSSの着せ替えAIモデル徹底解説
+こんにちは、うさぎモデルだぴょん！今回は最新のオープンソース着せ替えAIモデル（Virtual Try-On）について詳しく解説するのだ！
+
+ 1. はじめに
+着せ替えAIモデル（Virtual Try-On）とは、人物の画像と服の画像を入力すると、その人が指定した服を着ているように見える画像を生成する技術だぴょん。近年、AIの進化とともに、...",2025-05-15
+e947a33faef8f1a2769a44819b16a649,Zenn_DL,うさぎでもわかるRVC - 少量データで実現する高品質音声変換技術,https://zenn.dev/taku_sid/articles/20250430_rvc_voice,"Tue, 29 Apr 2025 20:58:27 GMT","うさぎでもわかるRVC（Retrieval-based Voice Conversion）
+こんにちは！今回は、Retrieval-based Voice Conversion（RVC）という音声変換技術について、うさぎでもわかるように解説していきます。
+
+ RVCとは何か
+Retrieval-based Voice Conversion（RVC）は、少量の音声データから高品質な音声変換を実現する...",2025-05-15
+4c891e4e3b789591d2db25b870ac9667,Zenn_LLM,【論文解説】リファクタリング精度を爆上げするマルチエージェントシステム,https://zenn.dev/giba/articles/kaisetu_mantra_refactoring,"Thu, 15 May 2025 16:01:41 GMT","Title: MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration
+Link: http://arxiv.org/abs/2503.14340
+Code: https://anonymous.4open.science/r/MUARF-B4...",2025-05-15
+b115de7d58a77b2ed0461d437f1ad756,Zenn_LLM,LLM Agent 標準化/MCP/ライブラリ欲張り幕内弁当,https://zenn.dev/cha9ro/articles/2025_intro_to_agent_and_mcp,"Thu, 15 May 2025 10:18:47 GMT","Agent 元年の慌ただしい始まり
+2025 年は Agent 元年と呼ばれ、その直前の年の瀬から各メジャープロバイダーから Agent 開発に関する標準化やライブラリの発表が相次いだ。その中でも以下の 3 つは注目を集めた。
+
+2024.11.25: MCP by Anthropic
+2025.03.11: OpenAI Agent SDK by OpenAI
+2025.04.09: A2A P...",2025-05-15
+4c6dcd0c06bcdd0a55953fb86449a99b,Zenn_LLM,PythonとOpenAI APIで実践！MCP開発入門 【第1回】AI開発のスタートライン！Pythonプログラミング環境構築 完全ガイド,https://zenn.dev/querypie/articles/f8fedd7fbe66a5,"Thu, 15 May 2025 00:55:33 GMT","はじめに
+
+ AI開発の世界へ、ようこそ！その第一歩は「環境構築」から
+皆さん、こんにちは！今日から始まる新シリーズ「PythonとOpenAI APIで実践！はじめてのMCP（モデルコンテキストプロトコル）開発入門」へ、ようこそお越しくださいました。このシリーズでは、今話題のOpenAI APIを使いこなし、AIにこちらの意図や状況（コンテキスト）を的確に伝え、より賢い応答を引き出すための「モデ...",2025-05-15
+6fcf9cf6f086a3ff67e42602a8c4c5d7,Zenn_LLM,What Is Vibe Coding?,https://zenn.dev/hai08320/articles/fe7950bb7a880a,"Wed, 14 May 2025 22:56:37 GMT","What Is Vibe Coding?
+A case study in how vibes get mistaken for paradigms
+
+
+ What It Originally Meant (Based on the Source)
+The term ""Vibe Coding"" was first introduced by Andrej Karpathy, former resea...",2025-05-15
+546fdee83f4dc1c7cb31ea6b64085cfc,Zenn_LLM,Vibe Codingとは？,https://zenn.dev/hai08320/articles/8bb660fb7e875f,"Wed, 14 May 2025 22:55:24 GMT","Vibe Codingとは？
+語感が制度化されてしまう時代の、ひとつの症例として
+
+
+ 本来の意味（出典ベース）
+「Vibe Coding」という言葉は、OpenAIの元研究者であるアンドレイ・カルパシー氏がX（旧Twitter）上で軽くつぶやいたのが発端です。
+
+“There's a new kind of coding I call 'vibe coding', where you fully...",2025-05-15
+801d3a5a87486cb529c4097640423b09,Zenn_LLM,線形チャットUIのオルタナティブを考える,https://zenn.dev/nwn/articles/5ebde42428727e,"Wed, 14 May 2025 12:59:47 GMT","はじめに
+ChatGPTなどの線形チャットUIはLLMと深く議論したり、試行錯誤を重ねながら考えを深めたりするには限界があるのではないでしょうか？
+ユーザーは過去のメッセージを編集し再送信したり、別モデルによるレスポンスを生成したり、元の会話の流れを維持しつつ異なるアイデアを追求したい場合があります。
+例えば木構造によるチャットUIは並行した対話スレッドを作成することでこの制約に対処します。
+
+ ...",2025-05-15
+051b89d885da45e57f48c74eabe29816,Zenn_LLM,ブラウザからMCPを実行するため、MCP Hostを自作のAITuberライブラリに追加した話 (Function Calling),https://zenn.dev/shinshin86/articles/002bdf39d7577f,"Wed, 14 May 2025 09:05:20 GMT","実現できたこと
+
+Before: FAQ は別途ページを参照する必要があった
+After: チャット欄で AI がリアルタイム回答（Function Calling＋FAQツール）
+※現在は実験的機能として提供しているため、こちらの方法で有効化して試すことが可能です
+
+以下は AITuber OnAir という、AIアバターとともにYouTubeでAITuber配信が行えるWebサービスの画面です...",2025-05-15
+b546a538ced1ea2ac5858a7d825159b9,Zenn_LLM,DevinをRoo Codeで置き換え、レビュー精度やコスト、速度を大幅に改善した話 〜その定量 & 定性成果から、設計思想まで〜,https://zenn.dev/globis/articles/9c692a135e805a,"Wed, 14 May 2025 08:23:04 GMT","前回書いたDevinにコードレビューをさせ、コード品質と開発速度を同時に高める話が、ありがたいことに130以上のLike、はてなブックマークでも同程度の反応をいただきました。最近のトレンドを含めて、AIエージェントに対する関心の高さがわかります。
+そこで今回は、これまで Devin で行っていたレビュー機能をどうRoo Codeで実現し、精度を引き上げたのか、その設計も含めてご紹介します。
+また、...",2025-05-15
+e4edcb892c7f9850f04e85508aacd3a9,Zenn_LLM,公式発表と違う…GPT-4.1 vs GPT-4o、速度検証してみた,https://zenn.dev/nocall/articles/b4726f1266c6c7,"Wed, 14 May 2025 07:04:12 GMT","初めに
+私は「本物の人間のような会話応答が可能なAI電話オペレーター」を提供するnocall株式会社にて、架電業務を自動化するサービス「nocall.ai」のカスタマーサクセスを担当しています。
+私の主な業務はクライアントの活用支援とサービス改善のサポートです。
+
+ 新たなモデル
+現在、nocall.aiではOpenAIのGPT-4oを活用し、柔軟で自然な会話を実現しています。
+そんな中、Open...",2025-05-15
+5f418d6dc1199fa49a790d470df5b8f5,Zenn_LLM,Difyの外部ナレッジベース連携APIでrokadocを利用する。,https://zenn.dev/timoneko/articles/b344b2125f8309,"Wed, 14 May 2025 04:48:01 GMT","!
+2025/5/14 夕方ごろにはrokadoc側に修正が入り、
+動作検証だけでなく、ワークフロー等で利用される「知識検索」等でも問題なく結果が取得できることを確認しました。
+
+
+rokadocがDifyの外部ナレッジベース連携APIに一部対応した模様。
+(rokadocのapi使用制限には注意。)
+rokadocに関しては下記。
+https://rokadoc.ntt.com/
+現状
+
+sco...",2025-05-15
+a3225699dcfeea501841116ed3840e55,Zenn_LLM,AIツール利用状況と体感 2025年5月版,https://zenn.dev/beagle/articles/f45a10abf1405f,"Wed, 14 May 2025 03:41:16 GMT","びーぐるです🐶
+先日、XでAI関連の課金状況や使っているツールについて話題になっていました。
+
+Xでは自分の利用状況をツイートしたのですが、
+こちらではより詳細に現状の利用状況や考えを振り返ってみたいと思います。
+（念の為… モデルに対する評価は定量的なものではなく、個人の体感・感想に過ぎないことをお伝えしておきます）
+
+ 導入・実際のツイート
+tweet
+
+
+
+ 私がLLMに求めていること
+以下...",2025-05-15
+be7f93fd1de9cae604f6f678cb01ac7f,Zenn_LLM,ChatLLM＋OpenAI APIを使ってDiscordの論文要約Botを作った話,https://zenn.dev/tinycolony/articles/53ad35731557dd,"Wed, 14 May 2025 03:00:06 GMT","DiscordのBotについてほぼ知識ゼロの状態から、論文を要約するBotが作れたので備忘録と共有のために書き残しておきます。生成AIのサービスさえ使えれば誰でも作れると思います。
+
+ 経緯
+LLM関連の研究が活発になってる
+↓
+追いつくには最新論文に目を通す必要がある！
+↓
+でも英語論文を読むのは時間がかかる...
+↓
+自動でLLMに要約させて時短しよう！
+思考プロセスとしてはこんな感じです。自...",2025-05-15
+7b741d946ef3b720a2ef7e520fc06970,Zenn_LLM,【Ollama】WSL2+Ubuntu上でローカルLLMを動かす【GTX1660 Super】,https://zenn.dev/linux_club/articles/2eaff68c013b2a,"Wed, 14 May 2025 02:41:43 GMT","結果を先に書くと、私の環境ではllama3.1:8bをした場合、異常に遅いといった問題なく動くことが確認できました。
+
+ ことの始まりと記事の概要
+ここ半年近く、「MCP(Model Context Protocol)」が非常に盛り上がっています。これは、「LLMアプリケーションと外部データソースをシームレスに統合するためのプロトコル[1]」というものです。ここでは詳細な例を省きますが、簡単に言う...",2025-05-15
+079b366894e28eddc6869ec50fe84484,Zenn_LLM,BitNet-b1.58-2B-4T 動いた on Mac,https://zenn.dev/5203life/articles/7b2a286d2b3588,"Tue, 13 May 2025 16:04:41 GMT","BitNet-b1.58-2B-4T 動作手順
+microsoft/BitNet の手順を行ったが、cmake が返って来なかったので、Claude に聞きながら動くまでやってみた。
+# リポジトリから取得
+git clone --recursive https://github.com/microsoft/BitNet.git
+cd BitNet
+
+# 環境作成
+conda create -n ...",2025-05-15
+0711aa51c843f45ff72546b615b5dcb5,Zenn_LLM,言語モデルの進化とアーキテクチャ発展史概略,https://zenn.dev/su8/articles/343a3c4a1bb62c,"Tue, 13 May 2025 14:44:34 GMT","はじめに
+「ChatGPTすご〜い」
+「Claudeすご〜い」
+とまあまあテキトーに放言している我が身を冷静に振り返ると、もうちょっとちゃんと整理しておくか ... と反省したので、言語モデルの歴史的な発展を整理することにした。
+参考にしたのは次の資料（CCBY）。
+Minaee, S. et al. (2024). ""Large Language Models: A Survey""
+個人的にもっ...",2025-05-15
+4da6d4056282165daf65bcd61281e821,Zenn_LLM,RaycastからはMCPサーバを拡張機能のように使える,https://zenn.dev/k_koheyi/articles/0ac035fb804333,"Tue, 13 May 2025 11:00:01 GMT","はじめに
+RaycastからMCPサーバを便利に呼び出せるようになっていますが、まだあまり日本語の記事が使い方や便利な公開･インストール方法について書いてみようと思います!
+
+ 動いている様子
+導入方法について書く前に、まずは動いている様子を共有します。今回は自作のMCPサーバのenkai-mcpを試そうと思います。このMCPサーバは｢今週の土日に飲み会がしたい｣、｢8月末の2週間くらいで旅行の日...",2025-05-15
+79964ae60660b01419497ca440a97ebb,Zenn_LLM,はじめての Model Context Protocol (MCP)【最終回】AIともっと良い関係を！ MCP入門シリーズで学んだこと,https://zenn.dev/querypie/articles/063bb37bb8d62b,"Tue, 13 May 2025 10:01:41 GMT","はじめに
+
+ 20回の旅路の先に - AIと共生する未来への羅針盤
+皆さん、こんにちは！ 2025年5月9日、ここ東京からお送りしてきた「AIとの付き合い方が変わる！はじめての Model Context Protocol (MCP)」シリーズも、いよいよ最終回を迎えました。全20回にわたる長い旅にお付き合いいただき、本当にありがとうございます。
+このシリーズでは、MCPという「AIが私たちの文脈...",2025-05-15
+368f4ad7d7ac6cfb5b646b764ca473b4,Zenn_LLM,Gemcook AI Weekly #2 - Gemini 2.5 / ChatGPT o3 / Claude 3.7 コスパ徹底比較3選,https://zenn.dev/gemcook/articles/2e8818fa600e3a,"Tue, 13 May 2025 07:56:42 GMT","はじめに
+「もし１つだけ契約するとしたら、どの LLM を選びますか？」
+ChatGPT&nbsp;o3、Gemini&nbsp;2.5 Pro、Claude&nbsp;3.7 Sonnet。アップデートが出るたび料金も機能も入り乱れ、私たちエンジニアは“課金ロシアンルーレット”を強いられています。
+私自身、つい先日、カードの明細を見て「この 4.2 万円、本当に回収できてる？」と青ざめたひとりで...",2025-05-15
+c1c9db328e88da041f5008c7e0572547,Zenn_NLP,作りながら学ぶLLM入門：前処理,https://zenn.dev/churadata/articles/459fb3543bc680,"Mon, 05 May 2025 15:46:46 GMT","概要
+
+この記事の対象者：LLMの内部処理をコードレベルで具体的に理解し、自分で簡易的なモデルを動かしてみたいエンジニアや研究者。
+この記事の内容：Raschka著『作りながら学ぶLLM入門』第2章をベースに、トークン化からサブワード分割、特殊トークン付与、データローダー作成、埋め込みまでの前処理工程をPythonコード付きで解説。
+この記事を読んでできること：前処理の各ステップを自力で実装し、英...",2025-05-15
+f4027972ffe4e40d455b69941b1e4128,Zenn_NLP,【誤差逆伝播法 -Back Propagation】計算グラフと自動微分,https://zenn.dev/boh_mouse/articles/bda13d4b15f4d9,"Wed, 30 Apr 2025 12:23:49 GMT","はじめに
+誤差逆伝播法(Back Propagation)は深層学習の基礎的な概念ですが、Pytorch・TensorFlowでは自動化されており普段の業務において意識することは少ないです。下記書籍を拝読中に、丁寧な説明を目にしたため、復習を兼ねて読書メモを残します。
+!
+この資料は『岡崎直観、荒瀬由紀他(2023)「自然言語処理の基礎」 p.55-60』を写経、一部改変した内容です。
+
+
+ Co...",2025-05-15
+516df9dd7244e70c27d90631ed91c841,Zenn_NLP,言語処理学会第31回年次大会(NLP2025)参加報告,https://zenn.dev/mkj/articles/057377ad9ae8e6,"Wed, 30 Apr 2025 02:50:01 GMT","こんにちは、株式会社松尾研究所シニアデータサイエンティストの大西です。
+3/10〜3/14に長崎で開催された言語処理学会第31回年次大会(NLP2025)にシルバースポンサーとして、データサイエンティスト3名と人事1名が参加しました。
+本イベントは、自然言語処理（NLP）分野の最先端研究が集まる場であり、大学研究者や企業が最新の成果を発表し、活発な議論をおこないます。今年は、参加者2248名、発表...",2025-05-15
+ffc1bda26f8657aa04c6477086ddb328,Zenn_NLP,AIF と G 検定、どれくらい似てる？ SBERT で比較してみた,https://zenn.dev/rescuenow/articles/a9f58134989f8d,"Fri, 18 Apr 2025 07:44:00 GMT","🧩 1. はじめに
+今月、元 OpenAI 研究者を中心としたチームが発表した未来予測シナリオ AI 2027 [1] が話題になっていますね。
+興味深い内容ですが、どんな将来が来たとしても、AI についての正しい知識を身につけておくことは必須のように感じました。
+AI 関連の資格試験としては AWS Certified AI Practitioner （以下、「AIF」）や JDLA が実施する...",2025-05-15
+91e37a7bdbe86047d2db03e567756f92,Zenn_NLP,インコンテキストラーニング vs. RAG：長大なコンテキストがあれば検索は不要？,https://zenn.dev/y0hey/articles/e48fdac16b7676,"Fri, 18 Apr 2025 00:07:12 GMT","「大規模言語モデル（LLM）」の精度やコンテキスト長が急速に伸びてきている昨今、Retrieval-AugmentedGeneration－RAGが本当に必要なのか疑問に感じる方もいるのではないでしょうか？
+たとえば、「Gemeni」という超大規模モデル（コンテキスト長200万トークンとも噂！）が出てきたら、ディープラーニング任せで一気に大量のドキュメントを食わせてしまえば済むのでは…？という声も...",2025-05-15
+be93e100620500508a1a083597ef5167,Zenn_NLP,言語処理学会第31回年次大会（NLP2025）に行ってきました,https://zenn.dev/finatext/articles/nlp-2025-report,"Sun, 13 Apr 2025 23:45:29 GMT","はじめに
+こんにちは、ナウキャストで LLM エンジニアをしている Ryotaro です。
+2025 年 3 月 10 日から 3 月 14 日まで出島メッセ長崎で開催されていた、言語処理学会第 31 回年次大会（NLP2025）に参加しました。
+言語処理学会は年に一回開催される学会であり、NLP 系の学会では日本では最大規模です。研究者だけでなく企業の方も参加しており、昨今の LLM の発展によ...",2025-05-15
+4867fb856ba09dcdba5a8ead782430e9,Zenn_NLP,## FlashTokenizer: CPUで世界最速のトークナイザーライブラリが登場！,https://zenn.dev/springkim/articles/2b08c60cc95619,"Tue, 08 Apr 2025 06:27:06 GMT","はじめに
+皆さん、こんにちは！今日は自然言語処理（NLP）の世界で革命を起こしている新しいツール「FlashTokenizer」をご紹介します。これはCPU上で動作する世界最速のトークナイザーライブラリで、特にBERTベースのモデルを使った推論処理を大幅に高速化します。
+なぜFlashTokenizerが必要なのか？
+最近のLLM（大規模言語モデル）の開発において、推論速度はとても重要です。その中...",2025-05-15
+08b9667d30329343a5ba78fa1e315d0b,Zenn_NLP,[特殊字符]Introducing FlashTokenizer: The World‘s Fastest CPU Tokenizer!,https://zenn.dev/springnode/articles/54cbb14e86ce16,"Tue, 08 Apr 2025 05:55:13 GMT",随着大语言模型（LLM）和人工智能应用的不断普及，对高性能自然语言处理工具的需求也日益增长。其中，分词（Tokenizer）作为语言模型推理过程中不可或缺的一环，其效率直接影响整体推理性能。今天给大家介绍一款全新的高性能分词工具：FlashTokenizer。FlashTokenizer 是专为大语言模型（尤其是BERT类模型）优化设计的超高性能CPU分词器，使用C++实现，能够在CPU环境下提供...,2025-05-15
+0d3d037f46b483ae3b373fc266b1af0f,Zenn_NLP,言語の壁を越える思考：AIモデルが英語・中国語で推論する理由とトークン効率化戦略,https://zenn.dev/taku_sid/articles/20250404_language_reasoning,"Fri, 04 Apr 2025 00:13:19 GMT","言語の壁を越える思考：AIモデルが英語・中国語で推論する理由とトークン効率化戦略
+
+ はじめに：多言語モデルにおける推論の不思議
+あなたは「この問題を解くために、まずは頭の中で英語に翻訳して考えてみよう」と思ったことはありますか？バイリンガルやマルチリンガルの方々は、特定の場面で特定の言語を使って思考することがあります。例えば、数学の計算は母国語で、プログラミングは英語で、などといった具合に。
+最...",2025-05-15
+99fcb56321808d8204e5efd5be95f4ce,Zenn_NLP,LLMにおける未知語への対処〜「麺」はなぜ2バイトと1バイトに分割されるか〜,https://zenn.dev/ranomia/articles/handle_unknown_words_in_llms,"Wed, 02 Apr 2025 11:14:33 GMT","はじめに
+大規模言語モデル（LLM）の性能が向上し、日常的に様々なタスクで活用されるようになった。LLMの内部動作を理解することは、その活用方法や限界を知る上で非常に重要である。本記事では、LLMが「未知語」をどのように処理しているのかについて解説する。
+特に日本語と英語の違いや、実際のトークナイゼーション（文章を小さな単位に分割する処理）の仕組みについて、具体例を交えながら説明する。
+
+ LLM...",2025-05-15
+8ca22a61e1623efd0f7c0124a5e98a91,Zenn_NLP,モデルの品質を数値化 - BLEU、METEOR、ROUGE-L、CIDEr、SPICE、BERTScoreについて！,https://zenn.dev/headwaters/articles/c0b91961749811,"Mon, 31 Mar 2025 13:58:52 GMT","はじめに
+自然言語処理（NLP）の分野は日々進化を続けています。翻訳、要約、画像キャプション生成など、さまざまなタスクでAIモデルが活躍する一方で、「その性能をどう評価するのか？」という課題は常に重要です。モデルの出力が「良い」のか「悪い」のかを数値で示すためには、タスクによって適切な評価指標が求められます。
+例えば、「BERTScore」という指標は私自身も知っており、よく耳にしますが、それ以外...",2025-05-15
+70841cf4057a6bfbf35517510af9780c,Zenn_NLP,ワンピースカードゲームの遊び方を教えてくれるAIチャットボット開発,https://zenn.dev/bnx_techblog/articles/503b42901ecb74,"Mon, 17 Mar 2025 08:07:37 GMT","記事を開いていただきありがとうございます。
+今回は「遊び方を教えてくれるAIチャットボット開発」をテーマに「用例」と「システム構成」を簡単にご紹介させていただきます。
+
+ 開発したAIチャットボットの紹介
+ワンピースカードゲームでは、お客様に向けてルールを公開していましたが、網羅的にルールを記載しているため、お客様が確認したいルールを探すのが難しいという状況でした。
+今回のチャットボットではRAG...",2025-05-15
+e2d4f64444aed493614b0ab9ae13283b,Zenn_NLP,なぜRAGの研究が盛んだったか？〜NLP2025に参加した所感〜,https://zenn.dev/yagiyuki/articles/report-nlp2025-rag,"Sun, 16 Mar 2025 03:16:42 GMT","NLP2025に参加しました！多くの最新研究に触れる機会がありましたが、その中でも特に目を惹いたのが Retrieval-Augmented Generation (RAG) に関する研究の増加です。
+昨年と比較しても、RAG関連の発表が大幅に増えた印象があります。同僚にきいても同じ感想を持った人もいたようです。
+本記事では、なぜRAGの研究がこれほど盛んになっているのか について、NLP2025...",2025-05-15
+d5ee4453c536f3045f522ded878cd1ee,Zenn_NLP,自然言語処理（NLP）におけるAIの評価指標をまとめてみましょう！,https://zenn.dev/nakano_teppei/articles/be39e5a03eef69,"Tue, 04 Mar 2025 05:22:23 GMT","1. 生成タスク（テキスト生成・要約・翻訳）の評価指標
+
+
+
+
+指標
+説明
+適用例
+特徴
+
+
+
+
+BLEU (Bilingual Evaluation Understudy)
+n-gram の一致率を基に翻訳品質を評価
+機械翻訳、文章生成
+n-gram のマッチ率に基づくが、文の流れは評価できない
+
+
+ROUGE (Recall-Oriented Understudy for Gisting Ev...",2025-05-15
+9e8d338acfa6f4e9c62202dae44c4920,Zenn_NLP,医療特化LLMの選定方法,https://zenn.dev/programing_gym/articles/7ec928239c9f66,"Thu, 27 Feb 2025 04:25:35 GMT","医療分野においてLLMを活用する際、適切なモデル選定とファインチューニングの戦略が成功の鍵を握ります。ここでは、商用利用可能なLLMの選定、ベンチマーク評価、ファインチューニングのタイミング、実装コードを詳しく解説します。
+
+
+ 1. 医療向けLLMを選定する際の基準
+
+医療分野でのLLM選定には、以下のポイントを考慮する必要があります。
+
+
+ライセンス
+
+商用利用可能なものを選ぶ（Apache ...",2025-05-15
+76d52cb42c558e45a947cd68f74cb2d7,Zenn_NLP,日本語と英語におけるLLMのトークナイザーの違いと仕組み：コードレベルで徹底解説,https://zenn.dev/nakano_teppei51/articles/cc4ec45fb6917f,"Fri, 21 Feb 2025 02:51:43 GMT","はじめに
+昨今の大規模言語モデル（LLM）のブームにより、自然言語処理（NLP）の進化は目覚ましいものがあります。特に日本語を入力すると自動的に英語に翻訳されたり、複雑な質問にも即座に答えが返ってくるのは驚きです。
+しかし、日本語と英語では言語構造が異なるため、トークナイザーの扱い方にも違いがあります。本記事では「日本語の方が英語よりもトークナイザーを使わなくて良いのか？」という疑問を深掘りし、さ...",2025-05-15
+0a881dc2b19c0439c6cf187df5afc86e,Zenn_NLP,文献調査: 「NVLM: Open Frontier-Class Multimodal LLMs」,https://zenn.dev/starai/articles/bc7825e7661495,"Mon, 20 Jan 2025 14:37:17 GMT","文献調査: 「NVLM: Open Frontier-Class Multimodal LLMs」
+
+ はじめに
+お疲れ様です！長期の出張勤務がひと段落したので、久々に中岸が投稿します！
+今回は、NVIDIAのマルチモーダルLLMを調査した内容をまとめて書き出してみました！
+（なお、「➡」に続いている文章は、読んでいる際に自分が感じたことであり、論文の内容ではないのでご注意下さい。あと記載ミス、表...",2025-05-15
+b2b3dd02d5996d9b9f20a0add373c256,Zenn_NLP,RTX3090x1でKaggle LLMコンペは戦えるのか？,https://zenn.dev/yume_neko/articles/5cd27dac3d8311,"Fri, 10 Jan 2025 11:41:58 GMT","はじめに
+この記事は2024/12/13まで開催されていたKaggle Eedi - Mining Misconceptions in Mathematicsコンペを題材に、限られたリソースでどこまでスコアを上げることができるのかLateサブで検証してみた内容をまとめたものです。
+Eediコンペは数学の質問テキストと不正解のペアに対して、その不正解の背景にある誤解（Misconception）を予...",2025-05-15
+fa4c29591c0fc3ec3ce247d7592c6d32,Zenn_Python,変動率０は異常値？：TARGET=0除去による株価予測AIの精度改善,https://zenn.dev/kto2myk/articles/a7c53d3b805770,"Thu, 15 May 2025 16:04:32 GMT","実験1：TARGET=0の取扱いによる影響検証（V1 vs V2）
+
+ 1. 検証目的
+本節では、株価予測回帰モデル（XGBoost）における目的変数（以下、Target）として設定した「翌営業日のlog収益率」に対し、値が0となるデータを保持する場合（V1）と、それを除外する場合（V2）で、モデル性能や学習安定性にどのような差異が生じるかを検証する。特に、log収益率が0となるデータの存在が学習...",2025-05-15
+1105997afb2094494d860131862059f8,Zenn_Python,seleniumの使い方　第５回　ActionChainの活用（python×Microsoft Edge）,https://zenn.dev/hoshinagi1219/articles/1c195715a380a9,"Thu, 15 May 2025 08:10:00 GMT","こんにちは、星杜なぎさです
+今回は、seleniumで文字入力やクリックを行う方法について学びます。
+環境構築がまだの人は、以下の記事で準備してから本記事を読まれるとよいでしょう
+https://zenn.dev/hoshinagi1219/articles/b61f220e0908c5
+
+ 1. はじめに
+
+Seleniumは、Webブラウザの操作を自動化するためのツール
+オープンソースなので、...",2025-05-15
+11012064793eb01ad9d380f198d82c28,Zenn_Python,uvで管理するFastAPIプロジェクトの本番イメージのMulti Stage Build,https://zenn.dev/nauh_blog/articles/14a92d11006199,"Thu, 15 May 2025 07:15:34 GMT","はじめに
+Nauhの池田です。
+以前はPythonのプロジェクトはpoetryで管理することが多かったのですが、最近はuvを使用することが増えてきました。
+FastAPIのバックエンドサービスをKubernetes, CloudRun, ECSなどでホストする際はContainer Imageのサイズをできるだけ削減するために最低限の依存関係だけをインストールしたContainerを用意することが...",2025-05-15
+4c6dcd0c06bcdd0a55953fb86449a99b,Zenn_Python,PythonとOpenAI APIで実践！MCP開発入門 【第1回】AI開発のスタートライン！Pythonプログラミング環境構築 完全ガイド,https://zenn.dev/querypie/articles/f8fedd7fbe66a5,"Thu, 15 May 2025 00:55:33 GMT","はじめに
+
+ AI開発の世界へ、ようこそ！その第一歩は「環境構築」から
+皆さん、こんにちは！今日から始まる新シリーズ「PythonとOpenAI APIで実践！はじめてのMCP（モデルコンテキストプロトコル）開発入門」へ、ようこそお越しくださいました。このシリーズでは、今話題のOpenAI APIを使いこなし、AIにこちらの意図や状況（コンテキスト）を的確に伝え、より賢い応答を引き出すための「モデ...",2025-05-15
+3fecb3031962a49f1a5e810dea1be0aa,Zenn_Python,生成AIアプリをゼロから作る（第1回）ColabとGradioで環境を整えよう,https://zenn.dev/ykoba933/articles/f6a64d7cd1bb3c,"Wed, 14 May 2025 10:10:29 GMT","こんにちは！この連載では、Python と Gradio、OpenAI API を使って、生成AIを活用した質問応答アプリを段階的に開発していきます。
+初学者でも取り組める内容になっているので、
+
+💡「生成AIって触ってみたいけど、何から始めればいいの？」
+💡「ChatGPTの仕組みをアプリで体験してみたい！」
+
+という方にぴったりの内容です。
+
+ はじめに
+この連載では「生成AIアプリの開発」に...",2025-05-15
+a6d11d0a98651273cb16bd3a4747548d,Zenn_Python,「y_hat」の意味と使い方：機械学習・統計モデリングにおける命名の基礎,https://zenn.dev/kotai/articles/bc0ef81b8ad060,"Wed, 14 May 2025 03:37:02 GMT","Pythonなどのコードを読んでいると、y_hat や theta_hat といった変数名を目にすることがあります。この「_hat」という接尾辞には、単なる命名の癖以上の意味が込められています。
+本記事では、統計・機械学習における「_hat」の由来とその使い方について、数学的背景から解説します。
+
+
+ 1. 数学における「hat（ハット）」の意味
+もともと「hat（帽子）」という言葉は、数学や統計...",2025-05-15
+f0c7b5da1fde4b0b7914ac1365611a5e,Zenn_Python,【PyTorch】モデルの中間層の出力を取得する「Hook」の使い方：ResNetでの具体例付き,https://zenn.dev/kotai/articles/91bca72e931da0,"Tue, 13 May 2025 17:14:05 GMT","PyTorchで深層学習モデルの**中間層の出力（特徴量）**を取得したいとき、モデル構造を壊さずにアクセスできるのが「Hook（フック）」です。
+この記事では、WideResNet50 を例にとって、forward_hook を使って中間特徴マップを抽出する方法を、実用コードとともに解説します。
+
+ 0.Hookとは？なぜ使うのか？
+PyTorchの Hook（フック） とは、モデルの 特定の層...",2025-05-15
+ad9579718754d09caa233784c3d403bc,Zenn_GCP,Cloud Run Functions + SendGrid で Cloud SQLの監視メールを自動送信する,https://zenn.dev/cloud_ace/articles/send-monitoring-resource,"Wed, 14 May 2025 05:49:27 GMT","1. はじめに
+クラウドエース安田です。
+システム運用においては、Cloud SQL などのリソースの稼働状況や異常をいち早く把握し、迅速に対応することが重要です。そのため、監視結果を定期的にメールで受け取ることで、運用担当者が異常や傾向変化にすぐ気付き、障害の予防や早期対応につなげることができます。
+しかし、こうした監視メールを人力で送る運用では、手間やミスが発生しやすく、運用負荷も高まります。...",2025-05-15
+e570ca92b1d5a4cf552a29b3ca02c692,Zenn_GCP,【初学者向け】Compute Engine のセキュリティ周りの設定を解説,https://zenn.dev/cloud_ace/articles/31a50a27b22fc8,"Tue, 13 May 2025 06:27:46 GMT","はじめに
+こんにちは。クラウドエースの中野（大）です。
+今回は Google Cloud の Compute Engine のセキュリティ周りの設定について書いていきたいと思います。
+
+ Compute Engine のセキュリティ
+クラウド上の仮想サーバは、設定次第で意図しないアクセスや攻撃のリスクに晒される可能性があります。適切なセキュリティ設定は、データ漏洩やサービス停止を防ぐために不可欠で...",2025-05-15
+e789acda43c9acc2045402ae53c6e940,Zenn_GCP,Airbyte を使った Shopify/Google スプレッドシート → BigQuery データ転送,https://zenn.dev/tsuzucle_tech/articles/63807acdbdda8d,"Mon, 12 May 2025 07:25:33 GMT","こんにちは🐍
+株式会社 Tsuzucle SPRING 開発事業部にフリーランスインフラエンジニアとして参画している はらしゅん です。
+今回は案件で Airbyte を使って、Shopify や Google スプレッドシート上のデータを BigQuery や RDB に転送する仕組みを構築しました。
+
+最新の Airbyte 1.5.0 を IaaS（GCE, EC2 等）にインストールする方...",2025-05-15
+422267e30b84ec5a2a0c03af0e45ada7,Zenn_GCP,【読書感想文】Google Cloud ではじめる実践データエンジニアリング入門,https://zenn.dev/t_hayashi/articles/a06452ba42f993,"Mon, 12 May 2025 04:04:18 GMT","読書感想文シリーズの第二弾として、「Google Cloud ではじめる実践データエンジニアリング入門」 について書いていこうと思います。
+こちらの書籍は 2021 年 2 月に第一版が出版されました。そこから 3 年の月日が経ち、2024 年の 10 月の最新の Google Cloud サービスをもとにアップデートされた第二版が今年 1 月に出版されました。
+
+読んでみた所感として、Googl...",2025-05-15
+63f9d861db58aa185ed24b63f5766aee,Zenn_GCP,Google CloudのVector StoreでRAG Agentsを構築する【Cloud SQL for PostgreSQL編】,https://zenn.dev/asap/articles/ce3c4bdc759b90,"Mon, 12 May 2025 00:58:56 GMT","はじめに
+今回の記事は、これまでの記事の続編です。
+https://zenn.dev/asap/scraps/2702046ad34245
+前回の記事では、Google CloudのBigQueryというサービスをVector Storeとして利用し、Google Cloud Strage（GCS）上のドキュメントを参照するRAGのシステムを構築しました。
+今回は、Vector Storeとして、...",2025-05-15
+2d59cabd21abd7c02fd0f0892da7b736,Zenn_GCP,Google Cloud Next 25参加レポート: 生成AIワークロードにおけるSREとセキュリティについて学んできた,https://zenn.dev/10q89s/articles/b591eec1c6b4fa,"Sun, 11 May 2025 23:00:05 GMT","はじめに
+こんにちは、URBAN HACKSでインフラエンジニアをしています安坂です。
+2025年4月にラスベガスで開催されたGoogle Cloud Next 25に参加してきました！
+参加の主目的は担当プロジェクト及び組織横断で活用できるナレッジの獲得で、個人的な裏テーマとして生成AI時代におけるインフラエンジニアの在り方について解像度を上げることも掲げておりました。
+この記事では、特に印象に...",2025-05-15
+22a3e247c9539b56335fa51e927818ad,Zenn_GCP,Cloud SQL上のMySQLでGRANT ALL ON *.*が使えない,https://zenn.dev/t0mzenn/articles/281fbe02ceb520,"Sun, 11 May 2025 13:10:49 GMT","事象
+Google CloudのCloud SQLでMySQL 5.7を使っていましたが、拡張サポートにより費用が2倍程度高くなりそうでしたので、MySQL 8.0にアップグレードしました。
+MySQL 8.0にアップグレード後GRANT ALL ON *.* 'ユーザー名'でユーザーに全権限を付与しようとしましたが、エラーになりはじかれてしまいました。
+
+ 原因
+Cloud SQL上のMySQL...",2025-05-15
+bcedb127b3dd29d8d3be9c4cba69d237,Zenn_GCP,無料で使うための個人開発技術スタック,https://zenn.dev/o_ga/articles/d4d08897cafdda,"Sat, 10 May 2025 14:05:53 GMT","最近Zenn上で無料縛りの個人開発技術スタックの記事がいくつか挙がっていましたので、便乗します。
+また、以下の記事に「案４」Google Cloudがねぇーじゃねーか！と思ったので、この記事を書いています。
+https://zenn.dev/tak720/articles/bac40312c25c06
+その他の無料縛りの個人開発技術スタックの記事
+https://zenn.dev/m4gnett/...",2025-05-15
+1dbd4f2256ca544e55278ebd5fe15f56,Zenn_GCP,PostgreSQL Row-Level Securityで爆速マルチテナントSaaSを作る話❤️‍🔥,https://zenn.dev/koshiosaki/articles/3af31b199bd210,"Sat, 10 May 2025 06:41:48 GMT","「マルチテナント？　別テーブル分割？　ビュー？　面倒くさッ 💢」って毎回叫んでた私ですが、PostgreSQL の Row-Level Security (以下 RLS) を真面目に触ったら コード 3 行でデータ分離できて泣いた ( ᐢ o̴̶̷̤ ̫ o̴̶̷̤ ᐢ )。
+この記事では Go + GCP Cloud SQL + Docker という“よくある構成”で、RLS だけでテナント隔離...",2025-05-15
+ca60787fe5e7a46c2cba954db152d719,Zenn_GCP,MCP プロトコルの内部動作を理解する,https://zenn.dev/hogeticlab/articles/6990dd2fd5d1aa,"Fri, 09 May 2025 02:09:57 GMT","はじめに
+Google Next 2025 でも AI 関連の発表が数多くありました。
+その中でも AI Agent 開発周りでも多くの発表があり、A2A プロトコルが発表されました。
+A2A プロトコルは MCP プロトコルを補完する機能という説明があったため、改めて MCP を利用するだけでなく、開発保守などを実施していく観点から詳細を調べてみることにしました。
+
+ 準備
+MCP サーバーとそ...",2025-05-15
+99c0804e8b06814bd64fac93fa344499,Zenn_GCP,pkcs11-toolを通じてGoogle Cloud HSMを使ったAES-CBC暗号化・複合をしてみた,https://zenn.dev/inop/articles/1b073ac6824390,"Fri, 09 May 2025 00:32:17 GMT","概要
+OpenSSLとクラウドHSMやYubiKeyを連携可能にするOpenSSL Engine APIとはで述べたように、GoogleはGoogle Cloud上のHSM（Hardware Security Module）を使った署名や暗号化をPKCS#11というインターフェイスを通じて操作可能にするライブラリGoogle PKCS #11 Cloud KMS Libraryを提供している。
+こ...",2025-05-15
+f83244ee01fab273d3bbff877b580f99,Zenn_GCP,チームの“秘伝のタレ”を Gemini に継承！Code Customization 実践ガイド,https://zenn.dev/google_cloud_jp/articles/02515ec66a13d1,"Thu, 08 May 2025 15:02:33 GMT","はじめに
+あなたのチームにも、大切にしている独自のコーディングスタイルや共通ライブラリ、いわば “秘伝のタレ” と呼べるような特別なノウハウがありませんか？そうしたチーム固有の 貴重な開発資産 を Gemini にしっかりと “継承” させ、AI による開発支援のポテンシャルを最大限引き出す機能 が、Gemini Code Asssit の Code Customization です。
+本記事は、...",2025-05-15
+fe5b9c519be17753af8d67e3ea25df90,Zenn_GCP,【Google Cloud】用語を整理して学ぶGemini Code Assist,https://zenn.dev/ymd65536/articles/learn_gemini_code_assist,"Thu, 08 May 2025 04:57:30 GMT","この記事で伝えたいこと（ポイント）
+
+Gemini Code Assistについて説明しているよ
+具体的な購入方法や注意点についても触れているよ
+参考文献も載せているよ
+
+
+ はじめに
+この記事ではGoogle Cloudが提供するGemini Code Assistを学習していく内容となっています。
+主な内容としては実践したときのメモを中心に書きます。（忘れやすいことなど）
+誤りなどがあれば修正...",2025-05-15
+3f521c48e067a26959ef66703cdd5609,Zenn_GCP,【Google Cloud Next 25 in Las Vegas】エンジニア出張徹底ガイド　④ セッション2日目編,https://zenn.dev/hogeticlab/articles/cc68c12598048c,"Thu, 08 May 2025 03:00:02 GMT","1. はじめに
+株式会社 MBK デジタルの古畑です。
+ラスベガスで開催された Google Cloud Next'25 に現地参加してきましたので、今回はその様子について共有させていただきます。
+全部で1週間ほどの内容になるため、7記事に分けようと考えています。
+本記事ではセッション2日目編について扱います。
+
+海外出張準備
+渡航・ホテル編
+セッション1日目編
+セッション2日目編
+セッション3日...",2025-05-15
+76b27b278b13591566977eacf084cfa5,Zenn_GCP,Cloud Runでリージョン情報を返却する,https://zenn.dev/rescuenow/articles/5d7904bccc4690,"Thu, 08 May 2025 01:09:00 GMT","概要
+メタデータサーバを使って、Cloud Runでデプロイされたアプリケーションのリージョン情報を動的に取得して返す方法をまとめました。
+
+ メタデータサーバとは
+実行中のインスタンスに関する様々な情報を取得できるサーバです。Cloud Runの場合、プロジェクト ID、リージョン、インスタンスID、サービスアカウントなどの情報が提供されています。
+詳細は下記をご参照ください。
+https://...",2025-05-15
+7fcd8213637dbfdffbc3ab9aebbe1566,Zenn_GCP,【合格体験記】インフラ苦手やったけどGoogle Professional Cloud Developerを1ヶ月で取得した話,https://zenn.dev/monta107/articles/0357c96e3fcee3,"Thu, 08 May 2025 00:16:54 GMT","こんにちは。もんた、です。
+今回はGoogle Professional Cloud Developerの資格を1ヶ月（ちょい）勉強したらなんか取れたので、最もシンプルにGPCDを取得する方法を皆さんに共有できたらなと思っております。
+!
+🐶「タイトルに（ちょい）がないのは許して！」
+
+この記事は以下の構成となっています。
+
+学習ステップ編
+個人的にやってよかったこと編
+
+一応取得した証拠だけ貼っ...",2025-05-15
+a6d6f9c5bb5050468d1107ddaa57d0db,GCP_Blog,Expanding our Risk Protection Program with new insurance partners and AI coverage,https://cloud.google.com/blog/products/identity-security/whats-new-with-google-clouds-risk-protection-program/,"Thu, 15 May 2025 18:00:00 +0000","Today’s businesses have a vital need to manage and, when appropriate, transfer cyber risk in their cloud environments — even with robust security measures in place. At Google Cloud Next last month, we...",2025-05-15
+40ff789e7989ac11d3197f2557a8fee7,GCP_Blog,"Simplify database fleet management with AI-powered Database Center, now GA",https://cloud.google.com/blog/products/databases/database-center-is-now-generally-available/,"Thu, 15 May 2025 16:00:00 +0000","At Google Cloud Next 25, we announced the general availability of Database Center, an AI-powered unified fleet management solution that simplifies all aspects of database fleet management including mo...",2025-05-15
+98049976ca7ddbc0984f03449cfe37cc,GCP_Blog,Google Cloud Marketplace simplifies deals and improves economics,https://cloud.google.com/blog/topics/partners/upgrades-to-google-cloud-marketplace-for-partners/,"Thu, 15 May 2025 16:00:00 +0000",Google Cloud Marketplace – a universal catalog of solutions from Google and our partners – is an integral part of how we go-to-market with our valued partner ecosystem.  We are excited to expand Googl...,2025-05-15
+52cfd181ce8d0d423ec0136051833d37,GCP_Blog,Introducing Cassandra-compatible APIs in Spanner for zero-code-change migration,https://cloud.google.com/blog/products/databases/introducing-cassandra-compatible-api-in-spanner/,"Thu, 15 May 2025 16:00:00 +0000","You heard at Next ‘25 that native support for the Cassandra Query Language (CQL) API in Spanner is available in preview, providing near-zero code-change application migration, along with a suite of co...",2025-05-15
+95e77eb9a4fed462f817a522739fc2b0,GCP_Blog,Unlock software delivery excellence and quality with Gemini Code Assist agents,https://cloud.google.com/blog/topics/developers-practitioners/read-doras-latest-research-on-software-excellence/,"Wed, 14 May 2025 16:00:00 +0000","According to DORA’s latest research – the Impact of Generative AI in Software Development report – AI tools are making software developers feel more productive, focused, and satisfied. They're even wr...",2025-05-15
+9a875e3a1b30034ee187b9023a3349af,GCP_Blog,A guide to Google ADK and MCP integration with an external server,https://cloud.google.com/blog/topics/developers-practitioners/use-google-adk-and-mcp-with-an-external-server/,"Wed, 14 May 2025 16:00:00 +0000","For AI-powered agents to perform useful, real-world tasks, they need to reliably access tools and up-to-the-minute information that lives outside the base model. Anthropic’s Model Context Protocol (MC...",2025-05-15
+3e011df555e56a4382ad11d54923ddc0,GCP_Blog,Google Cloud announces first-of-its-kind generative AI leader certification,https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-certification-in-generative-ai/,"Wed, 14 May 2025 13:00:00 +0000","Organizations are rapidly integrating generative AI in ways that directly impact all employees, not just technical teams. We’re seeing this across a variety of customer use cases. For instance, Mark C...",2025-05-15
+32377197881d0d62e03653ec0eff3a8d,GCP_Blog,"Cool stuff customers built, May edition: Visual scouts, racing agents, agile ads & more",https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up/,"Tue, 13 May 2025 16:00:00 +0000","AI and cloud technology are reshaping every corner of every industry around the world. Without our customers, there would be no Google Cloud, as they are the ones building the future on our platform. ...",2025-05-15
+09d3d507667e278fde19dc1e5030a49f,GCP_Blog,Evaluate your gen media models with multimodal evaluation on Vertex AI,https://cloud.google.com/blog/products/ai-machine-learning/evaluate-your-gen-media-models-on-vertex-ai/,"Tue, 13 May 2025 16:00:00 +0000","The world of generative AI is moving fast, with models like Lyria, Imagen, and Veo now capable of producing stunningly realistic and imaginative images and videos from simple text prompts. However, ev...",2025-05-15
+eb74a91c26af9bd6862cc8f87b4fe3b3,GCP_Blog,Announcing open-source enhancements to LangChain PostgreSQL,https://cloud.google.com/blog/products/ai-machine-learning/open-source-enhancements-to-langchain-postgresql/,"Tue, 13 May 2025 16:00:00 +0000","At Google Cloud Next ‘25, we announced upgrades to the core LangChain Postgres package and became a major contributor to the library. These improvements underscore our vision that every application de...",2025-05-15
+346506ffb26f5b697bed28c0df37b0bd,GCP_Blog,Democratizing database observability with AI-assisted troubleshooting,https://cloud.google.com/blog/products/databases/inside-ai-assisted-troubleshooting-for-databases/,"Tue, 13 May 2025 16:00:00 +0000","As organizations adopt DevOps practices, application developers are increasingly expected to not only build applications but also manage and operate the databases they use. This added responsibility c...",2025-05-15
+6ce4e128164ffe40681791cf7ea02e2f,GCP_Blog,"Understand why your metrics moved with contribution analysis in BigQuery ML, now GA",https://cloud.google.com/blog/products/data-analytics/bigquery-ml-contribution-analysis-models-now-ga/,"Mon, 12 May 2025 16:00:00 +0000","The key to effective data-driven decision making is quickly processing and extracting insights from large amounts of data. However, doing this efficiently and at scale is a challenge. 
+Imagine a retai...",2025-05-15
+3e9625e08387f41d8517cbd4355eee50,GCP_Blog,"Inside Infinity Learn's AI Tutor, powered by Google Cloud",https://cloud.google.com/blog/products/ai-machine-learning/how-ai-can-redefine-education-for-students/,"Mon, 12 May 2025 16:00:00 +0000","Late-night study sessions, complex equations, and immense pressure: for millions of students in India, the IIT JEE Main exam and NEET for medical colleges are critical gateways for their futures. Exam...",2025-05-15
+6f18905d2288820cfdc8421e35dfd4eb,GCP_Blog,Multi-cloud AI made easier: Aiven for AlloyDB Omni now generally available,https://cloud.google.com/blog/products/databases/aiven-for-alloydb-omni-now-ga/,"Mon, 12 May 2025 16:00:00 +0000","Building modern, data-driven applications requires a database that can handle transactional, analytical, and vector search workloads, especially as AI and machine learning become increasingly vital. Y...",2025-05-15
+10a692e98f50fcf612b82037b52b0488,GCP_Blog,What’s new with Google Cloud,https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/,"Fri, 09 May 2025 16:00:00 +0000","Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip: Not...",2025-05-15
+ca012153e7fbc69aebeee6c52e91e535,GCP_Blog,From LLMs to image generation: Accelerate inference workloads with AI Hypercomputer,https://cloud.google.com/blog/products/compute/ai-hypercomputer-inference-updates-for-google-cloud-tpu-and-gpu/,"Fri, 09 May 2025 16:00:00 +0000","From retail to gaming, from code generation to customer care, an increasing number of organizations are running LLM-based applications, with 78% of organizations in development or production today. As...",2025-05-15
+cfc32765fa7e356d87231612afacd87b,GCP_Blog,Expanding BigQuery geospatial capabilities with Earth Engine raster analytics,https://cloud.google.com/blog/products/data-analytics/a-closer-look-at-earth-engine-in-bigquery/,"Thu, 08 May 2025 16:00:00 +0000","At Google Cloud Next 25, we announced a major step forward in geospatial analytics: Earth Engine in BigQuery. This new capability unlocks Earth Engine raster analytics directly in BigQuery, making adv...",2025-05-15
+cd090a4af19b46e2ee9e2e84e55bad2c,GCP_Blog,New column-granularity indexing in BigQuery offers a leap in query performance,https://cloud.google.com/blog/products/data-analytics/search-indexes-with-column-granularity-in-bigquery/,"Thu, 08 May 2025 16:00:00 +0000","BigQuery delivers optimized search/lookup query performance by efficiently pruning irrelevant files. However, in some cases, additional column information is required for search indexes to further opt...",2025-05-15
+340b8df063aeab5e2fc408d1ade1043e,GCP_Blog,How Looker’s semantic layer enables trusted AI for business intelligence,https://cloud.google.com/blog/products/business-intelligence/how-lookers-semantic-layer-enhances-gen-ai-trustworthiness/,"Wed, 07 May 2025 16:00:00 +0000","In the AI era, where data fuels intelligent applications and drives business decisions, demand for accurate and consistent data insights has never been higher. However, the complexity and sheer volume...",2025-05-15
+bae0bfe2c239e158f13196f7308fdf95,GCP_Blog,Guide to build MCP servers using vibe coding with Gemini 2.5 Pro,https://cloud.google.com/blog/products/ai-machine-learning/build-mcp-servers-using-vibe-coding-with-gemini-2-5-pro/,"Wed, 07 May 2025 16:00:00 +0000","Have you ever had something on the tip of your tongue, but you weren’t exactly sure how to describe what’s in your mind? 
+For developers, this is where ""vibe coding "" comes in. Vibe coding helps devel...",2025-05-15
+75c90f236de6caad7e319b677e687e08,GCP_Japan,Palo Alto Networks が生成 AI を製品化するまでの道のり,https://cloud.google.com/blog/ja/topics/partners/how-palo-alto-networks-builds-gen-ai-solutions/,"Thu, 15 May 2025 03:50:00 +0000","※この投稿は米国時間 2025 年 5 月 3 日に、Google Cloud blog に投稿されたものの抄訳です。
+ 
+Google Cloud は、プロトタイプから本番環境への移行プロセスを提供することで、企業が生成 AI のイノベーション サイクルを加速できるよう支援しています。世界規模の大手サイバーセキュリティ企業である Palo Alto Networks は、Google Cloud...",2025-05-15
+d2a56bf6ed6a2170a095c37459f21b14,GCP_Japan,Cloud WAN: プレミアム ティアと Verified Peering Provider で信頼性の高いグローバル接続を実現,https://cloud.google.com/blog/ja/products/networking/premium-tier-and-verified-peering-providers-enable-cloud-wan/,"Thu, 15 May 2025 03:30:00 +0000","※この投稿は米国時間 2025 年 5 月 1 日に、Google Cloud blog に投稿されたものの抄訳です。
+先日の Google Cloud Next 25 で、Google は最新のクロスクラウド ネットワーク イノベーションとなる Cloud WAN を発表しました。これは、企業の広域ネットワーク（WAN）アーキテクチャを変革する、信頼性とセキュリティに優れたフルマネージド ソリュ...",2025-05-15
+b1276ccc609f5c60fa5ed111799ca82a,GCP_Japan,Expo 最新情報！クラウドと AI の未来を冒険しよう,https://cloud.google.com/blog/ja/topics/next-tokyo/expo-updates-released/,"Thu, 15 May 2025 02:00:00 +0000",生成 AI や最新のクラウドを体験！ エキスパートと交流し、AI エージェント開発の課題を解決へ。2025 年 8 月 5 日（火）、 6 日（水）に、旗艦イベント Google Cloud Next Tokyo を開催します。Expo 最新情報を公式サイトにて発表しました。Google Cloud やスポンサー ブースでは最新技術をデモで体験し、エキスパートに質問もできます。また、Expo 内で...,2025-05-15
+92c041d1143ceb275305769026b77161,GCP_Japan,マルチモーダル データ サイエンス時代に対応した BigQuery DataFrames 2.0 のご紹介,https://cloud.google.com/blog/ja/products/data-analytics/a-closer-look-at-bigquery-dataframes-2-0/,"Thu, 15 May 2025 01:20:00 +0000","※この投稿は米国時間 2025 年 4 月 29 日に、Google Cloud blog に投稿されたものの抄訳です。
+データ サイエンティストや ML エンジニアにとって、Python での分析とモデルの構築は第二の天性のようなもので、データ サイエンス コミュニティにおける Python の人気は、最近の生成 AI ブームに乗って急上昇しています。データ サイエンスの未来は、もはや整然と並ん...",2025-05-15
+626101a712721bc8bf48209f05506e8e,GCP_Japan,BigQuery 統合ガバナンスの概要: ユニバーサル、インテリジェント、オープン,https://cloud.google.com/blog/ja/products/data-analytics/announcing-intelligent-unified-governance-in-bigquery/,"Thu, 15 May 2025 01:18:00 +0000","※この投稿は米国時間 2025 年 4 月 11 日に、Google Cloud blog に投稿されたものの抄訳です。
+データは AI において重要な基盤ですが、膨大な量のデータの潜在能力は未だ活用されていません。その理由は、データ品質が依然として最大の障壁となっているためです。エンタープライズ データを使用して分析に基づく意思決定につなげ、差別化された AI を構築するには、企業は、データアセ...",2025-05-15
+17443f9d6d479244b081bf9c5b7b8ffe,GCP_Japan,Gemini 2.5 Pro でバイブ コーディングを使用して MCP サーバーを構築するためのガイド,https://cloud.google.com/blog/ja/products/ai-machine-learning/build-mcp-servers-using-vibe-coding-with-gemini-2-5-pro/,"Thu, 15 May 2025 01:17:00 +0000","※この投稿は米国時間 2025 年 5 月 8 日に、Google Cloud blog に投稿されたものの抄訳です。
+頭の中にあるアイデアを、どうやって言葉で説明したらいいかわからないという経験はありませんか？
+このような場合に開発者が活用できるのが「バイブ コーディング」です。Gemini 2.5 Pro などのモデルでバイブ コーディングを活用すると、自然言語のプロンプトでコードを生成して、...",2025-05-15
+6128148ca28801d9ecae561c63b65554,GCP_Japan,IAM、アクセスリスク、クラウド ガバナンスの最新情報,https://cloud.google.com/blog/ja/products/identity-security/whats-new-in-iam-access-risk-and-cloud-governance/,"Thu, 15 May 2025 01:16:00 +0000","※この投稿は米国時間 2025 年 5 月 2 日に、Google Cloud blog に投稿されたものの抄訳です。
+お客様が進化するポリシー、コンプライアンス、ビジネスの目標を達成できるよう支援することは、Google Cloud の中核的な使命です。Google は、お客様のクラウド環境のセキュリティをさらに強化できるよう、クラウド プラットフォーム上で新しいセキュリティ制御と機能を定期的に...",2025-05-15
+e32a808de856ea5e4d090233c3cf54fa,GCP_Japan,SandboxAQ: クラウド インテグレーションによる創薬の加速,https://cloud.google.com/blog/ja/products/infrastructure-modernization/sandboxaq-speeds-up-drug-discovery-with-the-cloud/,"Thu, 15 May 2025 01:15:00 +0000","※この投稿は米国時間 2025 年 4 月 30 日に、Google Cloud blog に投稿されたものの抄訳です。
+従来の創薬プロセスは、莫大な資本投資が必要で、開発期間が長期にわたり、高い失敗率に悩まされています。新薬を市場に出すには、初期の研究から規制当局の承認を得るまで、数十年かかることもあります。この期間中、非常に期待されていた新薬候補の多くが、効果が不十分であったり、安全性に関する...",2025-05-15
+538caaed0e24a6abed56938adafd236e,GCP_Japan,Maps OnAir - Google Maps Platform 最前線：新しい地理空間データ分析製品とユースケースを徹底解説,https://cloud.google.com/blog/ja/products/maps-platform/jp-q2-2025-business-webinar/,"Thu, 15 May 2025 01:10:00 +0000","本ウェビナーでは、2025 年 4 月 9 日 - 11 日にラスベガスで行われた Google Cloud Next にて発表された Google Maps Platform の新機能の中から、特に注目すべき機能について詳しくご紹介いたします。新しい地理空間分析機能: Places, Imagery, Road Management の 3 つのカテゴリのデータを BigQuery 上で取り扱え...",2025-05-15
+24c15a0e5d538b17daad5982e3cfeff5,GCP_Japan,BigQuery で Imagery Insights を: AI を活用したインフラストラクチャ管理,https://cloud.google.com/blog/ja/products/maps-platform/introducing-imagery-insights-in-bigquery-ai-powered-infrastructure-management/,"Thu, 15 May 2025 01:02:00 +0000","※この投稿は米国時間 2025 年 4 月 10 日に、Google Maps Platform blog に投稿されたものの抄訳です。
+物理的なインフラストラクチャのメンテナンスや、その状態を把握することは、これまで以上に重要になっています。しかし、インフラストラクチャの管理事業者は、リモート センシング技術の進歩による効果とそのメリットを拡張するうえで、大きな課題に直面することがよくあります。...",2025-05-15
+a0a5db07317f682d5bf0371f19fa6234,GCP_Japan,Google for Startups Accelerator: AI ファースト UK の最初のコホート企業を選出,https://cloud.google.com/blog/ja/topics/startups/announcing-the-first-cohort-of-the-google-for-startups-accelerator/,"Thu, 15 May 2025 01:00:00 +0000","※この投稿は米国時間 2025 年 4 月 29 日に、Google Cloud blog に投稿されたものの抄訳です。
+Google は、人類が直面している大きな課題に、AI を活用して取り組む人々や創業者を支援することを重視しています。Google for Startups Accelerator: AI ファースト プログラムを通じた次世代 AI リーダーの支援もそのためです。このプログラム...",2025-05-15
+8659cb0d41dbfc5f413f77fa12cc1d4d,GCP_Japan,Google Maps Platform Weather API のご紹介: 天候認識機能を備えたユーザー向けソリューションの構築,https://cloud.google.com/blog/ja/products/maps-platform/introducing-the-google-maps-platform-weather-api-build-weather-aware-solutions/,"Thu, 15 May 2025 01:00:00 +0000","※この投稿は米国時間 2025 年 4 月 14 日に、Google Maps Platform blog に投稿されたものの抄訳です。
+Google Maps Platform を利用することによって、デベロッパーは、250 を超える国と地域にわたる 2 億 5,000 万以上の場所に関する情報に基づいて有益なエクスペリエンスを構築することを可能にします。しかし、こうした情報をすべて把握していて...",2025-05-15
+e0e55e710965c36db9e2ebbe7ca27483,GCP_Japan,BigQuery のインデックスが列情報に対応し、クエリのパフォーマンスが飛躍的に向上,https://cloud.google.com/blog/ja/products/data-analytics/search-indexes-with-column-granularity-in-bigquery/,"Wed, 14 May 2025 03:00:00 +0000","※この投稿は米国時間 2025 年 5 月 9 日に、Google Cloud blog に投稿されたものの抄訳です。
+BigQuery では、検索クエリやルックアップ クエリの実行時に、無関係のファイルをあらかじめ除外することで、パフォーマンスを最適化しています。ただし、クエリ パフォーマンスをさらに最適化するために、検索インデックスに列情報を追加する必要があることもあります。Google はこ...",2025-05-15
+e3c13cfd93c4058f43e455da031279c7,GCP_Japan,Vertex AI Gemini Live API で音声駆動型エージェント アプリケーションを構築する,https://cloud.google.com/blog/ja/products/ai-machine-learning/build-voice-driven-applications-with-live-api/,"Wed, 14 May 2025 03:00:00 +0000","※この投稿は米国時間 2025 年 5 月 6 日に、Google Cloud blog に投稿されたものの抄訳です。
+あらゆる業界で、効率的でプロアクティブなソリューションが求められています。現場のプロフェッショナルが音声コマンドと視覚的な入力を使用して問題をリアルタイムに診断し、重要な情報にアクセスしてプロセスを始動できたら、どんなに便利か想像してみてください。Gemini 2.0 Flash...",2025-05-15
+43709897aeb5f9b00be0cf654bd9d6ad,GCP_Japan,Gemini、Gemma、翻訳 LLM、Model Context Protocol を使用して、さまざまな言語を話す chatbot を作成する,https://cloud.google.com/blog/ja/products/ai-machine-learning/build-multilingual-chatbots-with-gemini-gemma-and-mcp/,"Tue, 13 May 2025 03:30:00 +0000","※この投稿は米国時間 2025 年 5 月 3 日に、Google Cloud blog に投稿されたものの抄訳です。
+すべてのお客様が同じ言語を話すとは限りません。国際的に事業を展開している場合や多様な顧客ベースにサービスを提供している場合、お客様が検索に使用している言語がスペイン語であれ日本語であれ、chatbot はお客様の使用言語に対応する必要があります。chatbot でお客様に多言語サ...",2025-05-15
+053e617c83cf1c3b96d78743e0d08525,GCP_Japan,分析情報からアクションへ: M-Trends とエージェント AI、そして防御者を支援する Google の取り組み（RSAC 2025）,https://cloud.google.com/blog/ja/products/identity-security/from-insight-to-action-m-trends-agentic-ai-and-how-were-boosting-defenders-at-rsac-2025/,"Tue, 13 May 2025 01:04:00 +0000","※この投稿は米国時間 2025 年 4 月 29 日に、Google Cloud blog に投稿されたものの抄訳です。
+サイバーセキュリティは今特別な局面を迎えています。AI で強化された脅威インテリジェンス、プロダクト、サービスにより、防御者はこれまで捕捉できなかった脅威に対して優位に立てるようになりました。
+AI 時代のセキュリティ チームとビジネス リーダーをサポートするため、また進化する...",2025-05-15
+0ee354077b734190f55bc5942efd8520,GCP_Japan,AI と BI の融合: Gemini in Looker の詳細,https://cloud.google.com/blog/ja/products/data-analytics/gemini-in-looker-deep-dive/,"Tue, 13 May 2025 01:03:00 +0000","※この投稿は米国時間 2025 年 4 月 16 日に、Google Cloud blog に投稿されたものの抄訳です。
+ビジネス インテリジェンス（BI）の環境は、生成 AI のイノベーションに後押しされて大きな変革期を迎えています。企業は、新しい直感的な方法でデータ インサイトを組織にもたらすことを目指し、組織のより多くの部門でインサイトを発見することをこれまで妨げてきた障壁を引き下げようとし...",2025-05-15
+c5996c22f315411c2262a8edcbdedd36,GCP_Japan,セキュリティ サービス エッジ（SSE）と Cloud WAN のクラウドネイティブな統合を発表,https://cloud.google.com/blog/ja/products/networking/ncc-gateway-for-cloud-wan-helps-secure-network-access/,"Tue, 13 May 2025 01:02:00 +0000","※この投稿は米国時間 2025 年 4 月 15 日に、Google Cloud blog に投稿されたものの抄訳です。
+先週開催された Google Cloud Next 25 で、Google は Cloud WAN を発表しました。これはエンタープライズ広域ネットワーク（WAN）アーキテクチャ向けに提供される信頼性とセキュリティに優れたフルマネージド ソリューションであり、Google の地...",2025-05-15
+ac0c0b15b5343ce06e2d67653fc75ff6,GCP_Japan,熱を帯びる AI インフラストラクチャに効果的な新しい電力分配と液体冷却のインフラストラクチャ,https://cloud.google.com/blog/ja/topics/systems/enabling-1-mw-it-racks-and-liquid-cooling-at-ocp-emea-summit/,"Tue, 13 May 2025 01:01:00 +0000","※この投稿は米国時間 2025 年 4 月 30 日に、Google Cloud blog に投稿されたものの抄訳です。
+AI がコンピューティング環境を根本的に変え、データセンター インフラストラクチャにはかつてないほどの進歩が求められています。Google は、AI の継続的なスケーリングにとって、物理的なインフラストラクチャ（全体を支える電力、冷却、機械の各システム）は単に重要であるだけでな...",2025-05-15
+2022d197adf32f94592ace8dd5be5999,GCP_Japan,FinOps ハブ 2.0 で春の大掃除,https://cloud.google.com/blog/ja/topics/cost-management/spring-cleaning-with-finops-hub/,"Tue, 13 May 2025 01:00:00 +0000","※この投稿は米国時間 2025 年 4 月 17 日に、Google Cloud blog に投稿されたものの抄訳です。
+春と言えば、大掃除の季節です。家庭内で毎年やるように、仮想クラウド インフラストラクチャも大掃除してはいかがでしょうか。Google Cloud の FinOps ハブがお手伝いします。
+Google Cloud のお客様が FinOps ハブを利用して最適化に取り組むようにな...",2025-05-15
+612f4630d675098486ebe06312a60f0a,Ggen_Blog,Document AIで独自OCRモデルをトレーニングしてみた,https://blog.g-gen.co.jp/entry/train-custom-extractor-with-document-ai,2025-05-15T09:00:00+09:00,G-genの福井です。Google Cloud の Document AI を使い、独自 OCR モデルを開発する手順を紹介します。 はじめに 当記事の概要 Document AI とは カスタム エクストラクタとは 事前準備 サンプルレシート画像の準備 カスタム エクストラクタの作成 プロセッサの作成 ラベルの定義 データセットの準備とインポート アノテーション作業 デプロイ・テスト 基盤モデル...,2025-05-15
+61cf156f7283998a0c04433f7f58f2d1,Ggen_Blog,廃止されるGeminiモデルが組織で使われているか調べる方法,https://blog.g-gen.co.jp/entry/checking-usage-of-legacy-gemini-models,2025-05-14T09:00:00+09:00,G-genの杉村です。当記事では、Google Cloud の Gemini モデルなどの旧バージョンの廃止に関する注意点、そして組織内で該当モデルが使用されているかを確認する方法について解説します。 Gemini モデルのライフサイクルと廃止 廃止対象モデルとスケジュール 廃止予定モデルの使用状況確認方法 概要 課金レポートからの確認 データアクセス監査ログでの確認 推奨される対応 Gemini...,2025-05-15
+0ddd33e2b8d78551f9c4c33191b94a4a,Ggen_Blog,NotebookLMの情報整理と応用テクニック,https://blog.g-gen.co.jp/entry/organizing-information-with-notebooklm,2025-05-12T09:00:00+09:00,G-gen の溝口です。この記事では NotebookLM を使った情報整理と「Discover（ソースの発見）」「音声概要」「マインドマップ」などの応用機能を使った活用テクニックについて解説します。 NotebookLM とは Discover によるソース検索 音声概要の生成 マインドマップ NotebookLM とは NotebookLM とは、Google が提供している、AI を活用した...,2025-05-15
+6e19bbc02832e1f7cf9383466e3ffa71,Ggen_Blog,動的グループを使ってGoogleグループの管理を効率化してみた,https://blog.g-gen.co.jp/entry/google-workspace-dynamic-groups,2025-05-09T09:00:00+09:00,G-gen の三浦です。当記事では、Google Workspace の動的グループを使用し、Google グループのメンバー管理を自動化する方法を紹介します。 概要 動的グループとは 制約事項 検証内容 検証 動的グループの検証（ユーザーの属性ベース） 設定 動作確認 動的グループの検証（2段階認証が未登録のユーザー） 設定 動作確認 概要 動的グループとは 動的グループとは、Google Wo...,2025-05-15
+fd38965b83b38e96bdd4174949263f75,Ggen_Blog,Cloud RunでGemma 3を動かしてみた,https://blog.g-gen.co.jp/entry/gemma3-on-cloudrun,2025-05-08T09:00:00+09:00,G-gen の佐々木です。当記事では、Cloud Run における GPU 利用のユースケースとして、オープン LLM である Gemma 3 を Cloud Run のサービスにデプロイしてみます。 前提知識 Cloud Run サービスの概要 Cloud Run における GPU 利用 Gemma 3 Cloud Run にオープン LLM をデプロイするメリット 利用する Gemma 3 モ...,2025-05-15
+bc0a825b80bbc44d3d13da5de5697332,Ggen_Blog,ADKのSequential agentsを使って実装するマルチエージェント,https://blog.g-gen.co.jp/entry/using-adk-sequential-agents,2025-05-07T09:00:00+09:00,G-gen の堂原です。本記事では Google Cloud の Agent Development Kit の機能である、複数の AI エージェントを連携させる Sequential agents の概念と実装方法について、天気予報エージェントの開発を通して解説します。 概要 Agent Development Kit（ADK）とは Sequential agents 処理の概要 AI エージェ...,2025-05-15
+6b630fcb1e26227580e51ec7ed1243b1,Ggen_Blog,2025年4月のイチオシGoogle Cloudアップデート,https://blog.g-gen.co.jp/entry/update-in-this-month-2025-04,2025-05-01T09:00:00+09:00,G-gen の杉村です。2025年4月のイチオシ Google Cloud（旧称 GCP）アップデートをまとめてご紹介します。記載は全て、記事公開当時のものですのでご留意ください。 はじめに Google Cloud Next '25 が開催 IAM の基本ロールが刷新（Preview） BigQuery のユーザー定義関数（UDF）が Python に対応（Preview） BigQuery M...,2025-05-15
+309b707d134fb99020c222886e751b2d,Ggen_Blog,Agent Development Kitでエージェントを開発してAgent Engineにデプロイしてみた,https://blog.g-gen.co.jp/entry/how-to-deploy-adk-agent-to-agent-engine,2025-04-30T09:00:00+09:00,G-gen の堂原です。本記事では Google Cloud の Agent Development Kit を用いて開発したエージェントを、Vertex AI Agent Engine にデプロイし、呼び出す方法について紹介します。 はじめに 本記事の趣旨 Agent Development Kit Agent Engine ADK を用いた AI エージェント開発 Agent Engine へ...,2025-05-15
+a22528c3fb8a5c28a73e414d97057001,Ggen_Blog,Google Apps Managerを使ってGoogle Workspaceをコマンドラインで管理してみた,https://blog.g-gen.co.jp/entry/using-cli-for-google-workspace-with-gam,2025-04-25T09:00:00+09:00,G-gen の三浦です。当記事では Google Apps Manager（以下、GAM）を使用し、Google Workspace の設定をコマンドライン（以下、CLI）で管理する方法を紹介します。 概要 Google Apps Manager（GAM） とは 注意事項 検証内容 GAM のセットアップ [Google Cloud] GAM をインストール [Google Workspace] ...,2025-05-15
+bb837d17f076c66eee9d4485a3a5d970,Ggen_Blog,Conversational agents: Build and deploy no-code/low-code AI Agents（Google Cloud Next '25セッションレポート）,https://blog.g-gen.co.jp/entry/next-25-customer-engagement-suite,2025-04-22T09:00:00+09:00,G-gen の奥田です。本記事は Google Cloud Next '25 in Las Vegas の3日目に行われたブレイクアウトセッション「Conversational agents: Build and deploy no-code/low-code AI Agents」のレポートです。 他の Google Cloud Next '25 の関連記事は Google Cloud Next ...,2025-05-15
+279b4d3ca32bded8ad9874f092eca2f6,Ggen_Blog,Google Meetの文字起こしとGemini 2.5 Proによる議事録作成アプリ,https://blog.g-gen.co.jp/entry/automated-meeting-minutes-generation-with-gemini,2025-04-18T09:00:00+09:00,当記事では、Google Meet の文字起こし機能と、Google の最新 AI モデル Gemini 2.5 Pro を組み合わせた、議事録作成アプリの事例を紹介します。 はじめに 議事録作成アプリ なぜ議事録作成に AI なのか？ アプリを実装しない選択肢 Google Meet の文字起こし機能 主な特徴 文字起こしの開始方法 文字起こしのデータ Gemini 2.5 Pro による要約 ...,2025-05-15
+c10db549232f90908287961e54836bda,Ggen_Blog,Cross-Site Interconnectを解説。Googleのバックボーンネットワークを企業が利用可能に,https://blog.g-gen.co.jp/entry/cloud-wan-cross-site-interconnect-explained,2025-04-17T09:00:00+09:00,G-gen の杉村です。Google Cloud の Cloud WAN（Cloud Wide Area Network）の構成要素である、Cross-Site Interconnect を解説します。 概要 Cross-Site Interconnect とは 構成イメージ ユースケース 要件 構成要素 ワイヤー ワイヤーグループ クロスサイトネットワーク ワイヤーグループのトポロジ シングルワ...,2025-05-15
+de9a216e437de18e1380a87e7ef04351,Ggen_Blog,AI-powered cancer detection in medical imaging（Google Cloud Next '25セッションレポート）,https://blog.g-gen.co.jp/entry/next-25-hai-def-ai-powered-cancer-detection,2025-04-16T09:00:00+09:00,G-gen の奥田です。本記事は Google Cloud Next '25 in Las Vegas の3日目に行われたソリューショントーク「AI-powered cancer detection in medical imaging」 のレポートです。 他の Google Cloud Next '25 の関連記事は Google Cloud Next '25 カテゴリの記事一覧からご覧いただけ...,2025-05-15
+c0bdd092b8f5fbfad22851eb82d091de,Ggen_Blog,Cloud Run Threat Detectionを検証してみた,https://blog.g-gen.co.jp/entry/cloud-run-threat-detection,2025-04-15T09:00:00+09:00,G-gen の三浦です。当記事では、Cloud Run Threat Detection を検証した結果を紹介します。 概要 Cloud Run Threat Detection とは 2つの検出機能 Artifact Analysis との違い 注意事項 検証内容 検証 脅威検出機能の有効化 Cloud Run のデプロイ ディレクトリ構成 Dockerfile main.py requirem...,2025-05-15
+25464ae8fd517d186d188b2c3eb35fe4,Ggen_Blog,"What’s new with IAM and Org Policy : Access risk, at-scale governance and AI（Google Cloud Next '25セッションレポート）",https://blog.g-gen.co.jp/entry/next-25-whats-new-with-iam-and-org-policy,2025-04-14T11:20:30+09:00,"G-gen の山崎です。本記事は Google Cloud Next '25 in Las Vegas の1日目に行われたブレイクアウトセッション「What’s new with IAM and Org Policy : Access risk, at-scale governance and AI」のレポートです。 他の Google Cloud Next '25 の関連記事は Google C...",2025-05-15
+058908ab12a4da1225989a6775ad68b1,Ggen_Blog,What​​’s next for security professionals（Google Cloud Next '25セッションレポート）,https://blog.g-gen.co.jp/entry/next-25-what%E2%80%8B%E2%80%8Bs-next-for-security-professionals,2025-04-14T09:00:00+09:00,G-gen の道下です。本記事は Google Cloud Next '25 in Las Vegas の 2日目に行われたスポットライトセッション「What​​’s next for security professionals」のレポートです。 他の Google Cloud Next '25 の関連記事は Google Cloud Next '25 カテゴリの記事一覧からご覧いただけます。 ...,2025-05-15
+7f6594798f9b3767af617a161f5fcdf3,Ggen_Blog,Transform team collaboration with Gemini in Google Chat and Meet（Google Cloud Next '25セッションレポート）,https://blog.g-gen.co.jp/entry/next-25-gemini-in-google-chat-and-meet,2025-04-12T11:27:22+09:00,G-gen の横澤です。本記事は Google Cloud Next '25 in Las Vegas の2日目に行われたブレイクアウトセッション「Transform team collaboration with Gemini in Google Chat and Meet」のレポートです。 他の Google Cloud Next '25 の関連記事は Google Cloud Next '2...,2025-05-15
+30120ea67d7ef5a79ea933b5d4160bb1,Ggen_Blog,What’s new with Cloud Storage（Google Cloud Next '25セッションレポート）,https://blog.g-gen.co.jp/entry/next-25-whats-new-with-cloud-storage,2025-04-11T23:33:12+09:00,G-gen の道下です。本記事は Google Cloud Next '25 in Las Vegas の 1日目に行われたブレイクアウトセッション「What’s new with Cloud Storage」のレポートです。 他の Google Cloud Next '25 の関連記事は Google Cloud Next '25 カテゴリの記事一覧からご覧いただけます。 セッションの概要 導入...,2025-05-15
+d006e709d6537f80df11a25373e8fbb8,Ggen_Blog,Humans and AI agents together—driving success with Salesforce and Google Cloud（Google Cloud Next '25セッションレポート）,https://blog.g-gen.co.jp/entry/next-25-humans-and-ai-agents-together,2025-04-11T23:10:21+09:00,G-gen の奥田です。本記事は Google Cloud Next '25 in Las Vegas の2日目に行われたブレイクアウトセッション「Humans and AI agents together—driving success with Salesforce and Google Cloud」のレポートです。 他の Google Cloud Next '25 の関連記事は Google...,2025-05-15
+c8d8bab7558a5331a99e631aae1a34b7,Ggen_Blog,What’s new in Cloud Run（Google Cloud Next '25セッションレポート）,https://blog.g-gen.co.jp/entry/next-25-whats-new-in-cloud-run,2025-04-11T20:50:48+09:00,G-gen の山崎です。本記事は Google Cloud Next '25 in Las Vegas の1日目に行われたブレイクアウトセッション「What’s new in Cloud Run」のレポートです。 他の Google Cloud Next '25 の関連記事は Google Cloud Next '25 カテゴリの記事一覧からご覧いただけます。 セッションの概要 Cloud Run...,2025-05-15
+d799c4e0cacfe22c1bc1da4072f59bf9,Ggen_Blog,Google Workspace: How businesses are using AI to drive results（Google Cloud Next '25セッションレポート）,https://blog.g-gen.co.jp/entry/next-25-google-workspace-how-businesses-are-using-ai-to-drive-results,2025-04-11T20:00:07+09:00,G-gen の道下です。本記事は Google Cloud Next '25 in Las Vegas の 1日目に行われたスポットライトセッション「Google Workspace: How businesses are using AI to drive results」のレポートです。 他の Google Cloud Next '25 の関連記事は Google Cloud Next '25...,2025-05-15
+1a7643b75daeb48651ac74dca565e4fc,Ggen_Blog,BigQueryの新発表を解説（Google Cloud Next '25速報）,https://blog.g-gen.co.jp/entry/next-25-bigquery-latest-updates,2025-04-11T16:32:26+09:00,G-gen の杉村です。当記事では、Google Cloud Next '25 で発表された BigQuery の新機能について紹介します。 概要 BigQuery と AI の統合 全体像 BigQuery data preparation データセットレベルのインサイト（BigQuery データキャンバス） BigQuery pipelines にデータエンジニアリングエージェントが組み込み ...,2025-05-15
+e57753680bfbb13eeff2397bb5022c78,Ggen_Blog,GKEの生成AIワークロードを支援する新機能を紹介（Google Cloud Next '25速報）,https://blog.g-gen.co.jp/entry/next-25-new-gke-inference-capabilities,2025-04-11T13:34:49+09:00,G-gen の佐々木です。当記事では Google Cloud Next '25 で発表された Google Kubernetes Engine（GKE）における最新の生成 AI 関連機能を紹介します。 概要 GKE における AI 推論 ワークロード GKE Inference Quickstart GKE Inference Gateway GKE TPU serving stack 概要 G...,2025-05-15
+5fd2f55ba73f93b25b1f26232f253d77,Ggen_Blog,Gemini 2.5、Vertex AI Model Optimizer、Vertex AI Global Endpoint（Google Cloud Next '25速報）,https://blog.g-gen.co.jp/entry/next-25-gemini-2.5-model-optimizer-global-endpoint,2025-04-11T09:57:33+09:00,G-gen の杉村です。当記事では、Google Cloud Next '25 で発表された Google の最新の生成 AI モデル Gemini 2.5 や、Vertex AI Model Optimizer、Vertex AI Global Endpoint などの新機能について紹介します。 概要 Gemini 2.5 Pro Gemini 2.5 Flash Vertex AI Model...,2025-05-15
+5ad8db5aa8218b59c4186d4771a157f7,Ggen_Blog,Google Cloud Next '25 速報レポート - キーノート（2日目）,https://blog.g-gen.co.jp/entry/google-cloud-next-25-keynote-day-2,2025-04-11T09:00:47+09:00,G-gen の杉村です。当記事では、Google Cloud Next '25 in Las Vegas の、2日目のキーノートに関する速報レポートをお届けします。 Google Cloud Next '25 in Las Vegas 概要 Google AI Studio の新しい UI Agent Development Kit（ADK） ADK の使い方 マルチエージェントとデバッグ Age...,2025-05-15
+4c6848c62a4211f4e590b6096aad120a,Ggen_Blog,Gemini's in-context learning for Data Analytics in 15 minutes（Google Cloud Next '25セッションレポート）,https://blog.g-gen.co.jp/entry/google-cloud-next-25-gemini-in-context-learning-for-data-analytics,2025-04-11T08:44:03+09:00,G-gen の山崎です。本記事は Google Cloud Next '25 in Las Vegas の2日目に行われた ライトニングトークセッション「Gemini's in-context learning for Data Analytics in 15 minutes」のレポートです。 他の Google Cloud Next '25 の関連記事は Google Cloud Next '2...,2025-05-15
+baa4df1c72d980d1d92557cce345efe0,TechnoEdge,生成AIグラビアをグラビアカメラマンが作るとどうなる？第48回：リファレンス画像を使うComfyUI Workflowいろいろ（西川和久）,https://www.techno-edge.net/article/2025/05/16/4363.html,"Fri, 16 May 2025 07:40:32 +0900",リファレンス画像を使用するComfyUI Workflowとは！？,2025-05-15
+86bf2e78f1dd1a9f8fd06456854c3553,TechnoEdge,AI活用ゲーム開発ハッカソン、賞金100万円を獲得した作品は？QwenのAlibaba Cloud主催『Tokyo Game Jam』イベントリポート,https://www.techno-edge.net/article/2025/05/14/4358.html,"Wed, 14 May 2025 17:30:01 +0900",Alibaba CloudとMeltingHackが開催したゲーム開発ハッカソン、Tokyo Game Jam 2025 Spring のイベントリポートをお届けします。,2025-05-15
+bb3e4b7c5070611eb096b83efd35186c,TechnoEdge,「あなた好みの」デザインがさらなる進化、Material 3 Expressive登場でAndroidのUIは本当に使いやすくなるの？（Google Tales）,https://www.techno-edge.net/article/2025/05/14/4356.html,"Wed, 14 May 2025 09:00:02 +0900",Googleの年次開発者会議「Google I/O」がもうすぐ開催されます。その中で、OSデザインについての発表がありました。,2025-05-15
+5ae9cbf011418c2db6c5f27d05321b56,TechnoEdge,Google、GeminiをAndroidおよびWear OSデバイス全体に展開へ。スマートフォン以外でもAI音声操作が便利に,https://www.techno-edge.net/article/2025/05/14/4355.html,"Wed, 14 May 2025 02:20:51 +0900",日本時間5月13日午前2時よりYouTubeのAndroidチャンネルで配信したThe Android Show I/O Editionにて、GoogleはAndroid 16に関する新情報をいくつか発表しました。,2025-05-15
+ace32265c87f5091bd7e494de28abb0e,TechnoEdge,AIの「幻覚」はかつてないほど悪化している。幻覚率ランキング1位のAIモデルは？（生成AIクローズアップ）,https://www.techno-edge.net/article/2025/05/13/4352.html,"Tue, 13 May 2025 07:00:02 +0900",今回は、チャットボットAIの精度が日進月歩で向上している一方で悪化している「幻覚」（ハルシネーション）の現状についてを取り上げたいと思います。,2025-05-15
+953bebb05b827e1d35a5de51bfd6cd6f,TechnoEdge,ミラノで変わったGoogleのモノづくりに対する印象（ショート動画）,https://www.techno-edge.net/article/2025/05/12/4350.html,"Mon, 12 May 2025 18:33:12 +0900",ミラノデザインウィークで知った、Googleのモノづくりの真意に対して抱いたハカセの印象,2025-05-15
+aec8f2a3e2b1eec0f9cf1489ce0e497d,TechnoEdge,エルトン・ジョン、イアン・マッケランら400人以上の英国アーティスト、首相に「AIからの著作権保護」求める書簡,https://www.techno-edge.net/article/2025/05/12/4349.html,"Mon, 12 May 2025 17:07:22 +0900",エルトン・ジョン、デュア・リパ、ポール・マッカートニー、イアン・マッケランといった、英国の著名なミュージシャンやアーティスト、作家など400人以上が署名した「AIからの著作権保護」を訴える公開書簡がキア・スターマー首相宛てに送付されました。,2025-05-15
+6ebddfdaf10f6b17764a8d27d9f854ff,TechnoEdge,AIに繰り返し自己議論させる→考えが深くなり精度が向上する「CoRT 」、1ビットLLMの進化版「BitNet v2」登場など生成AI技術5つを解説（生成AIウィークリー）,https://www.techno-edge.net/article/2025/05/09/4344.html,"Fri, 09 May 2025 14:15:42 +0900",この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する「生成AIウィークリー」（第94回）では、1ビットLLMの進化版「BitNet v2」と、AIに何度も自己議論させることで精度が向上していく手法「CoRT 」を取り上げます。,2025-05-15
+9aa975f1eb26df29533511ed5a49469d,TechnoEdge,日本語ボーカル曲をSuno並に高速生成できるオープンソース作曲AI「ACE-Step」が自分のPCでビュンビュン、Macでも動くのだ（CloseBox）,https://www.techno-edge.net/article/2025/05/08/4342.html,"Thu, 08 May 2025 12:16:14 +0900",YuEやDiffRhythmなど、オープンソース版も充実してきた楽曲生成AIですが、また中国から新しいソフトが公開されました。「ACE-Step」は、英語、日本語を含む19言語の歌詞に対応し、Lyrics to Musicの生成が可能。,2025-05-15
+c1fa1dc252b50816f38328afdd4e2649,TechnoEdge,Google Pixel 9a を「AIスマホ」として試す。AIでできること・上位モデルとの差,https://www.techno-edge.net/article/2025/05/07/4340.html,"Wed, 07 May 2025 16:15:40 +0900",Google のスマートフォン Pixel 9a を「AIスマホ」として試してみました。,2025-05-15
+60ddd7463c6941ad25e9b83350cd4a2b,TechnoEdge,鵜呑みにできない、AIモデルの世界評価ランキング「Chatbot Arena」の闇と幻想　不公平を解き明かす（生成AIクローズアップ）,https://www.techno-edge.net/article/2025/05/07/4339.html,"Wed, 07 May 2025 07:00:02 +0900",今回は、現在AIモデル評価の業界標準とされているランキング形式（リーダーボード）のAIベンチマーク「Chatbot Arena」における問題を明らかにした研究「The Leaderboard Illusion」を取り上げます。,2025-05-15
+e4940474e028d76920291aa1482bcc4a,TechnoEdge,オープンソース動画生成AIの新標準「FramePack」が順方向生成「F1」サポートし、叡智も即対応。もはや普段使いできますね（CloseBox）,https://www.techno-edge.net/article/2025/05/03/4335.html,"Sat, 03 May 2025 20:04:44 +0900",高速でかつ長時間の動画生成が可能なオープンソースAI「FramePack」。Image to Videoで入力した画像から逆方向に生成していく仕組みですが、これを順方向。つまり、他の多くの動画生成AIと同じやり方で生成するオプション「F1」がサポートされました。,2025-05-15
+cf4ce65543fd37407f757d2daa7d37d6,TechnoEdge,AI作曲は最長8分の領域に。Sunoがv4.5で音質改善、プロンプト長5倍、歌唱力も向上（CloseBox）,https://www.techno-edge.net/article/2025/05/02/4332.html,"Fri, 02 May 2025 07:28:49 +0900",AI作曲サービスのSunoがひさびさの（2024年11月20日以来）メジャーバージョンアップを果たし、最新版はv4.5となりました。一度で生成できる楽曲の長さはなんと8分となります。そのほかにも改善点・新機能が多数。,2025-05-15
+adf4c993d0496eec15aab8a91af94db3,TechnoEdge,ChatGPTの媚びすぎ問題、利用者の「いいね」等に過剰反応が原因。GPT-4oモデル巻き戻しで対応、複数の個性から選択式へ,https://www.techno-edge.net/article/2025/04/30/4329.html,"Wed, 30 Apr 2025 16:26:32 +0900",最近のChatGPTが過度にユーザーを褒め称えたり、回答の正しさよりも迎合を優先すると批判が高まっていた件について。,2025-05-15
+fd7461d91bf9ba063596d24062818063,TechnoEdge,生成AIグラビアをグラビアカメラマンが作るとどうなる？第47回：HiDream-I1-Full/Devをローカル生成+α（西川和久）,https://www.techno-edge.net/article/2025/04/30/4328.html,"Wed, 30 Apr 2025 10:12:07 +0900",HiDream-I1-FullとDevの違いは！？,2025-05-15
+e3512ef436e6ec62033a1494ab3ff23a,TechnoEdge,OpenAI、ChatGPTが未成年ユーザの猥談相手になってしまう「バグ」を修正へ,https://www.techno-edge.net/article/2025/04/30/4327.html,"Wed, 30 Apr 2025 08:59:57 +0900",OpenAIは、ChatGPTが18歳未満の未成年ユーザーとのチャットで性的に露骨な画像を生成したり、NFSWな会話を展開するのを制限するための修正を「積極的に行っている」と述べています。,2025-05-15
+408d023276d4ea99e55bdcfb4b04f662,TechnoEdge,ついにやってきた日本人対話型ポッドキャスト量産システム。NotebookLM使えばなんでもポッドキャストになる（CloseBox）,https://www.techno-edge.net/article/2025/04/30/4325.html,"Wed, 30 Apr 2025 07:41:56 +0900",Google NotebookLMには、PDF、テキスト、YouTubeなどを読み込んで、その内容についてリアルな対話ポッドキャスト解説を生成する機能があります。2024年9月11日にローンチした時点では英語でしか使えなかったのですが、4月30日、ついに日本語対応しました。,2025-05-15
+69265de2533733359799306ec31e4841,TechnoEdge,サム・アルトマン、ChatGPTのGPT-4oは「媚びへつらいすぎて不快」　性格を修正予定。将来的にはAI人格の選択肢も(更新：ロールバック対応),https://www.techno-edge.net/article/2025/04/29/4324.html,"Tue, 29 Apr 2025 23:52:36 +0900",AI企業OpenAIのCEOであるサム・アルトマン氏は、生成AIチャットボットサービス ChatGPTの標準モデルであるGPT-4oが「媚びへつらいすぎて気に障る(良い部分もあるが)」と述べ、早急に性格を修正する予定であることを明らかにしました。,2025-05-15
+adb2b57b254168c5ffb89c47001ed7a3,TechnoEdge,AI時代に5000mAhじゃ足りない。HONOR Powerは8000mAh搭載でも普通サイズな理由（スマホ沼）,https://www.techno-edge.net/article/2025/04/29/4322.html,"Tue, 29 Apr 2025 11:45:02 +0900",HONORが新スマホ「HONOR Power」を発表。8000mAhの大容量バッテリー搭載で、充電頻度を減少。中国メーカーの大型バッテリー化が進行中で、今後はグローバルでも普及が期待される。,2025-05-15
+1595c76174e3acab5c04d365091b6922,TechnoEdge,驚異のオープンソース動画生成AI「FramePack」がMacでも使える。Vidu Q1とFramePack叡智の合わせ技も試した（CloseBox）,https://www.techno-edge.net/article/2025/04/28/4319.html,"Mon, 28 Apr 2025 14:03:44 +0900",動画生成AIで、今回は3つの大きなニュースがあります。そのうち2つは前回お伝えした驚異的なオープンソース動画生成AI「FramePack」に関すること。,2025-05-15
+31ed7391abe051cd4e140c2e81eba962,TechnoEdge,GitHubリポジトリを読み取り、ドキュメントを自動生成するAIツール「DeepWiki」がログイン不要、無料で使える（生成AIクローズアップ）,https://www.techno-edge.net/article/2025/04/28/4317.html,"Mon, 28 Apr 2025 08:27:15 +0900",1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。今回は、GitHub上のリポジトリを自動的に解析し、ドキュメントを生成してくれるオープンソースAIツール「DeepWiki」を取り上げます。,2025-05-15
+ffdae0d97da37b72ecb2771ec04396d5,TechnoEdge,画面に自分の分身が鎮座する謎スマホ「Newnal」は全個人情報を知る真のAIアシスタント（AIスマホ沼）,https://www.techno-edge.net/article/2025/04/27/4315.html,"Sun, 27 Apr 2025 11:45:01 +0900",韓国のスタートアップ「Newnal」が開発中のAIスマートフォンは、個人データを活用したアシスタント機能を備え、プライバシー保護にも配慮されている。2025年5月に発売予定。,2025-05-15
+c49d993fe967c39f4f0c0d9f2279ad3a,TechnoEdge,モトローラのアゲアゲのパーティに参加するも、とにかくrazr 60を触りまくってきた話（スマホ沼）,https://www.techno-edge.net/article/2025/04/26/4314.html,"Sat, 26 Apr 2025 20:45:02 +0900",モトローラのrazr 60シリーズ発表会に参加後、ニューヨークのイベントで自由に試せる機会があり、カメラ性能やmoto aiの充実を実感しました。また、ココ・ジョーンズのミニライブもありました。,2025-05-15
