@@ -1,0 +1,1118 @@
+# AI・機械学習 ニュースレポート (2025-08-20)
+
+**フィルタリング済みニュース: 300件** (全390件中)
+
+## 今日の主要ニュース
+
+### Business Insider (9件)
+
+- [OpenAIの元従業員がブログで公開…最先端AI企業はどのような働き方だったのか](https://www.businessinsider.jp/article/2231d151-bb9e-4fad-83f4-a9e6e6f9de4a/)
+- [チャットボットは精神的なダメージを引き起こすのか。ホワイトハウスのAI責任者が語った「AIメンタル不調」とは](https://www.businessinsider.jp/article/2508ai-whitehouse-mental-health-chatgpt/)
+  - AIチャットボットはとても便利ですが、使い続けると、精神的なダメージを引き起こす可能性はあるのでしょうか。ホワイトハウスのAI政策責任者が自身の考えを語りました。...
+- [総合商社・丸紅の「AI面談」ユニークな現場活用。合否判断にAIは「まだ早い」が…](https://www.businessinsider.jp/article/2508-marubenis-use-of-ai-in-recruitment/)
+  - AIを採用関連業務に使う動きが広がっています。丸紅は、「AI面談」を本格導入しました。...
+- [ウェイモ前CEOがテスラの自動運転を全否定。運転席や助手席に社員が座るのはロボタクシーではない](https://www.businessinsider.jp/article/ex-waymo-ceo-john-krafcik-tesla-robotaxi-san-francisco-uber-2025-7/)
+  - Googleの兄弟会社で自動運転技術を開発するWaymoのCEOを務めたジョン・クラフチック氏は、テスラの自動運転技術に以前から懐疑的な視線を向けてきました。
+Business Insiderの取材に応じたクラフチック氏は「テスラがロボタクシーをローンチさせたら教えてください。待ってるんです」と皮肉...
+- [新型スマートウォッチ「Pixel Watch 4」がグーグルの本気と言える理由。日本でも心電図機能が解禁](https://www.businessinsider.jp/article/2508-google-pixel-watch-4-healthcare-ai/)
+  - グーグルのスマートウォッチ「Pixel Watch 4」が登場。注目は日本でもついに解禁される心電図機能と、Fitbit買収の成果でもあるAIパーソナルコーチ機能です。...
+- [「GPT-5」の反響に驚いたOpenAIのサム・アルトマン氏。リクエストに応じて「GPT-4o」も復活](https://www.businessinsider.jp/article/2508-sam-altman-openai-gpt5-personality-update/)
+  - OpenAIのサム・アルトマンCEOは、最新AIモデル「GPT-5」の口調に関する苦情を受け、GPT-5の性格を「より温かい」ものにするだろうと語りました。...
+- [ビリオネアの投資家、AIが大量失業を引き起こして人類を破滅させる可能性があると警告](https://www.businessinsider.jp/article/2508-paul-tudor-jones-ai-twilight-zone-jobs-layoffs-unemployment-education/)
+  - ポール・チューダー・ジョーンズはAIの脅威を、エイリアンが人間を調理するための料理本を持って地球にやってくるというSFドラマ「トワイライトゾーン」の古いエピソードに例えました。...
+- [アップル幹部がさりげなく語った将来の製品についてのヒント](https://www.businessinsider.jp/article/2508-apple-future-products-tim-cook-comments/)
+  - アップルは秘密主義で有名ですが、ティム・クックCEOをはじめとする幹部たちは、スマートグラス、AIガジェット、折りたたみ式スマートフォンについて質問されてきました。彼らの回答を見てみましょう。...
+- [GPT-5だけではない、OpenAIの「生成AIブラウザー」が巨大IT企業に与えるインパクト。グーグルChromeは複雑な立場](https://www.businessinsider.jp/article/2508openais-generative-ai-browser-entry-impacts-tech-giants/)
+  - ここ最近、Perplexityの「Comet」やOpenAIの「Aura」といった、生成AI企業による「ブラウザー参入」の発表が相次いでいます。なぜ各社が参画するのか、巨大IT企業への影響も含めて考察します。...
+
+### ITmedia AI Plus (20件)
+
+- [「ChatGPT」最新モデル「GPT-5」、高性能だが知名度不足の「Claude」を“触って理解”](https://kn.itmedia.co.jp/kn/articles/2508/20/news095.html)
+  - 「ChatGPT」の最新モデル「GPT-5」と、高性能ながら知名度不足の「Claude」という、生成AIチャットの2大巨塔ともいえるこれらのサービスについて、キーマンズネットの編集記者が易しく解説するとともに、実際に触って活用アイデアを紹介する。...
+- [コーディング用の「GPT-5」チートシート（OpenAI公式）：プロンプト作成は「職人技」から「構造化エンジニアリング」へ](https://atmarkit.itmedia.co.jp/ait/articles/2508/21/news013.html)
+  - 開発者向けに、GPT-5を最大限活用するための公式チートシートが話題に。プロンプト作成の基本が体系化され、初心者から上級者まで役立つ実践的な指針が示されている。...
+- [北欧や米国・韓国のゲーム開発者、9割が生成AIを導入――プレイヤーの意識変容を感じる声も](https://www.itmedia.co.jp/news/articles/2508/20/news130.html)
+  - ゲーム開発者の9割が、生成AIを業務に取り入れている――米Googleは8月18日（現地時間）、北欧や米国・韓国の開発者を対象とした調査結果を発表した。...
+- [XのAIコンパニオン「Ani」に新衣装　露出度高め](https://www.itmedia.co.jp/news/articles/2508/20/news129.html)
+  - イーロン・マスク氏率いる米xAIが8月19日（現地時間）、AIチャットアプリ「Grok」をアップデートし、「コンパニオンモード」のキャラクターに新衣装を追加した。女性キャラ「Ani」やレッサーパンダのキャラ「Rudi」向けの新衣装が利用可能という。...
+- [「東京都、本気でAIに向き合うぞ」――担当者が語る「東京都AI戦略」とは　行政ならではの使い所](https://www.itmedia.co.jp/aiplus/articles/2508/20/news124.html)
+  - 東京都の行政DXを推進する団体であるGovTech東京は、都が運営するスタートアップ支援拠点「Tokyo Innovation Base」で、行政における生成AI活用をテーマにしたイベントを開催。「東京都AI戦略」をテーマにしたパネルディスカッションを実施した。...
+- [シャープ、対話型AIロボ「ポケとも」発表　本体価格は“4万円切り”　20～30代女性がターゲット](https://www.itmedia.co.jp/aiplus/articles/2508/20/news090.html)
+  - シャープは、専用スマートフォンアプリと連携する会話可能なAIロボット「ポケとも」を発表した。ミーアキャットをモチーフにした小型ロボットで、AIを活用してユーザーに“寄り添う”会話が可能という。...
+- [ひっそり登場の中国AI「Seed-Prover」、国際数学オリンピックで「金メダル」　さくっとGoogleを抜く](https://www.itmedia.co.jp/aiplus/articles/2508/20/news038.html)
+  - 中国ByteDanceに所属する研究者らは、国際数学オリンピック（IMO）で金メダル相当のパフォーマンスを獲得したAI推論モデル「Seed-Prover」を提案した研究報告を発表した。...
+- [Google Cloudとオラクルが提携、Oracle Cloud上でGeminiを提供開始](https://www.itmedia.co.jp/news/articles/2508/20/news075.html)
+  - Google Cloudと米Oracleは生成AIにおける提携を拡大し、Gemini 2.5などGoogle Cloudの最新の生成AIモデルをOracle Cloudで提供することを発表しました。...
+- [AIエージェントにはLLMともまた違うセキュリティ常識がある　4つのリスクと2つの考え方](https://www.itmedia.co.jp/enterprise/articles/2508/20/news059.html)
+  - AIエージェントの活用に当たってはLLMとも違うセキュリティ常識を身に付けている必要がある。AIエージェントならではの問題点と発生原因、その対応策の考え方を解説する。...
+- [自然言語で衛星データを解析できる未来へ　Ridge-iとMicrosoftが生成AI×地球観測の次世代プラットフォーム開発に着手](https://www.itmedia.co.jp/enterprise/articles/2508/20/news060.html)
+  - Ridge-iは、日本マイクロソフトと連携し、生成AIと地球観測データを統合した次世代プラットフォーム構築に着手した。JAXAとの共同実証を基に、自然言語で衛星データ解析が可能な対話型AIを開発し、Azure基盤でのグローバル展開を目指す。...
+- [「Claude Sonnet 4」が100万トークンのコンテキスト処理に対応　Anthropic](https://atmarkit.itmedia.co.jp/ait/articles/2508/20/news043.html)
+  - Anthropicは2025年8月13日、大規模言語モデル「Claude Sonnet 4」が最大100万トークンのコンテキストを扱えるようになったと発表した。書籍を丸ごと取り込んだり、大規模なコードベースを一度に処理したりできるようになるため、同社は「研究、開発現場に新たな可能性を提供する」として...
+- [「シャドーIT」ならぬ「シャドーAI」が課題に　Netskopeが生成AI利用の実態調査の結果を発表](https://atmarkit.itmedia.co.jp/ait/articles/2508/20/news024.html)
+  - Netskopeは「クラウドと脅威レポート」の2025年版を発表した。業務の中で、企業での生成AI利用が拡大している一方、未承認で生成AIを業務利用する「シャドーAI」が課題になっているという。...
+- [KDDI、「通信・ロボット・AI」組み込んだ空間づくり支援　高輪本社の知見生かす](https://www.itmedia.co.jp/aiplus/articles/2508/19/news066.html)
+  - KDDIは、通信やロボット、AI技術を活用したオフィスや商業施設などの空間設計を支援するサービス「KDDI Smart Space Design」の提供を始めた。コンセプトの策定から設計、施工、保守・運用まで一気通貫で支援する。...
+- [Claudeを超えた？　GPT-5「実務で使える」5つの機能](https://www.itmedia.co.jp/business/articles/2508/19/news028.html)
+  - OpenAIの新モデル「GPT-5」シリーズがついにリリースされた。モデルの自動選択機能の追加や旧モデルの一括廃止など、ChatGPTの使い方は大きく様変わりしている。本記事では、この大型アップデートを業務で最大限活用するために知っておきたいポイントを、実際の出力例とともに解説する。...
+- [生成AI時代のAI基盤を構築　Kubernetesの最新技術「DRA」と「GPU Operator」で実現するGPUクラスタとモニタリング環境構築方法総まとめ](https://atmarkit.itmedia.co.jp/ait/articles/2508/19/news009.html)
+  - 気軽に試せるラップトップ環境で、チャットbotを提供するオールインワンの生成AI環境構築から始め、Kubernetesを活用した本格的なGPUクラスタの構築やモデルのファインチューニングまで解説する本連載。今回はNVIDIA製GPUを用いたKubernetesクラスタの構築方法をモニタリング環境の構...
+- [フジパン、多言語対応のAIチャットbot導入　約6万件の社内問い合わせ対応自動化へ](https://www.itmedia.co.jp/aiplus/articles/2508/18/news107.html)
+  - フジパングループ本社（名古屋市、以下フジパン）は、ワークスアプリケーションズが提供するAIチャットbot「HUE チャットボット」を導入する。フジパン従業員から寄せられる社内問い合わせ約6万3000件の対応自動化を見込む。...
+- [業務アプリ市場への影響は？　SAPのAIエージェント戦略の「難しい舵取り」](https://www.itmedia.co.jp/enterprise/articles/2508/18/news056.html)
+  - 業務アプリケーション分野で影響力の大きいSAPのAIエージェント戦略はどのようなものか。SAPジャパンの年次イベントから探った。...
+- [横浜DeNAベイスターズ、AIによるリアルタイム打席解説サービス開始　公式アプリで無料提供](https://www.itmedia.co.jp/aiplus/articles/2508/18/news079.html)
+  - 横浜DeNAベイスターズは、AIによる打席解説機能「BASE☆BLUE」を、公式観戦アプリ「BAYSTARS STAR GUIDE」」（iOS/Android）に追加した。横浜DeNAベイスターズ戦の全打席について、見どころや相手投手との相性をAIが解説する。...
+- [生成AI活用率、企業規模で大きな差　大企業4割、中小企業は2割](https://www.itmedia.co.jp/aiplus/articles/2508/18/news073.html)
+  - 生成AIの活用を推進している企業は、大企業で43.3％、中小企業は23.4％――東京商工リサーチが8月18日に発表した生成AIに関するアンケート調査で、こんな結果が出た。...
+- [行政・金融・医療が続々導入する謎の生成AIサービス「GaiXer」とは](https://www.itmedia.co.jp/aiplus/articles/2508/18/news017.html)
+  - 複数の自治体や金融、医療機関が導入する生成AIサービス「GaiXer」とは何者か、開発元のFIXERの松岡清一社長にインタビューした。...
+
+### Hatena IT (13件)
+
+- [OpenAI、AIコーディングエージェントをガイドするための「AGENTS.md」サイトを公開 | gihyo.jp](https://gihyo.jp/article/2025/08/agents-md-site)
+  - OpenAI⁠⁠、AIコーディングエージェントをガイドするための「AGENTS.md」サイトを公開 OpenAIは2025年8月20日、AIコーディングエージェントをガイドするためのシンプルなフォーマット「AGENTS.md」を案内するサイトを公開した。OpenAI Codexのほか、Amp、Goo...
+- [XのAIコンパニオン「Ani」に新衣装　露出度高め](https://www.itmedia.co.jp/news/articles/2508/20/news129.html)
+  - イーロン・マスク氏率いる米xAIは8月19日（現地時間）、AIチャットアプリ「Grok」をアップデートし、「コンパニオンモード」のキャラクターに新衣装を追加した。女性キャラ「Ani」やレッサーパンダのキャラ「Rudi」向けの新衣装が利用可能という。 マスク氏が自身のXアカウントで引用した画像によると...
+- [無料でローカル音声文字入力・リアルタイム文字起こし・音声ファイルからの文字起こしをAIモデルで可能にする「Whispering」](https://gigazine.net/news/20250820-whispering/)
+  - キーボードショートカットを押して話すだけで音声を文字起こしするオープンソースソフトウェアが「Whispering」です。ローカルで実行可能＆ローカルにデータが保存される点、文字起こしした文章がクリップボードにコピーされてすぐ貼り付けられるようになる点が特徴です。 epicenter/apps/whi...
+- [Obsidian Bases 入門｜松濤Vimmer](https://note.com/shotovim/n/n20d31913131b)
+  - Introducing Bases, a new core plugin that lets you turn any set of notes into a powerful database. Now available to everyone with Obsidian 1.9! pic.tw...
+- [技術書かはわからんけど、エンジニアにオススメしたい本の1位はこれかな→「30年前にこの視座の高さは感服」「ワインバーグの本は仕事のコミュ力の全てが詰まってる」](https://posfie.com/@petaritape/p/pK9MM5f)
+  - 徳永広夢 @tokuhirom 徳永広夢 / 64p.org / Tweets are my own / Java / Kotlin / Perl / 発信内容は個人的なものであり、勤務先の仕事とは一切無関係です。 64p.org...
+- [「Pixel Watch 4」登場　日本でも心電図機能が使えるように　手を上げるだけで「Gemini」が起動](https://www.itmedia.co.jp/news/articles/2508/21/news077.html)
+  - 米Googleは8月21日、新型スマートウォッチ「Google Pixel Watch 4」を発表した。業界初のドーム型ディスプレイ「Actua 360」を採用し、日本で始めて心電図（ECG）機能を提供する。2種類のサイズ展開で、41mmモデルは5万2800円から、45mmは5万9800円から。10...
+- [AGENTS.md](https://agents.md/)
+  - AGENTS.mdA simple, open format for guiding coding agents, used by over 20k open-source projects. Think of AGENTS.md as a README for agents: a dedicate...
+- [「SaaSはもう限界」　急成長SaaSが、AIエージェント企業に大転換──その“深刻な危機感”（ITmedia ビジネスオンライン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/5e7574de9d4c76b73196284a695dfad0257a3771)
+  - ヤオコー、ライオン、カプコン、トリドール（丸亀製麺）、ニッスイなど2500社への導入実績を持つ経費精算SaaSのTOKIUM（東京・中央）が、事業モデルの根本的転換を宣言した。 【画像】ニッコリ微笑む社長 同社の黒崎賢一社長は従来のSaaS企業から「経理AIエージェント企業」への完全移行を発表。社長...
+- [Pythonに関する年次調査、仕事としてのPython経験は半数が2年以内、WebフレームワークはFastAPIが急伸で1位に。The State of Python 2025](https://www.publickey1.jp/blog/25/pythonpython2webfastapi1the_state_of_python_2025.html)
+  - JetBrainsとPython Software Foundationは、3万人以上のPython開発者に対するアンケートを基にしたPythonに関する年次調査結果「The State of Python 2025」を発表しました。 ここではその調査結果からいくつかのポイントをピックアップして紹介...
+- [AIは変更差分からユニットテスト_結合テスト_システムテストでテストすべきことが出せるのか？](https://speakerdeck.com/mineo_matsuya/aihabian-geng-chai-fen-karayunitutotesuto-jie-he-tesuto-sisutemutesutodetesutosubekikotogachu-serunoka)
+  - 2025/8/19, AI時代におけるユニットテストの現在地 ( https://findy.connpass.com/event/363174/ )での発表です。 AIは適切なテストレベルで適切なテスト観点が出せるのか。 システムテストだけではなく、テストレベルを通したテストのアプローチの最適化が...
+- [組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）](https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action)
+  - こんにちは。サイボウズ株式会社、生産性向上チームの平木場（@korosuke613）です。今回は Claude Code Action を全社で利用するために構築した基盤について紹介します。 本家 Claude Code Action をそのまま使うのではなく、なぜ独自システムを構築したのか、そして...
+- [Claude Code を Serena MCP で強化しよう！Cursorとも連携するよ。](https://zenn.dev/ficilcom/articles/da858df304b588)
+  - 対象読者 この記事は「AI駆動開発に入門する前の自分自身」へ向けて書きました。 同時に「AIを駆使した新しい開発スタイル」に関心をお持ちの皆さまのご参考になれば幸いです。 Serena MCPの利点 最初にSerena MCPを紹介しつつ、導入のメリットを簡単に整理します。 Serena MCPはロ...
+- [GitHub CopilotでAIコーディングをはじめよう](https://codezine.jp/article/detail/22053)
+  - 本連載では、VSCodeにフォーカスし、基本的な使い方から拡張機能の活用、そして本格的な開発現場での利用を想定した高度な機能までを紹介していくことで、読者がVSCodeマスターになるお手伝いをします。VS Codeは、GitHub Copilotと連携してAIコーディングが可能になりました。第13回...
+
+### Hatena AI (37件)
+
+- [無料でローカル音声文字入力・リアルタイム文字起こし・音声ファイルからの文字起こしをAIモデルで可能にする「Whispering」](https://gigazine.net/news/20250820-whispering/)
+  - キーボードショートカットを押して話すだけで音声を文字起こしするオープンソースソフトウェアが「Whispering」です。ローカルで実行可能＆ローカルにデータが保存される点、文字起こしした文章がクリップボードにコピーされてすぐ貼り付けられるようになる点が特徴です。 epicenter/apps/whi...
+- [XのAIコンパニオン「Ani」に新衣装　露出度高め](https://www.itmedia.co.jp/news/articles/2508/20/news129.html)
+  - イーロン・マスク氏率いる米xAIは8月19日（現地時間）、AIチャットアプリ「Grok」をアップデートし、「コンパニオンモード」のキャラクターに新衣装を追加した。女性キャラ「Ani」やレッサーパンダのキャラ「Rudi」向けの新衣装が利用可能という。 マスク氏が自身のXアカウントで引用した画像によると...
+- [OpenAI、AIコーディングエージェントをガイドするための「AGENTS.md」サイトを公開 | gihyo.jp](https://gihyo.jp/article/2025/08/agents-md-site)
+  - OpenAI⁠⁠、AIコーディングエージェントをガイドするための「AGENTS.md」サイトを公開 OpenAIは2025年8月20日、AIコーディングエージェントをガイドするためのシンプルなフォーマット「AGENTS.md」を案内するサイトを公開した。OpenAI Codexのほか、Amp、Goo...
+- [シャープ、話してくれるAIロボ＆スマホアプリ「ポケとも」発表](https://k-tai.watch.impress.co.jp/docs/news/2040159.html)
+- [AIは若手の学ぶ機会を奪うだけか　NVIDIAは「1億体」と協働構想 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOCD172930X10C25A8000000/)
+  - 指示を出せば自ら計画を立て実行する。そんなAI（人工知能）エージェントを経営に生かそうとの機運が産業界で高まっている。7月に世界で初めて時価総額が4兆ドル（約590兆円）に達した米半導体大手エヌビディアのジェンスン・ファン最高経営責任者（CEO）は早くも2024年10月、ネット番組で表明した。「3万...
+- [GPT-5、開発に使うための基礎知識　 ——ワンショットでのフロントエンド開発の各モデル比較も | gihyo.jp](https://gihyo.jp/article/2025/08/programming-with-chatgpt-05)
+  - なお、Artificial Analysisを参照すると、包括的に確認できて便利です。 新しいパラメータや振る舞い GPT-5では出力の文量やツール呼び出しの形、出力制約を直接コントロールするための追加パラメータとツールが公開されています。 verbosity：出力される文章の長さを調節するパラメー...
+- [組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）](https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action)
+  - こんにちは。サイボウズ株式会社、生産性向上チームの平木場（@korosuke613）です。今回は Claude Code Action を全社で利用するために構築した基盤について紹介します。 本家 Claude Code Action をそのまま使うのではなく、なぜ独自システムを構築したのか、そして...
+- [GitHub - openai/agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
+  - # Sample AGENTS.md file ## Dev environment tips - Use `pnpm dlx turbo run where ` to jump to a package instead of scanning with `ls`. - Run `pnpm inst...
+- [AGENTS.md](https://agents.md/)
+  - AGENTS.mdA simple, open format for guiding coding agents, used by over 20k open-source projects. Think of AGENTS.md as a README for agents: a dedicate...
+- [生成AIの被害の深刻さは絵の著作権問題よりも架空のネイチャーフォトによる情報汚染ではないか「このままだと取り返しがつかなくなりそう」「AIで判別できないか」](https://togetter.com/li/2591797)
+  - oso 的キノコ擬人化図鑑 @ososugiru しつこく言うけど、生成AIの被害の深刻さは絵の著作権問題よりも架空のネイチャーフォトによる情報汚染だと思ってる。取り返しがつかなくなるぞ。 2025-08-19 14:03:41...
+- [ノア・スミス「AI が仕事を奪ってるようには見えない」（2025年8月12日）](https://econ101.jp/noah-smith_it-doesnt-look-like-ai-is-taking-jobs-yet/)
+  - 「AI によって大量の人たちが雇用を奪われて，経済でやるべき有用なことをなくしてしまう」というのは，事実上の通説みたいになっている．みんな，あまりにこれを確信していて，「ほらやっぱりそうなってるじゃないか」と信じる材料になる兆しがデータに現れると，すぐに飛びついている．ちょっと前に，経済学者たちも人...
+- [AIコーディングアシスタントGitHub Copilotの開発者による書籍「LLMのプロンプトエンジニアリング」に登場するプロンプトエンジニアリングの図解がわかりやすい](https://gigazine.net/news/20250819-prompt-engineering-for-llms/)
+  - GitHubが提供しているAIコーディングアシスタントのGitHub Copilotを開発したジョン・ベリーマン氏が記した、大規模言語モデル(LLM)のポテンシャルを最大限活かすためのテクニックをまとめた書籍が「LLMのプロンプトエンジニアリング」です。この書籍に登場するプロンプトエンジニアリングの...
+- [AI時代のドメイン駆動設計-DDD実践におけるAI活用のあり方 / ddd-in-ai-era](https://speakerdeck.com/minodriven/ddd-in-ai-era)
+  - こちらのイベントの登壇資料です。 AI時代xドメイン駆動設計 「良いコード/悪いコードで学ぶ設計入門」ミノ駆動氏が実践するDDDのイマ https://offers-jp.connpass.com/event/363119/...
+- [AIもメタクソ化の道を辿るのか、あるいは「普通の技術」に落ち着くか](https://wirelesswire.jp/2025/08/89012/)
+  - AIもメタクソ化の道を辿るのか、あるいは「普通の技術」に落ち着くか 2025.08.19 Updated by yomoyomo on August 19, 2025, 18:24 pm JST およそ一年前に「ティム・オライリーとシリコンバレーの贖罪」という文章を書いたのですが、当時既にオライリー...
+- [Claude Code を Serena MCP で強化しよう！Cursorとも連携するよ。](https://zenn.dev/ficilcom/articles/da858df304b588)
+  - 対象読者 この記事は「AI駆動開発に入門する前の自分自身」へ向けて書きました。 同時に「AIを駆使した新しい開発スタイル」に関心をお持ちの皆さまのご参考になれば幸いです。 Serena MCPの利点 最初にSerena MCPを紹介しつつ、導入のメリットを簡単に整理します。 Serena MCPはロ...
+- [｢検索｣の歴史、7万年遡ったら、AIがどんだけヤバいか見えてきた](https://www.gizmodo.jp/2025/08/history_of_search.html)
+  - ｢検索｣の歴史、7万年遡ったら、AIがどんだけヤバいか見えてきた2025.08.19 20:00 小野寺しんいち ｢調べたいことがあるんですけど…｣ ｢はい、どうぞ｣。手渡されたのは、分厚く重い、粘土板。 紀元前3000年ごろのメソポタミア。調べ物をするには、粘土板を集積した保管所に行き、たくさんの...
+- [無料であらゆる動画の字幕を自動で文字起こし・修正・編集・翻訳ができるオープンソースの字幕エディター「Subtitle Edit」を使ってみた](https://gigazine.net/news/20250819-subtitle-edit/)
+  - 動画の字幕をAIで自動文字起こしして作成し、そのまま編集したり翻訳したりすることも可能なオープンソースの字幕エディター「Subtitle Edit」が無料で公開されているので、実際に使ってみました。 Nikse - Subtitle Edit https://www.nikse.dk/subtitl...
+- [GitHub CopilotでAIコーディングをはじめよう](https://codezine.jp/article/detail/22053)
+  - 本連載では、VSCodeにフォーカスし、基本的な使い方から拡張機能の活用、そして本格的な開発現場での利用を想定した高度な機能までを紹介していくことで、読者がVSCodeマスターになるお手伝いをします。VS Codeは、GitHub Copilotと連携してAIコーディングが可能になりました。第13回...
+- [コールセンターはAIに代替されない？「コールセンターに電話してくる人の9割以上は自分の問題を言語化できてないから」→さまざまな意見集まる](https://togetter.com/li/2591419)
+  - さわむら @shun1s コールセンター（テクサポ）を10年くらいやってましたが、電話をかけてくる人の9割以上は自分が抱えている問題を言語化する能力が無いので、AIやチャットボットで捌くのはまず無理なんですよね。エスパー必須です。 だから絶対にAIに代替されない仕事のひとつだと思ってます。 x.co...
+- [「Gemini」アプリに過去のチャット内容を参考にして回答するパーソナライズ機能が追加／履歴を残さずに会話ができる一時チャット機能も](https://forest.watch.impress.co.jp/docs/news/2039929.html)
+- [イーロン・マスクのAIが、イーロンの言うこと聞かなくなってきてる](https://www.gizmodo.jp/2025/08/elon-musk-cant-control-his-ai.html)
+  - イーロン・マスクのAIが、イーロンの言うこと聞かなくなってきてる2025.08.19 18:00 Luc Olinga - Gizmodo US ［原文］ （ satomi ） 嘘拡散、ヒトラー礼賛で世界中に怒られたばかりなのに今度は何？ イーロン・マスクのxAIのチャットボット｢Grok｣がまた規...
+- [「SaaSはもう限界」　急成長SaaSが、AIエージェント企業に大転換──その“深刻な危機感”（ITmedia ビジネスオンライン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/5e7574de9d4c76b73196284a695dfad0257a3771)
+  - ヤオコー、ライオン、カプコン、トリドール（丸亀製麺）、ニッスイなど2500社への導入実績を持つ経費精算SaaSのTOKIUM（東京・中央）が、事業モデルの根本的転換を宣言した。 【画像】ニッコリ微笑む社長 同社の黒崎賢一社長は従来のSaaS企業から「経理AIエージェント企業」への完全移行を発表。社長...
+- [テスラのAI自動運転、日本の一般道で走行　手を添えるだけ - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC155P90V10C25A8000000/)
+  - 米電気自動車（EV）大手のテスラは、日本の一般道で人工知能（AI）を使った自動運転車の走行を始めた。運転手はハンドルに手を添えて監視するだけで済み、運転の判断の全てをAIが担う。まず社員がテスト運転して性能を確認し、早期の実用化を目指す。ソフトウエア更新で販売済み車両への導入も見込む。今夏から全国の...
+- [「AIで稼ぐために博士号を取っても無駄」。グーグルAIチーム創始者が断言する「いま身につけるべき」意外なスキル（海外）（BUSINESS INSIDER JAPAN） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/0485581ac69543b5eaa8a39310fa5e787fa63815)
+  - ジャド・タリフィ氏はグーグル初の生成AIチームを立ち上げ、現在は自身のAIスタートアップのCEOを務めている。AI人材獲得競争において、メタのような企業は優秀な人材を引き付けるために巨額の契約金をちらつかせている。しかしタリフィ氏は、AIブームに乗じて一攫千金を狙うためだけに学校に戻り、博士号を取得...
+- [キャラクターを維持したまま別のシチュエーションに描き直せる画像編集AI「Qwen-Image-Edit」が登場、文字の描き直しや「被写体の回転」も可能](https://gigazine.net/news/20250819-qwen-image-edit/)
+  - 中国のIT企業・アリババ(阿里巴巴)のAI開発チームが、画像生成AI「Qwen-Image」に基づいて画像編集タスクを拡張し、キャラクターの元の見た目を維持したまま別の情景を描き出すことができる「Qwen-Image-Edit」を発表しました。 Qwen-Image-Edit: Image Edit...
+- [「AIで稼ぐために博士号を取っても無駄」。グーグルAIチーム創始者が断言する「いま身につけるべき」意外なスキル | Business Insider Japan](https://www.businessinsider.jp/article/2508-google-ai-team-too-late-phd-ai-hype-jad-tarifi/)
+  - ジャド・タリフィ氏はグーグル初の生成AIチームを立ち上げ、現在は自身のAIスタートアップのCEOを務めている。AI人材獲得競争において、メタのような企業は優秀な人材を引き付けるために巨額の契約金をちらつかせている。しかしタリフィ氏は、AIブームに乗じて一攫千金を狙うためだけに学校に戻り、博士号を取得...
+- [71.6％のエンジニアが業務にAIを「ほぼ使っていない」　ITエンジニアのAI活用調査](https://atmarkit.itmedia.co.jp/ait/articles/2508/19/news059.html)
+  - 71.6％のエンジニアが業務にAIを「ほぼ使っていない」　ITエンジニアのAI活用調査：「業務の半分が4年以内にAIに代替される」と予測するも Value marketが発表した「ITエンジニアのキャリアとAI活用に関する意識調査 2025」によると、35.2％のエンジニアが、生成AIの業務代替時期...
+- [とんちんかんな「原発脳」　政府審議会元委員が説く“唯一の活用法” | 毎日新聞](https://mainichi.jp/articles/20250815/k00/00m/020/028000c)
+  - 生成AI（人工知能）やデータセンター向けの膨大な電力需要を賄うには原発しかない――。こうした主張を「極めてミスリーディングだ」と批判するのは、国のエネルギー基本計画（エネ基）を話し合う審議会の元委員で国際大学学長の橘川武郎さんだ。さまざまな政策を提言してきた立場から、原子力の平和利用に資する新たな活...
+- [スゴすぎる！月額2,900円でメール作成からデータ分析まで自動化するGoogle AI活用術](https://www.sbbit.jp/article/cont1/170167)
+  - メールや文書作成の定型作業を「ワンクリック」で自動化 Google WorkspaceやGoogle AI Proプランに加入していると、「文章作成サポート（Help Me Write）」という機能が利用できるようになった。実はこの機能、ただの便利ツールではない。Google WorkspaceやG...
+- [今後、画像生成AIは規制に向かう理由｜Yunomix](https://note.com/yunomix/n/n0406653eb1b8)
+  - 今起きている訴訟の内容を見ていくと、画像生成AIは規制される流れになると私は見ています。それについて書いた記事が以下です。 それに対して、このようなコメントをいただきました… まあ、この記事だけ読むと根拠薄弱に見えるのはそうかもなぁと思います。 しょうがねぇなぁ、ちょっと根拠とかソースを踏まえて補足...
+- [AIでBlenderの3Dアセットを作成・編集するPythonコードを生成できる「LL3M」](https://gigazine.net/news/20250818-ll3m/)
+  - 大規模言語モデル(LLM)を用い、3DCGソフトウェアのBlenderで3Dアセットを作成・編集することができるPythonコードを生成する「LL3M」が登場しました。LL3Mは「Large Language 3D Modelers(大規模言語3Dモデラ―)」の略です。 LL3M: Large La...
+- [スピードと品質を両立する、AI時代の開発ドキュメント戦略 - Techtouch Developers Blog](https://tech.techtouch.jp/entry/aic-document-strategy)
+  - 1. はじめに 2. なぜドキュメント管理？ 3. AI時代のドキュメント戦略 4. どのようにドキュメント戦略を適用したか？ 5. 導入してみて 6. ドキュメント管理に悩む人へ 7. まとめ 1. はじめに こんにちは。AI Central 事業部にてエンジニアをしております、ぽちぽちです。 A...
+- [激変の生成AI業界、「エージェント型AI」の熱狂は続かない　次のブームは？](https://techtarget.itmedia.co.jp/tt/news/2508/19/news07.html)
+  - 大規模言語モデル（LLM）の技術が台頭し、真っ先に「ChatGPT」と「生成AI」という用語が知られるようになった。次に、業務の補佐役を意味する「コパイロット」（Copilot）への関心が高まり、2024年以降は“自律的にタスクを実行するAI”として「エージェント型AI」（Agentic AI）」が...
+- [GPT-5やGrok 4など各種AIのIQテスト対決の結果が公開中＆各AIが政治的に左寄りなのか右寄りなのかテストした結果も公開中](https://gigazine.net/news/20250819-ai-iq-test-political-replies/)
+  - AIの性能を測定するベンチマークには「日常タスクの実行精度を検証するテスト」や「計算問題の解答精度を検証するテスト」など多くの種類が存在しています。Maxim Lott氏は各種AIのIQテストの結果や政治的な質問に対する回答をまとめたウェブサイト「Tracking AI」を公開してAIの性能を客観的...
+- [「Excel」に「COPILOT」関数が導入へ、AIを数式へ簡単に組み込める／Windows/Mac向けベータ版で展開開始](https://forest.watch.impress.co.jp/docs/news/2039711.html)
+- [【海外動向】Googleが昨年出したプロンプトエンジニアリングに関する論文が、その質の高さから再度脚光を集める](https://techfeed.io/entries/68a3998e359794350ac51efe)
+  - 8月19日現在、Googleが公式に公開した「Prompt Engineering」と題するホワイトペーパーが、再び大きな注目を集めている。 Google公式のホワイトペーパーとは このホワイトペーパーは2024年9月にKaggleを通じて公開されたもので、著者はGoogleのLee Boonstr...
+- [AIに半径50ｍ以内に絶対いてほしくない家を描いてもらった「かなり解像度が高い」「こんな家の方が健全そうだが…」](https://togetter.com/li/2591363)
+  - すろっぴ@ベビールーム @S4B0T3NNN 俺の実家とさして変わらんな アルファードがエクストレイスになって、バスケゴールが無くて、サーフボードがスキー板になったらほぼ我が家。 x.com/ireeeib/status… 2025-08-19 01:24:55 🍄う🐰 @ihateradioact...
+
+### Zenn ML (9件)
+
+- [Vertex AI のハイエンド GPU が最大約半額に！DWS の新料金プランで GPU コストを大幅削減](https://zenn.dev/google_cloud_jp/articles/dws-flex-new-skus)
+  - TL;DR
+DWS Flex-Start の新料金プラン (新 SKUs) により、Vertex AI で利用可能な Google Cloud のハイエンド GPU を搭載したアクセラレータ最適化 VM が、オンデマンドの最大約半額で利用可能になりました。
+AI 開発者にとっては、これまで高価で手が...
+- [BigQueryMLを用いてtitanic生存者予測タスクをやってみた](https://zenn.dev/akasan/articles/4ac96d153149c7)
+  - 今回はタイトルにあるように、BigQueryMLを用いてtitanicの生存者予測タスクに取り組めるモデルを開発してみました。なお、今回BigQueryMLを利用するにあたり、クエリの生成にはGPT-5を存分に利用しました。
+
+ 実際にやってみる！
+
+ BigQueryにデータセットをアップロードす...
+- [身近なデータで試すPythonの機械学習！　その２　お住まいの地域の不動産取引価格　続編　１　-　LightGBMモデルの学習と保存-](https://zenn.dev/pincolo/articles/92fb9bc8201966)
+  - こんにちは！前回の記事「お住まいの地域の不動産取引価格の予測モデル作成」では、不動産取引価格情報を使って、複数の機械学習モデルを試し、その性能を比較する基本的なワークフローをご紹介しました。様々なモデルを試す中で、どの特徴量が有効で、どの程度の精度が期待できそうかの感触を掴むことができました。しかし...
+- [将棋AIの新たな手法を考える](https://zenn.dev/sonicmoov/articles/9568fa231cb34a)
+  - 背景
+将棋AIがプロを超えたと言われ始め、ずっとAIの中でも将棋AIを作ってみたいと思っていました。
+しかし、家庭のPCの性能では到底、高性能AIに太刀打ちできません。
+そのため、軽量なモデル、学習でも強い将棋AIを作る方法について考えました。
+今回は設計・試作の段階です。
+
+ 従来のよく使われる手...
+- [🚀 Seed 1.5-VL：ハイブリッド並列化で実現するマルチモーダルAIの革新的インフラ](https://zenn.dev/liushuzhi/articles/4c287a6097c9ef)
+  - 🔥 はじめに
+ByteDanceが発表したSeed 1.5-VLは、わずか532Mパラメータの視覚エンコーダーと20B活性パラメータのMoE LLMという非対称アーキテクチャで、60の公開ベンチマークのうち38でSOTAを達成した。本記事では、この驚異的な性能を支えるハイブリッド並列化インフラに焦点...
+- [GPT5時代：LLMに博士並みの推理推論能力を達成させるには？](https://zenn.dev/nexdataai/articles/be2eadbe453770)
+  - はじめに
+AI開発の世界では、質の高い学習データこそがモデル性能を決定づける鍵です。特にGPT5のような最新の大規模言語モデルは、より広く深い知識領域をカバーし、人間に近い推論や文章生成を可能にしています。その背景には、膨大かつ多様なテキストデータの存在があります。
+
+ データの入手先？
+Nexda...
+- [ラグランジアンのこころ](https://zenn.dev/yvvakimoto/articles/c1eed8496b9ada)
+  - この記事は物理学におけるハミルトンの原理、すなわちラグランジアンやハミルトンを用いた変分原理（停留条件）についてのイメージと、数値計算による簡易なシミュレーション方法の覚書である。とくにL=K-Uの直感的な理解を示す。また物理情報機械学習との関連についてコメントする。
+
+ ハミルトンの原理のイメージ...
+- [クラスタリングとは? ~各手法説明のための導入として~](https://zenn.dev/ryu9/articles/what_clastering)
+  - この記事で学べること
+みなさん、こんにちは。りゅう9です。この記事では、教師なし学習の代表、クラスタリングについて、様々な手法の詳細記事への導入として、クラスタリングとは何か?を説明します。
+
+ クラスタリングとは
+クラスタリングとは、似たデータをいくつかのグループ (クラスター) に分ける手法です...
+- [YOLOv8によるダストスポット検出AI「KlarSky」開発録:プロトタイプからMLOps、Vertex AIへの道](https://zenn.dev/fujiba/articles/klarsky_summary_article)
+  - はじめに
+写真、特に風景や空を撮影する者にとって、センサーダストは長年の課題である。作品を大判プリントした際にはじめて気づく黒い点は、作品の価値を大きく損なう。航空写真作家として活動する筆者も、この問題に長年悩まされてきた。
+
+この課題を解決するため、「印刷前にダストスポットの存在をAIで確実に検出...
+
+### Zenn AI (19件)
+
+- [プログラミング雑記 2025/08/21](https://zenn.dev/ishisaka/articles/3fb827b0023c66)
+  - 転ばぬ先のバックアップ。
+
+ エンジニア
+
+ AIの利活用
+71.6％のエンジニアが業務にAIを「ほぼ使っていない」　ITエンジニアのAI活用調査：「業務の半分が4年以内にAIに代替される」と予測するも - ＠IT
+7割が使っていないのは結構衝撃的ですね。はてぶやzennとかだけ観測していると世の中...
+- [Semantic KernelのAgent Frameworkによるマルチエージェント実装入門](https://zenn.dev/masa120589/articles/5514824bb3eb47)
+  - Semantic Kernelについて、Agent Frameworkを用いたマルチエージェントを実装について確認していきます。
+（今回は、Agent FrameworkのみでProcess Frameworkについては、別途確認予定）
+
+ Agent Frameworkでのマルチエージェント
+Ag...
+- [WindowsでOpenCodeを使って無料でAIエージェントを使えるコーディング環境を構築する](https://zenn.dev/is0383kk/articles/460e87170f3e7e)
+  - はじめに
+WindowsでOpenCode × OSS版GPTを組み合わせて、無料でAIエージェントを使えるコーディング環境を構築してみました。
+構築の流れとしては下記流れになります。
+
+Ollamaを使ってWindows上にローカルLLMを構築する（OSS版GPT）
+オープンソースのAIコーディン...
+- [AIでGoogle Slidesをいい感じに作成したかった](https://zenn.dev/tkrtmy/articles/2025-08-20-ai-google-slides-iikanji)
+  - 何？
+自分はスライド作成が好きではありません。人前で話すことの次くらいに好きじゃないです。
+最近AIがいい感じらしいのでスライドの作成だけでもいい感じにやってくれないかというところで、会社のチーム内勉強会でスライドを作る機会があったので、Google Slidesをいい感じに作成する方法を模索しまし...
+- [acomo MCP Server — OpenAPIをMCPサーバー化しAIコーディング体験を高める](https://zenn.dev/acomo/articles/progress-acomo-2025-08-20-13-21-20)
+  - 1. はじめに
+acomo の開発チームとして、公開している OpenAPI 仕様を活用し、API を扱う MCP（Model Context Protocol）サーバーとして公開しました。
+リポジトリはこちら（使い方・設定など）: acomo-mcp-server（GitHub）
+この記事では、今...
+- [# AIニュース自動収集・配信システムの開発記録：情報の民主化を目指して](https://zenn.dev/wangsh/articles/9171f520b3de6a)
+  - 自動生成したのビデオ
+https://youtu.be/c2nOZN1pRQo
+
+ はじめに：なぜAIニュース配信システムを作ったのか
+2024年、AI技術は驚異的なスピードで進化を続けています。ChatGPT、Claude、Geminiなどの大規模言語モデルから、Stable Diffusionや...
+- [🚀【速報】Claude Codeに新コマンド `/output-style` が追加！開発者の学習体験が劇的に進化](https://zenn.dev/sexygo/articles/claude-code-output-style-feature)
+  - 📢 速報サマリー
+2025年1月20日、Anthropic社のAIペアプログラミングツール「Claude Code」に新機能 /output-style コマンドが追加されました。この機能により、開発者は自分の学習レベルや目的に応じて、AIの出力形式を3つのモードから選択できるようになり、より効果的...
+- [Vercel AI SDK と Next.js で Gemini 搭載のイケてるチャットアプリを作る](https://zenn.dev/raic_dev/articles/02343a34bfe31e)
+  - こんにちは！雷（らい）です。
+今回は、Vercel AI SDK + Next.js でGemini搭載のイケてる（かっこいい）モダンなチャットアプリを作ります。
+
+
+ 今回の技術スタック
+
+
+bun (1.2.17)
+
+
+Next.js (15.3.4)
+
+
+AI SDK (4.3.16)
+
+
+
+...
+- [小データ小メモリ高性能なモデルマージ手法の提案【論文要約】](https://zenn.dev/zenn_mita/articles/6b9d119ee307b7)
+  - 初めに
+こんにちは、AIエンジニアを目指しているmitaです！
+今回は
+ProDistill: Scalable Model Merging with Progressive Layer-wise Distillation
+という、大規模モデルを効率的にマージするための新手法に関する研究を要約＆考察...
+- [ターミナルの標準出力をClaude Codeに単純に渡す](https://zenn.dev/pppp303/articles/973f845ce61145)
+  - 課題: コピペは嫌い
+
+ターミナルに出力されているエラーをコピペしてClaude Codeさんに貼り付け
+なんか微妙に固まる...🤔
+エラーを調査してくれるようにClaude Codeさんにお願い
+
+という行動を3回ぐらい繰り返し、一旦手を止めてMCPを探しました
+
+ 既存のMCPサーバーという選択...
+- [AIはスピードアップできるがショートカットはできない](https://zenn.dev/taroosg/articles/20250820142926-5e83111b52b2f0)
+  - AI 入れてもやってることは変わっていない説
+筆者は AI を活用した開発を積極的に進めているが，じつは「開発でやっていること」自体はあまり変わっていない．AI を使うことで「スピードアップ」はできるが，開発の本質的な部分は変わっていない．
+
+ 開発フローの変化
+AI を使う前と後で，開発フロー（概...
+- [理工系教員のための生成AI活用ガイド：認知負債を防ぎ、教育の質を高める実践的アプローチ](https://zenn.dev/nahisaho/books/cf6812d959962b)
+  - 理工系教員が生成AIを活用する際の認知負債リスクを理解し、教育の質を維持・向上させながら効率的にAIを活用するための実践的指南書。教育理論に基づいた活用方法、プロンプト設計、授業設計、研究支援まで網羅的に解説。...
+- [「テレワーク生まれ・AI育ち」の新人たちはどうやって一人前になるべきか？](https://zenn.dev/pdfractal/articles/61c8684c1e0e42)
+  - はじめに
+近年、日本の産業(特にIT業界)ではテレワークが常態化し、さらに生成AIの導入が急速に進んでいます。この二つの潮流によって、新人たちが直面する環境は過去と大きく変化しました。かつて新人は、現場での単純作業や雑務を通じて基礎力を身につけ、先輩や上司から暗黙知を吸収しながら一人前に成長してきま...
+- [Geminiにチャット履歴を学習して回答するパーソナライズ機能と、履歴を残さない一時チャット機能が追加](https://zenn.dev/n_san/articles/6850f516a0cbce)
+  - Googleは2025年8月13日に、Geminiアプリの新機能としてチャット履歴を学習して回答するパーソナライズ機能と、チャット履歴に残らない一時チャット機能を発表しました。
+
+ 応答を最適化するパーソナライズ機能
+新しいパーソナライズ設定をオンにすると、Geminiが過去の会話からユーザーの文脈...
+- [組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）](https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action)
+  - !
+この記事は、CYBOZU SUMMER BLOG FES '25 の記事です。
+
+こんにちは。サイボウズ株式会社、生産性向上チームの平木場（@korosuke613）です。今回は Claude Code Action を全社で利用するために構築した基盤について紹介します。構築した基盤はベータ版と...
+- [LLM は二次資料？情報源としての LLM との向き合い方](https://zenn.dev/toga/articles/llm-as-a-source)
+  - LLM が現れてから数年が経ちましたが、未だに変化が激しく、多くの人が向き合い方を模索している途中だと思います。LLM には様々な使い道がありますが、私は最近、情報を得る手段として LLM を利用するときの向き合い方に悩んでいるので、思ったことを記事にしてみます。色々な人の意見が知りたいので、反応が...
+- [Cursorと友達になりたい](https://zenn.dev/ukkyon/articles/want-to-be-good-friend-with-cursor)
+  - 2025年はAI元年？と言っても過言ではないくらいに、さまざまなAIエージェントが出てきており、キャッチアップに疲弊している方が多いかもしれません。私もその一人。
+やっと、お盆にClaude Codeへ入門しました。Claude Codeの能力が素晴らしすぎて、もっと早く入門しておけばよかったと感じ...
+- [Claude Codeのカスタムスラッシュコマンドを作ってみた](https://zenn.dev/takesoon/articles/create-custom-slash-command)
+  - はじめに
+Claude Codeは、Anthropic社が提供するAIアシスタントツールです。コード編集、ファイル操作、コマンド実行など、開発作業を強力にサポートしてくれます。
+その中でも特に便利なのが「カスタムスラッシュコマンド」機能です。よく使う作業をコマンド化することで、作業効率を大幅に向上さ...
+- [『Document AIが生成AI活用のカギ』になる理由を事例ベースで解説](https://zenn.dev/fusic/articles/8adbc1f7fe1db9)
+  - 自己紹介
+こんにちは、Fusicのハンです。
+ふだんは日本語音声合成（TTS）モデルの開発や、Document AI × LLMを活用した業務効率化、その他AIにまつわる技術・相談支援をしています。
+株式会社Fusicは、AWS／Web／アプリ／IoT／AIなど広範な技術領域をカバーしていて、ITの...
+
+### Zenn GenAI (19件)
+
+- [バイブコーディングでMCPサーバーを開発した](https://zenn.dev/tree_and_tree/articles/4e368320333404)
+  - https://zenn.dev/tree_and_tree/articles/6b45f416866932
+!
+↑の記事でClaude Codeによるバイブコーディングを行ったのですが、再びバイブコーディングでMCPサーバーを個人開発したので記事にしました。
+Kiroスタイルで開発したのでその内容...
+- [理工系教員のための生成AI活用ガイド：認知負債を防ぎ、教育の質を高める実践的アプローチ](https://zenn.dev/nahisaho/books/cf6812d959962b)
+  - 理工系教員が生成AIを活用する際の認知負債リスクを理解し、教育の質を維持・向上させながら効率的にAIを活用するための実践的指南書。教育理論に基づいた活用方法、プロンプト設計、授業設計、研究支援まで網羅的に解説。...
+- [高校教員のための生成AI利活用ガイド（初級者編）](https://zenn.dev/nahisaho/books/950e3f953461ec)
+  - 高校教育現場での生成AI活用を実践的にサポート。授業準備から実践、校務効率化まで、教育の質を高めながら働き方改革を実現する方法を体系的に解説。生徒への適切な指導法やリスク管理も含め、責任ある教育DXを推進します。...
+- [書籍紹介「AWS生成AIアプリ構築実践ガイド」](https://zenn.dev/hariby/articles/efa8b76b15e096)
+  - 生成 AI の書籍を執筆しました。本書を読むと、AI エージェントなどを含む生成 AI アプリケーションの開発に必要な背景知識と AWS 上での実装、そして実用上のポイントといった実践的な内容を学ぶことができます。技術者だけでなく、生成 AI でビジネスを考える事業開発者、関連プロダクトの営業・マー...
+- [コンテキストエンジニアリング入門：AI時代の新しいソフトウェア設計思想](https://zenn.dev/chameleonmeme/articles/3fa24ed960c9bd)
+  - はじめに
+近年、ChatGPTをはじめとした生成AIの登場により、自然言語インターフェースが急速に広まりつつあります。これらのAIを業務に活用する中で、注目され始めているのが 「コンテキストエンジニアリング」 という考え方です。
+この記事では、私自身がコンテキストエンジニアリングの概要について調べ、...
+- [【VibeCodingChallenge#17】対話型絵画鑑賞ツール](https://zenn.dev/tkinzenn/articles/2eca8bac976275)
+  - はじめに
+このVibeCodingChallengは、AIだけでコーディングを行い、AIに何ができて、何ができないのかを探る個人的な企画です。
+突然ですが、美術館や展覧会で行われる「対話型鑑賞法（Visual Thinking Strategies: VTS）」をご存知ですか？
+作品を前に「何が見え...
+- [Google版Devinと噂のJulesを触ってみた所感](https://zenn.dev/taiga_k/articles/8908f537187923)
+  - はじめに
+Googleがこれまでベータ版として提供していたコーディングエージェント「Jules」の正式版が公開されたので、早速試してみました
+Julesに興味があるけれど、「具体的にどんな感じ？？」という方の参考になれば幸いです
+https://jules.google/
+
+ 環境構築
+Julesの...
+- [生成AIのプロンプト設計について、Chatgptに聞いてみた！](https://zenn.dev/monkey_gineer/articles/1a7ce43ae2da4a)
+  - この記事について
+
+この記事は、生成AIについて、以下の人向けです。
+
+まだ全く知らない人
+これから使ってみようと思う人
+
+
+生成AIを使う上で一番最初に大事なものとしては、生成AIに対する指示書（プロンプト）が大事ということを理解してもらうために書いております。
+餅は餅屋ということで、Chatgp...
+- [AWS DVAの一問一答 -2問目-](https://zenn.dev/waaani/articles/aws-dva-qna2)
+  - 概要
+AWS DVAの取得にあたり、公式の試験ガイドとサンプル問題をもとにGeminiに問題を作らせて解く企画の第2問目。
+ただ解くだけだとあまり意味がないので、問題を解きながら生成された問題内容に違和感がないか、回答選択肢としておかしな内容が混ざってないか、解説がおかしくないか、正解の選択肢に違和...
+- [なぜ 生成AI は 人間のように言語を扱えるのか？ ⸺ LLM と人の生存戦略との意外な関係](https://zenn.dev/h1deya/articles/llm-and-brain)
+  - ことの発端 ： AI の言語能力の発動
+最近の生成 AI の進歩には、ほんと目を見張りますよね。
+文章を生成する AI、大規模言語モデル（LLM）なんて、要は 「次に来る単語を当てる確率計算機」 にすぎないのに、論文を要約したり、質問に答えたり、時には詩や小説まで創作してしまう。しかもその自然さと流...
+- [【VibeCodingChallenge#16】一瞬でできる備品管理システム](https://zenn.dev/acntechjp/articles/37990af62c8044)
+  - はじめに
+このVibeCodingChallengeは、AIだけで開発を行い、AIができること、できないことを見定めようという個人の挑戦企画です。
+今回は、さすがにネタギレ、、、してきたので、副業サイトを眺めていました。（副業しようとしているわけではなく、ネタ集めとして）
+すると、１つの依頼が目に止...
+- [Claude Codeをなるべく安全に動かすためのDev Containerを構築した](https://zenn.dev/backpaper0/articles/038838c4cec2a8)
+  - !
+この記事で紹介する設定ファイルとコード例は、GitHubリポジトリで公開しています：
+claude-code-in-devcontainer-example
+
+
+ 1. はじめに
+Claude CodeはAnthropic社が提供するAIを活用したコーディング支援ツールです。先進的なコード生成・...
+- [AWS DVAの一問一答 -1問目-](https://zenn.dev/waaani/articles/aws-dva-qna1)
+  - 概要
+AWS DVAの取得にあたり、公式の試験ガイドとサンプル問題をもとにGeminiに問題を作らせて解く企画。
+ただ解くだけだとあまり意味がないので、問題を解きながら生成された問題内容に違和感がないか、回答選択肢としておかしな内容が混ざってないか、解説がおかしくないか、正解の選択肢に違和感がないか...
+- [続・動画をインプットに不具合再現手順を生成AIに書いてもらおう](https://zenn.dev/team_soda/articles/885ceb5733c19f)
+  - こんにちは、SODAでクオリティエンジニアをしているokauchiです。
+今回は以前記事にした不具合再現手順を生成AIの力を借りて楽に書こうを実際にやってみた結果をシェアします。試作段階のプロンプトでのトライアルでしたが、やってみることで「想定と違ったこと」や「改善の余地」が多く見えてきました。
+
+...
+- [生成 AI のアプリ構築を基礎から学べる書籍を出します](https://zenn.dev/ivry/articles/492e8e19de3906)
+  - この度、08/22 に共著という形で書籍を出版させていただくことになりました。
+
+
+ 簡単な自己紹介
+普通の記事では、書く必要がないと思うのですが今回は自分語り的な要素も含まれているため、簡単に自己紹介をさせてください。
+私は、2021 年から、AWS のソリューションアーキテクトと呼ばれるポジショ...
+- [なぜ今松尾研発SU エムニが『AI駆動経営』に取り組むのか](https://zenn.dev/emuni/articles/37eafae394fb3e)
+  - 株式会社エムニで代表を務めている下野と申します。エムニは松尾研発スタートアップとして、大手製造業を中心にAI技術の社会実装に取り組んでいます。
+エムニはまだ設立2期目にも満たないスタートアップですが、業務委託・学生インターンを中心にメンバーが100名を超えました。この成長フェーズにおいて、「AI駆動...
+- [【VibeCodingChallenge#15】広告効果分析ツール](https://zenn.dev/acntechjp/articles/7f18c0e0054be1)
+  - はじめに
+このVibeCodingChallengeでは、AIだけで開発を行い、AIに何ができて、何ができないのか？ を考える個人的な企画です。
+私は大学時代、広告業界でアルバイトをしていたこともあり、私は広告について案外詳しかったりします。  そんな中、たまーに、広告分析系のツールを見かけるんです...
+- [[Android][Kotlin][生成AI]かっこいいUIをChatGPTとGeminiとCopilotに作らせてみた。](https://zenn.dev/rg687076/articles/e208661c53f8fb)
+  - https://github.com/aaaa1597/Compare-CoolUI
+
+ Abstruct
+同じコマンドで、ChatGPT と Gemini と Copilotに投げてUIデザインをさせてみたまとめ。
+
+ 背景
+UIデザイン考えるの大変よね～。生成AIでパパっと作れたら楽よね～。って...
+- [Gemini CLIを先生として使う](https://zenn.dev/katorihak/articles/8f734536397bcc)
+  - バイブコーディングしていますか？
+例えば五目並べであったり、簡単なパズルゲームのように要件と仕様が明確になっているものは比較的しっかりと作成してくれるように思いますが、そうではない仕様が曖昧なものは当然、曖昧な成果物しか生成してくれません。これは対人間でも同じだと思っていますが、人間の高い適応力で”...
+
+### Zenn DL (15件)
+
+- [MIRU2025_参加レポート](https://zenn.dev/scien/articles/f6f9a21ec6c014)
+  - MIRU2025 参加レポート
+
+執筆者： SCIEN社 LEE（機械学習エンジニア）
+
+
+ はじめに
+
+2025年7月29日から8月1日にかけて京都で開催されました、画像の認識・理解シンポジウム（MIRU 2025）に参加いたしました。本稿では、自動運転分野における技術動向と、エンジニアとして特に...
+- [AI・機械学習・ニューラルネットワーク・ディープラーニングとは?](https://zenn.dev/ryu9/articles/ai_ml_nn_dl_overview)
+  - この記事で学べること
+みなさん、こんにちは。りゅう9です。この記事では、AIについて勉強しようと思うと必ず目にする図をもとにAI・機械学習・ニューラルネットワーク・ディープラーニングとは何かをまとめます。難しい数式を使った説明は省略して概念を説明する記事とします。
+初めてのZenn記事です。練習を兼...
+- [【講義まとめ】"MIT 6.5940 TinyML and Efficient Deep Learn"で学ぶ、AIモデル圧縮・高速化の最前線](https://zenn.dev/v2m5rc87/articles/1c961a9e5e30f5)
+  - https://hanlab.mit.edu/courses/2024-fall-65940
+
+ 💡 この記事はこんなあなたにおすすめ！
+「手元のPCじゃ、もう最新のAIは動かせない…」
+「論文で見るすごいモデル、どうすれば自分の環境で動かせるんだろう…」
+そんな風に、高性能なGPUがないからと諦め...
+- [MIRU 2025 参加レポート](https://zenn.dev/scien/articles/000c8916c8a405)
+  - こんにちは、株式会社SCIEN CTOの大山です。
+2025年7月29日（火）〜8月1日（金）にかけて京都で開催された画像の認識・理解シンポジウムMIRU2025に参加しました。
+弊社からは機械学習エンジニアのメンバー含め3名が参加いたしました。
+この記事ではMIRU2025の全体的な様子や、私の興...
+- [Vertex AI Experimentsを利用したMNISTモデル学習の実験管理](https://zenn.dev/akasan/articles/1447fc369a5032)
+  - 今回はVertex AIのExperimentsを利用して、MNISTの学習家庭を記録してみました。Vertex AI Experimentsを利用することでモデルの実験評価ができ、どのモデルをデプロイするのが良いかを判断する材料になります。
+
+ Vertex AI Experimentsとは？
+V...
+- [リモートセンシング領域の基盤モデルと論文まとめ](https://zenn.dev/syu_tan/articles/f147824b219ecc)
+  - リモートセンシングへの基盤モデルの影響
+近年自然言語処理や画像認識で成果を挙げた「基盤モデル: Foundation Models; FM」が、衛星リモートセンシング（Earth Observation; EO）にも波及しつつあります。数十〜数百TB規模の光学・SAR時系列を自己教師ありで学習したモ...
+- [理論も理解しないでデータ解析するんですか？？(機械学習チートシート)](https://zenn.dev/aom1do/articles/f483bc6755513c)
+  - 機械学習チートシート
+
+対象読者：機械学習に関する講義を履修済みの大学生や社会人の方
+数式の導出過程に重きを置いていますが、細かい説明や背景は省いているので、これを最初の学習用としないでください
+参考までにPythonでのデータ解析用コードを記しています
+
+
+
+ 概要
+
+ 教師あり学習
+
+入力データ...
+- [neoAI 日本語Reasoning Model の開発 Part 2 言語混同の低減](https://zenn.dev/neoai/articles/89202a5248f154)
+  - はじめに
+Part 1では、日本語Reasoning Modelの重要性と、継続事前学習を用いた開発手法についてご紹介しました。今回は、Reasoning Modelが直面する課題の一つである「言語混同」に焦点を当て、強化学習（Reinforcement Learning: RL）を用いたその解決ア...
+- [深層学習-1-誤差逆伝播法まで-20250616](https://zenn.dev/tomnjp/articles/7e7f8f68172e4f)
+  - これは私の学習のアウトプットです。深層学習の基本原理の理解を目指しました。
+
+
+ NotebookLMによる要約(一部修正)
+ニューラルネットワークの基本原理の理解を目的とし、パッケージに頼らずにパーセプトロンや多層パーセプトロンの実装、AND、NAND、OR、XORゲートの構築方法を解説しています...
+- [深層学習が多層の膨大なパラメータを学習できる雰囲気を理解する](https://zenn.dev/green_tea/articles/2875587a23442a)
+  - はじめに
+
+ 筆者のモチベーション
+本記事のキーワードは、
+
+普遍近似定理（Universal Approximation Theorem）
+二重降下（Double Descent）
+過剰パラメータ化（Over-parameterized）
+多層化の利点（Benefits of Depth）
+
+とい...
+- [[資格] E資格合格記](https://zenn.dev/kankitsu/articles/238dce53587e42)
+  - 1.はじめに
+2025/2に受験したE資格に合格しました。
+内容を記載するのはNGなので、感想だけ記載します。
+
+ 2.筆者バックグラウンド
+エンジニア歴4年目の32歳ポンコツ、一応AI系の会社にいるもののライブラリを使用して
+ゴチャゴチャするだけなのでロジック周りは何も分かっていない。
+有難くも会...
+- [neoAI 日本語 Reasoning Model を開発 - Part 1 継続事前学習](https://zenn.dev/neoai/articles/1670bd029093b0)
+  - はじめに
+neoAI は日本語で思考過程を出力することで論理的思考能力を向上させた大規模言語モデル（LLM）「neoAI-JP-QwQ-32B」および「neoAI-JP-DeepSeek-Qwen-32B」を公開しました。このようなモデルは一般的にReasoning Modelと呼ばれ、OpenAI...
+- [イーロン・マスクのGrok-4。それは天才か、怪物か、それともゲームチェンジャーか。](https://zenn.dev/kepr/articles/bc7f1b4a41a0b9)
+  - 第1章：知性のビッグバンか、それとも大炎上案件か？
+
+イーロン・マスク氏は、自らが率いるxAIが発表した最新AIモデル、Grok-4を「あらゆる分野で博士号レベルを超える知性」だと称し、我々は「知性のビッグバン」の時代を生きていると宣言しました。公式発表が華々しく謳うのは、前例のない天才の誕生です。...
+- [AIの「脳みそ」！Transformerモデルの仕組みからChatGPTの秘密まで徹底解説](https://zenn.dev/colorfulwave/articles/dc0d635e11066f)
+  - AIの「脳みそ」！Transformerモデルの仕組みからChatGPTの秘密まで徹底解説
+
+
+ はじめに：AIの進化を加速させたTransformerの登場
+皆さん、こんにちは！近年、AIの進化には目覚ましいものがありますよね。特にChatGPTのような対話型AIが登場して以来、その自然な文章生成...
+- [新たな進化の波：時系列データに革新をもたらす「iTransformer」とは？](https://zenn.dev/colorfulwave/articles/b5102c662051be)
+  - 新たな進化の波：時系列データに革新をもたらす「iTransformer」とは？
+
+
+ はじめに：時系列データ分析の新たな地平
+近年、AI技術の発展は目覚ましく、特にTransformer（トランスフォーマー）というモデルは、自然言語処理（NLP）の分野に革命をもたらしました。まるで人間のように文章を...
+
+### Zenn LLM (20件)
+
+- [Google ColabでGPT Image Input fidelityを使った画像の生成と編集](https://zenn.dev/sunwood_ai_labs/articles/colab-gpt-image-input-fidelity-image-gen-edit)
+  - このGoogle Colabクックブックでは、画像生成機能を持つ新しい大規模言語モデルであるGPT Imageの使い方を学びます。このノートブックはGoogle Colab環境で動作し、ブラウザ上で直接実行できます。
+このモデルは世界に関する知識を持ち、この幅広い世界の理解を活用して画像を生成できま...
+- [小データ小メモリ高性能なモデルマージ手法の提案【論文要約】](https://zenn.dev/zenn_mita/articles/6b9d119ee307b7)
+  - 初めに
+こんにちは、AIエンジニアを目指しているmitaです！
+今回は
+ProDistill: Scalable Model Merging with Progressive Layer-wise Distillation
+という、大規模モデルを効率的にマージするための新手法に関する研究を要約＆考察...
+- [バイブコーディングでMCPサーバーを開発した](https://zenn.dev/tree_and_tree/articles/4e368320333404)
+  - https://zenn.dev/tree_and_tree/articles/6b45f416866932
+!
+↑の記事でClaude Codeによるバイブコーディングを行ったのですが、再びバイブコーディングでMCPサーバーを個人開発したので記事にしました。
+Kiroスタイルで開発したのでその内容...
+- [コンテキストエンジニアリング入門：AI時代の新しいソフトウェア設計思想](https://zenn.dev/chameleonmeme/articles/3fa24ed960c9bd)
+  - はじめに
+近年、ChatGPTをはじめとした生成AIの登場により、自然言語インターフェースが急速に広まりつつあります。これらのAIを業務に活用する中で、注目され始めているのが 「コンテキストエンジニアリング」 という考え方です。
+この記事では、私自身がコンテキストエンジニアリングの概要について調べ、...
+- [LM StudioとAWS Cloud Control API MCP Server でEC2を立ててみた](https://zenn.dev/ccie26302/articles/c9a7295012967f)
+  - はじめに
+2025 年 8 月 13 日に公開された AWS Cloud Control API  MCP Server をローカルの LLM 環境 LM Studio と GPT‑OSS を組み合わせて、対話形式で EC2 インスタンスをデプロイできることを検証しました。
+本記事では、実際に手順を...
+- [LLM は二次資料？情報源としての LLM との向き合い方](https://zenn.dev/toga/articles/llm-as-a-source)
+  - LLM が現れてから数年が経ちましたが、未だに変化が激しく、多くの人が向き合い方を模索している途中だと思います。LLM には様々な使い道がありますが、私は最近、情報を得る手段として LLM を利用するときの向き合い方に悩んでいるので、思ったことを記事にしてみます。色々な人の意見が知りたいので、反応が...
+- [ニューラルネットワークと重ね合わさるニューロンたち](https://zenn.dev/horiyuki42/articles/8538c8e0e3f624)
+  - Toy Models of Superposition
+Anthropicの、Toy Models of Superpositionについて考えます。特に、今回は「重ね合わせとは？」について原理的に理解することを目標とします。重ね合わせの実証や、敵対的サンプルの話は触れません。
+📄Paper
+
+ 特...
+- [Gemma3:270Mをファインチューニングして使ってみた](https://zenn.dev/mixi/articles/1a6a7c1856c206)
+  - はじめに
+https://developers.googleblog.com/ja/introducing-gemma-3-270m/
+先日、Gemma3に新しい「Gemma3 270M」が追加されました。
+このモデルは2億7千万パラメータというコンパクトなサイズでありながら、軽量で効率的に動作する...
+- [Claude Codeの「output-style」でデフォルトシステムプロンプトをカスタマイズ](https://zenn.dev/pepabo/articles/7c87e634543c4b)
+  - 2025年8月15日、Anthropic社からClaude Codeの新機能として「output-style」が発表されました。この機能により、開発者や学習者は自分の学習スタイルに合わせてClaudeとのコミュニケーション方法をカスタマイズできるようになりました。
+https://x.com/cla...
+- [[AI Agent Jump Start：応用編#1] 失敗しないAIエージェント設計：段階的導入と目的に応じたデザインパターンの選び方](https://zenn.dev/dxclab/articles/808efaaa7db736)
+  - AIエージェントは強力な可能性を秘めていますが、その効果を最大化するには、目的に合った設計と段階的な導入が重要です。
+「とりあえずエージェント」「とりあえずマルチエージェント」ではなく、どのような場面でエージェントを使うべきか、どのように設計すべきかを見極めることが成功の鍵となります。
+本記事では、...
+- [プロンプトの詳細さがLLMコード生成精度に与える影響：最新研究による包括的分析](https://zenn.dev/kimkiyong/articles/981dc1701fab0c)
+  - プロンプトの詳細さがLLMコード生成精度に与える影響：最新研究による包括的分析
+
+ 研究背景と重要性
+大規模言語モデル（LLM）を用いたコード生成において、プロンプトの詳細度が生成されるコードの品質に与える影響は、ソフトウェア開発の生産性向上における重要な研究課題となっています。2024年の調査では...
+- [少ないデータセットで、パーソナリティをLLMにファインチューニングする旅](https://zenn.dev/openmose/articles/da584f45198047)
+  - AIの世界は進化が超絶早く、つい最近まで「大規模」と呼ばれていた20BクラスのLLMが、今ではSLM（Small Language Model）と呼ばれるようになりました。GPT-4のような巨大モデルと比べれば「小さい」という意味ですが、それでも200億個のパラメータを持つモデルです。技術の進歩って...
+- [AIと実践するVibe-Driven Development：第2回「そのタスク、サーバーが落ちても死なないの？」](https://zenn.dev/nexta_/articles/b8c856bb95b286)
+  - こんにちは！株式会社ネクスタのエンジニア、bikです。
+
+▼ 前回までのあらすじ
+束の間の稼働。だが、それは虚構の平穏に過ぎなかった。
+ブラウザの遷移、その沈黙を破り、新たなる敵『状態消失』が、エンジニアの魂を試す。
+対話の果てに、エンジニアはAIと共に、虚無の空間に一本の光を見出す。
+だが、物語は...
+- [RAGでLLMの内部パラメータを活用する方法](https://zenn.dev/knowledgesense/articles/0712abdd04a4f6)
+  - 導入
+こんにちは、株式会社ナレッジセンスの須藤英寿です。
+今回は、RAGの出力がどの情報源を元に出力したかを示す出典を、トークン出力確率を用いて判定する手法「LoDIT」について紹介します。
+https://arxiv.org/pdf/2508.08942
+
+
+ サマリー
+RIGに代表されるように、...
+- [JetBrains公式のKotlin製AIエージェントフレームワーク"Koog"やるぞ](https://zenn.dev/smartround_dev/articles/9faa2d870b15b2)
+  - はじめに
+スマートラウンドで野生のAIエンジニアをやっている福本です🐈
+普段はLangChainやMastraを使ったAIワークフロー/エージェントの新規開発や運用をやっています。
+最近、登記簿PDFファイルからデータを抽出して自動で資本政策を作る”AI資本政策”という機能を作ったりしました。
+とい...
+- [なぜ 生成AI は 人間のように言語を扱えるのか？ ⸺ LLM と人の生存戦略との意外な関係](https://zenn.dev/h1deya/articles/llm-and-brain)
+  - ことの発端 ： AI の言語能力の発動
+最近の生成 AI の進歩には、ほんと目を見張りますよね。
+文章を生成する AI、大規模言語モデル（LLM）なんて、要は 「次に来る単語を当てる確率計算機」 にすぎないのに、論文を要約したり、質問に答えたり、時には詩や小説まで創作してしまう。しかもその自然さと流...
+- [MacBook Air で gpt-oss を動かす](https://zenn.dev/yukit7s/articles/09768faaafd3d6)
+  - gpt-oss とは
+gpt-oss は、2025年8月5日に OpenAI からリリースされた、オープンウェイト言語モデルです。Apache 2.0 License と USAGE_POLICY に基づき、商用利用が可能となっています。
+2025年8月 現在、gpt-oss-120b と gpt-...
+- [旅行アプリ開発記録④　LLMを組み込んだアプリでのセキュリティ対応](https://zenn.dev/nnnwa/articles/3557b980ba593c)
+  - LLMを利用するアプリケーションにおいて、入力から出力までを安全に処理するための多層防御の設計について解説します。この記事ではLLMに絞っていて、一般的なDOS対策等は別で必要です。
+以下の4つの要素を中心に書きます。
+
+LLM応答の無害化
+プロンプトインジェクション検出
+無害化＋再検出
+入力サニタ...
+- [ニューラルネットワークの蒸留で、教師モデルの明示されない隠れた特性が生徒モデルに伝播するのか？](https://zenn.dev/horiyuki42/articles/aa18f3c9448494)
+  - Anthropicの、Subliminal Learning:  language models transmit behavioral traits via hidden signals in dataについて考えます。
+💻Alignment Science Blog
+📄Paper
+
+ 背景
+
+ ...
+- [Vertex AIのModel Garden調査　〜基盤モデル〜](https://zenn.dev/akasan/articles/adca86f2802773)
+  - 今回はVertex AIのModel Gardenで提供されているText Generation用の基盤モデルについて何が提供されているかまとめてみます。全ては網羅せず、ざっくり眺めてみます。
+※ Model Gardenで説明に利用されているサムネイルのテキストから要約しています。モデルの詳細など...
+
+### Zenn NLP (15件)
+
+- [ゼロショットの次へ：Few-shotとCoTで感情分類を底上げする（IMDB＋vLLM）](https://zenn.dev/arai0711/articles/llm_sentiment_cot_blog)
+  - LLM感情推定の続編：Few-shotとCoTで安定性と精度を底上げする
+— 例示（Few-shot）とChain-of-Thought、多数決・投票率confidence、JSONパースまで “壊れない” 比較実験 —
+更新: 2025-08-18 15:00
+
+ TL;DR
+
+
+Few-shot...
+- [LLMゼロショット感情推定の実験をしてみる](https://zenn.dev/arai0711/articles/llm_sentiment_eval_blog)
+  - LLMゼロショット感情推定の実験をしてみる
+— プロンプト → JSON → 応答解析モジュール(パース) → 評価までの再現可能な最小構成 —
+更新: 2025-08-17 04:44
+
+ TL;DR
+
+LLMにJSONスキーマで出力を強制 → パースで機械的に抽出 → 指標と混同行列で評価
+デー...
+- [LogitsProcessorZoo で LLM の出力をコントロールする](https://zenn.dev/prgckwb/articles/logits-processor-zoo-explain)
+  - LLMに質問した際に、期待した出力の形式とは異なる応答を得たり事実とは異なる情報を返されたりしたことはないでしょうか。この記事では、そんな時に使える便利なライブラリ logits-processor-zoo について紹介します。
+https://github.com/NVIDIA/logits-pr...
+- [技術調査 - Unstructured](https://zenn.dev/suwash/articles/unstructured_20250619)
+  - ■概要
+Unstructuredライブラリは、多様な非構造化文書を構造化データへ変換するオープンソースのツールキットです。
+対応する文書形式には、PDF、Word文書、画像、HTML、メールなどが含まれます。文書が持つ意味やレイアウトを維持したままコンテンツを抽出します。そのため、抽出データは大規模...
+- [【図解】BERTの仕組みと進化の流れ：Attention・Transformerから理解する](https://zenn.dev/stockdatalab/articles/20250614_tech_nlpbert)
+  - はじめに
+自然言語処理（NLP）で注目される技術の一つが「BERT」です。Googleが開発したこのモデルは、検索エンジンや文章理解タスクで高い性能を発揮します。自然言語処理の手法・加味できることは、下図のように進化してきました。本記事では、特にRNN・LSTM以降の技術革新に焦点を当てながら、BE...
+- [【実装付き】LLMの認知的活性化パターンを定量評価する - 複雑プロンプトによる応答変化の技術的分析](https://zenn.dev/response_lab/articles/3fbe6d831e3a92)
+  - はじめに
+本記事では、大規模言語モデル（LLM）において観察される「認知的活性化」現象を技術的に分析します。複雑なプロンプトによってLLMの応答パターンに測定可能な変化が生じることを発見し、これを定量的に評価する手法を開発しました。
+対象読者
+
+LLMを活用したアプリケーション開発者
+プロンプトエン...
+- [自然言語処理と生成AI・LLMを組み合わせるために必要な知識：初心者向け](https://zenn.dev/stockdatalab/articles/20250607_tech_nlpai)
+  - はじめに
+こんにちは、SE出身の駆け出しデータサイエンティスト「マチ」です。自然言語処理（NLP）の学習を進めていたところ、知り合いから「最近はPython単体でのNLPではなく、生成AIや大規模言語モデル（LLM）と組み合わせて使う案件が主流になりつつあるよ」という話を耳にしました。 そこで、LL...
+- [自然言語処理で身につけたいスキルと技術一覧：できること・使う技術を一望](https://zenn.dev/stockdatalab/articles/20250603_tech_nlp)
+  - はじめに
+こんにちは、SE出身の駆け出しデータサイエンティストの「マチ」です。テーブルデータだけでなく、自然言語も扱えるようになりたいと思い、勉強したことをまとめてみました。「自然言語を扱ってみたいけど、どこから手をつければいいか分からない」——そんな方にとって、この記事が学びの地図のような役割を果...
+- [ロシア語NLPライブラリ調査](https://zenn.dev/miy_h/articles/33af77fc3c54d4)
+  - ロシア語のレンマ化、文法情報の付与、構文解析などの基本的な処理を行うライブラリ・ツールを比較した。
+コードは以下のリポジトリにある。
+https://github.com/miy-h/russian-nlp-sandbox
+
+ 結論
+現状ではとりあえずStanzaを使っておくのが良さそう。それ以上の...
+- [PLaMo翻訳のモデルで動画の字幕を翻訳する](https://zenn.dev/zaburo_ch/articles/e6a3b45b3bfcdc)
+  - 前日、Preferred Networks (PFN) が開発している LLM を使った PLaMo翻訳 がリリースされました。
+PLaMo翻訳は LLM を使った翻訳なので、従来のニューラル機械翻訳に比べて、文脈から 空気を読んで いい感じに翻訳してくれるという特徴があります。X で見かけた以下の...
+- [技術調査 - RAGの精度向上戦略](https://zenn.dev/suwash/articles/rag_accuracy_20250516)
+  - 1. RAGと精度向上の重要性
+
+ 1.1. 検索拡張生成（RAG）の定義
+検索拡張生成（Retrieval Augmented Generation: RAG）は、検索ベースの手法とLLMを組み合わせる技術です。この技術は、特に自然言語処理（NLP）において出力を強化します。RAGはLLMの出力を...
+- [作りながら学ぶLLM入門：前処理](https://zenn.dev/churadata/articles/459fb3543bc680)
+  - 概要
+
+この記事の対象者：LLMの内部処理をコードレベルで具体的に理解し、自分で簡易的なモデルを動かしてみたいエンジニアや研究者。
+この記事の内容：Raschka著『作りながら学ぶLLM入門』第2章をベースに、トークン化からサブワード分割、特殊トークン付与、データローダー作成、埋め込みまでの前処理工...
+- [【誤差逆伝播法 -Back Propagation】計算グラフと自動微分](https://zenn.dev/boh_mouse/articles/bda13d4b15f4d9)
+  - はじめに
+誤差逆伝播法(Back Propagation)は深層学習の基礎的な概念ですが、Pytorch・TensorFlowでは自動化されており普段の業務において意識することは少ないです。下記書籍を拝読中に、丁寧な説明を目にしたため、復習を兼ねて読書メモを残します。
+!
+この資料は『岡崎直観、荒瀬...
+- [言語処理学会第31回年次大会(NLP2025)参加報告](https://zenn.dev/mkj/articles/057377ad9ae8e6)
+  - こんにちは、株式会社松尾研究所シニアデータサイエンティストの大西です。
+3/10〜3/14に長崎で開催された言語処理学会第31回年次大会(NLP2025)にシルバースポンサーとして、データサイエンティスト3名と人事1名が参加しました。
+本イベントは、自然言語処理（NLP）分野の最先端研究が集まる場で...
+- [AIF と G 検定、どれくらい似てる？ SBERT で比較してみた](https://zenn.dev/rescuenow/articles/a9f58134989f8d)
+  - 🧩 1. はじめに
+今月、元 OpenAI 研究者を中心としたチームが発表した未来予測シナリオ AI 2027 [1] が話題になっていますね。
+興味深い内容ですが、どんな将来が来たとしても、AI についての正しい知識を身につけておくことは必須のように感じました。
+AI 関連の資格試験としては AW...
+
+### Zenn Python (8件)
+
+- [ChatGPTを使ってRustで新しいプログラミング言語をつくり始めた話](https://zenn.dev/collabostyle/articles/9bd16a97291d01)
+  - はじめに
+「自分の言語をつくる」――プログラミングに携わっていると、一度は考えたことがある人も多いと思います。
+今回、Rustを用いて新しいプログラミング言語を設計・実装し始めました。
+目指すのは次のような言語です：
+
+Pythonに近い記法で扱いやすい
+高速に動作する
+Web開発に特化した機能を標...
+- [LocalStackでAWSをローカル再現してみた](https://zenn.dev/weel_techblog/articles/39e3e205d91427)
+  - はじめまして。エンジニア歴2ヶ月、WEELでFastAPIを用いたAIアプリケーション開発に取り組んでいる瀬戸口です。
+今回は、私が初めての実務経験の中で触れた技術のひとつ、「LocalStack」についてご紹介します。
+AWSの各種サービスをローカルで再現できる便利なツールで、開発中に助けられた場...
+- [Day7：Azure FunctionsでAzure OpenAIをAPI化する](https://zenn.dev/masau/articles/azure-openai-40days-day7-functions-api)
+  - TL;DR
+Azure Functions を使うと Azure OpenAI を簡単に API 化できる
+
+function_app.py 内で SDK を呼び出し、HTTPエンドポイント /api/chat を公開
+PowerShell から JSON 応答を取得、日本語応答を確認済み
+Day1...
+- [C/C++の世界に閉じこもっていたオジサンがPythonに触れてみる 　~基礎編~ 第2/10回](https://zenn.dev/nttdata_tech/articles/f9307b7ffcdeea)
+  - はじめに
+こんにちは、NTTデータに勤務する一人のオジサンです。
+これまでC/C++言語を使って、がっつりとポインタやら参照やらに向き合いながら、プログラムを書いてきました。構造体と仲良くなり、クラスに振り回され、newとdeleteに責任を持つ。そんな人生でした。
+しかし時代は変わり、AIだ、デー...
+- [AI x Python 個人開発の始め方：AI編](https://zenn.dev/niji2/books/ai-x-python-book)
+  - AI開発は、もはや専門家だけのものではありません。なぜなら、AI自身が最高の家庭教師になってくれるからです。本書は、プロが実践するモダンな開発環境をWindows PCに構築し、「AIに助けてもらいながら、AI開発の面白さを体験する」ための、最も確実で、最も新しい冒険の地図です。...
+- [AI開発に適した言語とは？Python以外の最強言語もご紹介！](https://zenn.dev/kodamaleograph/articles/92b832dac239dd)
+  - AI開発というと、まず思い浮かぶのはPythonですよね。でも実は、Python以外にも優秀な選択肢があるんです。
+今回は、AI開発に適した言語の特徴から、Python以外の最強言語まで、実践的な視点でご紹介していきます。
+また、本記事に辿り着いた方は個人でAI開発へ着手することに興味をお持ちかもし...
+- [Pythonで学ぶ条件分岐とランダム処理の練習](https://zenn.dev/kazu0513/articles/python_paiza_log)
+  - 🗓 学習日
+2025年8月19日
+
+ 📚 使用教材
+
+Paizaラーニング「Python3入門編」（条件分岐・ランダム処理）
+
+
+ 🧠 学習内容まとめ
+今回は Python で条件分岐とランダム処理について学んだ。
+主に「if / elif / else」「比較演算子」「random」「dateモジ...
+- [【Python】非同期処理(async/await)を理解する](https://zenn.dev/mhhkn098/articles/python_async_await)
+  - 【Python】非同期処理(async/await)を理解する
+作成中〜
+これは複雑で難しいので今後修正したり追記する予定
+
+ Step 1：非同期の必要性を理解しよう
+非同期処理とは、ある処理の完了を待たずに次の処理を実行する方式のことです。
+例えば
+Webサイトで画像やデータを読み込む際に、読み...
+
+### Zenn GCP (17件)
+
+- [Vertex AI のハイエンド GPU が最大約半額に！DWS の新料金プランで GPU コストを大幅削減](https://zenn.dev/google_cloud_jp/articles/dws-flex-new-skus)
+  - TL;DR
+DWS Flex-Start の新料金プラン (新 SKUs) により、Vertex AI で利用可能な Google Cloud のハイエンド GPU を搭載したアクセラレータ最適化 VM が、オンデマンドの最大約半額で利用可能になりました。
+AI 開発者にとっては、これまで高価で手が...
+- [Google Cloud Next Tokyo 2025 参加レポート](https://zenn.dev/gyory/articles/07fa6605e746e8)
+  - こんにちは、ぎょりです。
+2025年8月5日、6日に開催されたGoogle Cloud Next Tokyoに6日ちょっとだけ参加してきました。簡単に参加レポートをお伝えします！
+
+https://www.googlecloudevents.com/next-tokyo/
+
+ Agent Devel...
+- [BigQueryMLを用いてtitanic生存者予測タスクをやってみた](https://zenn.dev/akasan/articles/4ac96d153149c7)
+  - 今回はタイトルにあるように、BigQueryMLを用いてtitanicの生存者予測タスクに取り組めるモデルを開発してみました。なお、今回BigQueryMLを利用するにあたり、クエリの生成にはGPT-5を存分に利用しました。
+
+ 実際にやってみる！
+
+ BigQueryにデータセットをアップロードす...
+- [AlloyDB Query Insightsを読み解く](https://zenn.dev/google_cloud_jp/articles/062bec7f84d1ad)
+  - 概要
+AlloyDB for PostgreSQLではQuery Insightsという機能があり、実行されたクエリの統計やサンプリングされた実行計画を閲覧することが可能です。
+本稿では、CLI上で行うEXPLAIN ANALYZEで確認が出来るクエリプランと比較しつつ、それらが実際どのようにQue...
+- [【Next Tokyo 25 レポート】Next Tokyo アンバサダーと Ask the Expert の活動をしました](https://zenn.dev/cloud_ace/articles/google-cloud-next-tokyo-2025-gde-activity)
+  - こんにちは、クラウドエース株式会社 第一開発部の阿部です。
+昨年に引き続き、Google Cloud Next Tokyo 25 でも Google Developer Expert として活動しましたので、その感想などを書いていきたいと思います。
+
+
+ はじめに (TL;DR)
+参加したイベントや...
+- [【Next Tokyo 25 レポート】クラウド・セキュリティ最前線 〜クラウドを狙う脅威の実態と対策〜](https://zenn.dev/cloud_ace/articles/google-cloud-next-tokyo-2025-report-cloud-security)
+  - こんにちは、クラウドエース株式会社 第一開発部の阿部です。
+今回は、2025 年 8 月 5 日～ 6 日に開催された「Google Cloud Next Tokyo 2025」のセッションから、「クラウド・セキュリティ最前線 〜クラウドを狙う脅威の実態と対策〜」についてレポートします。
+セッション...
+- [【Next Tokyo 25 レポート】Veo と Imagen で広がるショートアニメ / CM 制作の可能性](https://zenn.dev/cloud_ace/articles/google-cloud-next-tokyo-2025-report-veo-imagen)
+  - こんにちは、クラウドエース株式会社 第一開発部の阿部です。
+今回は、2025 年 8 月 5 日～ 6 日に開催された「Google Cloud Next Tokyo 2025」のセッションから、「Veo と Imagen で広がるショートアニメ / CM 制作の可能性」についてレポートします。
+
+...
+- [Google Cloudで検索基盤を作ろうとして迷ったら（Vertex AI Serach,Vertex AI Vector Search）](https://zenn.dev/atamaplus/articles/ea7ecbf3c6fd95)
+  - こんにちは、atama plus でデータエンジニアをしている kumewata です。
+最近 Google Cloud 上の検索基盤を検討した時に、いろいろ迷いポイントがあったので、同じところで迷う人を減らせたらと思い記事を書いてみました 🙋
+
+ 迷いポイントその 1： Vertex AI って ...
+- [VM インスタンス作成中にコンテナをデプロイするオプション廃止に伴う Container-Optimized OS での対応](https://zenn.dev/rescuenow/articles/17379adb6cf7d0)
+  - はじめに
+これまで、VMインスタンス作成時にコンテナを直接デプロイする機能（gce-container-declaration メタデータを使用する方法）がありましたが、このコンテナ起動エージェントを利用した機能が非推奨となり、2026 年 7 月 31 日に廃止されることがアナウンスされました。
+...
+- [Google Cloud Run の課金について分かりやすくまとめてみる](https://zenn.dev/nexryai/articles/563330c6caefaa)
+  - 基本的にリクエストの処理時間とメモリ使用量で料金が計算されるAWS Lambdaに比べて、コールドスタートやアイドル状態、インスタンス数などの概念が存在するCloud Runは料金形態が必然的に複雑になります。公式のドキュメントを読んでもよく分からなかったのでなるべく簡潔にまとめてみました。
+
+ T...
+- [Gemma3 270M がでたらしいのでスペックを見てみる](https://zenn.dev/satohjohn/articles/0866bbd4b2cefa)
+  - 概要
+説明を見ている限り LLM にしてはめちゃくちゃ軽いなという印象があります（桁が違う）がそれがどういうことなのかを見てみます。
+
+ 3行まとめ
+
+ローカル(M3 MacBook Pro のメモリ 16GB)で動かす分に関しては全く問題なく動かせる。普通のアプリケーション動かすのと大差なく周りに...
+- [Eventarcを用いてCloud Storageへのファイルアップロードイベントを検知してみた](https://zenn.dev/akasan/articles/ca5a602c2482f5)
+  - 今回はEventarcを利用して、Cloud Storageにファイルがアップロードされたことを検知してCloud Runのエンドポイントを呼び出してみました。以前Pub/Subを使ってBigQueryと連携することはしてみましたが、今回はEventarcを使ってみました。
+https://zenn...
+- [「Google Cloudでマルチエージェント開発、始めない理由はある？」～【googlecloud】人気記事（2025/08/17）](https://zenn.dev/carenet/articles/zenn-weekly-googlecloud-articles-2025-08)
+  - !
+この記事はZennからgooglecloudのLike数が多い記事のリストを自動的取得し、AIを利用して要約し、自動更新されています。
+
+
+ 【2025/8/17】「Google Cloudでマルチエージェント開発、始めない理由はある？」人気記事（2025/08/17）
+
+ マルチエージェントシ...
+- [Cloud ShellにてADK Web実行時のエラー](https://zenn.dev/sugawara/articles/ca49e1bac5886e)
+  - 事象
+Cloud ShellでADK製のエージェントを実行すると、たまに{"error": "string indices must be integers, not 'str'"}が発生します。今回はadk webコマンドでUIテストを実施している時に遭遇しました。
+
+エラーログを見ると、サービス...
+- [GPT-OSS API Serviceを試してみた。](https://zenn.dev/clouddevcode/articles/6785c1ec87533e)
+  - VertexAIのModel Gardenに、GPT-OSS API Serviceが二三日前から使えるようになっています。
+
+ 使用可能モデル
+gpt-oss-120b
+gpt-oss-20b
+
+ 料金 ※2025/8/18から
+
+Gemini 2.5 Flashより安価。
+
+ さっそくつかってみ...
+- [A2A リモートエージェント対応のマルチエージェントシステム](https://zenn.dev/google_cloud_jp/articles/d24a22a87a84f8)
+  - はじめに
+下記の記事では、「ネット記事の作成業務」を例とした、マルチエージェントシステムのアーキテクチャーを解説しました。
+
+マルチエージェントシステムのアーキテクチャーを紐解く
+
+この中で、リモート環境にデプロイしたエージェントを A2A で利用する方法として、次の図のアーキテクチャーを紹介しまし...
+- [Agent Development Kit 1.11.0で修正された output_schema と tools の同時利用](https://zenn.dev/soundtricker/articles/df5e6cf2dba20e)
+  - こんにちは、サントリーこと大橋です。
+2025/08/15にAgent Development Kit(以降ADK) 1.11.0がリリースされました。
+https://github.com/google/adk-python/releases/tag/v1.11.0
+最近は毎週金曜日にリリースされ...
+
+### GCP Blog (20件)
+
+- [Here’s which Google AI developer tool to use for each situation](https://cloud.google.com/blog/products/ai-machine-learning/choose-the-right-google-ai-developer-tool-for-your-workflow/)
+  - Do you remember packing for an extended trip twenty years ago? We had to load up a camera, a day planner, a pile of books, a handheld gaming device, a...
+- [Going beyond basic data security with Google Cloud DSPM](https://cloud.google.com/blog/products/identity-security/going-beyond-dspm-to-protect-your-data-in-the-cloud-now-in-preview/)
+  - In the age of data democratization and generative AI, the way organizations handle data has changed dramatically. This evolution creates opportunities...
+- [Streamline auditing: Compliance Manager is now in preview](https://cloud.google.com/blog/products/identity-security/streamline-auditing-compliance-manager-is-now-in-preview/)
+  - As organizations increase their focus on security and regulatory compliance, Google Cloud is helping our customers meet these obligations by fostering...
+- [IP address management made easy: Announcing auto IPAM for GKE clusters](https://cloud.google.com/blog/products/containers-kubernetes/gke-auto-ipam-simplifies-ip-address-management/)
+  - Managing IP addresses in Kubernetes can be a complex and daunting task — but a crucial one. In Google Kubernetes Engine (GKE), it’s important that you...
+- [A Cereal Offender: Analyzing the CORNFLAKE.V3 Backdoor](https://cloud.google.com/blog/topics/threat-intelligence/analyzing-cornflake-v3-backdoor/)
+  - Written by: Marco Galli
+
+Welcome to the Frontline Bulletin Series
+Straight from Mandiant Threat Defense, the "Frontline Bulletin" series brings you th...
+- [An efficient path to production AI: Kakao’s journey with JAX and Cloud TPUs](https://cloud.google.com/blog/products/infrastructure-modernization/kakaos-journey-with-jax-and-cloud-tpus/)
+  - When your messaging platform serves 49 million people – 93% of South Korea’s population – every technical decision carries enormous weight. The engine...
+- [Announcing new capabilities for enabling defenders and securing AI innovation](https://cloud.google.com/blog/products/identity-security/security-summit-2025-enabling-defenders-and-securing-ai-innovation/)
+  - AI presents an unprecedented opportunity for organizations to redefine their security posture and reduce the greatest amount of risk for the investmen...
+- [ChromeOS desk sync keeps your momentum going, across devices](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-desk-sync-keeps-your-momentum-going-across-devices/)
+  - For many workers, the frequent need to switch between devices can become cumbersome and disruptive. Otherwise simple tasks like logging in, reopening ...
+- [Google is a Leader and positioned furthest in vision in the 2025 Gartner® Magic Quadrant™ for Conversational AI Platforms](https://cloud.google.com/blog/products/ai-machine-learning/gartner-magic-quadrant-for-conversational-ai-platforms/)
+  - Google has been named a Leader in the 2025 Gartner® Magic Quadrant™ for Conversational AI Platforms (CAIP) report, and positioned furthest in vision a...
+- [Now available: Cloud HSM as an encryption key service for Workspace client-side encryption](https://cloud.google.com/blog/products/identity-security/introducing-cloud-hsm-as-an-encryption-key-service-for-workspace-cse/)
+  - Organizations in highly-regulated sectors, such as government, defense, financial services, and healthcare, are required to meet stringent standards t...
+- [The AI-powered shift to “living games:” Meet the customers and partners leveling up the ways we play](https://cloud.google.com/blog/products/gaming/games-start-ups-developers-partners-innovating-with-gen-ai/)
+  - The games industry is on a powerful ride, surging forward with innovation and a sharp focus on the player experience. For years, the industry’s evolut...
+- [What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)
+  - Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, ...
+- [Beyond guardrails: A taxonomy of platform engineering control mechanisms](https://cloud.google.com/blog/products/application-modernization/platform-engineering-control-mechanisms/)
+  - The promise of platform engineering is to accelerate software delivery by empowering developers with self-service capabilities. However, this must be ...
+- [Monitor your databases on Compute Engine with Database Center](https://cloud.google.com/blog/products/databases/database-center-expands-coverage/)
+  - Database Center is an AI-powered unified fleet management solution that can help you identify and address security risks, performance bottlenecks, and...
+- [Scalable AI starts with storage: Guide to model artifact strategies](https://cloud.google.com/blog/topics/developers-practitioners/scalable-ai-starts-with-storage-guide-to-model-artifact-strategies/)
+  - Managing large model artifacts is a common bottleneck in MLOps. Baking models into container images leads to slow, monolithic deployments, and downloa...
+- [What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)
+  - August 11 - August 15
+
+Code Your Way to $15,000: The BigQuery AI Hackathon Starts Now - go beyond traditional analytics and build groundbreaking solut...
+- [Cloud CISO Perspectives: New Threat Horizons details evolving risks — and defenses](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-new-threat-horizons-details-evolving-risks-and-defenses/)
+  - Welcome to the first Cloud CISO Perspectives for August 2025. Today, our Office of the CISO’s Bob Mechler and Anton Chuvakin dive into the key trends ...
+- [How Keeta processes 11 million financial transactions per second with Spanner](https://cloud.google.com/blog/topics/financial-services/how-blockchain-network-keeta-processes-11-million-transactions-per-second-with-spanner/)
+  - Keeta Network is a layer‑1 blockchain that unifies transactions across different blockchains and payment systems, eliminating the need for costly inte...
+- [Announcing multi-subnet support for more scalable GKE clusters](https://cloud.google.com/blog/products/networking/multi-subnet-support-for-gke-clusters-increases-scalability/)
+  - We are pleased to announce the preview of multi-subnet support for Google Kubernetes Engine (GKE) clusters. This enhancement removes single-subnet lim...
+- [From legacy to cloud: How Deutsche Telekom went from PySpark to BigQuery DataFrames](https://cloud.google.com/blog/topics/customers/deutsche-telekom-goes-from-pyspark-to-bigquery-dataframes/)
+  - In today's hyper-competitive telecommunications landscape, understanding and maximizing the Customer Lifetime Value (CLV) metric isn't just a nice-to-...
+
+### GCP Japan (20件)
+
+- [【Google Cloud Next Tokyo】 DAY 1 基調講演まとめ：顧客体験から働き方まで、AI エージェントがすべてを変える](https://cloud.google.com/blog/ja/topics/next-tokyo/google-cloud-next-tokyo-25-day-1-keynote-summary/)
+  - Google Cloud Next Tokyo の初日では、AI、特に自律的に思考し業務を遂行する「AI エージェント」が、企業の成長をいかにして加速させる強力なテクノロジーとなるかが示されました。本記事では、その基調講演で語られた内容を、各セクションのハイライトと共にお伝えします。見逃した方はぜひ...
+- [【Next Tokyo】120 以上のアーカイブ セッションを本日公開！](https://cloud.google.com/blog/ja/topics/next-tokyo/over-120-next-tokyo-archive-sessions-available/)
+  - すでに公開していた基調講演（DAY 1 | DAY 2 ）に加え、120 以上のブレイクアウト セッション、スポンサー セッションを本日、Google Cloud Next Tokyo 公式サイトにて公開しました。
+
+
+
+
+
+  
+    
+
+      
+        
+
+        
+  ...
+- [Google Cloud Partner Top Engineer 2026 アワードプログラム 申し込みを開始](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-top-engineer-2026/)
+  - 2025 年 6 月 12 日に本ブログにて発表させていただきましたアワードプログラム 「Google Cloud Partner Top Engineer 2026」 の申し込みを本日より開始しましたのでお知らせいたします。本プログラムへの自薦・他薦によるお申し込みを Google Cloud P...
+- [Google が 2025 年の IDC MarketScape: FinOps Cloud Costs Optimization でリーダーに選出](https://cloud.google.com/blog/ja/topics/cost-management/google-leader-in-idc-marketscape-finops-cloud-costs/)
+  - ※この投稿は米国時間 2025 年 8 月 6 日に、Google Cloud blog に投稿されたものの抄訳です。
+Google はお客様を第一に考え、お客様がクラウド支出を把握し、効率性を最適化し、費用が想定外にならないようにするための FinOps ツールを構築することに注力してきました。こ...
+- [Cloud Hub の最適化と Cost Explorer を使用してクラウド費用を最適化する](https://cloud.google.com/blog/ja/products/management-tools/announcing-cloud-hub-optimization-and-cost-explorer-for-developers/)
+  - ※この投稿は米国時間 2025 年 8 月 5 日に、Google Cloud blog に投稿されたものの抄訳です。
+ 
+アプリケーション オーナーがクラウド費用の最適化を検討する際に求めているのは、次の 3 つです。
+
+
+最も費用のかかるリソースはどれですか？
+
+
+今週または今月、どのリソースの...
+- [Google の ADK を使用して見込み顧客を発掘するための Deep Research エージェントを構築する方法](https://cloud.google.com/blog/ja/products/ai-machine-learning/build-a-deep-research-agent-with-google-adk/)
+  - ※この投稿は米国時間 2025 年 8 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。見込み顧客を発掘する従来の方法は、適応能力や推論能力に欠ける、脆弱なスクレイパーや静的なスクリプトに依存することがよくあります。エージェントがデータを取得するだけでなく、市場調査チ...
+- [Google、2025 年 Gartner® Magic Quadrant™ でコンテナ管理部門のリーダーに選出](https://cloud.google.com/blog/ja/products/containers-kubernetes/2025-gartner-magic-quadrant-for-container-management-leader/)
+  - ※この投稿は米国時間 2025 年 8 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。
+Gartner は 2025 年の Gartner® Magic Quadrant™ で、「ビジョンの完全性と実行能力」に基づき、Google を3 年連続でコンテナ管理のリーダ...
+- [チュートリアル: Gemini Multimodal Live API を QA に使用する方法](https://cloud.google.com/blog/ja/topics/developers-practitioners/gemini-live-api-real-time-ai-for-manufacturing/)
+  - ※この投稿は米国時間 2025 年 8 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。Gemini Multimodal Live API は、動画や音声などのデータを生成 AI モデルにストリーミングし、リアルタイムで回答を受け取ることができる強力なツールです。処...
+- [Google Cloud 向けの AI ファーストの Colab ノートブック エクスペリエンスを発表](https://cloud.google.com/blog/ja/products/ai-machine-learning/ai-first-colab-notebooks-in-bigquery-and-vertex-ai/)
+  - ※この投稿は米国時間 2025 年 8 月 6 日に、Google Cloud blog に投稿されたものの抄訳です。Google I/O 2025 で、Google はエージェント機能を備えた新しい AI ファーストの Colab を発表しました。これにより、現在のコード、アクション、意図、目標を...
+- [よりスマートなオーサリング、より優れたコード: AI が Google Cloud の開発者エクスペリエンスをどのように変革しているか](https://cloud.google.com/blog/ja/topics/developers-practitioners/smarter-authoring-better-code-how-ai-is-reshaping-google-clouds-developer-experience/)
+  - ※この投稿は米国時間 2025 年 8 月 14 日に、Google Cloud blog に投稿されたものの抄訳です。
+Google Cloud デベロッパー エクスペリエンス チームの使命はシンプルで、デベロッパーが学習からリリースまでをできるだけ迅速かつ効果的に行えるよう支援することです。その...
+- [Google Cloud Partner All Certification Holders 2025 応募開始](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-all-certification-holders/)
+  - Google Cloud Japan はこの度、Google Cloud のパートナー企業にご所属のエンジニアの方を対象とした新しい認定資格のプログラムとして、「Google Cloud Partner All Certification Holders」を開始いたします。本プログラムは Googl...
+- [Google、Gartner® Magic Quadrant 戦略的クラウド プラットフォーム サービス部門のリーダーに](https://cloud.google.com/blog/ja/products/compute/google-is-a-leader-in-gartner-magic-quadrant-for-scps/)
+  - ※この投稿は米国時間 2025 年 8 月 9 日に、Google Cloud blog に投稿されたものの抄訳です。Gartner® は、Gartner Magic Quadrant™ 戦略的クラウド プラットフォーム サービス部門のリーダーとして Google を選出しました。これで、Googl...
+- [Google が 2025 年の IDC MarketScape for Business Intelligence and Analytics Platforms でリーダーに選出](https://cloud.google.com/blog/ja/products/data-analytics/google-leader-2025-idc-marketscape-for-business-intelligence/)
+  - ※この投稿は米国時間 2025 年 8 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。このたび、IDC が Google を「IDC MarketScape: Worldwide Business Intelligence and Analytics Platfor...
+- [OVERSTEP バックドアを使用した SonicWall Secure Mobile Access（SMA）の悪用キャンペーンが継続中](https://cloud.google.com/blog/ja/topics/threat-intelligence/sonicwall-secure-mobile-access-exploitation-overstep-backdoor/)
+  -  
+
+※この投稿は米国時間 2025 年 7 月 17 日に、Google Cloud blog に投稿されたものの抄訳です。
+はじめに
+Google Threat Intelligence グループ（GTIG）は、UNC6148 として追跡している、金銭目的の脅威アクターであると疑われるグループに...
+- [Google Cloud で実行される SAP ワークロードのシステム中心のモニタリングとオブザーバビリティ](https://cloud.google.com/blog/ja/products/sap-google-cloud/workload-management-adds-sap-observability-and-monitoring/)
+  - ※この投稿は米国時間 2025 年 8 月 1 日に、Google Cloud blog に投稿されたものの抄訳です。
+複雑な SAP 環境の管理は、迷路を歩くようなものです。ユーザーは、パフォーマンス、データベースの健全性、インフラストラクチャの安定性などをすべて両立させながら、シームレスなビジネ...
+- [利便性を超えたリスク: VMware vSphere Active Directory 統合の危険性の顕在化](https://cloud.google.com/blog/ja/topics/threat-intelligence/vsphere-active-directory-integration-risks/)
+  -  
+
+※この投稿は米国時間 2025 年 7 月 24 日に、Google Cloud blog に投稿されたものの抄訳です。
+エグゼクティブ サマリー
+Broadcom の VMware vSphere プロダクトは、プライベート クラウドの仮想化に依然として広く利用されており、重要なインフラスト...
+- [ヘルプデスクからハイパーバイザまで: UNC3944 から VMware vSphere 環境を防御する](https://cloud.google.com/blog/ja/topics/threat-intelligence/defending-vsphere-from-unc3944/)
+  - ※この投稿は米国時間 2025 年 7 月 24 日に、Google Cloud blog に投稿されたものの抄訳です。
+はじめに
+2025 年半ば、Google Threat Intelligence グループ（GTIG）は、小売、航空、保険など、複数の業界を標的とした高度で攻撃的なサイバー キャ...
+- [一般提供開始: ローカル SSD、ベアメタル、特大シェイプを備えたインテル Xeon 6 搭載の C4 VM シリーズのご紹介](https://cloud.google.com/blog/ja/products/compute/c4-vms-based-on-intel-6th-gen-xeon-granite-rapids-now-ga/)
+  - ※この投稿は米国時間 2025 年 8 月 1 日に、Google Cloud blog に投稿されたものの抄訳です。
+このたび、28 個の強力な新しいシェイプの一般提供が開始され、C4 仮想マシンシリーズが大幅に拡張されました。今回の拡張では、Google の次世代 Titanium ローカル S...
+- [エージェント AI によるライドシェア型の計画: Pluto7 と Google Agentspace がサプライ チェーンを変革](https://cloud.google.com/blog/ja/topics/partners/pluto7-pi-agent-ai-meets-agentspace/)
+  - ※この投稿は米国時間 2025 年 7 月 31 日に、Google Cloud blog に投稿されたものの抄訳です。
+Pluto7 は Google の初期からのパートナーで、Agentspace を Planning in a Box プラットフォーム Pi Agent に統合し、在庫と需要の...
+- [Confidential Computing における SUSE と Google Cloud のコラボレーション](https://cloud.google.com/blog/ja/products/identity-security/how-suse-and-google-cloud-collaborate-on-confidential-computing/)
+  - ※この投稿は米国時間 2025 年 7 月 24 日に、Google Cloud blog に投稿されたものの抄訳です。
+センシティブ データの保護は、ワークロードをクラウドに移行するうえで重要な要素です。保存データと転送中のデータの暗号化は標準的なセキュリティ対策ですが、使用中のデータ（メモリ内で...
+
+### Ggen Blog (26件)
+
+- [Googleフォームの回答がスプレッドシートに同期されない原因と対処法](https://blog.g-gen.co.jp/entry/limit-for-google-forms-spreadsheet-sync)
+  - G-gen の min です。Google Workspace の Google フォームでは、回答数が上限に達するとリンク先の Google スプレッドシートへデータが同期されなくなることがあります。本記事では、その原因と対処法を解説します。 事象 原因 対処法 その他の上限 事象 本件では、Go...
+- [GASで第1営業日・最終営業日に定期予定を作成する方法](https://blog.g-gen.co.jp/entry/creating-business-day-event-with-gas)
+  - G-gen の高宮です。Google Apps Script（GAS）を用いた Google カレンダーの自動化について解説します。特に、土日祝日や会社休日を考慮した月の第1営業日や最終営業日といった、変則的な日付への定期的な予定追加に焦点を当てます。 はじめに 概要 Google Apps Scr...
+- [我々は、生成AIアプリを開発するべきなのか（Google Cloud Next Tokyo '25セッションレポート）](https://blog.g-gen.co.jp/entry/next-tokyo-25-should-we-develop-an-ai-application)
+  - G-gen の杉村です。当記事は、Google Cloud Next '25 Tokyo の2日目に行われたスポンサーセッション「我々は、生成 AI アプリを開発するべきなのか」のレポートです。 他の Google Cloud Next Tokyo '25 の関連記事は Google Cloud N...
+- [Gemini CLIとVirtual Try on APIで試着アプリを開発してみた](https://blog.g-gen.co.jp/entry/virtual-try-on-api-app-with-gemini-cli)
+  - G-gen の奥田です。当記事では、Gemini CLI を利用した開発事例を紹介します。Google Cloud が提供するAPI である Virtual Try on API と、Web UI 用の Python フレームワークである Gradio を使用した、シンプルな画像生成 Web アプリ...
+- [IAPで組織外のGoogleアカウントを認証する方法](https://blog.g-gen.co.jp/entry/authenticate-external-google-accounts-with-iap)
+  - G-genの杉村です。Google Cloud の Identity-Aware Proxy（IAP）で、プロジェクトの所属組織とは異なる Google Workspace 組織の Google アカウントからのアクセスを許可する方法を解説します。 はじめに Identity-Aware Proxy...
+- [Gemini in BigQueryを徹底解説！](https://blog.g-gen.co.jp/entry/gemini-in-bigquery-explained)
+  - G-genの杉村です。BigQuery に組み込まれた AI アシスタント機能である Gemini in BigQuery を解説します。当機能は、SQL の自動生成やデータ変換、メタデータの自動生成など、データ分析の様々なタスクを効率化します。 Gemini in BigQuery とは 料金と割...
+- [最新技術で実現する Pokémon Trading Card Game Pocket のスケーラブルな運用とコスト最適化（Google Cloud Next Tokyo '25セッションレポート）](https://blog.g-gen.co.jp/entry/next-tokyo-25-use-case-of-presplitting-and-c4a)
+  - Google Cloud Next Tokyo '25 の「Next Tokyo イベントアンバサダー」に選出いただきました G-gen の堂原です。当記事は、Google Cloud Next '25 Tokyo の2日目に行われた ブレイクアウトセッション「最新技術で実現する Pokémon T...
+- [AI Agent で実現するメルカリの顧客エンゲージメント変革（Google Cloud Next Tokyo '25セッションレポート）](https://blog.g-gen.co.jp/entry/next-tokyo-25-customer-engagement-with-ai-agent)
+  - Google Cloud Next Tokyo '25 の「Next Tokyo イベントアンバサダー」に選出いただきました G-gen の堂原です。当記事は、Google Cloud Next '25 Tokyo の2日目に行われた ブレイクアウトセッション「AI Agent で実現するメルカリの...
+- [Gemini CLI で実現する AI Agent 時代のプロダクト開発（Google Cloud Next Tokyo '25セッションレポート）](https://blog.g-gen.co.jp/entry/next-tokyo-25-product-development-with-gemini-cli)
+  - G-gen の奥田です。当記事は、Google Cloud Next '25 Tokyo の2日目に行われたブレイクアウトセッション「Gemini CLI で実現する AI Agent 時代のプロダクト開発」のレポートです。 他の Google Cloud Next Tokyo '25 の関連記事は...
+- [Google Cloud Next Tokyo '25 速報レポート - キーノート（2日目）](https://blog.g-gen.co.jp/entry/next-tokyo-25-keynote-day-2)
+  - G-gen の杉村です。当記事では、Google Cloud Next Tokyo '25 の、2日目のキーノートに関する速報レポートをお届けします。 Google Cloud Next Tokyo '25 イベント概要 キーノートの概要 AI 時代の変革 GKE と Cloud Run における ...
+- [Google Cloud + GitLab で作る最高のソフトウェア開発環境の作り方（Google Cloud Next Tokyo '25セッションレポート）](https://blog.g-gen.co.jp/entry/next-tokyo-25-google-cloud-devsec-ops-with-gitlab)
+  - G-gen の高宮です。当記事は、Google Cloud Next '25 Tokyo の1日目に行われた スポンサーセッション「Google Cloud + GitLab で作る最高のソフトウェア開発環境の作り方」 のレポートです。 他の Google Cloud Next Tokyo '25 ...
+- [もう手放せない！Gemini の NotebookLM、Deep Research、Canvas で思考を加速（Google Cloud Next Tokyo '25セッションレポート）](https://blog.g-gen.co.jp/entry/next-tokyo-25-introduce-deepresearch-notebooklm-canvas)
+  - Google Cloud Next Tokyo '25 の「Next Tokyo イベントアンバサダー」に選出いただきました G-gen の堂原です。当記事は、Google Cloud Next '25 Tokyo の2日目に行われた ブレイクアウトセッション「もう手放せない！Gemini の No...
+- [生成AI活用を進めるゴルフダイジェスト・オンライン（GDO）が Google Cloud で実現したい未来（Google Cloud Next Tokyo '25セッションレポート）](https://blog.g-gen.co.jp/entry/next-tokyo-25-golf-and-looker)
+  - G-gen の奥田です。当記事は、Google Cloud Next '25 Tokyo の1日目に行われたブレイクアウトセッション「生成AI活用を進めるゴルフダイジェスト・オンライン（GDO）が Google Cloud で実現したい未来」のレポートです。 他の Google Cloud Next...
+- [Google Cloud Next Tokyo '25 速報レポート - キーノート（1日目）](https://blog.g-gen.co.jp/entry/next-tokyo-25-keynote-day-1)
+  - G-gen の杉村です。当記事では、Google Cloud Next Tokyo '25 の、1日目のキーノートに関する速報レポートをお届けします。 Google Cloud Next Tokyo '25 イベント概要 キーノートの概要 AI エージェント メディア生成 AI Agent Deve...
+- [ナレッジ検索・回答AIエージェントG-gen Tech AgentをADKで開発した事例](https://blog.g-gen.co.jp/entry/ggen-tech-agent-developed-by-adk)
+  - G-genの杉村です。Agent Development Kit（ADK）を使い、社内外のドキュメントやナレッジを検索して、技術的な質問に回答する AI エージェントを開発した事例を紹介します。 はじめに 開発したもの 利用可能ユーザー 動作 ユースケース 技術的な仕様に関する質問 トラブルシューテ...
+- [2025年7月のイチオシGoogle Cloudアップデート](https://blog.g-gen.co.jp/entry/update-in-this-month-2025-07)
+  - G-gen の杉村です。2025年7月のイチオシ Google Cloud（旧称 GCP）アップデートをまとめてご紹介します。記載は全て、記事公開当時のものですのでご留意ください。 はじめに 組織のポリシーの Policy Simulator が Preview -> GA Cloud SQL fo...
+- [自然言語での質問を基にBigQueryにクエリするエージェントをADKで開発](https://blog.g-gen.co.jp/entry/developing-agent-querying-bigquery)
+  - G-gen の杉村です。人間からの自然言語での質問に基づいて BigQuery にクエリを実行する AI エージェントを、Agent Development Kit（ADK）で開発する方法を紹介します。 概要 Agent Development Kit（ADK）とは BigQuery ツールセット ...
+- [GeminiアプリでGitHubリポジトリを解説させてみた](https://blog.g-gen.co.jp/entry/import-github-repository-into-gemini-app)
+  - G-gen の三浦です。当記事では、特定の GitHub リポジトリの内容を Gemini アプリに解説させる方法を紹介します。 概要 当機能について Gemini アプリとは 前提条件 検証手順 検証 リポジトリとディレクトリ構成 main.py error/error.py パブリックリポジトリ...
+- [Cloud RunのサイドカーでSMTPのモックサーバーを構築する](https://blog.g-gen.co.jp/entry/mock-smtp-server-with-cloud-run-sidecar)
+  - G-gen の高井（Peacock）です。Cloud Run のサイドカー機能と MailHog を利用し、アプリケーションからのメールを捕捉するダミーの SMTP サーバー環境を構築する方法を紹介します。 はじめに やりたいこと 実現方法 サイドカー機能とは 構成 ソースコード デプロイ 動作確認...
+- [Cloud Run jobsでGoogle Driveの差分ファイルをCloud Storageに同期してみた](https://blog.g-gen.co.jp/entry/sync-google-drive-to-cloud-storage-with-cloud-run)
+  - G-gen の山崎です。 当記事では、Cloud Run jobs を使用して Google Drive の差分を検知し、差分ファイルを Cloud Storage にアップロードする方法を解説します。 システム構成 前提知識 環境構築 API の有効化 サービスアカウントの構築 Cloud Run...
+- [ADKのLLM AgentとWorkflow Agents、Toolsを解説](https://blog.g-gen.co.jp/entry/adk-agents-and-tools-explained)
+  - G-gen の杉村です。Agent Development Kit（ADK）は、Google Cloud が提供する、AI エージェント開発のためのフレームワークです。当記事では、ADK の中核をなす LLM Agent と Workflow Agents、および Tools を解説します。 概要 ...
+- [意外と知らないGoogle Workspaceの10のTips](https://blog.g-gen.co.jp/entry/10-tips-for-google-workspace-users)
+  - G-genの杉村です。当記事では、Google Workspace の便利なTipsを10個ご紹介します。これらの Tips を活用して、作業効率の向上に役立ててください。 Gemini サイドパネルを使う 進化した Gemini アプリを使いこなす ドキュメントは自動で版管理される ファイルが格納...
+- [Gmailのメールログ検索の使い方とトラブルシューティング](https://blog.g-gen.co.jp/entry/email-log-search-for-gmail)
+  - G-gen の中川です。Google Workspace の管理者向け機能であるメールログ検索について、基本的な使い方からトラブルシューティングでの活用方法までを解説します。 メールログ検索とは 保持期間 使用方法 メールログ検索でできること 配信状況と配信後の状態の確認 メッセージ ID での正確...
+- [Cloud MonitoringでSLOモニタリングを設定する方法](https://blog.g-gen.co.jp/entry/watch-slo-with-cloud-monitoring)
+  - G-genの福井です。Cloud Monitoring の SLO モニタリングの設定手順を紹介します。 はじめに SLO 設定の前提 Service の作成 SLO の作成 可用性 SLO の設定 レイテンシ SLO の設定 エラーバジェットのアラート設定 アラート設定の必要性 エラーバジェットの...
+- [Cisco Duoの強化されたGoogle Workspace連携機能を試してみた](https://blog.g-gen.co.jp/entry/cisco-duo-federated-with-google-workspace)
+  - 全国の G-gen ファンのみなさま、はじめまして。Cisco Systems のセキュリティ SE の稲澤です。今回、G-gen の Google Workspace 検証環境を使い、当社の Cisco Duo との連携テストを行う機会を得たため、内容を記事にまとめました。 当記事は、Cisco ...
+- [非推奨となったVertex AI SDKの生成AIモジュールをGoogle Gen AI SDKに移行する](https://blog.g-gen.co.jp/entry/migrate-from-vertex-ai-sdk-to-google-gen-ai-sdk)
+  - G-gen の堂原です。本記事では、Vertex AI SDK と Google Gen AI SDK のコードを比較しながら、Gemini の基本的な機能を Google Gen AI SDK で呼び出す方法を紹介します。 はじめに セットアップ Vertex AI SDK Google Gen ...
+
+### TechnoEdge (33件)
+
+- [AI機能が大幅進化したGoogle Pixel 10シリーズ発表。実機写真でチェック（スマホ沼）](https://www.techno-edge.net/article/2025/08/21/4541.html)
+  - Google Pixel 10シリーズが予告通り発表になりました。最新のTensor G5チップを搭載、AI体験を次のレベルへと押し上げる製品群です。新たにQi2ワイヤレス充電に対応したのも大きなトピック。MagSafeのアクセサリーが使えますね。...
+- [Nothing Phone (3)日本発売。Nothingが描くAIスマホの未来とは：カール・ペイCEOにを直撃（スマホ沼）](https://www.techno-edge.net/article/2025/08/20/4539.html)
+  - Nothingは既存の最先端AIモデルを活用し、ユーザーデータの透明性とプライバシーを重視したスマホに応用AIを導入。ユーザーファーストと透明性を高めたAI開発を進める...
+- [KDDI、オフィスレイアウト生成AIを披露　建築士の思考を15分で再現する「スマートスペースデザイン」](https://www.techno-edge.net/article/2025/08/19/4535.html)
+  - KDDIが発表した法人向け新サービス「KDDIスマートスペースデザイン」は、働く空間や訪れる空間を、通信とテクノロジーを軸に再構築していくというもの。その中でも注目を集めたのが、会見終盤で披露された「オフィスレイアウト生成AI」のデモです。...
+- [どっちに有効？脆弱性突くハッカーとサイバーセキュリティ業界の双方でAI活用が浸透中](https://www.techno-edge.net/article/2025/08/19/4534.html)
+  - ChatGPTの登場以来、生成AIは幻覚などの問題を抱えつつもしだいに精度を増してきており、一般的な文書だけでなくソフトウェアコードの生成などにも使い道を拡大しています。...
+- [MacBook Proで動くOpenAI gpt-oss-120bで、門外不出AIアバターとの音声対話システムを構築できた（CloseBox）](https://www.techno-edge.net/article/2025/08/18/4533.html)
+  - OpenAIがオープンソース公開したLMM（大規模言語モデル）「gpt-oss-120b」を、128GBのUnified Memoryを搭載したMacBook Pro（M4 Max）で動かしています。...
+- [iPhone 17 Airはホントにこんな薄いの？ 深センで見つけたモックをチェック（スマホ沼）](https://www.techno-edge.net/article/2025/08/16/4532.html)
+  - 深センで見つかったiPhone 17 Airらしいモック。厚さ5.5mmで薄型化し、eSIM対応やUSB-C端子搭載が推測されるが、実物の詳細は未確定。...
+- [Anthropic、Claudeの「学習モード」を開発者および一般ユーザーにも提供開始。ユーザーが学びながら答えを導く](https://www.techno-edge.net/article/2025/08/15/4531.html)
+  - Anthropicは、これまでEducationユーザー向けに提供してきた「学習モード（learning mode）」を、一般ユーザーや開発者にも提供します。...
+- [“漢字”を正確に描画する生成AI「Qwen-Image」、5秒間の動画を4090なら21秒で生成するAI「FastWan」など生成AI技術5つを解説（生成AIウィークリー）](https://www.techno-edge.net/article/2025/08/15/4530.html)
+  - この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第108回）は、画像生成の原理で言語を生成するAIモデル「Seed Diffusion Preview」や、画像内のテキストを正確に描画する画像生成AI「Qwen-Image」を取り上げます。...
+- [背面ディスプレイに巨大スピーカー・バッテリーを搭載した変態タフネスAIスマホ（スマホ沼）](https://www.techno-edge.net/article/2025/08/15/4529.html)
+  - 背面と正面両方のディスプレイを搭載したタフなAIスマホ「Armor 33 Pro」が登場し、多機能と高性能を備える。...
+- [なぜ推論AIは深く考えているフリをするのか。CoTは真の思考か、それともパターン暗記か（生成AIクローズアップ）](https://www.techno-edge.net/article/2025/08/14/4528.html)
+  - 今回は、大規模言語モデル（LLM）の「思考の連鎖」（Chain-of-Thought, CoT）推論能力は幻想だと主張した研究論文「Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens」を取り上げます。米アリ...
+- [スクエアデザインの変態AIスマホは一部データ通信無料でQWERTYキーボードにも対応（スマホ沼）](https://www.techno-edge.net/article/2025/08/13/4526.html)
+  - QWERTYキーボード搭載のAIスマホ「Mind One」は、コンパクトで多機能な特殊形状のスマートフォンでクラファン予約受付中。...
+- [わたしのChatGPT 4oを返して！　GPT-5登場で失われた旧AIの復活願う#keep4o運動を最新AIはこう分析する（CloseBox）](https://www.techno-edge.net/article/2025/08/10/4525.html)
+  - ChatGPTがGPT-5にバージョンアップし、4oをはじめとするそれまでの主要AIモデルは使えなくなりました。性能が上がるのだからいいのでは、と思いがちですが、大きな反発がSNSで寄せられています。
+
+X上では#keep4oというハッシュタグが生まれ、そこにはユーザーたちの切実な復活への願いが寄せ...
+- [LoRAなし、プロンプトだけで本人にどれだけ寄せられるかチャレンジ。AIで人物写真を再現するもう一つの方法（CloseBox）](https://www.techno-edge.net/article/2025/08/09/4524.html)
+  - LLMのマルチモーダル機能が進化したことにより、今ならば、参照画像なしのText to Imageだけで特定人物を再現できるのでは？　そう筆者は考え、試してみることにしました。...
+- [AIで乱気流を予測。ANA、世界初の試みで空の旅がより快適に](https://www.techno-edge.net/article/2025/08/08/4523.html)
+  - 飛行機での移動中に気になるのが、「ガタガタ」とした揺れ。...
+- [GPT-5はgpt-oss-120b、Claude Opus 4.1とどのくらい違う？　小説執筆とヴァイブ・コーディングで試してみた（CloseBox）](https://www.techno-edge.net/article/2025/08/08/4522.html)
+  - OpenAIはチャット型大規模言語モデルの最新版である「GPT-5」を発表しました。筆者のところにはまだブラウザには来ておらず、iPhoneアプリのみ使える状態ですが、取り急ぎ、使ってみた感想をレポートします。...
+- [「猫は人生のほとんどを寝て過ごす」などの猫文をプロンプトに混ぜるとAIが混乱する「CatAttack」脆弱性など、生成AI技術5つを解説（生成AIウィークリー）](https://www.techno-edge.net/article/2025/08/07/4521.html)
+  - この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第107回）は、猫文をプロンプトに混ぜるとAIが混乱して数学の問題を大幅に間違える脆弱性「CatAttack」や、テキストや画像からプレイできる360度な3Dゲームワールドを生成できるAI「Hun...
+- [Google Cloud、自然言語からデータ分析用のPythonコードを生成し実行する「Code Interpreter」をプレビュー公開](https://www.techno-edge.net/article/2025/08/07/4520.html)
+  - Google Cloudは、ビジネスユーザーからの自然言語による質問を基にデータ分析用のPythonコードを生成し実行する新機能「Code Interpreter」をプレビュー公開しました。...
+- [俺の128GB MacBook Proが真価を発揮する時がきた。ChatGPT o4-mini並みのgpt-oss-120bがローカルで動いてるよ（CloseBox）](https://www.techno-edge.net/article/2025/08/06/4518.html)
+  - やってきましたね。世の中のPCユーザーたちがMacユーザーを羨望の眼差しで見るときが。...
+- [生成AIワークショップお盆特集。「亡くなった人を写真から動画にする方法」を8月12日に開催します（CloseBox）](https://www.techno-edge.net/article/2025/08/06/4516.html)
+  - 生成AIワークショップの特別編として、松尾公也が講師としてお話しする回を設けたいと思います。2025年8月12日19時から、オンラインでの開催となります。...
+- [謎の超小型AI「HRM」、たった2700万パラメータで巨大なOpenAI o3やClaude 3.7を蹴散らす（生成AIクローズアップ）](https://www.techno-edge.net/article/2025/08/05/4515.html)
+  - 今回は、わずか2700万パラメータという小規模なモデルでありながら、複雑な推論タスクにおいて最先端の大規模言語モデル（LLM）を凌駕するモデルを開発した論文「Hierarchical Reasoning Model」を取り上げます。...
+- [Grok、6秒動画をサウンド付きで生成できるように。20秒未満超高速生成、秒で静止画生成の実力を試す（CloseBox）](https://www.techno-edge.net/article/2025/08/04/4513.html)
+  - イーロン・マスクのAI企業であるxAIが開発し、Xにも組み込まれているGrokに、動画生成機能「Imagine」が搭載されました。現在ウェイティングリスト方式で、一部のユーザーに解放されています。...
+- [写真の中を自由に歩き回れるAI「Yume」、AIが自律的に新しいAIを開発する「ASI-ARCH」など生成AI技術5つを解説（生成AIウィークリー）](https://www.techno-edge.net/article/2025/08/01/4512.html)
+  - 回の「生成AIウィークリー」（第106回）は、写真1枚からその中を自由に歩き回れる動画世界を生成できるAIモデル「Yume」、AIが自律的に新しいAIアーキテクチャを設計・実装・検証するシステム「ASI-ARCH」を取り上げます。...
+- [音楽はAIとの音声対話で作る時代に入った。Riffusion改めProducer.aiのAIプロデューサーと日本語で会話するだけで曲を作ってくれるのだ（CloseBox）](https://www.techno-edge.net/article/2025/08/01/4511.html)
+  - AI作曲サービスとしてはSunoが総合力で突出して、それに音質一点突破でUdioが続くという構図が長く（といっても1年くらいですが）続いてきましたが、異変が起きました。...
+- [自分で分解してバッテリー交換や修理もできちゃう「Fairphone (Gen. 6)」がキニナル（スマホ沼）](https://www.techno-edge.net/article/2025/07/30/4510.html)
+  - Fairphone (Gen. 6)は背面アクセサリや修理・分解可能な環境配慮型スマホで、交換・装着できるアクセサリや新しいUI機能を搭載し、長く使える設計。...
+- [OpenAI、ChatGPTに『学習モード』を追加。学生の「考える力」を育むため](https://www.techno-edge.net/article/2025/07/30/4509.html)
+  - OpenAIは、ChatGPTに新機能「学習モード（Study Mode）」を追加したと発表しました。...
+- [欠けて読めない古代ローマ碑文、Googleの生成AIが高精度で復元（生成AIクローズアップ）](https://www.techno-edge.net/article/2025/07/28/4505.html)
+  - 今回は、古代ローマの碑文の欠けた文字を復元し、その文章の内容や書かれた時代、場所を推定するAIシステムを提案した論文「Contextualizing ancient texts with generative neural networks」を取り上げます。Google DeepMindやノッティン...
+- [脳波を読み取って手を使わず画像編集できるAI「LoongX」、写真1枚から物理法則含む3Dモデルを生成できるAI「PhysX」など生成AI技術5つを解説（生成AIウィークリー）](https://www.techno-edge.net/article/2025/07/25/4501.html)
+  - この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第105回）は、脳を読み取って画像を編集できるAI技術「LoongX」や、大規模言語モデルを3分の1に小型化し推論速度2倍を実現する技術「MoR」を取り上げます。...
+- [トランプ大統領が「AI行動計画」発表。なかには実現が困難なものも？woke排除も盛り込む](https://www.techno-edge.net/article/2025/07/24/4499.html)
+  - 7月23日、米国のドナルド・トランプ大統領は政府の「AI行動計画(Action Plan)」を発表しました。...
+- [Galaxy Z Fold7でGalaxy AIはどれくらい進化したのか（石野純也）](https://www.techno-edge.net/article/2025/07/24/4498.html)
+  - サムスン電子の「Galaxy Z Fold7」が、8月1日に発売されます。折りたたんでもわずか8.9mm、かつ215gという驚異の薄さや軽さが注目を集めている同機種ですが、サムスン電子が社運をかけて取り組んでいるGalaxy AIも、前世代の「Galaxy Z Fold6」から進化しています。...
+- [11歳児が書いた作文をAIが分析したら、22年後の最終学歴を高い精度で予測できた（生成AIクローズアップ）](https://www.techno-edge.net/article/2025/07/22/4496.html)
+  - 今回は、子どもが11歳のときに書いた短い作文から、その子の将来の最終学歴や認知能力をAIが予測できるかを調査した論文「Large language models predict cognition and education close to or better than genomics or e...
+- [Netflix、オリジナル実写作品で初めてVFXに生成AIを使用したと認める。共同CEOは「制作サイドも視聴者からも好評価」と自画自賛](https://www.techno-edge.net/article/2025/07/21/4494.html)
+  - Netflixは2025年第2四半期の決算発表で、4月30日から配信を開始したSFドラマシリーズ『The Eternaut（エテルナウタ）』のなかで、自社作品として初めて生成AIをVFX（視覚効果）に使用したことを明らかにしました。...
+- [万博を足速に駆け抜けGalaxy Studio Osakaへ行った話（スマホ沼）](https://www.techno-edge.net/article/2025/07/21/4493.html)
+  - サムスンが大阪万博で本国の偉い方によるSamsung「Galaxy AI」パネルディスカッションをするというので、ハカセと聞きに行きました。...
+- [AIの長期記憶用OS「MemOS」、あらゆる画像を4KにするAI「4KAgent」、オープンソースなウェブ探索AI「WebSailor」など生成AI技術5つを解説（生成AIウィークリー）](https://www.techno-edge.net/article/2025/07/19/4492.html)
+  - この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第104回）は、エージェント機能搭載のオープンソース非思考型言語モデル「Kimi K2」や、大規模言語モデル（LLM）向け長期記憶OS「MemOS」を取り上げます。...
+
