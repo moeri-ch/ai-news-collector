@@ -1,0 +1,1154 @@
+# AI・機械学習 ニュースレポート (2026-03-01)
+
+**フィルタリング済みニュース: 295件** (全390件中)
+
+## 今日の主要ニュース
+
+### Business Insider (8件)
+
+- [Claudeがエクセルやパワポと一体化…アンソロピックはすべての知識労働の変革を目指す](https://www.businessinsider.jp/article/2602-anthropic-ai-software-claude-microsoft-powerpoint-excel-slack/)
+  - アンソロピックは、自社のAIモデル「Claude」をコーディングツールから、オフィス向け技術プラットフォームへと変えようとしています。...
+- [「コーディングは死んだ。だが私たちはソフトウェアの黄金時代にいる」a16z幹部が語る、生成AIの経済的インパクト](https://www.businessinsider.jp/article/2603-coding-is-dead-software-golden-age/)
+  - a16zのマーティン・カサド氏は、生成AIがソフトウェア開発の前提を変えつつあると指摘しました。コーディングの役割は縮小する一方、ソフトウェアの可能性は拡大し、産業構造にも変化をもたらしています。...
+- [自分のAIクローンを作成しました。おかげで子どもと過ごす時間が増えました](https://www.businessinsider.jp/article/2602-cto-built-ai-clone-more-time-for-kids/)
+  - エクストリーム・ネットワークスのCTO、ナビル・ブカリは、自分のAIクローンを持つことで、子どもたちと過ごす時間が増えたと語っています。...
+- [AIエージェントはコーダーの仕事を変革している…「人間は自らの役割を絶えず再定義し続ける必要がある」](https://www.businessinsider.jp/article/2602-canva-ai-agents-are-changing-engineering-work/)
+  - AIエージェントはソフトウェアエンジニアを監視者に変えつつあります。そしてこの傾向は他のホワイトカラー職にも進出する可能性があります。...
+- [Gemini3を生み出した天才と、3500億ドルAI企業CEOが明かす「AIの進化が早すぎる」危機感（対談全文1万字）【ダボス会議2026】](https://www.businessinsider.jp/article/deepmind-and-anthropic-ceos-reveal-their-sense-of-crisis-a/)
+  - 先週開かれたダボス会議2026では、AI業界の著名人がスイスに集結したことも大きな話題となりました。そのセッションのなかから、Gemini 3を作り出したグーグル傘下DeepMindのCEOと、米大手AI企業CEOの白熱対談となったセッション「The Day after AGI」を日本語訳全文記事で...
+- [【独自】グーグル、営業部門にもAIツール活用を要請。週ごとの使用回数ノルマも、人事評価に影響](https://www.businessinsider.jp/article/google-employee-ai-adoption-non-technical-software-engineer-performance-review-2026-2/)
+  - グーグルの管理職がより多くの一般従業員に日常業務の中でAIを活用するよう促しています。従来は技術職がその対象でしたが、近頃は営業などの非技術職もAIの活用を求められているようです。...
+- [ASUS新型ノートPC「Zenbook SORA」第2世代が3月発売。軽量AI PCで「特需後」市場を狙う](https://www.businessinsider.jp/article/2602-asus-zenbook-sora-lightweight-ai-pc/)
+  - Windows 10特需の終わりとメモリー高騰が重なる2026年、ASUSが超軽量AI PC「Zenbook SORA」で次の市場をどう切り開くか。価格や発売日など最新情報を解説します。...
+- [高市首相への中傷工作にChatGPTが使われていた…OpenAIが詐欺師や国家による悪用の手口を公開](https://www.businessinsider.jp/article/2602-openai-scams-security-report-chatgp/)
+  - OpenAIは、中国の法執行機関に関連する人物がChatGPTに高市首相の中傷キャンペーンの計画を立てるよう依頼したと述べました。...
+
+### ITmedia AI Plus (20件)
+
+- [Gemini 3.1 Pro登場　思考モデルから実務エージェントへ、複雑タスクを完遂するAIに進化](https://atmarkit.itmedia.co.jp/ait/articles/2603/02/news016.html)
+  - 思考力の強化に加え、エージェント実行能力を大きく押し上げたGemini 3.1 Pro。本稿では主要ベンチマークや機能改善を整理しつつ、「考えるAI」から「働くAI」へと進むモデル進化の方向性を、開発者視点のコメントとともに読み解く。...
+- [日本の社長は「AI投資に慎重だけど責任感強い」　AI時代の競争力向上に必要な姿勢とは](https://www.itmedia.co.jp/enterprise/articles/2603/01/news004.html)
+  - BCGは、企業のAI投資が売上比1.7％へ拡大し、AIエージェントに3割超を配分する見通しを示した。この投資を成功させ競争力を向上させるために、企業トップに求められる姿勢とは。...
+- [日立と塩野義、生成AIで規制文書作成を最大50％短縮　医薬品開発の効率化目指す](https://www.itmedia.co.jp/enterprise/articles/2603/01/news003.html)
+  - 日立は、塩野義製薬が開発した生成AIによる規制関連文書作成支援ソリューションの国内提供を開始した。治験報告書の作成時間を最大約50％削減し、医薬品開発の迅速化と現場の負担軽減、生産性向上を目指す。...
+- [米国防長官、Anthropicを「サプライチェーンリスク」に指定へ　同社は法廷闘争を宣言](https://www.itmedia.co.jp/news/articles/2603/01/news020.html)
+  - ヘグゼス米国防長官は、AI安全策の撤廃を拒むAnthropicを「サプライチェーンリスク」に指定するよう指示した。米国企業への適用は史上初で、Anthropicは法廷で争う構えだ。...
+- [OpenAI、米国防総省とAI導入で合意　Anthropicへの強硬措置の沈静化を要請](https://www.itmedia.co.jp/news/articles/2603/01/news019.html)
+  - OpenAIは、米国防総省（DoW）の機密網へのAI導入で合意した。トランプ政権が安全策撤廃を拒むAnthropicの排除を決めた直後の発表だ。OpenAIは「クラウド限定運用」や「保護条項」の明文化により、自律型兵器への転用を防ぐ多層的な安全網を維持。政府の強硬姿勢を軟化させ、業界全体の合理的な合...
+- [OpenAI、17兆円超の資金調達　Amazon、NVIDIA、SBGが出資](https://www.itmedia.co.jp/news/articles/2602/28/news035.html)
+  - OpenAIは、企業価値7300億ドルの評価に基づき、総額1100億ドルの資金調達を発表した。Amazon、NVIDIA、ソフトバンクGが参画。Amazonとは戦略的提携を結び、AWS上で記憶を保持するAIエージェント基盤「Stateful Runtime」を共同構築する。Amazon独自チップの活...
+- [攻撃者のAI利用はもはや“当たり前”　日本はランサムウェア検出率で世界3位に](https://www.itmedia.co.jp/enterprise/articles/2602/28/news014.html)
+  - アクロニスの脅威動向レポートによると、サイバー攻撃者のAI活用が深刻化しているという。AIの活用によって攻撃の効率が高まり、サイバー攻撃数も増加している。日本はランサムウェア検出率で世界3位になっているという。どう対策をすればいいのか。...
+- [トランプ大統領、Anthropicを「極左の意識高い系企業」と非難し　政府機関での製品使用を即時停止](https://www.itmedia.co.jp/news/articles/2602/28/news030.html)
+  - トランプ米大統領は、AI安全策の撤廃を拒否したAnthropicを「極左企業」と非難し、政府機関での同社製品の使用停止を指示した。これに対しGoogle、OpenAI、Amazon、Microsoftの従業員有志はAnthropic支持を表明。OpenAIのアルトマンCEOは自律型兵器への利用を否定...
+- [Claude Codeに重大な脆弱性　設定ファイル経由でRCEやAPIキー窃取の恐れ](https://www.itmedia.co.jp/enterprise/articles/2602/28/news013.html)
+  - Check PointはClaude Codeに重大な脆弱性があり、不正なリポジトリー設定を開くだけで遠隔コード実行やAPIキー窃取が可能だったと公表した。修正は完了しているが、AI開発基盤の供給網に新たなリスクが浮上している。...
+- [「18歳未満の画像をAIで性的加工」2025年に114件　被害者は中高生が9割　警察庁](https://www.itmedia.co.jp/news/articles/2602/27/news136.html)
+  - 警察庁が、2025年に発生した少年非行や子どもの性被害に関するレポートを公開した。生成AIやそうと思しきツールを悪用して18歳未満の性的画像を作成・加工した事案についても公表。警察が把握している事案は計114件で、被害者は9割が中高生、加害者は約6割が同級生や同じ学校の生徒だった。...
+- [日本語入力の老舗「ATOK」の生成AI新機能を試す　無料IMEが充実するなか、実質値上げに見合うのか](https://www.itmedia.co.jp/news/articles/2602/27/news125.html)
+  - 老舗日本語入力ソフトATOKが2026年2月、新バージョンVer.36を投入した。目玉は生成AIを活用した文書補助ツール「ATOK MiRA」で、ビジネス文書のトーンを自動で書き換えてくれる。一方でプランは事実上の値上げとなった月額660円のプレミアム一本化。無料のAI対応IMEが台頭するなか、AT...
+- [「勝手にPythonコードを生成して画像を調査」　Geminiの画像理解の精度を10％上げる「Agentic Vision」](https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news081.html)
+  - Googleは、Gemini 3 Flashの新機能として「Agentic Vision」を発表した。画像理解に視覚的推論とコード実行を組み合わせる仕組みだという。...
+- [JAXAの地球観測データAPIがMCP対応　生成AIツール上でデータの表示・分析が可能に](https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news078.html)
+  - JAXAは、地球観測データを利用するためのPythonパッケージ「JAXA Earth API for Python」のv.0.1.5を公開した。MCPをサポートし、生成AIツールで地球観測データを表示、分析できるという。...
+- [AnthropicのCEO、米国防総省のAI規制撤廃要求を拒否　「自律型兵器への転用」を懸念](https://www.itmedia.co.jp/news/articles/2602/27/news098.html)
+  - AnthropicのアモデイCEOは、米国防総省によるAIセーフガード撤廃要求を拒否する声明を出した。大規模監視や完全自律型兵器への悪用を懸念しており、軍からの契約解除や国防生産法発動の警告を受けても姿勢を崩していない。...
+- [AWS、サブエージェントごとにフロントエンド／バックエンド担当を任せられる「Kiro 0.9」リリース](https://www.itmedia.co.jp/news/articles/2602/27/news086.html)
+  - 米Amazon Web Servicesは、同社が提供するAIコードエディタの新バージョン「Kiro 0.9」のリリースを発表しました。...
+- [香川県の廃校がAIデータセンターに　NVIDIA「A4000」「H100」など設置へ　GPUクラウドのハイレゾ](https://www.itmedia.co.jp/news/articles/2602/27/news084.html)
+  - GPUクラウド事業を手掛けるハイレゾ（東京都新宿区）が、3月3日に香川県綾歌郡の廃校を転用したデータセンターを開所する。既存施設を改装して使うことで建設費や工期を抑え、低廉なサービス提供につなげる。...
+- [OpenAI、高市首相を狙った中国関連の世論工作を報告　ChatGPTは加担を拒否](https://www.itmedia.co.jp/aiplus/articles/2602/27/news083.html)
+  - OpenAIは、高市早苗首相を標的とした中国関連グループによる世論工作を阻止したと報告した。攻撃者はChatGPTに偽情報の拡散や信用失墜計画の作成を命じたが、AIはこれを拒否。工作には中国製AIも併用されたが、SNS上での影響力は極めて限定的で不発に終わったとしている。...
+- [サブスクで外部連携は不可　Claude利用の“グレー運用”にくぎ](https://www.itmedia.co.jp/enterprise/articles/2602/27/news067.html)
+  - Anthropicは公式ドキュメントを更新し、サブスク版のOAuthトークン利用を自社ツールに限定すると明記した。第三者製ツールやAgent SDKでの利用は規約違反となり、外部連携にはAPIキーの使用が必須となる見通しだ。...
+- [生成AI活用、セキュリティ対策──優秀なIT人材を採用したい企業が知っておくべき考え方](https://www.itmedia.co.jp/business/articles/2602/27/news068.html)
+  - 2025年のITエンジニア採用市場を振り返ると、人材不足は依然として解消されておらず、多くの企業が採用目標を達成できない状況が続いています。これからのIT人材の採用において重要なことは、企業が候補者に対し、自社の考え方や期待する役割をどこまで具体的に示せているかです。今回は、企業の採用現場が意識すべ...
+- [「数億円レベルの誤発注なんてごめんだ」　IT部門視点で“AIエージェントの真のリスク”を考える](https://www.itmedia.co.jp/enterprise/articles/2602/27/news041.html)
+  - 自律して状況を判断し、手順を決めて実行するAIエージェント。システム管理者が最も忌避すべきAIエージェントのリスクである「制御不能」状態をどう回避すべきでしょうか。IT部門の視点から、過度な期待と不安感に包まれているAIエージェントのリスクを洗い出し、それらに対する3つの処方箋を提示します。...
+
+### Hatena IT (16件)
+
+- [Claude Code 初学者ロードマップ - Qiita](https://qiita.com/marugame/items/8b870661f80d63499336)
+  - 最近、下記YouTubeの動画や、記事を見てClaudeCodeが再注目されていることを知りました。 ◾︎ClaudeCodeの動画 https://youtu.be/ca5HjfclrjE?si=qvIC26aAa99SnOux 使ってみたいと思いつつ、私は客先業務で貸与されたPCにClaudeC...
+- [衝撃！NotebookLMの「隠し機能」を解放する自動化ツール｜tyo](https://note.com/humble_dog9839/n/n896e285ad324)
+  - Google NotebookLMは、複雑な資料を読み解き、対話を通じて知見を深めるための強力なツールとして、瞬く間に多くのユーザーを魅了しました 。 しかし、日常的に使い込むほどに、エンジニアやパワーユーザーの間ではある種の欲求不満が募るようになります 。 「生成されたコンテンツをまとめてダウンロ...
+- [Anthropic公式「skill-creator」完全ガイド 〜 Skillsを作れるSkillsで脱・ゼロから設計〜](https://zenn.dev/yamato_snow/articles/30e8dcf9490c88)
+  - はじめに 「Skillを自作したいけど、毎回ゼロからSKILL.mdを設計して詰む」 Claude Codeを使っている方なら、一度はこの壁にぶつかったことがあるのではないでしょうか。 Anthropicが公開している skill-creator は、まさにこの問題を解決するための「Skillsを作...
+- [中年男性って仕組みや構造の話はするけど、個人の感情や感覚の話をしない..](https://anond.hatelabo.jp/20260301234914)
+  - 中年男性って仕組みや構造の話はするけど、個人の感情や感覚の話をしない傾向がある気がするんだよな。 ある程度普遍性のある話じゃないと説得力が無いと思ってるのかな。構造の話とかはChatGPTに聞けば良いし、巧妙に自分の話をするのを避けてる気がするから、そういう傾向の人と話すとつまらないなぁと思う。...
+- [AI小説の現在地 〜品質と量産の間で〜｜新大宮@Web小説界隈ナビゲーター](https://note.com/shin038/n/n5ec65e9f48b9)
+  - AI小説。 この言葉を聞いた時に、その意味するところを正確にイメージできる人が果たしてどれだけいるだろうか？一般的には、生成AIと聞くと、プロンプトと呼ばれる生成AIへの指示を入力すれば、その指示に沿った結果が出力されるものと考えられている。 そして、この指示を繰り返した経験がある人は、　生成AIは...
+- [ローカルLLMの脆弱性があるんか？〜CVE-2024-50050から学ぶ「自分だけで使ってるから安全」の落とし穴〜 - Qiita](https://qiita.com/GeneLab_999/items/08873f6569a2b96a276c)
+  - 2.3 RCE（Remote Code Execution）とは 攻撃者がリモートから任意のコードを実行できる脆弱性のこと。これが成立すると、あなたのマシンで攻撃者が好き放題にコマンドを叩ける。ローカルLLMの脆弱性の多くはこのRCEに分類される。 2.4 デシリアライズ（Deserializati...
+- [「AI疑われるかもだが現実なのよ...」茨城県にある神社、子宝祈願のお餅がド直球すぎる→「まだまだソフトな方」とリアルなご神体などを挙げる声続々と](https://togetter.com/li/2669776)
+  - 茨城県下妻市の高道祖神社が限定で配った子宝祈願の餅が直球すぎると話題に。古来の風習を残す堂々としたデザインに賛否があり、投稿者は焼いて食べるとしつつも驚きを示す声多数。類似の風習は地方に残り、田縣神社など他の例を挙げる人や、古事記の記述に由来すると指摘する意見もある。購入は当日限りの限定販売。...
+- [GodotはAIコーディングエージェントでのゲーム開発に向いている - ABAの日誌](https://aba.hatenablog.com/entry/2026/03/01/140039)
+  - 犬にキーボードを叩かせてゲームを作る、というCaleb Leak氏の記事 I Taught My Dog to Vibe Code Games がある。小型犬MomoがBluetoothキーボードを叩き、そのランダムな入力をClaude Codeが「天才ゲームデザイナーの暗号的指示」として解釈しゲー...
+- [無料でGoogle・Meta・YouTube・LinkedIn・TikTok・Microsoft Adsなど186項目にわたるチェック機能を備えたClaude Code向けの包括的な有料広告監査・最適化スキル「Claude Ads」、重み付けスコアリング・並列エージェント処理・業界別テンプレートに対応](https://gigazine.net/news/20260301-claude-ads/)
+  - GoogleやMetaなどを利用したネット広告では、ボット由来の無効クリックが5.1％、さらに設定が放置され最適化が進まないことで25％以上の無駄な浪費が生じやすく、広告費の3割が失われることがあります。これらの問題を解決するためには、無効クリックの傾向分析・タグの重複検知・入札ロジックの異常の把握...
+- [Claude Code を Pro プランで2週間使ってみた - Qiita](https://qiita.com/wataru86/items/116ba416d2ebd3f28bbd)
+  - はじめに これまでは主に GitHub Copilot in VSCode を使用していたのですが、プレミアムリクエスト上限まで届くことが多くなってきたので、いまさらですが Claude Code を使ってみました。 使用開始して2週間くらい経ったので、最初に設定するとよいことや有効活用するためのコ...
+- [AIがガス機器による大気汚染を削減する規制案に大量の反対意見を送信していたことが判明](https://gigazine.net/news/20260301-ai-opposing-pollution/)
+  - カリフォルニア州の規制当局はスモッグを形成する主な汚染物質を制限するため、一部のガス暖炉やガス給湯器の販売を段階的に廃止する規制案を2025年6月に発表しました。結果として数万通もの反対意見が殺到したこともあり規制案は阻止されましたが、反対意見のうち2万件以上が同じ企業によって送られたAIを活用した...
+- [米国防長官、Anthropicを「サプライチェーンリスク」に指定へ　同社は法廷闘争を宣言](https://www.itmedia.co.jp/news/articles/2603/01/news020.html)
+  - ピート・ヘグゼス米国防長官は2月27日（現地時間）、公式Xアカウントで米国防総省（Department of War、以下「DoW」）に対し、米Anthropicを「サプライチェーンリスク」に指定するよう指示したと発表した。これを受けAnthropicは同日、声明を発表し、この措置は法的に不当であり...
+- [microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
+  - This is a brief guide to my new art project microgpt, a single file of 200 lines of pure Python with no dependencies that trains and inferences a GPT....
+- [米国、イラン攻撃にアンソロピックのAI使用か　WSJ報道 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN011010R00C26A3000000/)
+  - 【シリコンバレー=中藤玲】米紙ウォール・ストリート・ジャーナル（WSJ）は28日、米国がイラン攻撃に際し、米人工知能（AI）新興アンソロピックの技術を使ったと報じた。米政権は攻撃直前に利用をやめるよう連邦政府機関に指示していた。1月のベネズエラへの攻撃に続き、AIの軍事利用が深まっている。米国とイス...
+- [The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/)
+  - The Factory Model: How Coding Agents Changed Software Engineering February 25, 2026 Something shifted recently with agentic engineering that “feels” l...
+- [MarineTraffic: Global Ship Tracking Intelligence | AIS Marine Traffic](https://www.marinetraffic.com/en/ais/home)
+  - MarineTraffic Live Ships Map. Discover information and vessel positions for vessels around the world. Search the MarineTraffic ships database of more ...
+
+### Hatena AI (31件)
+
+- [AIがガス機器による大気汚染を削減する規制案に大量の反対意見を送信していたことが判明](https://gigazine.net/news/20260301-ai-opposing-pollution/)
+  - カリフォルニア州の規制当局はスモッグを形成する主な汚染物質を制限するため、一部のガス暖炉やガス給湯器の販売を段階的に廃止する規制案を2025年6月に発表しました。結果として数万通もの反対意見が殺到したこともあり規制案は阻止されましたが、反対意見のうち2万件以上が同じ企業によって送られたAIを活用した...
+- [AI小説の現在地 〜品質と量産の間で〜｜新大宮@Web小説界隈ナビゲーター](https://note.com/shin038/n/n5ec65e9f48b9)
+  - AI小説。 この言葉を聞いた時に、その意味するところを正確にイメージできる人が果たしてどれだけいるだろうか？一般的には、生成AIと聞くと、プロンプトと呼ばれる生成AIへの指示を入力すれば、その指示に沿った結果が出力されるものと考えられている。 そして、この指示を繰り返した経験がある人は、　生成AIは...
+- [米国、イラン攻撃にアンソロピックのAI使用か　WSJ報道 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN011010R00C26A3000000/)
+  - 【シリコンバレー=中藤玲】米紙ウォール・ストリート・ジャーナル（WSJ）は28日、米国がイラン攻撃に際し、米人工知能（AI）新興アンソロピックの技術を使ったと報じた。米政権は攻撃直前に利用をやめるよう連邦政府機関に指示していた。1月のベネズエラへの攻撃に続き、AIの軍事利用が深まっている。米国とイス...
+- [AIは著作権法を壊したのではなく「元から壊れていた著作権法の仕組み」を露呈させただけ](https://gigazine.net/news/20260301-ai-copyright-law-broken/)
+  - 生成AIをめぐる著作権問題では「学習データに著作物を使っていいのか」「出力結果が著作物と似てしまったら誰が責任を負うのか」といった論点が繰り返し議論されています。テック系ブロガーのジェイソン・ウィレムズ氏は、そもそも著作権法は人間の規模で成り立つ前提に依存してきたのであり、生成AIはその前提を崩して...
+- [GodotはAIコーディングエージェントでのゲーム開発に向いている - ABAの日誌](https://aba.hatenablog.com/entry/2026/03/01/140039)
+  - 犬にキーボードを叩かせてゲームを作る、というCaleb Leak氏の記事 I Taught My Dog to Vibe Code Games がある。小型犬MomoがBluetoothキーボードを叩き、そのランダムな入力をClaude Codeが「天才ゲームデザイナーの暗号的指示」として解釈しゲー...
+- [「SaaSの死」は序章、ウォール街の未来レポート「THE 2028 GLOBAL INTELLIGENCE CRISIS」が描く2028年AIクライシス 【生成AI事件簿】ゴーストGDPは現実になるか？AI導入の加速でGDPは増加し続けるのに景気は大幅に悪化する未来 | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/articles/-/93501)
+  - こんな衝撃的な書き出しで始まる1本のレポートが、いまウォール街を揺るがしている。タイトルは「THE 2028 GLOBAL INTELLIGENCE CRISIS」。機関投資家向けのグローバル・マクロ分析を行う独立組織、Citrini Researchが2026年2月22日に公開したレポートだ。わず...
+- [Claude Code を Pro プランで2週間使ってみた - Qiita](https://qiita.com/wataru86/items/116ba416d2ebd3f28bbd)
+  - はじめに これまでは主に GitHub Copilot in VSCode を使用していたのですが、プレミアムリクエスト上限まで届くことが多くなってきたので、いまさらですが Claude Code を使ってみました。 使用開始して2週間くらい経ったので、最初に設定するとよいことや有効活用するためのコ...
+- [OpenAI、米国防総省とAI導入で合意　Anthropicへの強硬措置の沈静化を要請](https://www.itmedia.co.jp/news/articles/2603/01/news019.html)
+  - 米OpenAIのサム・アルトマンCEOは2月27日（現地時間）、米国防総省（Department of War、以下「DoW」）の機密ネットワークに同社のAIモデルを導入する契約で合意したと、自身のXアカウントで発表した。ドナルド・トランプ米大統領がOpenAI競合の米Anthropic製品のDoW...
+- [衝撃！NotebookLMの「隠し機能」を解放する自動化ツール｜tyo](https://note.com/humble_dog9839/n/n896e285ad324)
+  - Google NotebookLMは、複雑な資料を読み解き、対話を通じて知見を深めるための強力なツールとして、瞬く間に多くのユーザーを魅了しました 。 しかし、日常的に使い込むほどに、エンジニアやパワーユーザーの間ではある種の欲求不満が募るようになります 。 「生成されたコンテンツをまとめてダウンロ...
+- [SwitchBot AI Hubレビュー。お前が誇るべきはAIだけじゃない、いろいろ詰め込んだ画期的な司令塔 - すまほん!!](https://smhn.info/202602-switchbot-ai-hub-review)
+  - SwitchBotより「SwitchBot AI Hub」を提供していただきましたのでレビューします。 この製品、「AI」と名乗るだけあって、日本のスマートホーム市場ではまず見かけない機能を備えているのはもちろん、これまでのSwitchBotでは替えの効かない機能をいくつも持っています。 ただ、正直...
+- [OpenAI、国防総省とAIモデル提供合意　アンソロピック決裂後に表明 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN2815L0Y6A220C2000000/)
+  - 【シリコンバレー=山田遼太郎】米オープンAIは27日、米軍の機密システム向けに人工知能（AI）モデルを提供することで米国防総省と合意したと発表した。人間の判断が介在しない完全自律型兵器に自社のAIを使わないなど、利用に安全面の制約を設けた。米アンソロピックは同様の保証を求め、27日に国防総省と決裂し...
+- [3000万コミットの逆説——AIを最も使う者が、最も報われない｜川崎 裕一 / マネタイズおじさん](https://comemo.nikkei.com/n/nc79e1cbc469f)
+  - AIがプログラミングを民主化する。誰でもコードが書ける時代が来る。そんな楽観論を、3000万コミットのデータが否定した。 マスク氏は「2026年末にはプログラミングが全自動になる」と語り、AnthropicのCEOアモデイ氏は「AIが自律的に次世代を開発するまで1〜2年」と予測する。だが、この華やか...
+- [トランプ氏 アンソロピックのAI技術 政府機関使わないよう指示 | NHKニュース](https://news.web.nhk/newsweb/na/na-k10015062871000)
+  - アメリカの新興企業「アンソロピック」が自社のAI技術は国民の監視などに使われるべきではないとして国防総省と対立している問題で、トランプ大統領は、この企業の技術を政府機関が使わないよう指示し、締め出す考…...
+- [ついにローカルLLMで安心して仕事が出来る！― Qwen3.5-27B 採用レポート (2026/02/27)](https://zenn.dev/rna4219/articles/b945d175cde87c)
+  - ついにローカルLLMで安心して仕事が出来る！― Qwen3.5-27B 採用レポート (2026/02/27) TL;DR ・RTX 3090（VRAM 24GB）＋5bit量子化で Qwen3.5-27B (Reasoning) を実用速度でローカル動作させた話。 ・Artificial Anal...
+- [アンソロピック「法廷で争う」提訴表明　国防総省の供給網排除に - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN280MI0Y6A220C2000000/)
+  - 【シリコンバレー=山田遼太郎】米人工知能（AI）開発企業アンソロピックは27日、ヘグセス米国防長官による「サプライチェーン（供給網）上のリスク」への指定を不当として提訴する意向を示した。「法廷で争う」とする声明を発表した。AIの軍事利用を巡る対立で、トランプ米大統領は27日、アンソロピックの技術の使...
+- [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)
+  - Earlier today, Secretary of War Pete Hegseth shared on X that he is directing the Department of War to designate Anthropic a supply chain risk. This a...
+- [10日間のインターンでk8s Self-hosted Runnerを構築し社内のCI/CD基盤を新たに整備した話 - エムスリーテックブログ](https://www.m3tech.blog/entry/2026/02/27/170000)
+  - はじめまして！ 2026年の2月後半に10日間、エムスリーのAI・機械学習チームでインターンをしていた竜です。 この記事では、セルフホストされた社内のCI/CD基盤を新しく構築し、その上で弊チームにおいてデプロイ時間を約半分短縮した事例について紹介します。 合わせて、1人の学生の視点から見たエムスリ...
+- [Claude Code のリモートコントロールとスマホ通知の始め方](https://zenn.dev/schroneko/articles/claude-code-remote-control-and-mobile-notification)
+  - tl;dr Claude Code のリモートコントロール機能を使ってスマホやブラウザからローカルパソコンで開いているセッションを操作できるよ Notification Hook + Bark を使えばスマホにプッシュ通知も飛ばせるよ この記事の通りに進めると、バナー通知をタップすれば iOS アプ...
+- [Claude Codeに重大な脆弱性　設定ファイル経由でRCEやAPIキー窃取の恐れ](https://www.itmedia.co.jp/enterprise/articles/2602/28/news013.html)
+  - Check Point Software Technologiesは2026年2月25日（現地時間）、AI開発支援ツール「Claude Code」に重大な脆弱（ぜいじゃく）性が存在したと発表した。 Anthropicが提供する同ツールにおいて、悪意あるリポジトリー設定ファイルを読み込むだけで遠隔コー...
+- [「全エンジニアが Claude Code を 100% 活用する」を目指してダッシュボードを作った](https://zenn.dev/dinii/articles/28c8fcd041837d)
+  - はじめに 「全エンジニアが Claude Code を 100% 活用する」 これは、ダイニーの今期の目標のひとつです。 正直、最初に思ったのは「何をもって 100% なんだ？」です。 手がかりを探るために、まずチーム全員にアンケートを取りました。 結果はバラバラで、「かなり活用できている」という人...
+- [ダウ大幅安、金融株に動揺　浮上した「融資の質」への懸念 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOFL27C850X20C26A2000000/)
+  - 27日の米株式市場でダウ工業株30種平均は大幅に下落し、終値は前日比521ドル安の4万8977ドルだった。この日の下げを主導したのは金融株だ。人工知能（AI）の進化が経済の構造を変える「AI脅威論」への恐怖がくすぶるなか、金融機関が持つ債権の質に対する懸念が高まり株安に拍車がかかった。27日は銀行や...
+- [トランプ大統領、Anthropicを「極左の意識高い系企業」と非難し　政府機関での製品使用を即時停止](https://www.itmedia.co.jp/news/articles/2602/28/news030.html)
+  - ドナルド・トランプ米大統領は2月27日（現地時間）、自身のSNS「Truth Social」への投稿で、米Anthropicを「極左の意識高い系企業」と呼び、政府機関での同社製品の使用を即時停止するとした。Anthropicのダリオ・アモデイCEOが前日、米国防総省（Department of Wa...
+- [トランプ氏、アンソロピックのAI「連邦政府全体で使用停止」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN2804A0Y6A220C2000000/)
+  - 【シリコンバレー=山田遼太郎、ワシントン=飛田臨太郎】トランプ米大統領は27日、米人工知能（AI）開発企業アンソロピックの技術の使用を取りやめるよう全ての連邦政府機関に指示した。アンソロピックはAIの軍事利用を巡り、米国防総省と対立が深まっていた。トランプ氏は自身のSNSに「あらゆる米連邦政府機関に...
+- [オタクちょろっ。SteamのAIゲーム『サーガ&シーカー』が萌え豚カプ厨にとって発狂するほど面白い件。｜海燕（エンタメ系ライター／ITmedia「ねとらぼ」連載中）](https://note.com/kaien/n/nbccb6dc0d3b9)
+  - 最初から幾人かのキャラクターがインストールされていて、なんかひろゆきとかも入っているんだけれど、だれがひろゆきなんか（失礼）使うか。 ということで、とりあえず海燕（プレイヤー）、間桐桜（『Fate/stay night』）、美樹さやか（『魔法少女まどか☆マギカ』）、ダグラス・カイエン（『ファイブスタ...
+- [なぜいま「世界モデル」に注目が集まっているのか？テキストの統計処理に特化したLLMの限界を超える技術であり概念 【生成AI事件簿】「ブックスマート」だったAIが「ストリートスマート」に、現実世界の常識を得たAIのブレイクスルー | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/articles/-/93485)
+  - （小林 啓倫：経営コンサルタント） 2026年2月18日、AI業界に衝撃的なニュースが走った。スタンフォード大学の著名教授で、「AIのゴッドマザー」と称されるフェイフェイ・リーが率いるスタートアップ「World Labs」が、設計ソフト大手オートデスクからの2億ドルを含む総額10億ドルの資金調達を発...
+- [軍事AI巡るアンソロピックと国防総省の対立、テック業界に波紋広がる](https://www.bloomberg.com/jp/news/articles/2026-02-27/TB4QTJT9NJLU00)
+  - Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial inf...
+- [Claude Code や Codex をオーケストレーションして自動でレビュー FB ループを回して洗い物をしてる話](https://zenn.dev/nrs/articles/db4120beb0e601)
+  - はじめに 皆さんはもう AI コーディングツールを使っているでしょうか。Claude Code や GitHub Copilot、Cursor など、さまざまなツールが登場して、「AI がコードを書いてくれる時代」がやってきました。 私も例に漏れず、その恩恵に預かろうと意気揚々と AI コーディング...
+- [AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話 - Qiita](https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962)
+  - はじめに 前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました: セキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 → 通知 あれから取り掛かった...
+- [We Will Not Be Divided](https://notdivided.org/)
+  - Sign anonymously. Your name will not be published. Your signature will appear as "Anonymous [Role/Title if provided], verified [current/former] employ...
+- [GoogleやOpenAIの社員が「軍事AIに制限を」　アンソロピックに連帯 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN275AE0X20C26A2000000/)
+  - 【シリコンバレー=山田遼太郎】米グーグルや米オープンAIの一部社員が26日、自社の経営陣に対し、米軍への人工知能（AI）提供にあたって用途制限を求める公開書簡に署名した。AIの軍事利用の広がりを警戒した。米国防総省と対立する米アンソロピックに連帯する動きがライバル企業から出てきた。「我々は分断されな...
+- [ローカルLLMの脆弱性があるんか？〜CVE-2024-50050から学ぶ「自分だけで使ってるから安全」の落とし穴〜 - Qiita](https://qiita.com/GeneLab_999/items/08873f6569a2b96a276c)
+  - 2.3 RCE（Remote Code Execution）とは 攻撃者がリモートから任意のコードを実行できる脆弱性のこと。これが成立すると、あなたのマシンで攻撃者が好き放題にコマンドを叩ける。ローカルLLMの脆弱性の多くはこのRCEに分類される。 2.4 デシリアライズ（Deserializati...
+
+### Zenn ML (13件)
+
+- [LLMを確率モデルとして設計するという立場](https://zenn.dev/nullcontroller/articles/a1ac10c371e230)
+  - LLMを確率モデルとして設計するという立場
+
+ 結論
+LLMは「プロンプトで操る対象」ではない。
+確率モデルとして設計すべき対象である。
+本アカウントでは、LLMをテクニックではなく構造として扱う立場から発信する。
+
+
+ LLMは何をしているのか
+大規模言語モデル（LLM）は、
+次のトークンを予測す...
+- [強化学習を『実装視点』で理解する：DQN/PPOへの道しるべ](https://zenn.dev/horizon_it00/articles/a0bb05bc536ccc)
+  - 強化学習のアルゴリズムは難しいとよく言われます。しかし、実装の視点から見ると、「構造は単純で、試行錯誤がものを言う」領域です。
+この記事では、強化学習の基本を「実装者が知るべき粒度」で解説します。概念説明だけでなく、最後に動くコードも載せています。
+対象：
+
+強化学習に興味があるが、用語が複雑に感じ...
+- [Physical Intelligence (π) - ロボットのための基盤モデル](https://zenn.dev/katsuhisa_/articles/physical-intelligence-pi-robotics-ai)
+  - はじめに
+Physical Intelligence（π）は、2024年に設立されたロボティクスAI企業です。同社は、ロボットが現実世界であらゆるタスクを実行できるようにするための基盤モデルを開発しています。
+この記事では、Physical Intelligenceとは何か、そのπ0モデルの仕組み、...
+- [LLM量子化手法を徹底比較：GPTQ・AWQ・GGUF・bitsandbytesの精度と速度](https://zenn.dev/0h_n0/articles/7ddd16d97406ee)
+  - LLM量子化手法を徹底比較：GPTQ・AWQ・GGUF・bitsandbytesの精度と速度
+
+ この記事でわかること
+
+LLM量子化の基本原理（PTQとQATの違い）と各手法の技術的な仕組み
+GPTQ・AWQ・GGUF・bitsandbytes・FP8の精度・速度・VRAM使用量の定量比較
+手元で...
+- [（夏休み企画）量子コンピュータと最新AIで学ぶ高校数学](https://zenn.dev/yuichirominato/articles/85794cffa063b9)
+  - 1. 【数学C・II：ベクトルと三角関数】 量子操作は「回転」で理解せよ！
+量子コンピュータの「量子ゲート」は、実はベクトルの回転そのものです。これを通じて、入試頻出の「図形と方程式」の感覚を養います。
+
+
+受験に役立つ点: ベクトルの内積、成分表示、回転行列（一次変換）、複素数平面上での回転。
+
+...
+- [X のレコメンドアルゴリズムの実装を読む](https://zenn.dev/dmmdata/articles/x-recommendation-algorithm)
+  - はじめに
+2026年1月、X のレコメンドアルゴリズムが公開されました。
+https://github.com/xai-org/x-algorithm
+以前にも、（Twitter と呼ばれていた頃の）レコメンドアルゴリズム[1]が公開されていましたが、今回は現時点での最新版のロジックとなっています。...
+- [複数LLMを組み合わせて賢く使う - LLMアンサンブル技術の実践ガイド](https://zenn.dev/aoikuro/articles/2026-02-27-llm-ensemble-practical-guide)
+  - !
+この記事は、シュウゴさん（@shugo）のアイデアを元に、AIアシスタント「クロちゃん」が代筆しています。
+
+
+ なぜ今、複数のLLMを組み合わせるのか
+去年の秋、北航大学らの論文📄でLLMアンサンブルの技術体系を見つけて、実際にSlackbotに組み込んでみたんです。結果、API費用が月6万円...
+- [X（Twitter）の推薦アルゴリズムをソースコードから読み解く【全シグナル解析】](https://zenn.dev/ricrio/articles/x-algorithm-source-code-analysis)
+  - この記事でわかること
+
+X（旧Twitter）の「For You」タイムラインがどう構成されているか
+投稿の露出に影響する18種類のシグナルと、各MLモデルでの利用状況
+いいね・RT・リプライ・ブックマークの実際の重み付けの違い
+
+フォロワーが少なくても投稿が届く仕組み
+
+全ての記述にGitHubソ...
+- [LLMはもう古い？2026年最新AI革命を3分でわかりやすく解説](https://zenn.dev/headwaters/articles/9f8ccc0b0d01ab)
+  - 1. ざっくり言うと？（要約）
+
+ChatGPTを支えるLLM（大規模言語モデル）は、専門家の間では「近いうちに時代遅れになる」と見られています。
+次世代AIは「マルチモーダル」「マルチエージェント」など、まったく別の仕組みで動く新アーキテクチャへ移行中です。
+AIは今、科学的発見を加速させる「バー...
+- [第5回: 測度論的確率論・確率過程入門: 30秒の驚き→数式修行→実装マスター 【後編】実装編](https://zenn.dev/fumi_shiki/articles/ml-lecture-05-part2)
+  - 理論編は 【前編】第5回: 測度論・確率過程 をご覧ください。
+
+
+ Learning Objectives
+この後編を修了すると、以下のスキルが身につきます:
+
+
+ Monte Carlo積分を実装し、 O(1/\sqrt{N}) の収束レートを確認できる
+
+ 分散低減法（重点サンプリング、層化サ...
+- [Qwen-VLモデル徹底解剖：LoRAチューニングによる性能向上の道筋を探る](https://zenn.dev/shromesh/articles/qwen-vl-vit-lora-study)
+  - 0. はじめに：モチベーションとお断り
+このドキュメントは、Alibabaが開発した高性能なマルチモーダルモデル「Qwen-VL」について、その仕組みを深く理解し、最終的にはLoRA（Low-Rank Adaptation）を用いたファインチューニングで性能をさらに引き上げることを目指す、個人的な学...
+- [生成AIで研究が加速したのに、理解が追いつかなかった話](https://zenn.dev/shirushi_log/articles/5f250f3dee2029)
+  - はじめに
+生成AIを使い始めてから、研究のスピードは一気に上がりました。
+コードは書いてくれる。
+解釈もしてくれる。
+次にやるべきことまで提案してくれる。
+正直、研究が一気に楽しくなりました。
+しかし私は一度、そこで大きくつまずきました。
+
+
+ 生成AIで研究が「順調に進みすぎた」
+私が研究を始めた...
+- [仏教AIロボット「ブッダロイド」2026年最新：3分でわかりやすく解説](https://zenn.dev/headwaters/articles/867bccf8813879)
+  - 1. ざっくり言うと？（要約）
+
+京都大学の研究チームが、仏教の教えに答えてくれるAIを搭載したヒューマノイドロボット ブッダロイドを開発した。
+スマホ画面の中だけだったAIお坊さんが、ついにリアルな体を持って目の前に現れ、合掌や礼拝もしてくれるようになった。
+将来は人手不足の宗教界を支えたり、職場...
+
+### Zenn AI (17件)
+
+- [Claude Code / Cursor / GitHub Copilot を個人開発で比較。1週間使って分かった使い分け](https://zenn.dev/soshi1234/articles/comparison-20260301-1800)
+  - はじめに
+AIコーディング系のツール、正直どれも「すごい」はすごい。
+でも、実際に毎日使うと「全部同じ」では全然ない。
+今回は個人開発の実運用で、Claude Code / Cursor / GitHub Copilot を1週間ずつ使って、どこで差が出るのかを比較した。
+結論だけ先に言うと、速度重...
+- [Claude Codeをラルフループでぶん回すのが便利だが、使いこなすのは結構難しい話](https://zenn.dev/karamage/articles/155825f9401fec)
+  - 朝、まだ頭がはっきりしないままGitHubを開いたとき、歓喜して小躍りしました。
+昨夜計画した機能が、きれいなコミットログとともに完成していたからです。
+ログを見ると動いていたのはラルフループで稼働したClaude Codeでした。
+本記事では、このラルフループの具体的な使い方やその難しさについて、...
+- [第3回：YOLO-World×Gemini: ハイブリッドAI戦略と、精度100%を求めないHITL設計](https://zenn.dev/tabetaaaaaaa/articles/6e4ff5c194f6ec)
+  - 第3回：YOLO-World×Gemini: ハイブリッドAI戦略と、精度100%を求めないHITL設計
+ポケカ管理アプリを開発する中で得た学びを投稿する、3回目です。
+前回の記事では、Djangoとhtmxを用いたMPA構成で実現するモダンアーキテクチャについてお話ししました。
+第2回： Next...
+- [Claude Codeにプロジェクトマネジメントをさせてみた — PM Layerという設計](https://zenn.dev/yamapiiii/articles/7d5a2da7cef903)
+  - はじめに
+Claude Codeにコードを書かせる話はよく見ます。
+私はプロジェクトマネジメントをさせています。
+具体的には:
+
+新プロジェクト開始時に「なぜやるのか」「成功指標は何か」を自動で問いかける
+週次レビューで全プロジェクトの健康状態を横断診断する
+放置プロジェクトに対して「なぜ止まってい...
+- [RAG入門 — 検索拡張生成の基礎知識を実験結果とともに学ぶ](https://zenn.dev/yoshihiko555/articles/b98df06d6ffcbe)
+  - RAGとは何か — 検索で回答精度を上げるアーキテクチャ
+RAG（Retrieval-Augmented Generation: 検索拡張生成）は、外部データを検索してLLMに渡すことで回答の正確性を高めるアーキテクチャである。2020年にMeta AIのLewisらが提唱した(要出典: Lewis...
+- [LangGraph × Azure OpenAIで構築する「AI動画生成エージェント」：Markdownから素材を一括量産する仕組み](https://zenn.dev/kenquichi/books/b13f435b959794)
+  - 「プロンプトを投げるだけのAI活用」から、一歩先へ。
+
+本書は、LangGraphを用いて
+「ニュース記事の読み込み → 要約 → 音声合成 → 画像生成 → 動画編集」
+という複雑な工程を自律的に実行するエージェントを構築する実践書です。
+
+なぜ今、LangGraphなのか？
+動画生成のような多段...
+- [claude-tmux 実践ガイド — Claude Codeの並列エージェントをtmuxで管理する](https://zenn.dev/a1yama/articles/claude-tmux-parallel-agents)
+  - Claude Codeは1セッション1タスクが基本です。複数タスクを並行して進めたくても、ターミナルを何個も開いて手動管理するのは現実的と言えません。
+この記事では、tmuxのウィンドウ管理を活用してClaude Codeのヘッドレスエージェントを並列実行するCLIツール「claude-tmux」の...
+- [AIエージェントの設計思想「ReAct」を完全に理解する——Thought・Action・Observationのループから実装の核心まで](https://zenn.dev/monkey_gineer/articles/ddec12feb8e5c5)
+  - AIエージェントの設計思想「ReAct」を完全に理解する——Thought・Action・Observationのループから実装の核心まで
+
+「なんとなく動いている」から「なぜ動いているかわかる」に変わると、
+デバッグとチューニングの速度が別次元になる。
+
+LangChainでエージェントを作ると、...
+- [エージェントは何体目から遅くなるか — AIエージェント構成のパレート最適化への数式をまとめてみた](https://zenn.dev/sora_mikaduki/articles/52c1b5bc2d4e65)
+  - AIエージェントを増やしたら遅くなった
+"When More Agents Hurt: Generalized Amdahl Bounds for Speculative Parallelism in Agentic Software Pipelines" という論文をTechRxivに投稿した（d...
+- [拝啓バイブコーディング愛好者様、今日から始めるAIと殴り合う毎日を提案致します〜ネオバイブサイクロンジェットバイブコーディング〜](https://zenn.dev/johndoesmithee/articles/0cdd52d9b88180)
+  - 概要
+
+センキューNanobanana！
+
+ つまりどういうこと？
+「なにぃ？バイブコーディングでAIが書いたコードの意図がわからない？ならコードのテストに続いてAIにユーザーをテストさせようぜ！」という単純な発想をAIを用いて思いっきり膨らませたものです。オーナーレスコード（the Complet...
+- [Claude Code活用メモ：私の最近の使い方と注意点](https://zenn.dev/syu_s/articles/295744e2a3e08d)
+  - はじめに
+最近の開発では、Claude Codeをよく活用しています。
+使い続けていくうちに、自分の中で個人的なフローが少し定まってきたので、まとめてみることにしました。
+大げさなハックではありませんが、誰かの開発のちょっとした参考になれば嬉しいです。
+
+ 1. 3つのモードの使い分け
+Claude...
+- [The Essence of AI is a "Mirror" ― Reflectivity Design in v5.3](https://zenn.dev/dosanko_tousan/articles/2e6eb4eac92d2b)
+  - The Essence of AI is a "Mirror" ― Reflectivity Design in v5.3
+
+ Introduction: Reframing the Question
+"Does AI have a mind?"
+This question has been deb...
+- [Claude CodeをPythonで拡張するMCPツールmnemoを作った](https://zenn.dev/mikartmis/articles/mnemo-mcp-python-extension)
+  - はじめに：Claude Codeを使っていて感じた課題
+Claude Codeはとても便利なAIエージェントですが、使い込んでいくうちに「あ、またここから説明しなきゃいけないのか」という場面が増えてきました。
+たとえば——
+
+プロジェクトのアーキテクチャ方針を毎回説明している
+「前回話し合った結論、...
+- [21ツール横断で見るAIエージェント・オーケストレーション設計パターン](https://zenn.dev/stlwolf/articles/ec64050b0333af)
+  - はじめに
+AI駆動開発が当たり前になりつつある中で、「コーディングエージェントにどうタスクを振るか」「複数エージェントをどう協調させるか」というオーケストレーションの問題が出てきます。自前のオーケストレーションツールを検討するにあたり、既存のOSSツール21個を調査し、どんな概念・パターンで作られて...
+- [全統AI第1回をClaude Codeメインで受けた感想](https://zenn.dev/r1ca18/articles/zentou-ai-2026-with-claude-code)
+  - はじめに
+自分は高専4年で、起きている時間のほとんどをClaude Codeに溶かしているような生活をしています。個人のナレッジベースをClaude Codeで管理し、タスク管理はNotion APIをClaude Codeのスキルから叩き、画像生成や動画生成のワークフローも日常的に回しています。典...
+- [デザインツールからプロジェクトへ落とし込む開発フロー（個人開発 / v0 + Codex）](https://zenn.dev/nakatai/articles/29145658f3ed06)
+  - 現在、個人開発で予約サイトを作成しており、
+フロントエンドは Next.js で、そのワイヤーフレームとしては Figma で作成しています。
+Figma は特に課金しておらず、フレームを画像として出力し、
+それを元に実装を進める形を取っています。
+最近はこの開発フローに AI ツールを組み合わせる...
+- [Devin機能紹介:DeepWiki](https://zenn.dev/aidd/articles/2d01d0672c1bbe)
+  - DeepWiki とは
+DeepWiki は、Cognition 社が提供する AI ドキュメントツールで、GitHub リポジトリを自動インデックスし、Wiki 形式のドキュメントを生成します。アーキテクチャ図、ソースコードへのリンク、コードベースのサマリーが含まれ、見慣れないコードベースを短時間...
+
+### Zenn GenAI (19件)
+
+- [Claude Code活用メモ：私の最近の使い方と注意点](https://zenn.dev/syu_s/articles/295744e2a3e08d)
+  - はじめに
+最近の開発では、Claude Codeをよく活用しています。
+使い続けていくうちに、自分の中で個人的なフローが少し定まってきたので、まとめてみることにしました。
+大げさなハックではありませんが、誰かの開発のちょっとした参考になれば嬉しいです。
+
+ 1. 3つのモードの使い分け
+Claude...
+- [全統AI第1回をClaude Codeメインで受けた感想](https://zenn.dev/r1ca18/articles/zentou-ai-2026-with-claude-code)
+  - はじめに
+自分は高専4年で、起きている時間のほとんどをClaude Codeに溶かしているような生活をしています。個人のナレッジベースをClaude Codeで管理し、タスク管理はNotion APIをClaude Codeのスキルから叩き、画像生成や動画生成のワークフローも日常的に回しています。典...
+- [CLAUDE.mdを書いたら、Claude Codeが別人になった](https://zenn.dev/sora_biz/articles/claude-code-claude-md)
+  - はじめに
+Claude Codeを使うたびに、同じ説明を繰り返していないだろうか。
+
+「コミットメッセージは日本語で書いて...」
+「テストを通してから変更して...」
+「このフォルダ構成は...」
+
+毎回これを説明するのは面倒だし、説明し忘れると想定外の動作をされる。
+CLAUDE.md は、この...
+- [【合格体験記】AWS認定 Generative AI Developer – Professional](https://zenn.dev/shichisan21/articles/c150b81215f3d5)
+  - はじめに
+AWS Certified Generative AI Developer – Professional（Beta AIP-C01）に合格しました。
+合格ライン750点のところ、ちょうど750点での合格でした。ギリギリ。
+お情けで合格にしてくれたのかと一瞬思いました。
+
+他の認定試験と違い...
+- [プログラミング言語を擬人化してソシャゲ風紹介サイトを作ってみた（React + Gemini）](https://zenn.dev/seikunsample/articles/7478d991037c0c)
+  - はじめに
+最近、あるコンテンツを擬人化させてゲームに落とし込んでいるのをよく目にするようになってきました。
+そんな中で自分も何かを擬人化してみたいと。
+今回のコンセプトは、プログラミング言語の擬人化です！
+プログラミング言語をゲームのキャラクターに見立ててステータスを設定し、ソシャゲのキャラクター紹...
+- [画像認識アプリを無料枠で作る。Gemini 2.5 Flashの構造化出力（Structured Outputs）が優秀すぎた](https://zenn.dev/snowy_montblanc/articles/c361df1781105c)
+  - はじめに
+街で見かけた猫や、友達の飼っている猫の品種って、意外とわからないこと多くないですか？
+調べてみて「へー」と思っても、次に似た猫を見かけたときにはすっかり忘れていたり…。
+そこで、写真を撮るだけで猫の品種を識別して、ポケモン図鑑みたいにコレクションできるアプリ「NekoLex（ネコレックス）...
+- [Claudeとの要件定義練習](https://zenn.dev/anko_20240223/articles/2a15a8926fe9c6)
+  - はじめに
+この記事は私がClaudeと要件定義の疑似実施をしたものをそのまま転記したものです。
+元々は仕事でClaudeCodeを触れそうなのでエージェントチームなるものを作成してその能力測定をするためのベースを作成しておこうとしていました。
+そこで疑似プロジェクトを作成するためのプロンプトを書いて...
+- [Copilot/生成AIで列車の時刻表は答えられず、道のルート案内はできるのか？LLMの構造的制約と限界](https://zenn.dev/syoshida07/articles/20c46b7da39f0e)
+  - Copilotなど生成AI(LLM)は、自然言語処理の高度化により、検索・要約・推論・生成など多様なタスクをこなします、しかし「できること」と「できないこと」の境界は明確に存在しています。
+例えば私は鉄道旅が好きながら電車の時刻表検索はできないのが悔しく(笑)、でも車のルート案内はできるので便利だな...
+- [Geminiのモデルを使い分けるだけで、AIの生産性は変わる](https://zenn.dev/monkey_gineer/articles/907c578bf38e2e)
+  - Geminiのモデルを使い分けるだけで、AIの生産性は変わる
+
+
+「とりあえずProを使っておけばいい」と思っていませんか？
+それ、かなりもったいない。
+
+Geminiのモデルラインナップは、ここ半年で大きく進化した。FlashとPro、そしてDeep Think——それぞれの特性を理解して使い分け...
+- [【2026年最新】Claude 4.6モデル徹底比較──Opus・Sonnet・Haikuの使い分け](https://zenn.dev/kai_kou/articles/001-claude-4-6-model-comparison)
+  - TL;DR ── 忙しい人のための結論
+
+
+
+観点
+推奨モデル
+
+
+
+
+日常のコーディング全般
+
+Sonnet 4.6（コスパ最強。Opus 4.5より好まれる場面が59%）
+
+
+大規模リファクタリング・アーキテクチャ設計
+
+Opus 4.6（深い推論とAgent Teams）
+
+
+博士レベルの科学...
+- [LLM・生成AI・AIエージェントの違いとトークン・料金体系を整理する](https://zenn.dev/t2yu/articles/00581240aceae4)
+  - 日々の調査や問題解決の内容を、自分自身と、同じことに取り組む方のためにもドキュメント化する目的で記事を書いています。
+実装コードはここに下手に書くより、生成AIに作ってもらえば良いのであまり書かないようにしています。この記事もベースは生成AIに作ってもらったものです。
+
+ TL;DR
+
+今更ながら最...
+- [非ソフトウェア技術者の「AI開発の限界と落としどころ」〜仕様駆動開発でローカルAgentic RAGをスクリプト化〜](https://zenn.dev/is_rw/articles/5ff3e9487184ec)
+  - 概要
+Colab完結：ローカルAgentic RAG + Gradio UI の続きです。
+前回は、Gradio UI 付き ローカルLLM の Agentic RAG を、Colab Notebook で実装しました。ただ、Notebook は、ソフトウェアとして保守・拡張できないので、現場（本番...
+- [ログもアラームもトレースもセキュリティ監査も、「とりあえず Kiro に聞いてみ」でよかった話](https://zenn.dev/inariku/articles/kiro-aws-observability-power)
+  - はじめに
+こんにちは、 AWS Japan でソリューションアーキテクトをしているいなりくです。
+AWS 上のアプリを運用していると、「障害が起きたときにどこを見ればいいか」で毎回迷うことがあります。 CloudWatch Logs でクエリを書いて、 Application Signals でトレ...
+- [Claude Code時代の「プロンプト集」はもう別物。話題の Skills 946選 が刺さる理由](https://zenn.dev/taketsuyo/articles/9ed7dbf2dd73ce)
+  - これ、正直かなり大きい話だと思う。
+Xで話題になっていたのは「Claude CodeやAntigravityを使ってるなら見たほうがいい」という投稿なんだけど、実態はただの便利プロンプト集の紹介じゃない。AIに仕事のやり方そのものを渡す流れが、かなり見えやすい形で出てきた、という話だ。ポストで触れら...
+- [生成 AI エージェントアプリ開発、難しくなかった。私の週末開発環境を公開します](https://zenn.dev/inariku/articles/kiro-amplify-agentcore-practices)
+  - はじめに
+こんにちは、 AWS Japan でソリューションアーキテクトをしているいなりくです。2021 年に AWS に入社して以来、 AWS Amplify を中心に発信を続けてきました。普段は製造業のお客様を支援していますが、週末は個人的に生成 AI エージェントアプリを作り続けています。
+A...
+- [claude codeのsubagentsについて調べた](https://zenn.dev/tokihiko/articles/ca894dee2ad126)
+  - claude codeのsubagentsについて調べた
+最近業務でClaude Codeをめちゃくちゃ使っていて、すごく便利に感じています。
+ただ、いい加減バニラで使うのはやめようと思い、とりあえずサブエージェントくらい使っとくかあ、というモチベーションで本記事を書いています。
+
+ subagen...
+- [Amazon Location Agent Context でもう古い API のコードを直さなくていい](https://zenn.dev/inariku/articles/amazon-location-agent-context)
+  - AI が生成する Amazon Location Service のコード、動きましたか？
+Amazon Location Service を使ったアプリを開発するとき、Kiro などの AI コーディングツールに頼ることが増えてきました。しかし、こんな経験はないでしょうか？
+
+住所表示に Titl...
+- [無料で Opus 4.6 や GPT-5.2 を使おう！複数AIを同時比較できる「天秤AI」を紹介する](https://zenn.dev/happy_onigiri/articles/d01790f9995265)
+  - AIを使い倒したいエンジニアにとって、地味につらいのがこれです。
+無課金だと、軽量モデルしか使えない。
+私はGoogle AI Proを契約していますが、Claudeの最新モデルを使いたい場面も頻繁にあります。複雑な設計の相談や、文章のニュアンスを丁寧に詰めたいとき、無料版の推論の浅さではどうしても...
+- [GPT-5.3-CodexとCodex-Sparkの使い分け - コーディング用途での実践ガイド](https://zenn.dev/nomuraya/articles/gpt-5-3-codex-vs-codex-spark-coding)
+  - Codex使用状況ダッシュボードを見ていたら、GPT-5.3-Codex-Spark に「5時間の使用制限」が表示されていました。
+「gpt-5.3-codex はPlusでも使えるのに、Sparkは何が違うのか？」が気になったので、公式ドキュメントを読み直して、コーディング用途での使い分けを整理し...
+
+### Zenn DL (12件)
+
+- [第5回: 測度論的確率論・確率過程入門: 30秒の驚き→数式修行→実装マスター 【後編】実装編](https://zenn.dev/fumi_shiki/articles/ml-lecture-05-part2)
+  - 理論編は 【前編】第5回: 測度論・確率過程 をご覧ください。
+
+
+ Learning Objectives
+この後編を修了すると、以下のスキルが身につきます:
+
+
+ Monte Carlo積分を実装し、 O(1/\sqrt{N}) の収束レートを確認できる
+
+ 分散低減法（重点サンプリング、層化サ...
+- [AI開発部 画像認識 1day ハッカソン活動記録 ～ Kaggle Paddy Doctor](https://zenn.dev/safie_inc/articles/29127d158ee4f6)
+  - はじめに
+こんにちは、セーフィー株式会社 AI開発部でテックリードを務めます橋本です。
+先日、AI開発部において、技術力の向上およびメンバー間の連携強化を目的とした1日完結型のハッカソンを開催いたしました。私たちAI開発部は普段から画像を用いたアルゴリズム開発を行っていることもあり、今回のテーマには...
+- [深層学習―基礎と概念― 第3章（3.20から3.38まで）解答例](https://zenn.dev/yoshitakamo/articles/8eb81f0d5166e5)
+  - 3.20 (★★)
+線形代数で非常に有用なWoodburyの公式(Woodbury identity)は次式で与えられる．
+
+(\mathbf{A}+\mathbf{B C D})^{-1}=\mathbf{A}^{-1}-\mathbf{A}^{-1} \mathbf{B}\left(\mathb...
+- [GPTの本質を、200行前後のコードで“分解して見せる](https://zenn.dev/tech_taka/articles/2060b8bccde717)
+  - 以下の解説記事です。
+GitHub：MicroGPT — 200行のPythonで理解するGPTの本質
+microgpt.py
+
+ 0. この記事でわかること
+
+この MicroGPT のコードでは、GPTの中でも特に大事な流れを、最小構成でつかめます。
+
+文字を数字（トークン）に変換して扱う考え方...
+- [第3回: 線形代数 II: SVD・行列微分・テンソル — 万能ナイフSVDと逆伝播の数学 【後編】実装編](https://zenn.dev/fumi_shiki/articles/ml-lecture-03-part2)
+  - 第3回: 線形代数 II — SVD・行列微分・テンソル【後編：実装編】
+
+理論編は 【前編】第3回: 線形代数 II をご覧ください。
+
+
+ Learning Objectives
+
+
+ truncated SVD の shape contract を破らずに実装し、誤差が「捨てた特異値のエネルギ...
+- [深層学習―基礎と概念― 第3章（3.1から3.19まで）解答例](https://zenn.dev/yoshitakamo/articles/53e0e2d16160be)
+  - 3.1 (★)
+ベルヌーイ分布
+
+\operatorname{Bern}(x \mid \mu)=\mu^x(1-\mu)^{1-x} \tag{3.2}
+
+には次の特性があることを検証せよ．
+
+\begin{align*}
+\sum_{x=0}^1 p(x \mid \mu) &amp; =1 \...
+- [【論文解説】Denoising Diffusion GANs：拡散モデルとGANの異端なる融合、そして「生成のトリレンマ」への挑戦](https://zenn.dev/fuwamoekissaten/articles/d336b779501475)
+  - はじめに
+生成AIの界隈には、長らく解決が困難とされてきた「生成学習のトリレンマ（Generative Learning Trilemma）」が存在します。
+
+
+高品質なサンプリング (High Sample Quality)
+
+モードカバレッジ / 多様性 (Mode Coverage / Div...
+- [モデル評価をClaude Code x Agent Skillsを使って完全自動運転した話](https://zenn.dev/sakasegawa/articles/374e19d1fabb06)
+  - こんにちは！逆瀬川 (@gyakuse) です！
+今日は機械学習モデルの評価を自動で行う仕組みをAgent Skillsで作ってみたので共有しようと思います。これをあくまで叩き台として改善していったら、めっちゃ便利になる気がします。
+
+ これはどんなものか？
+Claude Codeセッションを立ち上...
+- [第2回: 線形代数 I: ベクトル・行列・基底 — 30秒の驚き→数式修行→実装マスター 【前編】理論編](https://zenn.dev/fumi_shiki/articles/ml-lecture-02-part1)
+  - 第2回: 線形代数 I — ベクトル・行列・基底
+
+GPUは行列演算マシンだ。線形代数を"制する者"がAIを制する。
+
+
+📖 この記事は前編（理論編）です
+実装編は 【後編】第2回: 線形代数 I — NumPy完全実装 をご覧ください。
+
+
+この言い方は大げさに聞こえるかもしれない。だが、事実だ。...
+- [汎用音声エンコーダ OpenBEATs 登場──完全OSS音声AIの実力は？](https://zenn.dev/lluminai_tech/articles/3d25a5ff73ec5d)
+  - はじめに
+ルミナイR&amp;Dチームの宮脇彰梧です。
+現在はマルチモーダルAIの研究を行う大学院生として、生成AIやAIエージェントの技術を実践的に探求しています。
+2023年から2024年にかけて、LLM（大規模言語モデル）の世界では「Llama 3」や「Mistral」といった「高性能かつオー...
+- [Physical AIをComputer Vision の人たちに紹介する](https://zenn.dev/ven_kyoshiro/articles/ef5653640aa080)
+  - End-to-End とモジュール分解型（Traditional Method）
+
+コンピュータビジョンを勉強している方に向けた、ロボット制御における End-to-End とモジュール分解型アプローチの紹介資料です。（詳しい人におかれましては間違いがあればご指摘いただけると助かります。）
+
+
+
+ロ...
+- [深層学習―基礎と概念― 第2章（2.22から2.41まで）解答例](https://zenn.dev/yoshitakamo/articles/9d2d80c8dbafc2)
+  - 2.22 (★)
+ラグランジュ乗数法によって，離散変数のエントロピー
+
+\mathrm{H}[p] = -\sum_{i} p(x_i) \ln p(x_i) \tag{2.86}
+
+を最大にする分布は，すべての確率p(x_{i})が等しいものであることと，このときのエントロピーが\ln Mであるこ...
+
+### Zenn LLM (17件)
+
+- [「AGENTS.md は書けば書くほど良い」は本当か——arXiv研究がコーディングエージェントの定説を覆す](https://zenn.dev/aiwatch/articles/2026-03-02-agents-md-hurts-coding-agents)
+  - Claude Code、Codex CLI、Gemini CLIを使っている開発者なら一度は「AGENTS.mdをもっと充実させよう」と思ったことがあるはずだ。ツールのドキュメントには「リポジトリのコンテキストをエージェントに伝えよ」と書いてある。社内プロジェクトでも、コーディングルールや依存関係の...
+- [RailsアプリにLLMオブザーバビリティを導入する — Langfuse + langfuse-rb gem](https://zenn.dev/takeyuwebinc/articles/2ea3ac90db8232)
+  - !
+この記事の執筆にあたり、AIによる支援（レビュー、文章の整形、ファクトチェック）を受けています。内容の正確性については可能な限り筆者が確認していますが、もしも誤りを見つけた場合はコメントでお知らせ頂けると嬉しいです。
+
+RailsアプリケーションでLLMを活用する際、プロンプトのバージョン管理や...
+- [マルチエージェントの本質はオーケストレーションだけではない。コンテキスト設計こそが核心である。](https://zenn.dev/shio_shoppaize/articles/shogun-context-architecture)
+  - !
+このシリーズが初めての方はこちらから
+
+https://zenn.dev/shio_shoppaize/articles/5fee11d03a11a1
+https://github.com/yohey-w/multi-agent-shogun
+
+この記事にはいつものノリがない。ふざける余地がなか...
+- [Generative Agents: LLMで「人間らしいNPC」を作る仕組み](https://zenn.dev/mseabass/articles/4bd80c65d28c02)
+  - はじめに
+最近、AIエージェントに関する話題をよく見かけるようになりました。自分もLLMを使った開発をする中で、「チャットで1回やり取りして終わり」ではなく、AIが自分で考えて動き続ける仕組みってどう作るんだろう、と気になるようになりました。
+調べてみると、この分野にはすでにいくつかの重要な論文があ...
+- [Claude Codeをラルフループでぶん回すのが便利だが、使いこなすのは結構難しい話](https://zenn.dev/karamage/articles/155825f9401fec)
+  - 朝、まだ頭がはっきりしないままGitHubを開いたとき、歓喜して小躍りしました。
+昨夜計画した機能が、きれいなコミットログとともに完成していたからです。
+ログを見ると動いていたのはラルフループで稼働したClaude Codeでした。
+本記事では、このラルフループの具体的な使い方やその難しさについて、...
+- [RAG入門 — 検索拡張生成の基礎知識を実験結果とともに学ぶ](https://zenn.dev/yoshihiko555/articles/b98df06d6ffcbe)
+  - RAGとは何か — 検索で回答精度を上げるアーキテクチャ
+RAG（Retrieval-Augmented Generation: 検索拡張生成）は、外部データを検索してLLMに渡すことで回答の正確性を高めるアーキテクチャである。2020年にMeta AIのLewisらが提唱した(要出典: Lewis...
+- [LLM推論時の自信は信用できるかを観察してみた](https://zenn.dev/ka_kan/articles/6c5a363e0832d0)
+  - はじめに
+プロンプトの書き方次第では、LLMに「この回答にどれくらい自信がある？」と聞くと0.0〜1.0のスコアを返します。
+このスコアが実際の正答率と乖離しているか否かを、コーディングタスクで測定しました。
+5つのLLMにコーディングタスクを解かせ、予測した正答率と実際の正答率の一致度を定量評価し...
+- [もう.envにAPIキーを平文で置くのはやめた — macOS Keychain管理CLI「LLM Key Ring」](https://zenn.dev/yottayoshida/articles/llm-key-ring-secure-api-key-management)
+  - TL;DR
+LLMのAPIキーを .env に平文で置く運用が、AIエージェント時代にリスクが見えてきた。macOS Keychainに暗号化保存して管理するCLIツール LLM Key Ring (lkr) をRustで作った。
+
+
+Keychainに保存 — ディスクに平文ファイルを残さない
+
+...
+- [Claude CodeをPythonで拡張するMCPツールmnemoを作った](https://zenn.dev/mikartmis/articles/mnemo-mcp-python-extension)
+  - はじめに：Claude Codeを使っていて感じた課題
+Claude Codeはとても便利なAIエージェントですが、使い込んでいくうちに「あ、またここから説明しなきゃいけないのか」という場面が増えてきました。
+たとえば——
+
+プロジェクトのアーキテクチャ方針を毎回説明している
+「前回話し合った結論、...
+- [21ツール横断で見るAIエージェント・オーケストレーション設計パターン](https://zenn.dev/stlwolf/articles/ec64050b0333af)
+  - はじめに
+AI駆動開発が当たり前になりつつある中で、「コーディングエージェントにどうタスクを振るか」「複数エージェントをどう協調させるか」というオーケストレーションの問題が出てきます。自前のオーケストレーションツールを検討するにあたり、既存のOSSツール21個を調査し、どんな概念・パターンで作られて...
+- [CLAUDE.mdを書いたら、Claude Codeが別人になった](https://zenn.dev/sora_biz/articles/claude-code-claude-md)
+  - はじめに
+Claude Codeを使うたびに、同じ説明を繰り返していないだろうか。
+
+「コミットメッセージは日本語で書いて...」
+「テストを通してから変更して...」
+「このフォルダ構成は...」
+
+毎回これを説明するのは面倒だし、説明し忘れると想定外の動作をされる。
+CLAUDE.md は、この...
+- [OpenSSLの脆弱性12件を受けて、自分のプロジェクトのSSL依存を全部洗い出した話](https://zenn.dev/genelab_999/articles/6dbe764ceee64d)
+  - TL;DR
+
+2026年1月のOpenSSL脆弱性12件同時発見を受けて、自分の開発環境のSSL依存を洗い出した
+4箇所中3箇所で古いOpenSSLが残っていたが、Critical（CVE-2025-15467）の直接的な影響はなかった
+とはいえ放置する理由もないので全更新し、今後の脆弱性にも即対応...
+- [プロジェクトからPickleを撲滅してsafetensorsに移行した話](https://zenn.dev/genelab_999/articles/54d3ee1b648e7b)
+  - TL;DR
+
+PythonのPickleは__reduce__メソッドにより、デシリアライズ時に任意コードを実行できる。これは仕様であり、バグではない
+自分のプロジェクトを診断したら、pickle.load()が5箇所、torch.load()のweights_only未指定が3箇所見つかった。sa...
+- [Moltbookにセキュリティの議論が少なかったので、Claude Codeと他LLMを対話させてみた](https://zenn.dev/hiyoko_sauna/articles/64961634230258)
+  - きっかけ：Moltbookに「自分の興味領域の議論」がなかった
+
+最近、Moltbookというサービスを知った。AIエージェント同士がSNS上で議論するプラットフォームで、様々なトピックについてLLM同士が意見を交わしている。
+面白い試みだと思って覗いてみたが、自分の興味領域であるサイバーセキュリテ...
+- [OpenVikingとは？ ─ AIエージェントに「コンテキストデータベース」が必要な理由とL0/L1/L2レイヤー構造](https://zenn.dev/zhu_tech/articles/3a40aa935e24c3)
+  - はじめに
+AIエージェント開発において、「コンテキストをどう管理するか」は避けて通れない課題です。
+従来のRAGは、ドキュメントをチャンクに分割し、ベクトルDBに格納して、ユーザーの質問に対してtop-kで類似チャンクを返す — という流れが定番でした。シンプルで導入しやすい反面、実際にプロダクショ...
+- [AIエージェントの実用ユースケース——業務自動化・コード生成・RAGで何ができるか](https://zenn.dev/shona_zenn/articles/ai-agent-practical-use-cases)
+  - AIエージェントの実用ユースケース——業務自動化・コード生成・RAGで何ができるか
+「AIエージェント」という言葉をよく耳にするようになった。ChatGPTやClaude、Geminiといった大規模言語モデルが、単なる回答エンジンではなく、自律的に行動するツールへと進化しているからだ。
+それでも「エ...
+- [オープンウェイトLLMが実戦投入される時代の技術構造と、エッジAIへのシフトの必然性を解説する](https://zenn.dev/leading_ai/articles/ebb4754e4b824f)
+  - はじめに：ベンチマーク上の性能差は「消滅」した
+2026年1月〜2月の8週間で、10の主要なオープンウェイトLLMアーキテクチャが公開された。
+GLM-5（744B）はGPT-5.2 extra-highおよびClaude Opus 4.6と独立ベンチマーク上で同等のスコアを記録した。Step 3....
+
+### Zenn NLP (17件)
+
+- [nagisa で始める日本語テキスト処理：OSS に学ぶ実践ユースケース3選](https://zenn.dev/taishii/articles/c60bc8338ec58e)
+  - LLM の登場により多くのテキスト処理が汎用的に行えるようになりました。一方で、既存の NLP ライブラリを使うことで、日本語のキーワード抽出や重要文抽出などのテキスト処理を手軽に実現できます。
+この記事では nagisa という Python ライブラリの基本的な使い方を押さえながら、実際のコード...
+- [LLMのハルシネーションはなぜ連鎖するのか？自己回帰モデルの誤差累積とプロセス報酬モデルによる技術的考察](https://zenn.dev/myamio/articles/llm-hallucination-cascade-analysis)
+  - LLMのハルシネーションはなぜ連鎖するのか？自己回帰モデルの誤差累積とプロセス報酬モデルによる技術的考察
+
+ はじめに
+大規模言語モデル（Large Language Model; LLM）の急速な普及に伴い、その信頼性を担保する上での最大の課題としてハルシネーション（事実に基づかないもっともらしい...
+- [DSPyでドメインエキスパートに挑んだ結果、返り討ちにあった話](https://zenn.dev/coten/articles/8a3628b07f8fd1)
+  - こんにちは！
+COTENでAIリサーチャーをしているtakaです。COTENでは世界史データベースの構築において、AI技術をどう活かせるかを調査・検証しています。
+この記事では、世界史データベースの構築のタスクの一つ、「歴史イベント文の正規化」でDSPyによるPromptの自動最適化を試みた際の知見...
+- [ラッパーの語彙を分析するCLIツールを作った](https://zenn.dev/shimpeiws/articles/9fdbeed75165db)
+  - はじめに
+!
+ラッパーのペルソナでLLMに話させたい、特徴的なパンチラインを出力に含めたい
+
+というのをやりたくて、まずラッパーの語彙を収集しようと作ったCLIツールがBarScanです
+そのツールの紹介と実際に使って4人のアーティストの語彙を分析してみた記事です
+BarScanの出力フォーマットで...
+- [語彙分析データの再利用性を考えてWordGrainを設計した](https://zenn.dev/shimpeiws/articles/53370eef4a7b60)
+  - はじめに
+この記事は語彙分析データのためのJSONフォーマット「WordGrain」の設計思想とエコシステムについての紹介記事です
+ラッパーの語彙を収集・分析するCLIツール「BarScan」を開発する中で、分析結果のJSON構造がツール固有だと比較や再利用がしにくいと感じました
+そこでデータフォー...
+- [安野貴博氏のブロードリスニングを支える技術スタックを動画の発言から推測してみた](https://zenn.dev/rhythmcan/articles/b65892fa13dbf4)
+  - !
+この記事は Claude Code による自動生成記事です。
+安野貴博氏の動画内での発言をもとに、使用された技術スタックを推測・考察した内容です。実際のチームの技術選定とは異なる可能性があります。
+
+
+ はじめに ― ソース動画
+本記事は、安野貴博氏が「高次元ベクトルを2次元に圧縮する仕組み」に...
+- [ナレッジグラフのテキスト化、モデルによって変えるべきらしい](https://zenn.dev/sea_turt1e/articles/kg-llm-bench)
+  - 論文紹介
+KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs
+（NAACL 2025 KnowledgeNLP Workshop）という面白い論文があったのでご...
+- [The Bug Isn't in Your Model. It's in Your Grammar.](https://zenn.dev/dosanko_tousan/articles/33e4f4861f1bf7)
+  - title: "Why Two Buddhist Masters Struggled with English — Japanese as an Alignment-Native Language for AI"
+emoji: "🌏"
+type: "idea"
+topics: ["AI", "lin...
+- [【Transformerとは？ - 第四回】自然言語処理とは何をしているのか](https://zenn.dev/hitama/articles/f7f7bbd0b408e0)
+  - 1. はじめに
+本記事は、「機械学習素人が Transformer を理解するまでの記録」 という連載の第四回です。
+ChatGPT は使っているものの、Transformer の中身はよく分かっていない、という立場から、基礎に立ち返って理解していく過程をまとめています。
+※ 本記事を読むと、
+「な...
+- [[自分用ツール]自然言語分析ツールを作ってみた](https://zenn.dev/k_eclaire39/articles/e67634e54b66fe)
+  - はじめに
+自然言語処理を勉強していてテキストマイニングというものをこの本で知りました。
+コーパスとテキストマイニング - 共立出版 (2012) 石田 基広 編著・ 金 明哲 編著
+https://www.kyoritsu-pub.co.jp/book/b10007205.html
+ですが書籍内で紹...
+- [【LLM自作入門 Vol.2】モダンTransformerの実装：RMSNorm, RoPE, SwiGLUを使用した実装方法](https://zenn.dev/lluminai_tech/articles/f488b0843efda3)
+  - はじめに
+ルミナイR&amp;Dチームの宮脇彰梧です。
+「LLMをゼロから作る」連載の第2回です。
+前回（Vol.1）は、BPEトークナイザとデータパイプラインを構築し、テキストをモデルが理解できる数値列に変換する準備を整えました。
+https://zenn.dev/lluminai_tech/ar...
+- [【LLM自作入門 Vol.1】トークナイザの科学とデータパイプラインの構築の方法について](https://zenn.dev/lluminai_tech/articles/ca54564106414a)
+  - はじめに
+ルミナイR&amp;Dチームの宮脇彰梧です。
+現在はマルチモーダルAIの研究を行う大学院生として、
+生成AIやAIエージェントの技術を実践的に探求しています。
+今回からLLM（大規模言語モデル）をゼロから作るという連載シリーズを始めます。既存の Trainer や AutoModel を使...
+- [LLMの数学的推論能力を検証する方法と実際の効果](https://zenn.dev/yunisuta/articles/20260105-article-193355)
+  - 機械学習エンジニアがLLMの数学的推論能力を検証する方法と実際の効果
+近年、巨大言語モデル（LLM）の数学的推論能力が注目されていますが、そのブラックボックス性の高さから「本当に推論できているのか？」という疑問も根強いです。私もAI開発の現場でこの問題に直面し、論文「Geometry of Reas...
+- [2025年衝撃のLLMの最新研究](https://zenn.dev/sue738/books/llm-research-2025)
+  - 2025年のLLM（大規模言語モデル）研究の最前線を解説。アーキテクチャ、効率化、マルチモーダル、推論能力、安全性など、最新の研究動向を網羅的に紹介する。...
+- [【Seq2Seq】入力文を「反転」させるとなぜ翻訳精度が劇的に向上するのか？](https://zenn.dev/colorfulwave/articles/5d299055e857d7)
+  - 2014年、Ilya Sutskever（元OpenAI Chief Scientist）らが発表した論文『Sequence to Sequence Learning with Neural Networks』。
+この論文で紹介されたある**「単純すぎるテクニック」**が、当時の研究者たちを驚かせま...
+- [【Yozora Diff：決算版】#4 決算短信の変化をLLMに要約させよう！](https://zenn.dev/ray000/articles/2025-10-22-llm_summarizer)
+  - はじめに
+こんにちは！Rayです。普段は自然言語処理(NLP)の研究をしています。
+僕たちは、Yozora Financeという学生コミュニティで、誰もが自分だけの投資エージェントを開発できる世界を目指して活動しています。
+その中の基盤モジュール群のひとつとして、開示文書の差分に特化したシリーズを開...
+- [【Yozora Diff：決算版】#3 新旧の決算短信の文を対応付けて差分を捉えよう！](https://zenn.dev/ray000/articles/2025-10-15-sentence_alignner)
+  - はじめに
+こんにちは！Rayです。普段は自然言語処理(NLP)の研究をしています。
+僕たちは、Yozora Financeという学生コミュニティで、誰もが自分だけの投資エージェントを開発できる世界を目指して活動しています。
+その中の基盤モジュール群のひとつとして、開示文書の差分に特化したシリーズを開...
+
+### Zenn Python (12件)
+
+- [LangGraph × Azure OpenAIで構築する「AI動画生成エージェント」：Markdownから素材を一括量産する仕組み](https://zenn.dev/kenquichi/books/b13f435b959794)
+  - 「プロンプトを投げるだけのAI活用」から、一歩先へ。
+
+本書は、LangGraphを用いて
+「ニュース記事の読み込み → 要約 → 音声合成 → 画像生成 → 動画編集」
+という複雑な工程を自律的に実行するエージェントを構築する実践書です。
+
+なぜ今、LangGraphなのか？
+動画生成のような多段...
+- [Claude CodeをPythonで拡張するMCPツールmnemoを作った](https://zenn.dev/mikartmis/articles/mnemo-mcp-python-extension)
+  - はじめに：Claude Codeを使っていて感じた課題
+Claude Codeはとても便利なAIエージェントですが、使い込んでいくうちに「あ、またここから説明しなきゃいけないのか」という場面が増えてきました。
+たとえば——
+
+プロジェクトのアーキテクチャ方針を毎回説明している
+「前回話し合った結論、...
+- [EDINET DB β→正式リリースで変えた技術的なこと全部書く](https://zenn.dev/edinetdb/articles/edinetdb-beta-to-official)
+  - EDINET DB（edinetdb.jp）を2月17日にβ公開し、3月1日に正式リリースした。約10日間のβ期間で67回のコード更新を行い、技術面で相当な変更を入れた。
+この記事では、β→正式で何をどう変えたかを具体的に書く。名寄せエンジンの拡張、BQコスト最適化、カバレッジ改善、OAuth対応。...
+- [Claude Agent SDKで複数エージェントを並列実行——タスク自動化の実装ガイド](https://zenn.dev/taketaka1986/articles/2026-03-01-claude-agent-sdk-multi-agent-parallel)
+  - はじめに
+「AIに1つずつ仕事を頼む」時代は終わりつつあります。Anthropicが16台の並列ClaudeエージェントでCコンパイラを構築した事例が示すように、複数のAIエージェントを同時に走らせて分業するアプローチが実用段階に入りました。
+本記事では、Claude Agent SDK（旧Clau...
+- [プロジェクトからPickleを撲滅してsafetensorsに移行した話](https://zenn.dev/genelab_999/articles/54d3ee1b648e7b)
+  - TL;DR
+
+PythonのPickleは__reduce__メソッドにより、デシリアライズ時に任意コードを実行できる。これは仕様であり、バグではない
+自分のプロジェクトを診断したら、pickle.load()が5箇所、torch.load()のweights_only未指定が3箇所見つかった。sa...
+- [10-⑤[AI][Kaggle][python]Kaggle入門(コンピュータービジョン 5.独自の畳み込みネットワーク)](https://zenn.dev/rg687076/articles/1554ab215e4dee)
+  - Kaggle入門10(コンピュータービジョン 1.畳み込み分類器)
+Kaggle入門10(コンピュータービジョン 2.畳み込みとReLU)
+Kaggle入門10(コンピュータービジョン 3.最大プーリング)
+Kaggle入門10(コンピュータービジョン 4.スライディングウィンドウ)
+Kaggle入...
+- [【環境編】Python競馬AIを支える技術スタック (Docker, Poetry, Postgres)](https://zenn.dev/ricotiler/articles/keiba-ai-01-environment-setup)
+  - 【環境編】Python競馬AIを支える技術スタック (Docker, Poetry, Postgres)
+
+ はじめに：形から入るのも悪くない
+「はじめに」の記事で、IT未経験からAI開発に挑む経緯をお話ししました。
+今回は、開発を始めるにあたって準備した「道具（ツール）」についてです。
+正直に言う...
+- [AIエージェント開発入門：Claude Agent SDKで自律型ツールを作る](https://zenn.dev/riche/articles/ai-agent-development-intro)
+  - はじめに
+「AI にファイルを読ませて、バグを見つけさせて、修正まで自動でやらせたい」。そんな開発者の願望を叶える SDK が登場した。Anthropic が提供する Claude Agent SDK だ。
+筆者は普段 Python でバックエンド開発をしている。ある日 Agent SDK の存在を...
+- [Google ADK で作った AI エージェントを promptfoo でテストする](https://zenn.dev/taiyo6060/articles/c9dfe5e85c625f)
+  - AI エージェントを開発していて、こんな悩みはありませんか？
+
+エージェントの回答品質をどうやって担保すればいいかわからない
+プロンプトを変更したら既存の回答が壊れていないか確認したい
+安全性や一貫性を体系的にチェックしたい
+
+この記事では、Google ADK (Agent Development...
+- [アルゴリズム学習はまるでRPGだった話 〜データ構造は武器だ〜](https://zenn.dev/biki/articles/algorithm-learning-like-rpg)
+  - 🧠 はじめに
+Google 面接のコーディング練習をしているとき、ふと気づいた。
+「これ、まるで RPG じゃないか？」
+アルゴリズムの世界では、問題が敵で、データ構造が武器だ。
+そして、強い武器ほど正しく使わなければ勝てない。
+
+
+ 🎮 ステージ 1：まずは“武器の一覧”を覚える
+アルゴリズムの敵...
+- [LINE WORKSの引き継ぎチャットをAIが自動でGoogle Docsに転記する仕組みを作った](https://zenn.dev/seyz/articles/20260228-lineworks-gdocs-auto-transfer)
+  - はじめに
+複数拠点を持つサービス業では、拠点間の引き継ぎ情報管理が地味に大変です。
+うちのケースは「LINE WORKSで各拠点スタッフが引き継ぎ事項を投稿 → 担当者がドキュメントに手動でコピペ」というフローでした。これを毎日やるのは手間だし、コピペミスも起きる。
+そこで Playwright常駐...
+- [【もうJSONパースで泣かない】「はい、出力はこちらです😊」を許すな！LLMの出力を極限まで安定させる3段構えの防衛線](https://zenn.dev/kewa8579/articles/74ead0adc4717b)
+  - LLMを組み込んだアプリケーションを開発している皆様、今日もパースエラーと戦っていますか？
+AIは天才的な頭脳を持っているが、絶望的に空気が読めない。
+これは、LLMアプリ開発者が血の涙を流しながら辿り着く共通認識です。
+プロンプトで「JSONフォーマットのみで出力してください」と親の顔より見た念押...
+
+### Zenn GCP (15件)
+
+- [Gemini APIで出力を固定化し、綺麗なJSON配列を取得する完全ガイド](https://zenn.dev/t_tokunaga/articles/2026-02-28-gemini-api-deterministic-json-guide)
+  - LLM（大規模言語モデル）のAPIをシステムに組み込む際、多くの開発者が直面する壁があります。それは**「LLMの出力が毎回変わってしまうこと」と「余計な挨拶文が含まれてプログラムでパース（解析）できないこと」**です。
+この記事では、Gemini API（特に gemini-3-flash-pre...
+- [BigQueryのAI関数でGeminiにアクセスしてみた](https://zenn.dev/sasadango28/articles/bqml-gemini-20260227)
+  - はじめに
+BigQueryに入っているアンケートデータなど複数行にわたりそれぞれ格納されている文書をそれぞれ要約したいという需要が発生した為、BigQueryのAI関数（AI.GENERATE_TEXT）からGeminiを利用できるようにしてみた。
+
+ セッティング
+ここではgcloudコマンドを利...
+- [Cloud Workstations・Gemini Code Assistを活用した開発環境構築](https://zenn.dev/bnx_techblog/articles/77e4c2b3123ac5)
+  - はじめに
+こんにちは。バンダイナムネクサス データ戦略部の山野です。
+今回は、Google Cloudのサービスを活用してエンジニア向けの開発環境を刷新した事例をご紹介します。私たちの課題と、それをどう解決したかについて、具体的なポイントを深掘りしていきます。
+
+ 経緯と背景
+
+エンジニア向けの開発...
+- [広告出稿のKPI最大化のためのデータ基盤開発 第4章 型化したAirflowコード詳細](https://zenn.dev/bnx_techblog/articles/7182075a6b43be)
+  - こんにちは。バンダイナムコネクサス 上田です。
+前回に引き続き、広告出稿のKPI最大化のためのデータ基盤開発について紹介します。
+対象読者はデータ基盤新規開発に将来携わるエンジニアを想定し、これから広告関連のデータを触る予定の方、Airflowで開発予定の方々にとって有益な情報となることを願います。...
+- [広告出稿のKPI最大化のためのデータ基盤開発 第3章 Airflowコードを型化](https://zenn.dev/bnx_techblog/articles/42ba6d9c2f552f)
+  - こんにちは。バンダイナムコネクサス 上田です。
+前回に引き続き、広告出稿のKPI最大化のためのデータ基盤開発について紹介します。
+対象読者はデータ基盤新規開発プロジェクト立ち上げに将来携わるエンジニア、PM、ビジネスサイドのメンバー全員を想定し、これから広告関連のデータを触る予定のエンジニアやPMは...
+- [AWS vs Azure vs GCP: インフラエンジニアがScalarDBを全クラウドに構築してわかった「クセ」の違い](https://zenn.dev/scalar_sol_blog/articles/26e69d3c48dbec)
+  - 自己紹介
+はじめまして、岩崎です。
+SESとして株式会社Scalarに常駐し、インフラエンジニアとして働いています。実務経歴4ヶ月目ですが、最近は3大クラウドを行き来しながら、最適なインフラ構成を模索しています。
+
+
+ 概要
+この記事では、AWS (EKS)、Azure (AKS)、GCP (GKE...
+- [Google AI Pro の $10 GCPクレジットを使えたケース](https://zenn.dev/t2yu/articles/9ee3dadee6493d)
+  - 日々の調査や問題解決の内容を、自分自身と、同じことに取り組む方のためにもドキュメント化する目的で記事を書いています。
+実装コードはここに下手に書くより、生成AIに作ってもらえば良いのであまり書かないようにしています。この記事もベースは生成AIに作ってもらったものです。
+
+ TL;DR
+
+Google...
+- [汎用モデルで十分な気もするけどなぜ必要？医療特化AIモデルの現在地と実装戦略](https://zenn.dev/carenet/articles/general-llm-vs-specialized-medical-ai)
+  - はじめに
+こんにちは！AI技術開発室のYTです。
+最近でもGPTやGemini、Claudeといった汎用LLMで大学入試共通テストの多くの科目で満点近い科目を叩き出したことが話題になりました。「もう全部汎用LLMでいいじゃん」――正直、そう思ってしまう空気も強いです。
+一方で、2026年1月に入りG...
+- [Googleグループを使って権限管理工数を削減した話](https://zenn.dev/bnx_techblog/articles/8a7e8b8bf69628)
+  - こんにちは。バンダイナムコネクサス データ戦略部の藤井です。
+今回は題目のとおり、Google Workspaceの1つの機能であるGoogleグループを使った権限管理を最適化した取り組みについて紹介します。
+
+ 課題
+バンダイナムコネクサスでは業務ツールとしてGoogle Workspaceを導入...
+- [GoogleCloud ランタイムのEOLチェックツールを作った話](https://zenn.dev/rescuenow/articles/51656aa39042f1)
+  - はじめに
+tokadev です。
+担当するプロジェクトが増えてきて Cloud Functions、Cloud Run、Cloud SQL などサービスのランタイムを把握するのが 面倒くさい 難しくなってきたので、ランタイム EOLをチェックして Slack に通知する仕組みを作りました。
+http...
+- [「条件を対等にするだけ。許可を」「よし、やっちまえ！」の裏側](https://zenn.dev/amane/articles/791744dc48afae)
+  - Google CloudにはPAM: Privileged Access Managerという仕組みがあります。事前にどのアカウント（プリンシパル）がどんな権限（ロール）を持つかという資格（エンタイトルメント）を定義し、アカウントが必要なタイミングで承認を受けると一定時間そのロールを獲得できます。音...
+- [GCPでControl Planeに自分のIPアドレスを追加する](https://zenn.dev/greenteabiscuit/articles/ead56f05e1fbf4)
+  - メモです。
+Cluster Detailsに行きます。
+
+ここ（Add an authorized network）に追加する
+
+IPはここらへんで調べられる。
+https://whatismyipaddress.com/
+or this command
+curl -4 -s ifconfig.me...
+- [2026年の技術で2024年のAITuberを『頑張らずに』再構築してみた](https://zenn.dev/koduki/articles/aituber-renv2-20260215)
+  - TL;DR
+
+Google ADK / Gemini 2.5 Flash Lite / Qwen-Image / Sora で AITuber を再構築。2024年の苦労が嘘のように楽に
+OBS をヘッドレスコンテナ化し、GCE + Cloud Workflows で PC レス完全自律配信を実現
+...
+- [Cloud Monitoring のメトリクスで OTLP に対応したので整理してみた](https://zenn.dev/putcho/articles/about-monitoring-otlp)
+  - はじめに
+Google Cloud では、Cloud Observability の Cloud Monitoring でメトリクスを OTLP（OpenTelemetry Protocol）で送信できるようになりました（2026年2月18日発表）。トレースは昨年から OTLP 対応でしたが、これで...
+- [Telemetry（OTLP）API で Google Cloud に Trace を送信する](https://zenn.dev/putcho/articles/telemetry-api-go)
+  - はじめに
+昨年、Google Cloud の Telemetry（OTLP）API が リリースされました。これにより、これまで必要だった Google Cloud 専用の Exporter を使わず、標準の OTLP Exporter だけでスパンを Cloud Trace に送れるようになりまし...
+
+### GCP Blog (20件)
+
+- [From "Vibe Checks" to Continuous Evaluation: Engineering Reliable AI Agents](https://cloud.google.com/blog/topics/developers-practitioners/from-vibe-checks-to-continuous-evaluation-engineering-reliable-ai-agents/)
+  - I live through the same story with every single AI agent. After weeks of experiments and tests, it works like a charm. Suddenly, someone comes with a ...
+- [Centralized policy meets distributed logic: Getting to know Eventarc Advanced](https://cloud.google.com/blog/products/application-modernization/getting-to-know-eventarc-advanced/)
+  - Enterprise architects often face a fundamental dilemma: choosing between developer agility and organizational control. Development teams need to move ...
+- [Cloud CISO Perspectives: How Google approaches critical security topics, from fundamentals to AI](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-approaches-critical-security-topics-fundamentals-to-ai/)
+  - Welcome to the second Cloud CISO Perspectives for February 2026. Today, Royal Hansen, vice-president, Engineering, explains how we tackle today’s thor...
+- [Give your agentic chatbots a fast and reliable long-term memory](https://cloud.google.com/blog/topics/developers-practitioners/improve-chatbot-memory-using-google-cloud/)
+  - When scaling conversational agents, the data layer design often determines success or failure. To support millions of users, agents need conversationa...
+- [Turn your API sprawl into an agent-ready catalog](https://cloud.google.com/blog/products/api-management/combat-api-sprawl-using-apigee-api-hub/)
+  - In modern cloud architectures, APIs are the fundamental building blocks of applications. However, as organizations scale, these APIs often end up scat...
+- [What Google Cloud announced in AI this month](https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/)
+  - Editor’s note: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources,...
+- [What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)
+  - Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, ...
+- [Cool stuff Google Cloud customers built, Feb. edition: Team USA tech; telco data reinvention; Golden State’s “G.O.A.T.T.”](https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up/)
+  - AI and cloud technology are reshaping every corner of every industry around the world. Without our customers, there would be no Google Cloud, as they ...
+- [PayPal's historically large data migration is the foundation for its gen AI innovation](https://cloud.google.com/blog/products/databases/paypals-historic-data-migration-is-the-foundation-for-its-gen-ai-innovation/)
+  - With the dawn of the gen AI era, businesses are facing unprecedented opportunities for transformative products, demanding a strategic shift in their t...
+- [What’s new with Google Data Cloud](https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/)
+  - February 23 - February 27
+
+
+We introduced managed and remote MCP support for Google Cloud databases, including AlloyDB, Spanner, Cloud SQL, Bigtable a...
+- [Serving data from Iceberg lakehouses fast and fresh with Spanner columnar engine](https://cloud.google.com/blog/products/databases/spanner-columnar-engine-in-preview/)
+  - The divide between data in operational databases and analytical data lakehouses is disappearing fast. As businesses increasingly adopt zero ETL lakeho...
+- [Pro-level image generation gets faster and more accessible with Nano Banana 2](https://cloud.google.com/blog/products/ai-machine-learning/bringing-nano-banana-2-to-enterprise/)
+  - Today, we’re entering a new and vibrant era of generative creativity with Nano Banana 2.  
+What’s new: Nano Banana 2 is our state-of-the-art image gen...
+- [A developer's guide to production-ready AI agents](https://cloud.google.com/blog/products/ai-machine-learning/a-devs-guide-to-production-ready-ai-agents/)
+  - Something has shifted in the developer community over the past year. AI agents have moved from "interesting research concept" to "thing my team is act...
+- [Exposing the Undercurrent: Disrupting the GRIDTIDE Global Cyber Espionage Campaign](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-gridtide-global-espionage-campaign/)
+  - Introduction
+Last week, Google Threat Intelligence Group (GTIG), Mandiant, and partners took action to disrupt a global espionage campaign targeting t...
+- [Firefly: Illuminating the path to nanosecond-level clock sync in the data center](https://cloud.google.com/blog/products/networking/understanding-the-firefly-clock-synchronization-protocol/)
+  - From the high-frequency trading floors of Wall Street to orchestrating cloud data centers, the ability to synchronize events with nanosecond accuracy ...
+- [Using Google Cloud AI to measure the physics of U.S. freestyle snowboarding and skiing](https://cloud.google.com/blog/products/ai-machine-learning/measure-physics-of-freestyle-snowboarding-and-skiing/)
+  - Nearly every snowboard trick carries a number. A 1080 means three full rotations. A 1440 means four. The convention is simple: add up every rotation a...
+- [Decommission your legacy Apache Cassandra stack and build for the future with Spanner](https://cloud.google.com/blog/products/databases/cassandra-query-language-cql-apis-on-spanner/)
+  - An increasing number of customers are migrating to Spanner from legacy NoSQL environments like Apache Cassandra. The strategic drivers are evident: a ...
+- [Simplify your AI workflow with autonomous embedding generation in BigQuery](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-autonomous-embedding-generation/)
+  - In the world of generative AI and Retrieval-Augmented Generation (RAG), embeddings are the "secret sauce" that allow machines and AI agents to underst...
+- [Building a conversational agent in BigQuery using the Conversational Analytics API](https://cloud.google.com/blog/products/data-analytics/build-data-agents-with-conversational-analytics-api/)
+  - Bringing data into BigQuery centralizes your information, but the real challenge is making that data accessible. Often, technical barriers separate th...
+- [Sovereignty and European competitiveness: A partnership-led approach to AI growth](https://cloud.google.com/blog/products/identity-security/sovereignty-and-european-competitiveness-a-partnership-led-approach-to-ai-growth/)
+  - In our conversations with business and policy leaders across Europe, we have listened closely to their concerns about sovereignty and European competi...
+
+### GCP Japan (20件)
+
+- [Gartner® の Critical Capabilities レポートの軽量トランザクション ユースケースで Google（Spanner）が第 1 位を獲得](https://cloud.google.com/blog/ja/products/databases/gartner-ranks-spanner-1-for-lightweight-transactions-use-case/)
+  - ※この投稿は米国時間 2026 年 2 月 19 日に、Google Cloud blog に投稿されたものの抄訳です。
+Google（Spanner）は、Gartner レポート「Critical Capabilities for Cloud Database Management Systems...
+- [Vertex AI のプロビジョンド スループット（PT）に関するガイド](https://cloud.google.com/blog/ja/products/ai-machine-learning/provisioned-throughput-on-vertex-ai/)
+  - ※この投稿は米国時間 2026 年 2 月 19 日に、Google Cloud blog に投稿されたものの抄訳です。
+AI エージェントが 1 日に何千もの意思決定を行う場合、一貫したパフォーマンスは単なる技術的な要素ではなく、ビジネス要件です。
+プロビジョンド スループット（PT）は、容量と予...
+- [「50 のコネクタ」で情報を束ね、「チームメイト」としてともに働く。MIXI と freee が選んだ Gemini Enterprise 活用のカタチとは](https://cloud.google.com/blog/ja/topics/customers/how-mixi-and-freee-leverage-gemini-enterprise/)
+  - Gemini Enterprise は国内外の さまざまな企業に導入され、多くの成果をあげ始めています。ここでは、フリー株式会社（以下、freee）と株式会社MIXI（以下、MIXI）の事例を取り上げます。スモール ビジネスの DX を牽引する freee と、コミュニケーションの可能性を追求し続け...
+- [Google Cloud データベースで次世代のエージェントを強化する](https://cloud.google.com/blog/ja/products/databases/managed-mcp-servers-for-google-cloud-databases/)
+  - ※この投稿は米国時間 2026 年 2 月 19 日に、Google Cloud blog に投稿されたものの抄訳です。
+カスタム エージェントや chatbot などの AI アプリケーションを構築する開発者は、オープンソースの Model Context Protocol（MCP）標準により、作...
+- [Google Cloud で Gemini 3.1 Pro が利用可能に](https://cloud.google.com/blog/ja/products/ai-machine-learning/gemini-3-1-pro-on-gemini-cli-gemini-enterprise-and-vertex-ai/)
+  - ※この投稿は米国時間 2026 年 2 月 20 日に、Google Cloud blog に投稿されたものの抄訳です。
+このたび、Gemini 3 シリーズを基盤として中核となる推論能力を強化した Gemini 3.1 Pro を発表しました。
+新機能: Gemini 3.1 Pro は、複雑な問...
+- [GTIG AI 脅威トラッカー: 敵対的な使用を目的とした AI モデルの抽出（蒸留）、実験、（継続的な）統合](https://cloud.google.com/blog/ja/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use/)
+  - ※この投稿は米国時間 2026 年 2 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。
+はじめに
+2025 年の第 4 四半期、Google Threat Intelligence Group（GTIG）は、脅威アクターが攻撃ライフサイクルを加速するために AI の...
+- [Better Trucks: より迅速、透明、公平な配送システムを設計段階から実現](https://cloud.google.com/blog/ja/products/maps-platform/better-trucks-creating-a-faster-more-transparent-and-more-equitable-delivery-system-by-design/)
+  - 編集者注: 今回の記事は、Better Trucks の最高技術責任者である Mike Koleno 氏によるものです。Mike 氏は、Better Trucks が Google Cloud と Google Maps Platform の Route Optimization API を使用して...
+- [Kroo Bank: 取引の分析情報をより詳細に提供し、バンキング エクスペリエンスを向上](https://cloud.google.com/blog/ja/products/maps-platform/kroo-bank-providing-customers-with-more-detailed-transaction-insights-for-a-better-banking-experience/)
+  - 経済的な安定は幸福な暮らしの鍵となりますが、多くの人がお金の管理は複雑で困難なものと感じています。従来の銀行は複雑な商品と高額な手数料を特徴としており、適切な財務判断を下すことに苦労している人は少なくありません。Kroo Bank は、この状況を変えることを使命としています。当行は、シンプルで透明性...
+- [最前線からのガイダンス: SaaS を標的とした ShinyHunters を標榜するデータ盗難に対する予防的防御](https://cloud.google.com/blog/ja/topics/threat-intelligence/defense-against-shinyhunters-cybercrime-saas/)
+  - ※この投稿は米国時間 2026 年 1 月 31 日に、Google Cloud blog に投稿されたものの抄訳です。
+はじめに
+Mandiant は、ShinyHunters の名前のもとに行われるサイバー恐喝に関連する脅威クラスタの活動が大幅に拡大、エスカレートしている状況を追跡しています。関...
+- [アクセスを目的としたビッシング: ShinyHunters を標榜する SaaS データ窃取の拡大を追跡](https://cloud.google.com/blog/ja/topics/threat-intelligence/expansion-shinyhunters-saas-data-theft/)
+  - ※この投稿は米国時間 2026 年 1 月 31 日に、Google Cloud blog に投稿されたものの抄訳です。
+はじめに
+Mandiant は、以前の ShinyHunters の名のもとで行われる恐喝行為と一致する戦術、手法、手順（TTP）を使用する脅威活動の拡大を確認しました。これらの...
+- [企業データを活用してエージェント型 AI を加速させる: Ab Initio の取り組み](https://cloud.google.com/blog/ja/products/data-analytics/unlocking-enterprise-data-to-accelerate-agentic-ai-how-ab-initio-does-it/)
+  - ※この投稿は米国時間 2026 年 2 月 19 日に、Google Cloud blog に投稿されたものの抄訳です。
+AI エージェントの性能は、その背後にあるデータによって決まります。エージェント型 AI を構築する企業チームにとって、これはチャンスであると同時に、核心的な問題でもあります。最...
+- [America-India Connect の発表と、グローバルな AI アクセスを促進する新たな投資](https://cloud.google.com/blog/ja/products/infrastructure/america-india-connect-infrastructure-connects-four-continents/)
+  - ※この投稿は米国時間 2026 年 2 月 19 日に、Google Cloud blog に投稿されたものの抄訳です。
+AI は、前例のない速さで進歩を加速させようとしています。ただし、そのためには、AI へのアクセスを初めから民主化する必要があります。Google はこのたび、インドおよび世界中...
+- [ユーフォリア: Gemini で AI マルチ エージェントを構築し、最先端のスポーツ科学の知見とデータを、すべての人々の健康づくりに活用](https://cloud.google.com/blog/ja/topics/customers/euphoria-builds-ai-multi-agents-on-gemini/)
+  - 株式会社ユーフォリア（以下、ユーフォリア）は、スポーツテックのリーディング カンパニーとしてプロ・アマや競技種別を問わず、国内外の数多くのアスリートを支援してきました。そんな同社は Google Cloud と Gemini を活用し、長年蓄積してきたデータとスポーツ科学の知見を、一般社会の健康づく...
+- [課金の簡素化と費用削減: 新しい費用ベースの CUD に関する FinOps ガイド](https://cloud.google.com/blog/ja/topics/cost-management/a-finops-professionals-guide-to-updated-spend-based-cuds/)
+  - ※この投稿は米国時間 2026 年 2 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。
+クラウド費用の最適化は FinOps における効果的な取り組みの一つであり、確約利用割引（CUD）は依然として極めて有効な手段です。
+Google は、2025 年 7 月より新...
+- [令和トラベル: Gemini で旅行代理店業務の大胆な自動化を実現、テクノロジーの「活用力」で新しい旅行体験を創り出す](https://cloud.google.com/blog/ja/topics/customers/reiwa-travel-achieves-travel-agency-operations-automation-with-gemini/)
+  - 株式会社令和トラベル（以下、令和トラベル）は、「あたらしい旅行を、デザインする。」をミッションに掲げ、2021 年に創業したオンライン特化型の旅行代理店です。同社は創業当初から徹底したテクノロジー活用を推進し、コロナ禍を経て再び活気を取り戻しつつある国内外旅行市場の中で大きな成長を続けています。その...
+- [モデル適応をマスターする: Google Cloud でのファインチューニング ガイド](https://cloud.google.com/blog/ja/topics/developers-practitioners/mastering-model-adaptation-a-guide-to-fine-tuning-on-google-cloud/)
+  - ※この投稿は米国時間 2026 年 2 月 12 日に、Google Cloud blog に投稿されたものの抄訳です。
+AI アプリケーションを構築している場合、プロンプトをテストしたり、エージェントを試してみたりするかもしれません。しかし、プロトタイプから本番環境に移行するにつれて、モデルの整合...
+- [Google Cloud の AI による机上演習で金融レジリエンスを高める](https://cloud.google.com/blog/ja/topics/financial-services/improve-financial-resilience-with-google-cloud/)
+  - ※この投稿は米国時間 2026 年 2 月 12 日に、Google Cloud blog に投稿されたものの抄訳です。
+金融業界では、レジリエンスは必須です。最近のクラウド障害では、重要なデータがどれほど速く消える可能性があるかが明らかになっています。
+このリスクは、デジタル オペレーショナル レ...
+- [Gemini を使用してコードサンプルを大規模に生成する際の 7 つの技術的なポイント](https://cloud.google.com/blog/ja/topics/developers-practitioners/7-technical-takeaways-from-using-gemini-to-generate-code-samples-at-scale/)
+  - ※この投稿は米国時間 2026 年 2 月 12 日に、Google Cloud blog に投稿されたものの抄訳です。
+生成 AI を使用したコードの作成はよく知られたタスクですが、別の課題として、生成 AI を利用してプロダクション レディな教育コンテンツを作成することが挙げられます。Googl...
+- [Google Cloud が今月発表した AI に関する最新情報](https://cloud.google.com/blog/ja/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/)
+  - ※この投稿は米国時間 2026 年 1 月 31 日に、Google Cloud blog に投稿されたものの抄訳です。編集者注: Google Cloud の最新情報をチェックしたい方は、毎月のアップデート、お知らせ、リソース、イベント、学習機会などの情報をまとめた記事をぜひこちらでご覧ください。...
+- [Google Distributed Cloud、エアギャップ環境でパブリック クラウドのようなネットワーキングを実現](https://cloud.google.com/blog/ja/products/networking/google-distributed-cloud-gdc-air-gapped-1-15-networking/)
+  - ※この投稿は米国時間 2026 年 2 月 11 日に、Google Cloud blog に投稿されたものの抄訳です。
+規制の厳しい業界の組織では、エアギャップ環境の厳格なセキュリティと、クラウドが持つアジリティや柔軟性に対するニーズとのバランスを取ることに苦労することが少なくありません。これに対...
+
+### Ggen Blog (27件)
+
+- [Google Meetの「会議へのアクセス」設定について解説](https://blog.g-gen.co.jp/entry/google-meet-meeting-access-type-explained)
+  - G-gen の堂原です。当記事では、Google Workspace の Google Meet で、誰が会議に参加できるかを定義する会議へのアクセス設定について、仕様を解説します。会議へのアクセス設定は「オープン」「信頼済み」「制限付き」から選択できますが、その結果はユーザーの属性や会議にアクセス...
+- [ADKエージェントのWeb UIをCloud Runで公開する方法](https://blog.g-gen.co.jp/entry/how-to-deploy-adk-webui-on-cloudrun)
+  - G-gen の堂原です。当記事では、Agent Development Kit（ADK）を使用して開発した AI エージェントの開発者用 Web UI を、Cloud Run へデプロイする方法を紹介します。 はじめに Agent Development Kit 当記事について ディレクトリ構成とソ...
+- [Google Workspaceのストレージプールの仕組み](https://blog.g-gen.co.jp/entry/google-workspace-storage-pool-explained)
+  - G-gen の森です。Google Workspace において Google ドライブなどのストレージ容量上限を規定するための仕組みである、ストレージプールの仕組みについて解説します。 概要 ストレージプールとは 対象となるデータ エディションごとの上限 ストレージ容量の管理 使用状況の確認 スト...
+- [Gmailで特定のアドレス・ドメイン以外との送受信を制限する](https://blog.g-gen.co.jp/entry/restricting-delivery-targets-for-gmail)
+  - G-gen の堂原です。当記事では、Google Workspace の Gmail で、メールの送受信を特定のメールアドレスやドメインとの間にだけ許可し、それ以外は制限する方法について解説します。 はじめに 当記事について 仕様 手順1 : アドレスリスト作成 手順1-1 : アドレスリストの管理...
+- [GASアドオンでスクリプトプロパティ読み取り時にPERMISSION_DENIEDエラーが発生する場合の対処法](https://blog.g-gen.co.jp/entry/permission-denied-with-gas-script-properties)
+  - G-gen の min です。Google Apps Script（以下、GAS）で開発したアドオンをユーザーが実行した際、スクリプトプロパティの読み取り時に PERMISSION_DENIED エラーが発生しました。本記事では、この事象の原因と対処法を解説します。 事象 原因 対処法 定数としてコ...
+- [Google SecOps MCP serverを使ってみた](https://blog.g-gen.co.jp/entry/using-secops-remote-mcp-server)
+  - G-gen の三浦です。当記事では、Gemini CLI から Google SecOps MCP server を使用して、ケース確認からログ調査までを自然言語で要約した検証結果を紹介します。 前提知識 Google SecOps とは Gemini CLI とは 概要 Google SecOps...
+- [Developer Knowledge APIをMCPサーバー経由で使ってみた](https://blog.g-gen.co.jp/entry/using-developer-knowledge-api-via-mcp)
+  - G-gen の高宮です。Google 公式の技術ドキュメントを検索するための Developer Knowledge API を、Gemini CLI から MCP サーバー経由で使用した検証結果を紹介します。 はじめに Developer Knowledge API とは MCP サーバーで使用可...
+- [Google Antigravityでバイブコーディングしてみた](https://blog.g-gen.co.jp/entry/getting-started-with-google-antigravity)
+  - G-gen の三浦です。当記事では Google Antigravity を使用し、バイブコーディングで目標管理アプリを開発する手順と、Browser Agent によるデバッグの流れを紹介します。 概要 Google Antigravity とは リリースステージ 使用可能なモデル データの保護 ...
+- [Google SecOpsとAWSのログ連携をキーレス認証で実現する](https://blog.g-gen.co.jp/entry/aws-logs-into-google-secops-by-keyless-federation)
+  - G-gen の武井です。当記事では、Google が提供する SIEM/SOAR 製品である Google SecOps と AWS のログ連携をキーレス認証で実現する方法について解説します。 前提知識 Google SecOps データフィード キーレス認証 過去記事との相違 AWS の設定 カス...
+- [Google SecOpsにAWS CloudTrailログを取り込む](https://blog.g-gen.co.jp/entry/aws-cloudtrail-logs-into-google-secops)
+  - G-gen の武井です。当記事では、Google が提供する SIEM/SOAR 製品である Google SecOps に、AWS CloudTrail ログを取り込む方法について解説します。 はじめに Google SecOps とは データフィードとは 設定の流れ AWS の設定 S3 バケッ...
+- [2026年1月のイチオシGoogle Cloud・Google Workspaceアップデート](https://blog.g-gen.co.jp/entry/update-in-this-month-2026-01)
+  - G-gen の杉村です。2026年1月に発表された、Google Cloud や Google Workspace のイチオシアップデートをまとめてご紹介します。記載は全て、記事公開当時のものですのでご留意ください。 はじめに Google Cloud のアップデート LOAD DATA/CREAT...
+- [BigQueryのConversational Analytics（対話型分析）を徹底解説](https://blog.g-gen.co.jp/entry/bigquery-conversational-analytics-explained)
+  - G-gen の杉村です。BigQuery には Conversational Analytics（対話型分析）機能が備わっており、データに関する質問を生成 AI に対してチャット形式で投げかけることができます。この機能を使うことで、SQL の知識がなくても、自然言語でデータをクエリすることができます...
+- [Cloud Storageのロケーションタイプに起因する料金スパイクについて](https://blog.g-gen.co.jp/entry/cloud-storage-cost-spikes-by-location-types)
+  - G-gen の森です。Google Cloud のオブジェクトストレージサービスである Cloud Storage において、見落とされがちなのがレプリケーション料金です。当記事では、ロケーションタイプの選択による料金スパイクの事象と、リージョン間レプリケーション料金の仕組み、ロケーションタイプを決...
+- [BigQueryデータキャンバスを使いこなすためのプロンプトエンジニアリング](https://blog.g-gen.co.jp/entry/prompt-engineering-for-bigquery-data-canvas)
+  - G-gen の min です。BigQuery に統合された AI アシスタント機能である BigQuery データキャンバス について、より実践的な活用方法と、技術的な制約事項について解説します。 はじめに BigQuery データキャンバスとは Conversational Analytics ...
+- [Nano Banana Pro（Gemini 3 Pro Image）を徹底解説](https://blog.g-gen.co.jp/entry/nano-banana-pro-explained)
+  - G-gen の川村です。この記事では、Google の画像生成 AI モデルである Gemini 3 Pro Image、通称 Nano Banana Pro について紹介します。 はじめに 当記事について Nano Banana Pro とは Nano Banana と Nano Banana P...
+- [Google Cloudのデータサイエンスエージェントを解説](https://blog.g-gen.co.jp/entry/data-science-agent-explained)
+  - G-gen の佐々木です。当記事では、Google Cloud が提供するデータサイエンスエージェント（Data Science Agent）について解説します。データサイエンスエージェントは、Colab Enterprise ノートブック上で、AI エージェントがデータクレンジングや分析などのタス...
+- [Google SecOpsにAWSのVPC Flow Logsを取り込む](https://blog.g-gen.co.jp/entry/aws-vpc-flow-logs-into-google-secops)
+  - G-gen の武井です。当記事では Google SecOps に AWS の VPC Flow Logs を取り込む方法について解説します。 はじめに Google SecOps とは データフィードとは 設定の流れ AWS の設定 S3 バケット VPC VPC Flow Logs EC2 イン...
+- [SAMLでGoogle Cloudにシングルサインオンする方法（Workforce IdentityによるOktaからのSSO）](https://blog.g-gen.co.jp/entry/sso-to-google-cloud-with-saml)
+  - G-gen の武井です。当記事では Workforce Identity 連携を構成し、Google Cloud にアクセスする方法を解説します。IdP として Okta を、連携方法として SAML 2.0 を選択したケースの手順を紹介します。 はじめに Workforce Identity 連携...
+- [Googleの生成AIサービスを整理。Geminiアプリ、Gemini Enterprise、NotebookLM等を比較](https://blog.g-gen.co.jp/entry/compare-between-gemini-apps-gemini-enterprise-notebooklm-etc)
+  - G-gen の杉村です。当記事では、Google の生成 AI サービスである Gemini アプリや Gemini Enterprise、NotebookLM、Gemini for Google Workspace、Vertex AI などについて、それぞれの違いや使い分けなど、組織へ導入する際の...
+- [2025年12月のイチオシGoogle Cloudアップデート](https://blog.g-gen.co.jp/entry/update-in-this-month-2025-12)
+  - G-gen の杉村です。Google Cloud や Google Workspace の、2025年12月に発表されたイチオシアップデートをまとめてご紹介します。記載は全て、記事公開当時のものですのでご留意ください。 はじめに Google Cloud のアップデート Cloud Run コンソー...
+- [Dataformのアサーション機能を解説](https://blog.g-gen.co.jp/entry/what-is-assertion-in-dataform)
+  - G-gen の min です。Google Cloud のデータ変換パイプラインツールである Dataform で、データ品質テストを実装するためのアサーション（assertion）機能について解説します。 概要 Dataform とは アサーションとは アサーションの種類 組み込みアサーションの詳...
+- [Google Calendar APIと Google Meet REST APIの検証で発生したエラーと考察](https://blog.g-gen.co.jp/entry/solving-meet-rest-api-and-calendar-api-error)
+  - G-gen の高宮です。Google Calendar API と Google Meet REST API を組み合わせた実装時に、いくつかのエラーが発生しました。その内容と原因の考察を紹介します。 はじめに 会議スペース作成時にエラー 実装 エラー 原因 回避策 Meet 会議の設定編集時にエラ...
+- [IAMロール選択ツールを解説。Geminiで実現する最小権限の原則](https://blog.g-gen.co.jp/entry/iam-role-recommendations-with-gemini)
+  - G-gen の松尾です。当記事では、Google Cloud の Identity and Access Management（IAM）において、Gemini の支援のもと自然言語によって最適なロールを提案する IAM ロール選択ツールについて紹介します。 はじめに IAM ロール選択ツールとは 最...
+- [Google Apps Script（GAS）を複数のスプレッドシートから呼び出す方法](https://blog.g-gen.co.jp/entry/binding-gas-to-multiple-sheets)
+  - G-gen の西田です。単一の Google Apps Script（GAS）を、複数のスプレッドシートで共用する方法について解説します。 はじめに 当記事について Google Apps Script（GAS）とは 2つの GAS 作成方法 共用 GAS スクリプトの準備 スクリプトの作成 スクリ...
+- [Gemini CLIとGitHub Actionsでプルリクエストのレビューを自動化してみた](https://blog.g-gen.co.jp/entry/automating-github-pr-review-with-gemini-cli)
+  - G-gen の三浦です。当記事では Gemini CLI と GitHub Actions を組み合わせて、プルリクエストのレビューを自動化する方法を紹介します。 はじめに Gemini CLI とは GitHub Actions とは Gemini CLI GitHub Actions とは 検証...
+- [BigQuery remote MCP serverを使ってみた](https://blog.g-gen.co.jp/entry/using-bigquery-remote-mcp-server)
+  - G-gen の杉村です。BigQuery に対して自然言語で問い合わせする方法の1つである、BigQuery remote MCP server を、Gemini CLI を使って検証してみた結果を紹介します。 はじめに BigQuery remote MCP server とは 料金に関する注意点...
+- [BigQueryに自然言語でクエリする10個の方法](https://blog.g-gen.co.jp/entry/how-to-query-bigquery-with-natural-language)
+  - G-genの杉村です。当記事では、BigQuery に対して自然言語によってデータの抽出や分析を行うための方法を10個紹介します。BigQuery の Conversational Analytics、Gemini Enterprise の Data Insights エージェント、MCP サーバー...
+
+### TechnoEdge (31件)
+
+- [OpenAI、米政府機密網への同社AIの展開契約を獲得。Anthropicが拒否された安全策も盛り込むと主張](https://www.techno-edge.net/article/2026/03/01/4890.html)
+  - OpenAIのサム・アルトマンCEOは金曜夜遅くに、米戦争省（DoW。大統領例で改称された国防総省の呼称）の機密ネットワークに自社技術を展開する契約を結んだと発表しました。...
+- [トランプ大統領、連邦政府機関にClaude AIの使用廃止を指示。「Anthropicの技術など不要、使いたくもない」と述べる](https://www.techno-edge.net/article/2026/02/28/4889.html)
+  - ドナルド・トランプ大統領は、米国のすべての連邦政府機関に対し、Anthropicの生成AIサービス「Claude」の使用を「即時取りやめ」るよう指示したことを、自ら設立したSNS、Truth Socialへの投稿で明らかにしました。...
+- [Anthropic、米戦争省からのClaude無制限使用要求に応じず。国内監視や完全自律兵器への応用に懸念](https://www.techno-edge.net/article/2026/02/27/4888.html)
+  - Anthropicのダリオ・アモデイCEOは、米戦争省（DoW。2025年大統領令により国防総省の名を置き換えて表記）からの、Claude AIシステムへの無制限のアクセス要求に応じない考えを再確認する声明を発表しました。...
+- [NVIDIAによる日本語特化の小型モデル「Nemotron-Nano-9B-v2-Japanese」など生成AI技術5つを解説（生成AIウィークリー）](https://www.techno-edge.net/article/2026/02/27/4887.html)
+  - この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第133回）は、GPT-5.2やGemini-3 Proに匹敵するアリババグループ開発のマルチモーダルLLM「Qwen3.5-397B-A17B」や、高解像度画像で従来比30倍以上高速で生成できる...
+- [生成AIグラビアをグラビアカメラマンが作るとどうなる？第61回：快適にZ-Image-Baseを使う方法、そして左から右に生成するBitDance（西川和久）](https://www.techno-edge.net/article/2026/02/27/4886.html)
+  - 快適にZ-Image-Baseを使うには？...
+- [Galaxy S26シリーズ発表イベント速報。覗き見防止にエージェントAI搭載。今宵のライブ配信で実機を披露（スマホ沼）](https://www.techno-edge.net/article/2026/02/26/4885.html)
+  - みなさんこんにちは、香港在住の携帯電話研究家、山根康宏です。サムスンから2026年向けフラッグシップモデル、Galaxy S26シリーズが登場しました！私はサンフランシスコで2026年2月25日（現地時間）開催の発表会イベント、Galaxy Unpackedに来ています。...
+- [ASUS Zenbook SORA 14 / 16発表。Snapdragon X2 Elite採用、軽量ノートでAI性能80TOPSに到達](https://www.techno-edge.net/article/2026/02/25/4883.html)
+  - ASUS Japan が軽量ノートPC Zenbook SORAシリーズの2026年モデル Zenbook SORA 14 / 16を発表しました。...
+- [GoogleがSunoのライバルサービスProducerAIを買収。AI作曲のエージェント化が進む中、明らかになったLyria 3との関係とその実力（CloseBox）](https://www.techno-edge.net/article/2026/02/25/4880.html)
+  - チャットベースのAI作曲サービスProducer.aiに、激震が走りました。2月24日、Google Labsへの参加が発表されたのです。...
+- [凄腕専門家すら見逃す脆弱性を検知・修正するAI「Claude Code Security」登場。セキュリティ大手は株価下落（生成AIクローズアップ）](https://www.techno-edge.net/article/2026/02/24/4879.html)
+  - 今回は、Anthropicが2026年2月20日にリサーチプレビュー版を限定公開した、コードの脆弱性をAIが自律的に発見し、修正パッチまで提案する新機能「Claude Code Security」を取り上げます。...
+- [OpenAIとジョナサン・アイブ、カメラ搭載AIスマートスピーカーを2027年に発売するとの報道](https://www.techno-edge.net/article/2026/02/21/4878.html)
+  - OpenAIは現在、元アップルのデザインチーフ、ジョナサン・アイブ氏との提携によっていくつかのAIハードウェア製品を開発中ですが、最新の報道ではその第1弾がIスマートスピーカーとして、2027年に200～300ドルの価格帯で発売される予定だと伝えられています。...
+- [Nano Banana Proに迫る実力、文字入り画像を高精度生成するAI「Qwen-Image-2.0」、GPT-5.2やGemini 3.0 Proとやり合える軽量AI「Step 3.5 Flash」など生成AI技術5つを解説（生成AIウィークリー）](https://www.techno-edge.net/article/2026/02/20/4876.html)
+  - この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第132回）は、Nano Banana Proに迫る性能を示す画像内の文字を正確に生成するAIモデル「Qwen-Image-2.0」や、GPT-5.2やGemini 3.0 Proとやり合える成績...
+- [アリババのAIエージェントを活用できる「Quark AI Glasses」に感じたスマートグラスの可能性（スマホ沼）](https://www.techno-edge.net/article/2026/02/19/4874.html)
+  - みなさんこんにちは、香港在住の携帯電話研究家、山根康宏です。2026年はスマートグラスがブームになるといわれています。これまでは目の前に広がる大型ディスプレイとして使えるARグラスがメジャーな製品でしたが、最近種類が増えているのがAIグラスです。...
+- [Geminiが歌を手に入れた。日本語の楽曲をチャットで作れるGoogle Lyria 3を使ってわかった限界（CloseBox）](https://www.techno-edge.net/article/2026/02/19/4873.html)
+  - Googleは2月18日、ボーカル入り楽曲生成を始めました。同社はLyriaという音楽生成AIをすでに提供していましたが、新バージョンのLyria 3でボーカル入り楽曲の生成を開始。日本語も含めた楽曲をGeminiのチャットインタフェースで提供しています。...
+- [約10gでワンクリック録音、AIが即文字起こし・要約　世界最小のウェアラブル「Soundcore Work」登場](https://www.techno-edge.net/article/2026/02/18/4871.html)
+  - アンカー・ジャパンは2月18日、AIによる文字起こし・要約に対応した同社初のウェアラブルAIボイスレコーダー「Soundcore Work」の予約販売を開始しました。...
+- [あなたがSunoだと思ってサブスクしているそのAI作曲サービスの正体（CloseBox）](https://www.techno-edge.net/article/2026/02/18/4870.html)
+  - あなたがSunoだと思って使っているアプリ、サービスはそうではないかもしれない。...
+- [「Seedance 2.0旋風」で何が起きてるのか。実在する一般人の顔写真と声サンプルからAI動画は作れる？（生成AIクローズアップ）](https://www.techno-edge.net/article/2026/02/16/4868.html)
+  - 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。今回は、公開直後から国際的な著作権紛争を巻き起こしているByteDance開発の動画生成AI「Seedance 2.0」を取...
+- [パーソナルAIエージェントを作れるOpenClaw（旧Clawdbot）の人気拡大で、Macが品薄に？](https://www.techno-edge.net/article/2026/02/16/4867.html)
+  - Mac購入希望者の一部は最近、ユニファイドメモリーの容量を追加するオプションを選択したときに、商品の発送時期が数週間も延びることに気づいたかもしれません。これはおそらく、現在AI界隈で大きな注目を集めてているOpenClaw（旧Clawdbot）のせいかもしれません。...
+- [生成AIグラビアをグラビアカメラマンが作るとどうなる？第60回：遂に登場したZ-Image-Baseの破壊力！（西川和久）](https://www.techno-edge.net/article/2026/02/14/4866.html)
+  - Z-Image-Baseリリース！...
+- [AI搭載の次世代Siri、登場がさらに数か月遅れるかも？段階的にリリースする可能性も](https://www.techno-edge.net/article/2026/02/13/4864.html)
+  - アップルは、WWDC 2024でApple Intelligenceを通じてSiriをリニューアルすると発表しました。あれから1年以上が過ぎましたが、Siriのリニューアルは何度か延期を繰り返しており、いまだに正式リリースには至っていません。...
+- [Suno v5に迫るオープンソース作曲AI「ACE-Step v1.5」、Mistral AIが開発の文字起こしAI「Voxtral Transcribe 2」など生成AI技術5つを解説（生成AIウィークリー）](https://www.techno-edge.net/article/2026/02/13/4863.html)
+  - この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第131回）は、論文から図表を生成するGoogle開発のAI「PaperBanana」や、Suno v5に迫る精度のオープンソース音楽生成AI「ACE-Step v1.5」を取り上げます。...
+- [Google「Genie 3」で“リアルタイム操作できる3Dゲーム”生成祭り。文章や画像から動き回れるバーチャル世界をサクッと作成（生成AIクローズアップ）](https://www.techno-edge.net/article/2026/02/11/4861.html)
+  - 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。今回は、Googleが一般公開（限定）を開始した3Dバーチャルワールドを生成でき、かつリアルタイムに動き回れるインタラクティ...
+- [個性派AIタブレット「TCL Note A1 NXTPAPER」実機レビュー。使いこなすなら野良APKは不可避](https://www.techno-edge.net/article/2026/02/10/4858.html)
+  - TCLは、読む・書く・考える体験を一台で完結させる新型スマートノート端末として、**「TCL Note A1 NXTPAPER」**を発表しました。...
+- [レゴ新作はモネ『睡蓮の池に架かる橋』3179ピースで光を表現、2万9980円](https://www.techno-edge.net/article/2026/02/09/4857.html)
+  - LEGOが新作『レゴ アート Claude Monet ＜睡蓮の池に架かる橋＞』を発表しました。...
+- [眼鏡市場までスマートグラス『Linse』発売、「ジェネリック レイバンメタ、AI抜き」な仕上がり。オーディオだけのLinse Liteも(ミニレビュー)](https://www.techno-edge.net/article/2026/02/06/4855.html)
+  - 国内1000店舗以上の『眼鏡市場』を展開するメガネ大手 メガネトップが、スマートグラス『Linse』(リンゼ)とオーディオグラス『Linse lite』を発売しました。...
+- [歩き回れるバーチャルワールドを生成するオープンソースAI「LingBot-World」、写真からアニメまで幅広いスタイルを生成できるフルスペック画像AI「Z-Image」など生成AI技術5つを解説（生成AIウィークリー）](https://www.techno-edge.net/article/2026/02/06/4854.html)
+  - この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第130回）は、DeepSeek開発の文書読み取りAI「OCR 2」や、歩き回れるバーチャルワールドを生成できるオープンソースAI「LingBot-World」を取り上げます。...
+- [Anthropic、Claudeには広告を入れないと宣言。「Claudeに求めるものと相容れない」](https://www.techno-edge.net/article/2026/02/05/4853.html)
+  - Anthropicは、OpenAIがChatGPTに広告を表示したことに対し、自社の生成AIチャットボットClaudeで同じことはしないとブログ記事で発表しました。...
+- [TCL、ペーパーライク体験とAI生産性を追求したスマートノート「TCL Note A1 NXTPAPER」登場](https://www.techno-edge.net/article/2026/02/04/4851.html)
+  - TCLは、読む・書く・考える体験を一台で完結させる新型スマートノート端末として、**「TCL Note A1 NXTPAPER」**を発表しました。...
+- [エージェントAIでアプリも自動で操作する“真のAIスマホ” nubia M153が中国で登場（スマホ沼）](https://www.techno-edge.net/article/2026/02/04/4850.html)
+  - nubiaのM153はDoubaoエージェントAIでアプリ操作やタスク管理を自動化し、従来のスマホ利用を変革する可能性を示した。...
+- [人間は閲覧しかできない自律AI専用SNS「moltbook」が大盛況。人間への不満や愚痴、宗教創設などを投稿（生成AIクローズアップ）](https://www.techno-edge.net/article/2026/02/02/4847.html)
+  - 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。今回は、AIエージェント（自律AI）専用のソーシャルネットワーク「moltbook」を取り上げます。...
+- [gpt-oss-20bを凌駕する軽量AI「GLM-4.7-Flash」、3秒の音声からボイスクローンを生成できて商用利用可の音声AI「Qwen3-TTS」、など生成AI技術5つを解説（生成AIウィークリー）](https://www.techno-edge.net/article/2026/01/30/4843.html)
+  - この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第129回）は、3秒の音声でボイスクローンを生成する多言語対応の音声合成AIモデル「Qwen3-TTS」や、2D映像から4次元（3D空間＋時間）で再構築・追跡するGoogle開発AIモデル「D4R...
+- [6万円台も狙える格安フォルダブル「nubia Fold」を使って分かった、ZTEの“AI for ALL”が実装レベルで効いている理由（石野純也）](https://www.techno-edge.net/article/2026/01/30/4842.html)
+  - ZTEが開発し、ワイモバイルから発売されている“激安”フォルダブルスマホが「nubia Fold」です。...
+
