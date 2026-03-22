@@ -1,5 +1,4 @@
 numpy==1.26.4
 pandas==2.1.4
 feedparser==6.0.10
-anthropic>=0.40.0
 notion-client>=2.2.1
