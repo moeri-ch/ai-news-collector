@@ -1,14 +1,34 @@
 import os
 import glob
-import json
+import re
+from collections import Counter
 import pandas as pd
 from datetime import datetime
-import anthropic
 from notion_client import Client
 
 NOTION_TOKEN = os.environ["NOTION_TOKEN"]
-ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 NOTION_PAGE_ID = "32be8e3e-06bf-809d-9204-d39d545ebfa2"
+
+# AI・技術用語の解説辞書
+TECH_TERMS = {
+    "LLM": "LLM（Large Language Model）とは「大規模言語モデル」のことで、大量のテキストを学習したAIです。ChatGPTやClaudeなどがこれにあたります。",
+    "RAG": "RAG（Retrieval-Augmented Generation）とは、外部情報を検索しながら回答を生成するAIの手法です。最新情報や専門情報も扱えるようになります。",
+    "エージェント": "AIエージェントとは、指示に従って自律的にタスクを実行するAIです。検索・計算・ファイル操作などを組み合わせて複雑な作業をこなします。",
+    "ファインチューニング": "ファインチューニングとは、既存のAIモデルを特定用途向けに追加学習させることです。より専門的な分野に特化したAIを作れます。",
+    "マルチモーダル": "マルチモーダルとは、テキストだけでなく画像・音声・動画など複数形式の情報を扱えるAIのことです。",
+    "Transformer": "Transformerとは、現代AIの多くで使われている基本的な仕組みです。文章中の単語の関係性を効率よく学習できます。",
+    "トークン": "トークンとは、AIが文章を処理する際の最小単位です。AIの処理できる量（コンテキスト長）はトークン数で表されます。",
+    "プロンプト": "プロンプトとは、AIへの指示文のことです。書き方によってAIの回答の質が大きく変わります。",
+    "生成AI": "生成AIとは、テキスト・画像・音楽など新しいコンテンツを自動生成できるAIの総称です。",
+    "機械学習": "機械学習とは、データからパターンを学ぶAI技術です。明示的にプログラムしなくても、データを見て自動的に賢くなります。",
+    "深層学習": "深層学習（ディープラーニング）とは、脳の神経回路を模した仕組みで学習するAI技術です。画像認識や音声認識で特に優れた性能を発揮します。",
+    "Vertex AI": "Vertex AIはGoogle Cloudが提供するAI開発・運用プラットフォームです。企業がAIを業務に導入する際に使われます。",
+    "Gemini": "GeminiはGoogleが開発したAIモデルです。テキスト・画像・音声など複数形式を扱えます。",
+    "GPT": "GPT（Generative Pre-trained Transformer）はOpenAIが開発したAIモデルです。ChatGPTの基盤となっています。",
+    "Claude": "ClaudeはAnthropic社が開発したAIアシスタントです。安全性と有用性を重視して設計されています。",
+    "MCP": "MCP（Model Context Protocol）とは、AIと外部ツールをつなぐための標準的な仕組みです。AIがより多くのサービスと連携できるようになります。",
+    "コンテキスト": "コンテキスト（文脈）とは、AIが一度に処理できる情報の範囲のことです。長い会話や文書を扱うほど多くのコンテキストが必要になります。",
+}
 
 
 def load_latest_csv():
@@ -24,81 +44,70 @@ def load_latest_csv():
     return df
 
 
-def summarize_with_claude(df):
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-    sample_df = df.head(150)
+def find_most_picked_article(df):
+    """全タイトルのキーワード頻度から最も注目されている記事を選ぶ"""
+    stop_words = {
+        "の", "に", "は", "を", "が", "で", "と", "も", "や", "から", "まで",
+        "より", "へ", "について", "による", "ため", "こと", "もの", "など",
+        "a", "the", "in", "of", "to", "and", "for", "is", "on", "with", "at",
+        "by", "an", "as", "be", "this", "that", "are", "was", "were",
+    }
+    word_counts = Counter()
+    for title in df['title'].dropna():
+        words = re.findall(r'[A-Za-z0-9]+|[\u3040-\u9fff]{2,}', title)
+        for word in words:
+            if word.lower() not in stop_words and len(word) >= 2:
+                word_counts[word.lower()] += 1
 
-    articles_text = ""
-    for _, row in sample_df.iterrows():
-        articles_text += (
-            f"ソース: {row['source']}\n"
-            f"タイトル: {row['title']}\n"
-            f"URL: {row['link']}\n"
-            f"公開日: {row['published']}\n"
-            f"概要: {row.get('summary', '')}\n\n"
-        )
+    top_words = [w for w, _ in word_counts.most_common(15)]
 
-    prompt = f"""あなたはAI・テクノロジーニュースのキュレーターです。以下は今日収集されたAI・機械学習関連の記事一覧です。
+    best_score = -1
+    best_article = None
+    for _, row in df.iterrows():
+        title_lower = str(row['title']).lower()
+        score = sum(1 for w in top_words if w in title_lower)
+        if score > best_score:
+            best_score = score
+            best_article = row
 
-{articles_text}
+    return best_article if best_article is not None else df.iloc[0]
 
-以下の条件でJSONを生成してください:
-1. most_picked: 複数のソースで取り上げられているか、または特に重要性の高い記事を1つ選んでください
-2. latest_articles: 公開日（published）が最も新しい記事を3つ選んでください
 
-JSONフォーマット:
-{{
-  "most_picked": {{
-    "title": "記事タイトル（元のタイトルをそのまま使用）",
-    "summary": "記事の内容を2〜3文で要約。IT専門家でない読者向けに平易な言葉で。",
-    "url": "記事のURL",
-    "terms": "記事内の専門用語の解説（用語がある場合のみ）。不要な場合は空文字。"
-  }},
-  "latest_articles": [
-    {{
-      "title": "記事タイトル",
-      "summary": "記事の内容を2〜3文で要約。平易な言葉で。",
-      "url": "記事のURL",
-      "terms": "専門用語の解説（必要な場合のみ）"
-    }}
-  ]
-}}
+def get_latest_articles(df, n=3):
+    """公開日が新しい順に記事を取得"""
+    df_copy = df.copy()
+    df_copy['pub_date'] = pd.to_datetime(df_copy['published'], errors='coerce', utc=True)
+    df_valid = df_copy.dropna(subset=['pub_date']).sort_values('pub_date', ascending=False)
+    return df_valid.head(n)
 
-JSONのみ返してください。"""
 
-    message = client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=3000,
-        messages=[{"role": "user", "content": prompt}]
-    )
-
-    response_text = message.content[0].text.strip()
-    if "```" in response_text:
-        for part in response_text.split("```"):
-            part = part.strip().lstrip("json").strip()
-            if part.startswith("{"):
-                response_text = part
-                break
-
-    return json.loads(response_text)
+def find_terms(text):
+    """テキスト内の専門用語を検出して解説を返す（最大2つ）"""
+    found = []
+    for term, explanation in TECH_TERMS.items():
+        if term.lower() in str(text).lower() and explanation not in found:
+            found.append(explanation)
+        if len(found) >= 2:
+            break
+    return "\n".join(found)
 
 
 def make_text(content, bold=False, url=None):
-    obj = {"type": "text", "text": {"content": content}}
+    obj = {"type": "text", "text": {"content": str(content)}}
     if url:
-        obj["text"]["link"] = {"url": url}
+        obj["text"]["link"] = {"url": str(url)}
     if bold:
         obj["annotations"] = {"bold": True}
     return obj
 
 
-def append_to_notion(summary_data, date_str):
+def append_to_notion(df, date_str):
     notion = Client(auth=NOTION_TOKEN)
     dt = datetime.strptime(date_str, '%Y%m%d')
     date_display = dt.strftime('%Y年%m月%d日')
 
-    most_picked = summary_data["most_picked"]
-    latest_articles = summary_data["latest_articles"]
+    most_picked = find_most_picked_article(df)
+    latest_articles = get_latest_articles(df)
 
     blocks = [
         {"object": "block", "type": "divider", "divider": {}},
@@ -106,62 +115,66 @@ def append_to_notion(summary_data, date_str):
             "object": "block", "type": "heading_2",
             "heading_2": {"rich_text": [make_text(f"📅 {date_display}", bold=True)]}
         },
+        # --- 最も注目された記事 ---
         {
             "object": "block", "type": "heading_3",
             "heading_3": {"rich_text": [make_text("📰 最も注目された記事")]}
         },
         {
             "object": "block", "type": "paragraph",
-            "paragraph": {"rich_text": [make_text(most_picked["title"], bold=True)]}
+            "paragraph": {"rich_text": [make_text(most_picked['title'], bold=True)]}
         },
         {
             "object": "block", "type": "paragraph",
-            "paragraph": {"rich_text": [make_text(most_picked["summary"])]}
+            "paragraph": {"rich_text": [make_text(str(most_picked.get('summary', ''))[:400])]}
         },
         {
             "object": "block", "type": "paragraph",
             "paragraph": {"rich_text": [
                 make_text("出典: "),
-                make_text(most_picked["url"], url=most_picked["url"])
+                make_text(most_picked['link'], url=most_picked['link'])
             ]}
         },
     ]
 
-    if most_picked.get("terms"):
+    terms = find_terms(str(most_picked['title']) + " " + str(most_picked.get('summary', '')))
+    if terms:
         blocks.append({
             "object": "block", "type": "callout",
             "callout": {
-                "rich_text": [make_text("💡 用語解説\n" + most_picked["terms"])],
+                "rich_text": [make_text("💡 用語解説\n" + terms)],
                 "icon": {"type": "emoji", "emoji": "💡"}
             }
         })
 
+    # --- 最新記事トップ3 ---
     blocks.append({
         "object": "block", "type": "heading_3",
         "heading_3": {"rich_text": [make_text("🆕 最新記事トップ3")]}
     })
 
-    for i, article in enumerate(latest_articles[:3], 1):
+    for i, (_, article) in enumerate(latest_articles.iterrows(), 1):
         blocks.append({
             "object": "block", "type": "paragraph",
             "paragraph": {"rich_text": [make_text(f"{i}. {article['title']}", bold=True)]}
         })
         blocks.append({
             "object": "block", "type": "paragraph",
-            "paragraph": {"rich_text": [make_text(article["summary"])]}
+            "paragraph": {"rich_text": [make_text(str(article.get('summary', ''))[:400])]}
         })
         blocks.append({
             "object": "block", "type": "paragraph",
             "paragraph": {"rich_text": [
                 make_text("出典: "),
-                make_text(article["url"], url=article["url"])
+                make_text(article['link'], url=article['link'])
             ]}
         })
-        if article.get("terms"):
+        terms = find_terms(str(article['title']) + " " + str(article.get('summary', '')))
+        if terms:
             blocks.append({
                 "object": "block", "type": "callout",
                 "callout": {
-                    "rich_text": [make_text("💡 用語解説\n" + article["terms"])],
+                    "rich_text": [make_text("💡 用語解説\n" + terms)],
                     "icon": {"type": "emoji", "emoji": "💡"}
                 }
             })
@@ -173,10 +186,8 @@ def append_to_notion(summary_data, date_str):
 def main():
     today = datetime.now().strftime('%Y%m%d')
     df = load_latest_csv()
-    print("Claude APIで要約を生成中...")
-    summary_data = summarize_with_claude(df)
     print("Notionに投稿中...")
-    append_to_notion(summary_data, today)
+    append_to_notion(df, today)
 
 
 if __name__ == "__main__":
