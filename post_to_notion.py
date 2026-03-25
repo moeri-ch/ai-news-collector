@@ -8,27 +8,7 @@ from notion_client import Client
 
 NOTION_TOKEN = os.environ["NOTION_TOKEN"]
 NOTION_PAGE_ID = "32be8e3e-06bf-809d-9204-d39d545ebfa2"
-
-# AI・技術用語の解説辞書
-TECH_TERMS = {
-    "LLM": "LLM（Large Language Model）とは「大規模言語モデル」のことで、大量のテキストを学習したAIです。ChatGPTやClaudeなどがこれにあたります。",
-    "RAG": "RAG（Retrieval-Augmented Generation）とは、外部情報を検索しながら回答を生成するAIの手法です。最新情報や専門情報も扱えるようになります。",
-    "エージェント": "AIエージェントとは、指示に従って自律的にタスクを実行するAIです。検索・計算・ファイル操作などを組み合わせて複雑な作業をこなします。",
-    "ファインチューニング": "ファインチューニングとは、既存のAIモデルを特定用途向けに追加学習させることです。より専門的な分野に特化したAIを作れます。",
-    "マルチモーダル": "マルチモーダルとは、テキストだけでなく画像・音声・動画など複数形式の情報を扱えるAIのことです。",
-    "Transformer": "Transformerとは、現代AIの多くで使われている基本的な仕組みです。文章中の単語の関係性を効率よく学習できます。",
-    "トークン": "トークンとは、AIが文章を処理する際の最小単位です。AIの処理できる量（コンテキスト長）はトークン数で表されます。",
-    "プロンプト": "プロンプトとは、AIへの指示文のことです。書き方によってAIの回答の質が大きく変わります。",
-    "生成AI": "生成AIとは、テキスト・画像・音楽など新しいコンテンツを自動生成できるAIの総称です。",
-    "機械学習": "機械学習とは、データからパターンを学ぶAI技術です。明示的にプログラムしなくても、データを見て自動的に賢くなります。",
-    "深層学習": "深層学習（ディープラーニング）とは、脳の神経回路を模した仕組みで学習するAI技術です。画像認識や音声認識で特に優れた性能を発揮します。",
-    "Vertex AI": "Vertex AIはGoogle Cloudが提供するAI開発・運用プラットフォームです。企業がAIを業務に導入する際に使われます。",
-    "Gemini": "GeminiはGoogleが開発したAIモデルです。テキスト・画像・音声など複数形式を扱えます。",
-    "GPT": "GPT（Generative Pre-trained Transformer）はOpenAIが開発したAIモデルです。ChatGPTの基盤となっています。",
-    "Claude": "ClaudeはAnthropic社が開発したAIアシスタントです。安全性と有用性を重視して設計されています。",
-    "MCP": "MCP（Model Context Protocol）とは、AIと外部ツールをつなぐための標準的な仕組みです。AIがより多くのサービスと連携できるようになります。",
-    "コンテキスト": "コンテキスト（文脈）とは、AIが一度に処理できる情報の範囲のことです。長い会話や文書を扱うほど多くのコンテキストが必要になります。",
-}
+SENTINEL_TEXT = "📌 最新の情報が上に追加されます"
 
 
 def load_latest_csv():
@@ -45,7 +25,7 @@ def load_latest_csv():
 
 
 def find_most_picked_article(df):
-    """全タイトルのキーワード頻度から最も注目されている記事を選ぶ"""
+    """全タイトルのキーワード頻度から最も注目されている記事を選ぶ。スコアとトップキーワードも返す。"""
     stop_words = {
         "の", "に", "は", "を", "が", "で", "と", "も", "や", "から", "まで",
         "より", "へ", "について", "による", "ため", "こと", "もの", "など",
@@ -53,24 +33,34 @@ def find_most_picked_article(df):
         "by", "an", "as", "be", "this", "that", "are", "was", "were",
     }
     word_counts = Counter()
+    word_original_case = {}
     for title in df['title'].dropna():
         words = re.findall(r'[A-Za-z0-9]+|[\u3040-\u9fff]{2,}', title)
         for word in words:
             if word.lower() not in stop_words and len(word) >= 2:
                 word_counts[word.lower()] += 1
+                if word.lower() not in word_original_case:
+                    word_original_case[word.lower()] = word
 
     top_words = [w for w, _ in word_counts.most_common(15)]
 
     best_score = -1
     best_article = None
+    best_keywords = []
     for _, row in df.iterrows():
         title_lower = str(row['title']).lower()
-        score = sum(1 for w in top_words if w in title_lower)
+        matched = [w for w in top_words if w in title_lower]
+        score = len(matched)
         if score > best_score:
             best_score = score
             best_article = row
+            best_keywords = matched
 
-    return best_article if best_article is not None else df.iloc[0]
+    keyword_info = [
+        (word_original_case.get(kw, kw), word_counts[kw])
+        for kw in best_keywords[:5]
+    ]
+    return (best_article if best_article is not None else df.iloc[0]), best_score, keyword_info
 
 
 def get_latest_articles(df, n=3):
@@ -79,17 +69,6 @@ def get_latest_articles(df, n=3):
     df_copy['pub_date'] = pd.to_datetime(df_copy['published'], errors='coerce', utc=True)
     df_valid = df_copy.dropna(subset=['pub_date']).sort_values('pub_date', ascending=False)
     return df_valid.head(n)
-
-
-def find_terms(text):
-    """テキスト内の専門用語を検出して解説を返す（最大2つ）"""
-    found = []
-    for term, explanation in TECH_TERMS.items():
-        if term.lower() in str(text).lower() and explanation not in found:
-            found.append(explanation)
-        if len(found) >= 2:
-            break
-    return "\n".join(found)
 
 
 def make_text(content, bold=False, url=None):
@@ -101,13 +80,48 @@ def make_text(content, bold=False, url=None):
     return obj
 
 
+def get_sentinel_block_id(notion, page_id):
+    """ページ先頭のセンチネルブロックIDを取得または作成する。
+    センチネルの直後に新しいコンテンツを挿入することで常に最上部への追加を実現する。
+    """
+    response = notion.blocks.children.list(block_id=page_id, page_size=10)
+    blocks = response.get("results", [])
+
+    for block in blocks:
+        if block.get("type") == "callout":
+            rich_texts = block["callout"].get("rich_text", [])
+            if rich_texts and SENTINEL_TEXT in rich_texts[0]["text"]["content"]:
+                return block["id"]
+
+    # 存在しない場合は作成（初回のみ）
+    result = notion.blocks.children.append(
+        block_id=page_id,
+        children=[{
+            "object": "block",
+            "type": "callout",
+            "callout": {
+                "rich_text": [{"type": "text", "text": {"content": SENTINEL_TEXT}}],
+                "icon": {"type": "emoji", "emoji": "📌"},
+                "color": "gray_background"
+            }
+        }]
+    )
+    sentinel_id = result["results"][0]["id"]
+    print(f"Sentinelブロックを作成しました: {sentinel_id}")
+    return sentinel_id
+
+
 def append_to_notion(df, date_str):
     notion = Client(auth=NOTION_TOKEN)
     dt = datetime.strptime(date_str, '%Y%m%d')
     date_display = dt.strftime('%Y年%m月%d日')
 
-    most_picked = find_most_picked_article(df)
+    most_picked, score, keyword_info = find_most_picked_article(df)
     latest_articles = get_latest_articles(df)
+
+    kw_text = "　".join([f"{kw}（{count}件）" for kw, count in keyword_info])
+
+    sentinel_id = get_sentinel_block_id(notion, NOTION_PAGE_ID)
 
     blocks = [
         {"object": "block", "type": "divider", "divider": {}},
@@ -115,10 +129,9 @@ def append_to_notion(df, date_str):
             "object": "block", "type": "heading_2",
             "heading_2": {"rich_text": [make_text(f"📅 {date_display}", bold=True)]}
         },
-        # --- 最も注目された記事 ---
         {
             "object": "block", "type": "heading_3",
-            "heading_3": {"rich_text": [make_text("📰 最も注目された記事")]}
+            "heading_3": {"rich_text": [make_text(f"📰 最も注目された記事（スコア: {score} | {kw_text}）")]}
         },
         {
             "object": "block", "type": "paragraph",
@@ -135,23 +148,11 @@ def append_to_notion(df, date_str):
                 make_text(most_picked['link'], url=most_picked['link'])
             ]}
         },
+        {
+            "object": "block", "type": "heading_3",
+            "heading_3": {"rich_text": [make_text("🆕 最新記事トップ3")]}
+        },
     ]
-
-    terms = find_terms(str(most_picked['title']) + " " + str(most_picked.get('summary', '')))
-    if terms:
-        blocks.append({
-            "object": "block", "type": "callout",
-            "callout": {
-                "rich_text": [make_text("💡 用語解説\n" + terms)],
-                "icon": {"type": "emoji", "emoji": "💡"}
-            }
-        })
-
-    # --- 最新記事トップ3 ---
-    blocks.append({
-        "object": "block", "type": "heading_3",
-        "heading_3": {"rich_text": [make_text("🆕 最新記事トップ3")]}
-    })
 
     for i, (_, article) in enumerate(latest_articles.iterrows(), 1):
         blocks.append({
@@ -169,17 +170,13 @@ def append_to_notion(df, date_str):
                 make_text(article['link'], url=article['link'])
             ]}
         })
-        terms = find_terms(str(article['title']) + " " + str(article.get('summary', '')))
-        if terms:
-            blocks.append({
-                "object": "block", "type": "callout",
-                "callout": {
-                    "rich_text": [make_text("💡 用語解説\n" + terms)],
-                    "icon": {"type": "emoji", "emoji": "💡"}
-                }
-            })
 
-    notion.blocks.children.append(block_id=NOTION_PAGE_ID, children=blocks)
+    # センチネルブロックの直後に挿入 → 常にページ最上部に追加される
+    notion.blocks.children.append(
+        block_id=NOTION_PAGE_ID,
+        children=blocks,
+        after=sentinel_id
+    )
     print(f"✅ Notionへの投稿完了: {date_display}")
 
 
