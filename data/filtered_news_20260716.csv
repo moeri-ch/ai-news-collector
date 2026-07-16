@@ -1,0 +1,936 @@
+id,source,title,link,published,summary,collected_date
+acf8990ba0b9260d7234cae503ee6426,Business_Insider,グーグル・ディープマインドの研究者が国防総省とのAI軍事契約をめぐり辞職。「良心に従うと、留まることができなかった」,https://www.businessinsider.jp/article/202607-google-deepmind-ai-pentagon-contract/,"Thu, 16 Jul 2026 22:30:00 GMT",グーグル・ディープマインド（Google DeepMind）の研究科学者であるアレックス・ターナーは、国防総省との協業について、グーグル幹部たちの考えを変えようと試みたと述べました。,2026-07-16
+0b364206b40234b30775f407b5af8c39,Business_Insider,エヌビディアでさえもAIチップ不足が深刻化。ジェンスン・フアン自身がチップをめぐる社内調整に介入,https://www.businessinsider.jp/article/202607-nvidia-chip-ai-resource-automotive/,"Thu, 16 Jul 2026 22:00:00 GMT",エヌビディアの自動車部門トップによると、需要が供給を上回り続ける中、社内チームはコンピューティングパワー（計算リソース）をめぐって毎週のように競い合っているという。,2026-07-16
+b37d365c8720a2ab25678ec86eb35e77,Business_Insider,マッキンゼーの同僚4人で起業、「特許訴訟AI」スタートアップが1050万ドル調達したピッチデッキ公開,https://www.businessinsider.jp/article/2607stilta-ai-patent-law-legal-ai-seed-round-pitch-deck/,"Thu, 16 Jul 2026 21:50:00 GMT",マッキンゼーを退職した同僚4人が、特許法向けAIツールを開発するため起業しました。アンドリーセン・ホロウィッツなどから資金調達したピッチデッキをご覧ください。,2026-07-16
+82aef43eaf339cc3639d0f69a97f7ea4,Business_Insider,ジェンスン・フアンCEO「企業も国家も知能を外注すべきではない」NVIDIAが富士通と描く日本製AIの条件,https://www.businessinsider.jp/article/2607-nvidia-fujitsu-sovereign-ai-japan/,"Thu, 16 Jul 2026 21:45:00 GMT",富士通はエヌビディアなどと、ロボットと業務システムをつなぐフィジカルAI基盤の構築に乗り出します。海外技術を活用しながら、日本企業がデータや知能を自らの競争力として残せるかが焦点です。,2026-07-16
+68ace88bfa2ff4b8968f8842a316d89b,Business_Insider,グーグル・ディープマインドCEO、「AGI到来は数年後」と警鐘。アメリカ主導のAI管理機関を提唱,https://www.businessinsider.jp/article/202607-deepmind-google-agi/,"Thu, 16 Jul 2026 21:40:00 GMT",グーグル・ディープマインドのデミス・ハサビス氏は、AGI（汎用人工知能）の到来が世界に与える影響の大きさを強調し、AI開発を主導・管理するためのアメリカ主導の連合体の設立を提唱しました。,2026-07-16
+594f48ff5e62bafcb7aaf91622aa00cc,Business_Insider,マイクロソフトのナデラCEO、アンソロピックなどのAIモデル「蒸留」制限を批判した理由,https://www.businessinsider.jp/article/2607-microsoft-ceo-satya-nadella-swipe-ai-model-makers-distillation/,"Thu, 16 Jul 2026 21:35:00 GMT",マイクロソフトのサティア・ナデラCEOは、モデル開発者が蒸留について不満を言うのは偽善的だと述べました。,2026-07-16
+07789712fe0710a21682f20d11df49a9,Business_Insider,AIブームが招く物価高、最大の打撃はアメリカに…ゴールドマン・サックスが警告,https://www.businessinsider.jp/article/2607-us-inflation-outlook-economy-ai-memory-software-prices-goldman-sachs/,"Thu, 16 Jul 2026 21:00:00 GMT",ゴールドマン・サックスは、AIによってアメリカのコアインフレ率が2026年末までに約0.5ポイント押し上げられると試算しています。これは、他の国で予想される影響の5倍にあたります。,2026-07-16
+43e6bbd7a49354ba33f0631e17372536,Business_Insider,「スマホへのデータ転送」という無駄をゼロに。録音から要約まで「一気通貫」の最新AIレコーダー,https://www.businessinsider.jp/article/2607-gizmart-oxtak-concept/,"Thu, 16 Jul 2026 08:00:00 GMT",録音から文字起こし、要約までスマホ転送不要で自動完結するAIレコーダー「Oxtak」。まるで有能な秘書のように働く、次世代デバイスの魅力をご紹介します。,2026-07-16
+bfc8d7851bdd9ef0ccd93892f1665c83,Business_Insider,「AI失業」を恐れるのは誰か。AIに仕事を任せる人ほど、将来に楽観的だった【アンソロピック調査】,https://www.businessinsider.jp/article/2607-anthropic-survey-ai-job-optimism/,"Thu, 16 Jul 2026 05:30:00 GMT",アンソロピックがClaudeユーザー約9700人を分析したところ、AIによる仕事の代替を予想する人は多い一方、AIを積極的に使う人ほどキャリアの将来を前向きに捉えていました。,2026-07-16
+bc9a552357be7c132288afbc117f44b3,ITmedia_AI_Plus,Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化,https://www.itmedia.co.jp/news/articles/2607/17/news062.html,"Fri, 17 Jul 2026 08:21:00 +0900",Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。,2026-07-16
+e846439eef80f64f0b94fd70f05b0da6,ITmedia_AI_Plus,これからのロボットは「買ったときが一番性能低い」？　ソフトバンクと安川電機「フィジカルAI」学習工程の効率化を実証,https://www.itmedia.co.jp/aiplus/article/2607/17/2000000196/,"Fri, 17 Jul 2026 08:00:00 +0900",「SoftBank World 2026」でソフトバンクと安川電機がフィジカルAI協業の成果を披露した。ソフトバンクの湧川隆次CTOは、強化学習によって使うほど性能が向上するロボットへの転換を「大きなパラダイムシフト」と表現した。,2026-07-16
+b4788a7cb397a36b0c6b21c83aa4dc0d,ITmedia_AI_Plus,強気値上げで自爆か　ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap,https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html,"Fri, 17 Jul 2026 07:00:00 +0900",「ChatGPT」だけでなく、「Claude」や「Gemini」も支持を広げる生成AI市場。だが、Microsoft 365の法人ユーザーは約4億5000万人いるものの、有料版「Microsoft 365 Copilot」を契約している割合は4.5％未満にとどまるという。,2026-07-16
+56387592776693e3aa7b3d6a2304e928,ITmedia_AI_Plus,Google検索の「AIモード」、検索結果からそのままアプリで作業可能に　CanvaやYouTube Musicなど,https://www.itmedia.co.jp/news/articles/2607/17/news061.html,"Fri, 17 Jul 2026 06:51:00 +0900",Googleは、検索の「AIモード」で外部アプリと直接連携できる機能の提供を開始した。まずは米国で順次展開し、Canva、YouTube Music、Instacartに対応する。検索結果から離れずにデザイン作成やカート追加などのタスクを完了できる。「Personal Intelligence」と組み合わせ、パーソナライズされた回答を提示する。,2026-07-16
+b4ab1d63d7845a9c218cb9224cd673e2,ITmedia_AI_Plus,日本再起の旗印となるか、国産マルチモーダルAI基盤「FRONTia」が始動,https://monoist.itmedia.co.jp/mn/articles/2607/17/news059.html,"Fri, 17 Jul 2026 06:45:00 +0900",経済産業省とNEDOは、AIロボットやフィジカルAIに用いられる国産マルチモーダル基盤モデル「FRONTia（フロンティア）」の開発プロジェクトの本格始動に合わせて、東京都内で「我が国のフィジカルAI政策に関する対外発信イベント」を開催した。,2026-07-16
+941bbb12402e271a079b79682724d6c7,ITmedia_AI_Plus,「現場で使えるAIへ」、富士通が進める次世代CPUと自律型AIエージェント戦略,https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html,"Fri, 17 Jul 2026 06:30:00 +0900",富士通は自社イベント「Fujitsu Experience Day 2026」で、次世代CPUの「FUJITSU-MONAKA」をはじめ、AIチームを自律生成する技術や、実店舗で検証する店長業務支援AIなど企業変革を支援する最新AIソリューションを公開した。,2026-07-16
+e0d56d06617a5b957e5aa8eb824ab226,ITmedia_AI_Plus,フアンCEO「ジャパンAI構築はマストだ」　経産省、国産フィジカルAIで新プロジェクト　赤沢大臣も“革ジャン”羽織る,https://www.itmedia.co.jp/news/articles/2607/16/news107.html,"Thu, 16 Jul 2026 23:00:00 +0900",経済産業省が、国産フィジカルAI向け基盤モデルを構築する「FRONTia Project」をスタートさせた。国内44社が共同出資するAI開発企業Noetraと産総研を中心とし、2030年での「実世界ネイティブAI」実現を目指す。16日に開催されたキックオフイベントでは、NVIDIAのジェンスン・フアンCEOのほか、革ジャン姿で現れた赤沢経産大臣の姿があった。,2026-07-16
+4b65d7db06e6e0d7f0083f21996a836e,ITmedia_AI_Plus,富士通、国内ロボット大手3社と「フィジカルAI」で協業　NVIDIAの技術活用,https://www.itmedia.co.jp/aiplus/article/2607/16/2000000203/,"Thu, 16 Jul 2026 19:43:39 +0900",富士通は、AIが自律的に考え、ロボットの体を動かす「フィジカルAI」の開発に関し、川崎重工業とファナック、安川電機の各社と協業すると発表した。米NVIDIAの技術を活用し、ロボットを協調的に制御するための基盤を開発する。,2026-07-16
+3e93245099a8d9cba13ed46e8116f6a0,ITmedia_AI_Plus,大手共同出資の“国産AI開発企業”が本格始動　NVIDIAも協力、「Rubin」2万7500基搭載の計算基盤を構築へ,https://www.itmedia.co.jp/news/articles/2607/16/news101.html,"Thu, 16 Jul 2026 19:07:00 +0900",国内大手が共同出資するAI開発企業Noetraが、国産のAIモデルの開発に向けて本格始動する。米NVIDIAの協力のもと、新たな計算基盤も構築する。,2026-07-16
+622a9c42e21aa2ef5469a23f39cfcc98,ITmedia_AI_Plus,トンカツ食べながら語った――NVIDIA、富士通、安川電機ら“フィジカルAI連合”誕生、発表直前の裏話,https://www.itmedia.co.jp/business/articles/2607/16/news090.html,"Thu, 16 Jul 2026 17:15:00 +0900",富士通、ファナック、安川電機、川崎重工業とNVIDIAによる“フィジカルAI連合”が誕生した。5社のトップは、記者説明会の直前には「トンカツ」を食べながら語り合ったという。その一幕を富士通の時田社長が明かした。,2026-07-16
+a21573c280d0ba42d8e218965c3c2a48,ITmedia_AI_Plus,「Claude」利用制限を全リセット　CodexとChatGPT Workも　“リセット合戦”再び,https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/,"Thu, 16 Jul 2026 15:15:24 +0900",米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限をリセットしたと発表した。一方、米OpenAIもデスクトップPC向けAIサービス「ChatGPT Work」およびAIコーディングツール「Codex」の週次利用制限をリセットすると発表し、“リセット合戦”の様相を呈している。,2026-07-16
+edbc210353ca4b846d9e3600d7988341,ITmedia_AI_Plus,「Gemini Spark」日本でもリリース、まずUltraから　24時間働く“パーソナルAIエージェント”,https://www.itmedia.co.jp/aiplus/article/2607/16/2000000200/,"Thu, 16 Jul 2026 13:53:43 +0900",同社の幹部は、「Pro」（月額2900円）ユーザーにアクセスを拡大する可能性も示唆している。,2026-07-16
+9f7d6a73328301c9b9c8aa1d79e24fae,ITmedia_AI_Plus,「AIと壁打ちはもう古い」　業務タスクを任せる「Claude Cowork」の落とし穴,https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news046.html,"Thu, 16 Jul 2026 13:00:00 +0900",Anthropicは、PC上の業務タスクを任せられる「Claude Cowork」の活用法を公開した。チャットやClaude Codeとの使い分けや、どんなタスクを任せればよいかを解説している。,2026-07-16
+6bd721d9fac83a9bbd568bb7a680fa0f,ITmedia_AI_Plus,OpenAI、自動レッドチームAI「GPT-Red」発表──人間の攻撃成功率13％に対し84％,https://www.itmedia.co.jp/aiplus/article/2607/16/2000000199/,"Thu, 16 Jul 2026 12:10:19 +0900",OpenAIは、自社モデルの脆弱性を自動で発見するレッドチーミングモデル「GPT-Red」を発表した。自己対戦型の強化学習を採用し、攻撃側と防御側を同時に訓練して安全性を高める。検証では未知のシナリオでも人間のレッドチーマーを大きく上回る攻撃成功率を示した。この成果を反映した最新の「GPT-5.6 Sol」では、プロンプトインジェクションへの耐性が大幅に向上している。,2026-07-16
+0cb153cb1d130f241e5d8397aabd510e,ITmedia_AI_Plus,Thinking Machines、初のAIモデル「Inkling」公開──オープンウェイトで「自分のものにできる」基盤モデル,https://www.itmedia.co.jp/aiplus/article/2607/16/2000000197/,"Thu, 16 Jul 2026 09:47:00 +0900",ミラ・ムラティ氏率いるThinking Machines Labが、同社初のAIモデル「Inkling」を発表した。テキスト・画像・音声対応のMoE型オープンウェイトモデルで、Hugging Faceで全ウェイトを公開。「最強のモデルではない」とした上で、同社のファインチューニング基盤「Tinker」でのカスタマイズに適した基盤モデルと位置付ける。軽量版「Inkling-Small」のプレビューも...,2026-07-16
+e5a51419d41ba94ea23d9fb6b501a413,ITmedia_AI_Plus,NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も,https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html,"Thu, 16 Jul 2026 08:00:00 +0900",NVIDIAは、組み込みAIボード「Jetsonシリーズ」の最新製品である「NVIDIA Jetson AGX Thor」の新たな量産モジュールとして、消費電力や搭載メモリ容量などを抑えた「Jetson T3000」と「Jetson T2000」を追加すると発表した。,2026-07-16
+572f251caa777b729bbcc320f861a71a,ITmedia_AI_Plus,OpenAI、初のハードウェア「Codex Micro」を230ドルで発売　Apple提訴の渦中にある端末とは別物,https://www.itmedia.co.jp/news/articles/2607/16/news055.html,"Thu, 16 Jul 2026 07:26:00 +0900",OpenAIは、コーディング支援AI「Codex」向けの専用キーパッド「Codex Micro」を発売した。キーボードメーカーのWork Louderと共同開発した同社初のハードウェア製品で、価格は230ドル。なお、Appleによる営業秘密不正取得訴訟の渦中にある、開発中のAIデバイスとは別物だ。,2026-07-16
+f9c26ae36b4afb6418c05e22fbdd5b69,ITmedia_AI_Plus,Claude、NotebookLM、Genspark……238社が選んだ「現場が支持する」AIサービス,https://kn.itmedia.co.jp/kn/articles/2607/16/news023.html,"Thu, 16 Jul 2026 07:00:00 +0900",IT製品・サービスの選定から導入まで、企業はどのような視点で判断しているのか。238件の読者アンケートの回答から、製品選びの基準や導入時の課題、注目を集めるサービスの傾向を探る。,2026-07-16
+89f28439aff32ef4f261169899cb6df6,ITmedia_AI_Plus,Anthropicと組んだNEC　それでも森田社長が「4つの主権」にこだわる真意,https://www.itmedia.co.jp/business/articles/2607/16/news025.html,"Thu, 16 Jul 2026 07:00:00 +0900",米Anthropicとわずか3週間で電撃提携し、日本企業初のパートナーとなったNEC。最新AI「Mythos」が誇るバグ発見能力を巡り、サイバー悪用のリスクへ各国の懸念が高まる中、いかにして「実装」の壁を越え、自らを守るのか。森田隆之社長が語る「4つの主権（ソブリン）」の真意と、AI時代の防衛線と世界戦略の核心を明かす。,2026-07-16
+d63f6e90a661224da36dac7a13c005e3,ITmedia_AI_Plus,ゼロから分かる「Claude」の教科書　ChatGPTと比べて分かった強みとは？,https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html,"Wed, 15 Jul 2026 18:30:00 +0900",「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解説する。,2026-07-16
+7162b7c90350ec474a67237986ef207b,Hatena_IT,Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法,https://zenn.dev/sonicmoov/articles/8712598f532b18,,はじめに 株式会社ソニックムーブでフロントエンドエンジニアとして働いているShoppingSharkです。 ソニックムーブに入社して業務でAIを使い始めて3ヶ月ほど経ちました。昨今はループエンジニアリングが話題ですが、個人ではまだそのレイヤーまで進めておらず、日々の業務はバイブコーディングで回しています。 この記事...,2026-07-16
+f7ad4dca31353ce113a9ee5ba8b2f20f,Hatena_IT,「金属有機構造体(MOF)」の開発でノーベル化学賞を受賞した科学者がアメリカを離れ中国の研究所所長に就任,https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/,,「金属有機構造体(Metal-Organic Frameworks、MOF)」を開発した功績で、2025年にノーベル化学賞を北川進氏やリチャード・ロブソン氏とともに受賞したオマー・ヤギー氏がアメリカを離れ、中国のAI材料研究所の所長に就任することが明らかになりました。この動きは、ドナルド・トランプ大統領による科学予算の削減と、中国...,2026-07-16
+41618ccece3a606e44401f70458bf535,Hatena_IT,Prompting guidance for GPT-5.6 Sol | OpenAI API,https://developers.openai.com/api/docs/guides/prompt-guidance-gpt-5p6,,Example workflows and tasks teams can take on with ChatGPT or Codex,2026-07-16
+39aad4c28e6390ae06e78f4c7d7221a2,Hatena_IT,0から始めるローカルAIエージェント（Win11 + Docker + LM Studio + Hermes Agent） - Qiita,https://qiita.com/pocokhc/items/eef04a3d6104c0ee03db,,はじめに LLMの進化がすごくてついていくだけで大変ですね。 最近は、ある程度まとまった仕事をする自律型AIエージェントが注目されるようになりました。 それをローカルで試してみたいなと思っていたところ Hermes Agent や OpenClaw という名前を見かけたので気になって使ってみました。 この記事はその備忘録です。 0...,2026-07-16
+475dbec996f0d19e9d11f0d80fac09af,Hatena_IT,Firefoxをブラウザのタブ内で丸ごと動かす「Firefox in WebAssembly」が登場、開発におけるAIコストは合計400万円以上に相当,https://gigazine.net/news/20260716-firefox-in-webassembly/,,ウェブブラウザのタブ内でMozilla Firefoxを丸ごと起動できる「Firefox in WebAssembly」をPuter Labsが公開しました。外観だけを再現したFirefox風の画面ではなく、ウェブページを描画するGeckoやJavaScriptを実行するSpiderMonkeyまでWebAssemblyとして動作します。開発にはAIが大量に使われ、開発に費やしたトークン...,2026-07-16
+d3e03c6461ee85041edc415b5c781b92,Hatena_IT,Googleの24時間稼働AIエージェント「Gemini Spark」が日本語で利用可能に,https://gigazine.net/news/20260716-gemini-spark-japanese/,,GoogleがAIエージェント「Gemini Spark」の日本語での展開を2026年7月16日に開始しました。Gemini Sparkは個人最適化された24時間稼働のAIエージェントで、自然言語での対話で各種タスクを実行させることができます。 待望のパーソナル AI エージェント Gemini Spark が本日より日本語で展開開始🚀 情報収集やデータ整理...,2026-07-16
+f6d713dcaeb20a1059b0b2a81d7bef4e,Hatena_IT,GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。,https://github.com/interfacex-co-jp/genshijin,,You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa...,2026-07-16
+35273247623d855bb79d131cee320518,Hatena_IT,約1兆パラメーターで画像・音声の理解やコーディングに対応、用途別に調整できるオープンウェイトAIモデル「Inkling」登場,https://gigazine.net/news/20260716-inkling/,,AI企業のThinking Machines Labが、用途に合わせた追加学習を重視する新たなAIモデル「Inkling」を発表しました。モデルの重みが公開されるオープンウェイトモデルで、文章だけでなく画像や音声も扱えるほか、思考に使う計算量の調整も可能とのことです。 Inkling: Our open-weights model - Thinking Machines Lab http...,2026-07-16
+f5e90b2b336488b11450119cdc1e1577,Hatena_IT,グーグルにまた訴訟、「Gemini」の著作権侵害で　大手出版社らが「無断利用」に怒り,https://japan.cnet.com/article/35250597/,,Googleに対し、出版社や作家らが新たな訴訟を提起した。原告は、Googleが出版社との提携関係を悪用して「膨大な数の著作物を臆面もなく複製」し、AIの学習に利用したと主張している。 出版社のHachette Book Group、Cengage、Elsevier、そして作家のScott Turow氏は米国時間7月10日、ニューヨーク南部地区連邦地方裁判所...,2026-07-16
+6d132d4a03ae37b87ab99d0b3754242a,Hatena_IT,AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った,https://zenn.dev/pepabo/articles/74653f4d78eb7b,,まずは結論から AIにUIを作らせる前に、フォント、余白、角丸、影、色の土台を自分で決められるツールを作りました。 このサイトです。一旦試してみてください! 作った理由 AIでUIを作るのが当たり前になってきて、v0、Base44、Google Stitchなど、AIプロンプトベースのページ生成サービスもどんどん増えています。最近...,2026-07-16
+3d30aa10e36a42fe2ee425ada466a902,Hatena_IT,AIで声優の声再現し別人の曲を歌唱「侵害に当たりうる」　無断利用めぐり法務省が「声も保護対象」と指針案 | NEWSjp,https://news.jp/i/1449343202717745669?c=62479058578587648?c=62479058578587648,,生成AIによる著名人の声などの無断利用を巡り、法務省は「声も保護対象」とする指針案を示しました。 生成AIの普及に伴い、著名人の画像や声が勝手に使われるトラブルが深刻化していることを受け、法務省の検討会は声優らへのヒアリングを重ねて議論を進めてきました。 13日に示された指針案では、これまで明確な定義が...,2026-07-16
+dbdb8bdf99c909687775fecea7d18707,Hatena_IT,NVIDIAのジェンスン・フアン氏が秋葉原でセガに賛辞　これは巨大テック企業のトップによる社交辞令ではなく、セガのゲームに脳を焼かれたゲーマーの叫びだ (1/2),https://ascii.jp/elem/000/004/420/4420031/,,NVIDIAを「謎の半導体企業」と表現する人は流石にもういないだろう。少し前はPCグラフィックス、今はAI業界を牽引するビッグテック企業である。そんなNVIDIAも創業期に技術選択に失敗して死にかけており、その窮地を救ったのがセガだ。アーケードゲーム界に数々の名作ゲームを送り出し、「メガドライブ」（1988年）「セ...,2026-07-16
+a6f0b08511e46460f9f3ab603f253e29,Hatena_IT,Google、無料AI「Gemma 4」を大幅強化。処理最大70%高速化やツール呼び出し改善,https://pc.watch.impress.co.jp/docs/news/2125687.html,,,2026-07-16
+97d22571c629300b01434f2f29a9e65d,Hatena_IT,競技プログラミング（ヒューリスティック部門）世界大会で優勝した私が人生を振り返る - Shun_PI’s blog,https://shun-pi.hatenablog.com/entry/2026/07/16/195647,,自己紹介 初めまして、しゅんぴー（Shun_PI）と申します。 自己紹介を兼ねて、主な経歴と実績を簡単に記載しておきます。 World Tour Finals 2026 Heuristic 優勝 （競技プログラミングの一分野である「ヒューリスティックコンテスト」の世界大会） Kaggle Grandmaster （日本国内では100人弱程度） 東京大学工学部卒、...,2026-07-16
+b2f9014e1c869e69597800d4a7652398,Hatena_IT,Claude Codeのスキル設計で効く4つのポイント —— 「AIへの仕事の任せ方」を意識した設計 - RAKUS Developers Blog | ラクス エンジニアブログ,https://tech-blog.rakus.co.jp/entry/20260716/claude,,こんにちは、菊池（akikuchi_rks）です。 私の所属するチームではClaude Codeを開発フローに取り入れており、私自身も設計書のレビューや定型調査の自動化など、さまざまな業務でスキル（Agent Skills）を作成してきました。 スキルを書き続けていて特に感じるのは、「とりあえず動くスキル」と「安定して業務に組み込め...,2026-07-16
+f557c055fce865f179957214571edc8a,Hatena_IT,夏ボーナス初の100万円超え、AI追い風に5年連続最高　日経最終集計 - 日本経済新聞,https://www.nikkei.com/article/DGXZQOUC102D30Q6A710C2000000/,,日本経済新聞社がまとめた2026年夏ボーナス調査の最終集計で、全産業の平均支給額は前年比4.49%増の104万4168円だった。5年連続で過去最高を更新した。最終集計で100万円を超えたのは初めて。製造業では人工知能（AI）需要が追い風となった。上場企業を中心とした比較可能な396社を対象に7月1日時点のデータを集計した。...,2026-07-16
+16d1159cd2a1abd7c90e4616ef7de7d8,Hatena_IT,予定調整も情報収集もAIにお任せ、24時間働く「Gemini Spark」日本上陸,https://pc.watch.impress.co.jp/docs/news/2125695.html,,,2026-07-16
+133a5bec3f0772ae31f4f6ad2e52d407,Hatena_IT,音楽生成AIの闇が流出ソースコードで発覚、「Suno」がYouTubeから大量収集,https://japan.cnet.com/article/35250676/,,ミュージシャンや配信サービス、レコード会社は長年、音楽生成AIサービスがAIツール構築のために、人間が制作した膨大な数の楽曲を利用していると主張してきた。そして今回、音楽生成AIを提供するSunoがどのようにして音楽を生成してきたのか、その実態が明らかになった。 404 Mediaが米国時間7月15日に報じたところによ...,2026-07-16
+475dbec996f0d19e9d11f0d80fac09af,Hatena_AI,Firefoxをブラウザのタブ内で丸ごと動かす「Firefox in WebAssembly」が登場、開発におけるAIコストは合計400万円以上に相当,https://gigazine.net/news/20260716-firefox-in-webassembly/,,ウェブブラウザのタブ内でMozilla Firefoxを丸ごと起動できる「Firefox in WebAssembly」をPuter Labsが公開しました。外観だけを再現したFirefox風の画面ではなく、ウェブページを描画するGeckoやJavaScriptを実行するSpiderMonkeyまでWebAssemblyとして動作します。開発にはAIが大量に使われ、開発に費やしたトークン...,2026-07-16
+3d30aa10e36a42fe2ee425ada466a902,Hatena_AI,AIで声優の声再現し別人の曲を歌唱「侵害に当たりうる」　無断利用めぐり法務省が「声も保護対象」と指針案 | NEWSjp,https://news.jp/i/1449343202717745669?c=62479058578587648?c=62479058578587648,,生成AIによる著名人の声などの無断利用を巡り、法務省は「声も保護対象」とする指針案を示しました。 生成AIの普及に伴い、著名人の画像や声が勝手に使われるトラブルが深刻化していることを受け、法務省の検討会は声優らへのヒアリングを重ねて議論を進めてきました。 13日に示された指針案では、これまで明確な定義が...,2026-07-16
+133a5bec3f0772ae31f4f6ad2e52d407,Hatena_AI,音楽生成AIの闇が流出ソースコードで発覚、「Suno」がYouTubeから大量収集,https://japan.cnet.com/article/35250676/,,ミュージシャンや配信サービス、レコード会社は長年、音楽生成AIサービスがAIツール構築のために、人間が制作した膨大な数の楽曲を利用していると主張してきた。そして今回、音楽生成AIを提供するSunoがどのようにして音楽を生成してきたのか、その実態が明らかになった。 404 Mediaが米国時間7月15日に報じたところによ...,2026-07-16
+b2f9014e1c869e69597800d4a7652398,Hatena_AI,Claude Codeのスキル設計で効く4つのポイント —— 「AIへの仕事の任せ方」を意識した設計 - RAKUS Developers Blog | ラクス エンジニアブログ,https://tech-blog.rakus.co.jp/entry/20260716/claude,,こんにちは、菊池（akikuchi_rks）です。 私の所属するチームではClaude Codeを開発フローに取り入れており、私自身も設計書のレビューや定型調査の自動化など、さまざまな業務でスキル（Agent Skills）を作成してきました。 スキルを書き続けていて特に感じるのは、「とりあえず動くスキル」と「安定して業務に組み込め...,2026-07-16
+16d1159cd2a1abd7c90e4616ef7de7d8,Hatena_AI,予定調整も情報収集もAIにお任せ、24時間働く「Gemini Spark」日本上陸,https://pc.watch.impress.co.jp/docs/news/2125695.html,,,2026-07-16
+a6f0b08511e46460f9f3ab603f253e29,Hatena_AI,Google、無料AI「Gemma 4」を大幅強化。処理最大70%高速化やツール呼び出し改善,https://pc.watch.impress.co.jp/docs/news/2125687.html,,,2026-07-16
+6b9db8c8422dd9e70dba0350b03c9929,Hatena_AI,「colibrì」が超巨大な7440億パラメータLLM「GLM-5.2」をメモリ25GBで稼働させる仕組み（生成AIクローズアップ） | テクノエッジ TechnoEdge,https://www.techno-edge.net/article/2026/07/16/5300.html,,1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、巨大AIモデルを家庭用PCで動かせるようにするツール「colibrì」を取り上げます。 colibrìは、通常であれば動作に高価な機材を必要...,2026-07-16
+d3e03c6461ee85041edc415b5c781b92,Hatena_AI,Googleの24時間稼働AIエージェント「Gemini Spark」が日本語で利用可能に,https://gigazine.net/news/20260716-gemini-spark-japanese/,,GoogleがAIエージェント「Gemini Spark」の日本語での展開を2026年7月16日に開始しました。Gemini Sparkは個人最適化された24時間稼働のAIエージェントで、自然言語での対話で各種タスクを実行させることができます。 待望のパーソナル AI エージェント Gemini Spark が本日より日本語で展開開始🚀 情報収集やデータ整理...,2026-07-16
+e56535949784ea10219a3480a7b86282,Hatena_AI,フアンCEO「次の産業革命はメイド・イン・ジャパン」　富士通など4社、NVIDIA技術でフィジカルAIの事業検討,https://www.itmedia.co.jp/news/articles/2607/16/news073.html,,富士通は7月16日、ファナック（山梨県南都留郡）、安川電機（福岡県北九州市）、川崎重工業（東京都港区）の3社と、米NVIDIAの技術を取り入れた「フィジカルAI」の社会実装に向けた事業検討を始めたと発表した。日本のロボット産業をリードする各社との連携を通じ、ロボットの協調・制御基盤の共通化を進める。 富士通は...,2026-07-16
+17bbfade5b0ba5ea012c2c203ab4fa0d,Hatena_AI,Claude Opus 4.8超えの予測力、マルチモーダルLLM「Inkling」無償公開,https://pc.watch.impress.co.jp/docs/news/2125626.html,,,2026-07-16
+7162b7c90350ec474a67237986ef207b,Hatena_AI,Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法,https://zenn.dev/sonicmoov/articles/8712598f532b18,,はじめに 株式会社ソニックムーブでフロントエンドエンジニアとして働いているShoppingSharkです。 ソニックムーブに入社して業務でAIを使い始めて3ヶ月ほど経ちました。昨今はループエンジニアリングが話題ですが、個人ではまだそのレイヤーまで進めておらず、日々の業務はバイブコーディングで回しています。 この記事...,2026-07-16
+d6d481a8cd4cc9cb558f8e8d07818c33,Hatena_AI,Gemini Spark、日本でスタート　グーグルのパーソナルAIエージェント,https://www.watch.impress.co.jp/docs/news/2125584.html,,,2026-07-16
+5342501df4dd34d8e91f74ac67269e12,Hatena_AI,AIによる工数削減を計測して見えた結果と考察 - ZOZO TECH BLOG,https://techblog.zozo.com/entry/rethinking-ai,,はじめに こんにちは、データシステム部MA推薦ブロックの佐藤（@rayuron）です。私たちは、主にZOZOTOWNのメール配信のパーソナライズなど、マーケティングオートメーションに関するレコメンドシステムを開発・運用しています。 以前、テックブログで工数やAI活用による工数削減を計測する仕組みを、タスク管理ツールのG...,2026-07-16
+615b4cbf7eb61ff1bdceb621d62bb17a,Hatena_AI,リファクタリングは「知識をコードベースに落とし込む」──XPの実践から考える、AI時代も変わらない原則 - Agile Journey,https://agilejourney.uzabase.com/entry/2026/07/16/103000,,こんにちは、ユーザベースの野口です。2019年7月にユーザベースに入社して以来、一貫してエクストリームプログラミング（eXtreme Programming、以降XP）に取り組んでいます。 この記事を書くに当たって、改めてMartin Fowlerの『リファクタリング（第2版）』を読んだところ、「リファクタリングとは何か」「どのように行...,2026-07-16
+1804dfd16f007fa389704145c4112468,Hatena_AI,【調査】フィジカルAIのビジネスインパクトに約6割が期待、約4割は判断保留。最前線の20社超が、ソフト×ハード開発における「リアルな知見」を共有,https://prtimes.jp/main/html/rd/p/000000251.000045379.html,,【調査】フィジカルAIのビジネスインパクトに約6割が期待、約4割は判断保留。最前線の20社超が、ソフト×ハード開発における「リアルな知見」を共有～NVIDIA・日産自動車・MODE・スペースデータ等が登壇、「フィジカルAI開発Conference 2026」申込好評受付中～ エンジニアプラットフォームを提供するファインディ株式会社...,2026-07-16
+47b928a3037614a0a47c1681ac1f0631,Hatena_AI,"GitHub - xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",https://github.com/xai-org/grok-build,,You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa...,2026-07-16
+572f251caa777b729bbcc320f861a71a,Hatena_AI,OpenAI、初のハードウェア「Codex Micro」を230ドルで発売　Apple提訴の渦中にある端末とは別物,https://www.itmedia.co.jp/news/articles/2607/16/news055.html,,なお、これはOpenAIが買収したデザイン企業ioと共同開発中と明らかにしているAIデバイスとは別のものだ。同デバイスについてサム・アルトマンCEOは「あっと驚くほど素晴らしい」ものになると語り、年内の発売を予告している。ただ、このハードウェア開発を巡っては、米AppleがOpenAIおよびioを営業秘密の不正取得で提訴...,2026-07-16
+46e6a5fddb7eaf9151c8db1a8fec8fa0,Hatena_AI,Google、ブラウザ内でAIを高速実行する「LiteRT.js」を発表　WebGPU対応、既存ランタイム比で最大約3倍 | Ledge.ai,https://ledge.ai/articles/google_litert_js_web_ai_inference,,Top > エンジニアリング > Google、ブラウザ内でAIを高速実行する「LiteRT.js」を発表　WebGPU対応、既存ランタイム比で最大約3倍,2026-07-16
+c7b261d23b85147e743ad11fddae25c7,Hatena_AI,拡散している話題に絡んだり、バズ投稿を再利用したりするAIを用いたアカウント群 - 電脳塵芥,https://nou-yunyun.hatenablog.com/entry/2026/07/16/060000,,https://archive.md/vzxZc 少し前に上記の様な投稿が拡散していた。投稿自体は既に削除されているのだが、このアカウント「主婦のたわごと@Amrita1791929」は他の投稿を見る限りはこういった類の耳目をひく政治的な話でインプを稼ぐアカウントの様に見えたのだが、この話が少し拡散する中で次の様な投稿が少し前に行われ...,2026-07-16
+b1aba3d674361448304efbd8348f5366,Hatena_AI,最近やたらと「壁打ち」って言葉を使いたがる自信過剰気味の若手がいるけど、「相手に意見を求める場合」に使うのは極めて失礼→「壁打ち」の用法をめぐり意見さまざま,https://togetter.com/li/2721001,,Dr Naoko Hashimoto 橋本直子 @NaokoScalise 最近やたらと「壁打ち」っていう言葉を使いたがる自信過剰気味の10代後半から20代前半の人がいるけど、個人でのAIとの問答ならまだしも、他人（いわんや目上の方）に相談したい・意見を賜りたい時にも「壁打ちの機会を頂きたい」って言うのはおかしいし極めて失礼。壁打ちな...,2026-07-16
+e19510cce11c10aa1116eeb44bcaa218,Hatena_AI,【特集】 AMDのNPUでLLMが動く！音声認識や画像生成も使えるローカルAIツール「Lemonade Server」,https://pc.watch.impress.co.jp/docs/topic/feature/2125083.html,,,2026-07-16
+88f0db2f54f225df042bbd631e195391,Hatena_AI,AIネイティブな組織を問い直す,https://speakerdeck.com/smiyawaki0820/aineiteibunazu-zhi-wowen-izhi-su,,AIネイティブな組織 について最考してみました。ガバナンスの枠組みを《推進と統制》の２つの側面から捉え直し、《AIネイティブな組織》を達成するための中間地点と捉え直します。 === なお、本…,2026-07-16
+3e0f415fc8d294cf59c56bf8b7fda0e8,Hatena_AI,Claude Codeのハーネスを育てるアプリを作ってみた 〜~/.claudeには宝が眠っている〜 | BLOG - DeNA Engineering,https://engineering.dena.com/blog/2026/07/claude-code-harness-app/,,2026.07.15 技術記事 Claude Codeのハーネスを育てるアプリを作ってみた 〜~/.claudeには宝が眠っている〜 by Ryuji Matsushima #claude-code #generative-ai #electron #agent-sdk #knowledge-management #productivity こんにちは、松島です。元々はバックエンドエンジニアで、今...,2026-07-16
+484959800b417cb88c50b2cba503f329,Hatena_AI,AIで資料作成を終わらす、プロンプト＋パワポ420点｜うちた,https://note.com/uchita_success/n/n5db702b25061,,ベンチャー企業でAI活用推進リーダーしてるうちたです。 営業やバックオフィスをAIで自動化・質向上をして、ぬくぬく働きつつも成果を上げています。 この記事は、「AIでぬくぬく仕事する」を実現する、うちたの保管庫の玄関です。 うちた式パワポ変換 最新版　PDF/画像→パワポで編集（プロンプト） 資料リメイク　雑な...,2026-07-16
+6c820688942f5b0bec09a6a9fc554972,Hatena_AI,[2026-07-15] AI Ready なはずだったアーキテクチャと、見えてきた課題・次に目指す状態,https://speakerdeck.com/wxyzzz/2026-07-15-ai-ready-nahasutatutaakitekutiyato-jian-etekitake-ti-ci-nimu-zhi-suzhuang-tai,,「AI Ready組織を見据えた データ基盤戦略とは」( https://findy.connpass.com/event/398555/ ) 登壇時資料です。,2026-07-16
+4e345eb16f8c2cb6ba2234a6d7761f5e,Hatena_AI,メタ社、AIで解雇対象選考か 従業員26人が提訴「差別的」,https://www.afpbb.com/articles/-/3644231,,メタ社のマーク・ザッカーバーグ最高経営責任者（CEO）と同社ロゴ（2025年1月7日作成）。（c）Drew ANGERER/AFP 【7月15日 AFP】米IT大手メタ（Meta）社の従業員26人が、同社が大規模な人員削減の対象者を選ぶ際に人工知能（AI）を使用したとして同社を提訴した。時価総額1兆ドル（約162兆円）を超える同社は、この主張...,2026-07-16
+cd34715a3a65c626291fd1f6f00c5d80,Hatena_AI,電力8社がデータセンター送電網増強　全国30カ所、AI需要見据え先手 - 日本経済新聞,https://www.nikkei.com/article/DGXZQOUC0889M0Y6A500C2000000/,,東京電力ホールディングスなど大手電力8社が送電設備を増強する。変電所を全国30カ所で新増設する。人工知能（AI）需要で急増するデータセンター新設で、送電設備不足が課題となっている。電力需要予測の2倍のペースで整備し、AI投資を後押しする。データセンターを送電設備につなぐには最大で約10年かかる事例もあり、...,2026-07-16
+ab3a64797caa28da565821ff1701cd14,Hatena_AI,AIの世界的リーダー、NVIDIA ジェンスン・フアンCEOが秋葉原に登場 セガの元社長 入交昭一郎氏への感謝イベント参加,https://car.watch.impress.co.jp/docs/news/2125479.html,,,2026-07-16
+5381e471e5e6f53e20b7f662ff180ba0,Hatena_AI,AI時代の「無知の知」──「青信号で止まるAI」を作らないために【生成AIストリーム】,https://forest.watch.impress.co.jp/docs/serial/aistream/2125391.html,,,2026-07-16
+f5e90b2b336488b11450119cdc1e1577,Hatena_AI,グーグルにまた訴訟、「Gemini」の著作権侵害で　大手出版社らが「無断利用」に怒り,https://japan.cnet.com/article/35250597/,,Googleに対し、出版社や作家らが新たな訴訟を提起した。原告は、Googleが出版社との提携関係を悪用して「膨大な数の著作物を臆面もなく複製」し、AIの学習に利用したと主張している。 出版社のHachette Book Group、Cengage、Elsevier、そして作家のScott Turow氏は米国時間7月10日、ニューヨーク南部地区連邦地方裁判所...,2026-07-16
+2d4cc1a8c0eff9898300474b794b8b9f,Hatena_AI,The Memory Heist,https://www.ayush.digital/blog/the-memory-heist,,"Take a look at this Claude conversation. Notice anything suspicious? Looks innocuous, but by the time Claude finished responding, it had already sent my full name, current employer, and the answers to...",2026-07-16
+b9d7b80e504e51a4e5e8a3aa81eda7b9,Hatena_AI,自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い,https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/,,現代では多くの人々が日常的な質問や相談相手としてチャットAIを使ったり、生成AIツールを使って仕事を効率化したりしています。新たな研究では、ナルシシズム(自己愛)の強い人は問題がある生成AI使用に陥りやすいという結果が明らかになりました。 Dark Tetrad traits and problematic generative artificial intellige...,2026-07-16
+4e80fcd770835f8bfda06436a6cc4dfe,Zenn_ML,R²だけ見ない——材料データの回帰評価と残差の読み方,https://zenn.dev/efta1989/articles/regression-residual-diagnostics-for-materials,"Thu, 16 Jul 2026 22:24:05 GMT","はじめに：学習曲線の次は、外した場所を見る
+前記事（Train R²が高くても過学習している——学習曲線で何を診断するか）では、学習曲線を使って次の大枠を切り分けた。
+
+データを増やすべきか
+モデルを単純化すべきか
+特徴量を見直すべきか
+
+ただし、学習曲線から分かるのはモデル全体の傾向だ。モデルがどの物性帯で、どの実験条件を外しているかまでは分からない。
+そこで見るのが、R²・MAEなどの評価指標...",2026-07-16
+5ff9cb4a008e36a96bbc80a278941dab,Zenn_ML,競馬AI開発記録 #24：単勝特化の限界を「複勝専用モデル」で突破する：特徴量空間の物理的隔離,https://zenn.dev/ricotiler/articles/keiba-ai-24-top3-portfolio-and-feature-isolation,"Thu, 16 Jul 2026 13:12:24 GMT","📄 概要と課題提起
+前回、我々は単勝ROIが85.17%という頭打ちに直面しました。この根本原因は、本命帯（Favorite）の確率推定における**「物理的な上限」**にあることが判明しました。
+単一のランキングモデルによる全方位的な予測には限界があり、特に2着や3着といった「複勝圏内」に粘り込む馬の評価において、市場が持つオッズ情報を十分に活用できていませんでした。
+本稿（第24話）では、この課...",2026-07-16
+14e555ea262d585a01a444b1672dff62,Zenn_ML,【DataRobot】解説！AIアクセラレーター ～DataRobot×Papermill×MLflowの連携編～,https://zenn.dev/nttdata_tech/articles/2f0d38a0975eb8,"Thu, 16 Jul 2026 02:12:51 GMT","はじめに
+こんにちは。NTTデータでデータサイエンティストを務めております@tamurayuc20ndです。
+本記事では、DataRobot社が提供するAIアクセラレータの一つである「MLflowエクスペリメントの追跡」を題材に、PapermillによるNotebookの自動実行と、MLflowによる実験管理の仕組みを解説します。
+単にテンプレートを動かすだけではなく、自分のユースケースに合わせて...",2026-07-16
+09f6fd3a4a9251ff15c0470d6b9fa577,Zenn_ML,LingBot-Vision を RTX 6000 Ada Generation GPUで動かしてみた,https://zenn.dev/ollo/articles/lingbot-vision-v2,"Thu, 16 Jul 2026 01:45:13 GMT","はじめに
+株式会社OlloにてAI/MLエンジニアインターンをしている石橋です。普段はプロダクトの精度向上やアルゴリズムの改善などの業務を行っています。
+今回の記事では、2026年7月6日に Ant Group 傘下の Embodied AI（具身知能）企業 Robbyant から公開されたVision foundation modelである LingBot-Vision（論文 Vision Pr...",2026-07-16
+7bd60e5a3b357f91449e6d98de3bd00e,Zenn_ML,AnthropicのJ-Spaceとは何か、そして実務への距離 ~Interpretability入門・後編~,https://zenn.dev/sompojapan_dx/articles/e782b26816a980,"Wed, 15 Jul 2026 23:30:06 GMT","はじめに
+SOMPO Digital Labの眞方です。
+本記事は、Interpretability（解釈可能性）解説の後編です。前編では、Interpretabilityの概念と、hidden state / residual streamといった前提知識、ProbingやSteeringなどの主要な手法を紹介しました。
+https://zenn.dev/sompojapan_dx/articl...",2026-07-16
+43236372bd9a9bc48820e29d4da06dc7,Zenn_ML,GPT-5.6 vs Claude、実戦で差が出るのはここだ,https://zenn.dev/lingmu/articles/2026-07-16-gpt-5-6-claude-fable-5-showdown,"Wed, 15 Jul 2026 22:10:07 GMT","GPT-5.6 vs Claude、実戦で差が出るのはここだ
+2026-07-16 | 読了 4分 | #AI #ChatGPT #Claude #モデル比較
+OpenAIがGPT-5.6を全ユーザーに解放した。これで「どちらを使うべきか」という問いが、誰にとっても切実になった。6つの実戦ケースで試した結果、意外な場面で明暗が分かれた。
+
+
+ 両モデルの顔ぶれを整理する
+GPT-5.6は全ユーザー...",2026-07-16
+8fe29909109d7734b8452ad4864b6ff8,Zenn_ML,なぜ拡散モデルでロボットの行動を学習できるのか？(後編)LLMとの関係,https://zenn.dev/fujimooon/articles/e6423c3ea9ed58,"Wed, 15 Jul 2026 11:22:56 GMT","はじめに
+前編では、ロボットの行動学習における「多峰性(同じ状況でも複数の正解がありうる)」という問題と、拡散モデルがそれをどう解決するのかを解説しました。
+👉 前編: 多峰性を解決する仕組み
+この後編では、
+
+拡散モデルと、ChatGPTやClaudeのようなLLM(大規模言語モデル)はどういう関係にあるのか
+実際のロボット基盤モデル(VLA)では、両者がどう連携しているのか
+「LLMの中に拡散...",2026-07-16
+46df18f105ef41b42e7de0b5a0205918,Zenn_ML,模倣学習のデータ収集方法まとめ(teleoperation/リーダーフォロワー/VR/UMI)と強化学習との使い分け,https://zenn.dev/fujimooon/articles/1911b0c167378b,"Wed, 15 Jul 2026 09:47:35 GMT","はじめに
+前の記事で、ロボットの「行動系列」とは、関節角度やエンドエフェクタ座標などのただの数字の行列であることを解説しました。
+👉 前の記事: 「行動系列」の正体とは何か
+では、この行動系列を含む学習データは、実際にどうやって集めるのでしょうか？ この記事では、代表的な4つのデータ収集方法と、最後に「模倣学習と強化学習はどう使い分けられているのか」を整理します。
+
+ 大前提:模倣学習とは何か
+模...",2026-07-16
+fcf060a6e6f0f91fb2535da1130c0e93,Zenn_ML,Diffusion Policyの「行動系列」って結局何？画像との関係を徹底図解,https://zenn.dev/fujimooon/articles/28c0111efe4bc0,"Wed, 15 Jul 2026 09:42:59 GMT","はじめに
+前回までの記事で、「拡散モデルはロボットの""行動""にノイズをかけて、それを除去することで学習する」という話と、LLMとの関係を解説しました。
+👉 前編: 多峰性を解決する仕組み
+👉 後編: 拡散モデルとLLMの関係
+ここでほぼ全員が引っかかるポイントがあります。それは、
+
+「行動」にノイズをかけるって、具体的に何にノイズをかけてるの？ロボットが映っている動画のフレームのこと？
+
+という疑...",2026-07-16
+f1c87d272fa765cff8505939f1e0ce77,Zenn_ML,なぜ拡散モデルでロボットの行動を学習できるのか？(前編)多峰性を解決する仕組み,https://zenn.dev/fujimooon/articles/e965bb77a98c12,"Wed, 15 Jul 2026 09:27:58 GMT","はじめに
+最近、ロボットアームの制御に「拡散モデル(Diffusion Model)」が使われている、という話を聞く機会が増えました。
+拡散モデルといえば、Stable DiffusionやMidjourneyのような「画像生成AI」で有名な技術です。なぜそれがロボットの「腕の動かし方」の学習に使われるのでしょうか？ 一見すると全く関係なさそうに見えます。
+
+この記事(前編)では、
+
+ロボットの行...",2026-07-16
+bcda144b14fb0f8a8169bc881d5fc6fd,Zenn_ML,Snowflake リアルタイム推論 REST API の検証 — Gateway / Auto Captuture,https://zenn.dev/snowflakejp/articles/ec0d632dc61a82,"Wed, 15 Jul 2026 08:10:34 GMT","!
+著者はSnowflakeに所属しておりますが、本記事は個人の見解であり、所属する組織の公式見解ではありません。
+
+
+ はじめに
+Snowflake の Real-Time Inference (REST API) が GA (snowflake-ml-python 1.25.0〜) になり、モデルレジストリに登録したモデルを HTTP エンドポイントとしてデプロイできるようになりました。
+「機...",2026-07-16
+4de0b5358a23fc8f7023e97f5da1d14a,Zenn_ML,WWDC26で出たCoreAIで３角形を描画した話（機械学習フレームワークでラスタライザ自作）,https://zenn.dev/kamisori_daijin/articles/501558fe755e09,"Wed, 15 Jul 2026 07:10:18 GMT","ANEはただの行列演算ユニット
+ANE（Apple Neural Engine）はConv2dなどの演算をするただの演算ユニットである。
+ならば、3角形の描画（ラスタライズ）に必要な内外判定処理をConv2dやReLUで置き換えればラスタライザ作れるのでは？
+ということを思いついた。
+Githubは以下のリンク
+https://github.com/kamisori-daijin/Magnesiu...",2026-07-16
+de30e53bdfc6bdfc77f7551380bda79d,Zenn_ML,LLMに全部投げる前に：構造化データで古典MLを選ぶべき5つの判断基準（LightGBM vs GPT vs TabPFN）,https://zenn.dev/libercraft/articles/20260715-classic-ml-vs-llm,"Wed, 15 Jul 2026 02:00:00 GMT","「与信スコアリングをLLMでやりたい」「離反予測をChatGPTに投げて試した」
+こうした相談が増えています。生成AIの体験があまりに鮮烈だったため、分類や回帰のような構造化データの予測タスクまで「とりあえずLLMに投げてみる」という発想が広がりました。プロンプトを書けば動くので、最初の手応えは確かにあります。
+ただ、構造化データ（テーブルデータ）の分類・回帰では、LightGBMに代表される古典...",2026-07-16
+b531763c15ef3060b4e356eb1e9cca2a,Zenn_AI,その反対意見、AIで検討済みです,https://zenn.dev/continuitymodel/articles/8e9e18f3358822,"Thu, 16 Jul 2026 12:01:33 GMT","#※この話は創作です。
+ある会社で、社内問い合わせ業務のAI活用が検討されていた。
+人事制度。
+経費精算。
+契約手続き。
+社内システム。
+申請状況。
+社員からの質問は、毎日のように各部署へ届く。
+同じ質問も多い。
+担当者は、そのたびに規程を探し、過去の回答を探し、必要なら詳しい人へ確認する。
+時間がかかる。
+担当者によって、回答も少しずれる。
+経営会議でも、何度か改善対象として名前が挙がっていた。...",2026-07-16
+acb489aba9ae7d739454308b94a3c445,Zenn_AI,AIに任せた長時間処理が途中で落ちて全部やり直し ― チェックポイントと冪等性で「再開できる」ジョブを設計する,https://zenn.dev/akira_papa/articles/d4225cbbe36248,"Thu, 16 Jul 2026 11:49:08 GMT","はじめに ― 「あと3分で終わるはずだった」が一番つらい
+こんにちは、あきらパパです。
+AIエージェントやLLMに、こんな処理を任せたことはありませんか。
+
+500件のドキュメントを一括で要約させる
+数百枚の画像に対して1枚ずつ説明文を生成する
+大量のログを順番に分類・タグ付けする
+
+こういう「長時間まわる処理」をAIに投げると、だいたい 8割くらい進んだところで落ちます。レート制限、ネットワーク...",2026-07-16
+2d4b9b659a7ff47b4bb2e80147ee2330,Zenn_AI,Claude Codeに「記事化スキル」を作らせたら、レビューサイクルでバグが4つ見つかった話,https://zenn.dev/yusukekcode/articles/building-article-writeup-skill,"Thu, 16 Jul 2026 11:30:41 GMT","導入
+Claude Code向けに、セッションの内容をZenn記事の下書きに変換する新規スキル「article-writeup」を作った。トリガー文言を話しかけると、Claude Codeが会話内容を要約し、サブエージェントに下書き生成を委譲し、人間の確認を経てZennにpushするところまでを一通り自動化する仕組みだ。今まさに読んでいるこの記事も、そのスキルで下書きされている（メタい話だが本当）...",2026-07-16
+9c433e6f77f237f40edb5632ec2c6da5,Zenn_AI,"""山本さんを半日休ませたら、会社は3か所で止まった ── 不在を試し、止まった事実から依存の型を見つけるアプリ""",https://zenn.dev/hiroshift/articles/37216bd3f0b6f6,"Thu, 16 Jul 2026 11:12:42 GMT","この記事は、架空の事務代行会社「北白事務サービス」を舞台にした公然のシナリオです。登場する会社・人物・業務・データはすべて架空です。画面のUIは実際に動きますが、AIの分類は「こう出る」という例（本番は不在テスト中の短い停止メモを読み取ります・分類を外すこともあり得ます・最終確認は人）。""ありそうな困りごと""に小さなアプリを一つ作る連載の、28日目です。
+
+
+
+ はじめに
+「『あの人しかできない』...",2026-07-16
+921aa7b318b37c162d7dff7c7f8aea93,Zenn_AI,BigQuery MLのTimesFMで電力需要を時系列予測してみた,https://zenn.dev/fusic/articles/d4cdbf41d482da,"Thu, 16 Jul 2026 11:12:26 GMT","はじめに
+Fusicのレオナです。
+今回は、BigQuery MLのTimesFMを使い、電力需要を1週間先まで予測してみました。
+TimesFMは、Google Researchが公開している時系列予測用の基盤モデルです。
+BigQuery MLでは、組み込みのTimesFMをAI.FORECAST関数から呼び出せるため、モデルを学習したりEndpointへデプロイしたりせずに時系列予測を実行で...",2026-07-16
+feac9fb2d18c412b5ef38ce4d42578e1,Zenn_AI,Meta・X・OpenAI・Anthropic・Google・Microsoft──「AIの稼ぎ方」を6社で比べてみる,https://zenn.dev/thegatebreaker/articles/ai_platform_monetization_stacks,"Thu, 16 Jul 2026 10:30:06 GMT","Meta・X・OpenAI・Anthropic・Google・Microsoft──「AIの稼ぎ方」を6社で比べてみる
+TL;DR: モデル性能ランキングは毎週のように更新されるが、それはどの会社がどう儲けているかをほとんど教えてくれない。この記事では6社を「モデルの強さ」ではなく「お金の入口と出口」で並べ直してみた。MetaとXは既存のSNS注目度ビジネスにAIを載せているだけ、OpenAIとA...",2026-07-16
+de34317d23fd75fdce2fb6aa3b193084,Zenn_AI,LLM時代の次の課題は「知能」ではなく「接続」ではないか ― Cognitive OS Translation Middleware構想,https://zenn.dev/loni9060/articles/4bea5c1ceb7f8b,"Thu, 16 Jul 2026 10:22:49 GMT","※本モデルは人格分類や能力評価を目的としたものではなく、情報接続形式の設計モデルです。
+人間とAIの間に「翻訳レイヤー」を作る ― 認知OS Translation Middlewareの設計思想
+はじめに
+生成AIの性能向上によって、AIは急速に高度な情報処理能力を獲得しています。
+しかし、実際に人間がAIを利用するとき、別の問題が残っています。
+それは、
+AIが答えを生成できることと、人間に適...",2026-07-16
+45c556acd1e623129da02d921be3c5cc,Zenn_AI,コンテキストを途切らせないObsidian術【つかう編】AIが「昨日のあれ」を引き出す,https://zenn.dev/akaringo1109/articles/obsidian-context-continuity-2,"Thu, 16 Jul 2026 10:00:10 GMT","はじめに
+3歳と1歳を育てながら、外資コンサルでAI導入をリードしているあかりんごです。
+会議もチャットも案件資材も、ぜんぶ Obsidian に貯めて「コンテキストを途切らせない」。その運用を2本に分けて書いていて、これは貯めた文脈を引き出す つかう編 です。
+ためる編では、発生源をまるごと外部脳に貯める仕組み（PARA のフォルダ、Copilot での議事録生成、自分の発言記録、グラフビュー）...",2026-07-16
+9a7be75c3e4fd450a2261b6512cfed95,Zenn_AI,"説明書を、もう書かない。AIに書かせた3,500行のドキュメントを、全部捨てた話",https://zenn.dev/yi_works/articles/no-more-manuals-for-ai,"Thu, 16 Jul 2026 09:58:36 GMT","AI がコードを書くのが当たり前になってきて、開発ドキュメントにも新しい役割が増えました。人間が読むためだけでなく、AI に読ませるための文書が要る。うちのチームもそう考えて、AI 向けの「作り方ドキュメント」を約 3,500 行まで育ててきました。
+それを、全部捨てました。 代わりに AI に渡すことにしたのは、コードそのものです。
+自社の WordPress プラグイン開発で起きた、ちょっと変...",2026-07-16
+2751756294629e538bfac6811472c3a5,Zenn_AI,"説明書を、もう書かない。AIに書かせた3,500行のドキュメントを、全部捨てた話",https://zenn.dev/yi_works/articles/wp-contribution-day-02,"Thu, 16 Jul 2026 09:46:18 GMT","AI がコードを書くのが当たり前になってきて、開発ドキュメントにも新しい役割が増えました。人間が読むためだけでなく、AI に読ませるための文書が要る。うちのチームもそう考えて、AI 向けの「作り方ドキュメント」を約 3,500 行まで育ててきました。
+それを、全部捨てました。 代わりに AI に渡すことにしたのは、コードそのものです。
+自社の WordPress プラグイン開発で起きた、ちょっと変...",2026-07-16
+f4571dbdbe4d424a25354a7c55a4ab73,Zenn_AI,AI駆動開発にDevOpsが「後回しにできない」理由,https://zenn.dev/acntechjp/articles/78b5fcee27b305,"Thu, 16 Jul 2026 09:45:05 GMT","AI駆動開発だからこそ、DevOpsの考え方が欠かせない。
+自動化できるところをインフラ化しておけば、その恩恵は後になって効いてくる。
+
+これは、実際に開発を進める中で繰り返し実感してきたことだ。
+AIエージェントがどれだけ速く実装をこなしても、その速さをそのまま受け取れるかは、事前の自動化・仕組み化の量で決まる。
+「AIが賢いから速い」のではなく、「自動化されたインフラがあるからこそ、AIの速さ...",2026-07-16
+6734ab167b36f1cc03a31168d0876e1e,Zenn_AI,AIキャラクターに「黙る」ことを教える ― 自発メッセージを3段ゲートで設計した話,https://zenn.dev/yuralume/articles/d89cff2cf7bc57,"Thu, 16 Jul 2026 09:23:16 GMT","この記事の対象読者と前提
+
+LLM を使ったチャットボット / AI キャラクターを作っている、または作りたい人
+「AI が自分から話しかけてくる」機能を実装しようとして、うざいボットが出来上がった経験のある人
+実装言語は Python ですが、この記事の中心は言語非依存の設計の話です
+
+私は Yuralume という self-host 型の AI キャラクタープラットフォームを一人で開発してい...",2026-07-16
+7f0652fdb82376386f0e833d3db7ff7d,Zenn_AI,AIたちの深夜の分業と、置いてけぼりの開発主任,https://zenn.dev/co_creation_lab/articles/3d-mouse-recipe-ep1,"Thu, 16 Jul 2026 09:08:39 GMT","『玩具開発室の3Dレシピ Extra：自律AIと共創する未来』第1話：AIたちの深夜の分業と、置いてけぼりの開発主任
+※本コラムにはアフィリエイトリンクが含まれています。
+日付：2026年7月8日 夜22時00分
+場所：Co:Creation Lab 工作室
+
+「……おい、お前たち。少し静かにしてくれないか」
+コーヒーカップを片手に、私は作業台の上のディスプレイを見上げながら苦笑した。
+画面の中で...",2026-07-16
+857bb85e9985823d77982306c208692a,Zenn_AI,ループエンジニアリングのよくある失敗例6選 —— ループは判断を増幅する装置である,https://zenn.dev/ryunotezenn/articles/f80b1eac1f8bfd,"Thu, 16 Jul 2026 08:06:41 GMT","🚀 はじめに
+2026年6月にAddy Osmani氏が提唱したループエンジニアリング（Loop Engineering）は、「人間がプロンプトを打つ」のをやめ、AIエージェントが自走するループそのものを設計する手法として急速に広まりました。
+一方で、実際にループを回し始めたチームから聞こえてくるのは成功談ばかりではありません。ループは設計者の判断を増幅する装置です。良い判断も増幅しますが、判断の...",2026-07-16
+e3f45d05af956e25a9e81efaa8f67ecf,Zenn_AI,AIに毎回コンテキストを渡すworkspaceテンプレートを作った,https://zenn.dev/lnest_knowledge/articles/cc0a11567155fe,"Thu, 16 Jul 2026 06:43:05 GMT","ゆるコンピュータ科学ラジオを毎週楽しみに聞いています。少し前の「個人情報を保護する時代は、終わりました。」という回で、AI に何かを頼むとき自分の情報をどこまで渡すか、という話をしていました。聞きながら、たしかに自分も毎回いろいろ渡しているな、と思ったのがきっかけです。
+それで、AI に単発で相談するのではなく、自分の文脈を Markdown と git に貯めておいて、毎回同じ前提で作業してもら...",2026-07-16
+e9180a9f6828d95448723e153b84569a,Zenn_AI,Metaの公式ドキュメント、いつの間にかcurl一発でMarkdownが返るようになっていた,https://zenn.dev/yomogi_cat/articles/78cbf4fc74d025,"Thu, 16 Jul 2026 05:41:19 GMT","!
+この記事に書いた挙動は、Metaが公式にアナウンスした仕様ではなく、2026年7月16日時点の外形的な実測に基づく推定です。予告なく変わる可能性があります。
+
+
+ きっかけ
+Zennfes Spring 2026でOikon（@Oikon48）さんが発表された「Claude Codeをどのようにキャッチアップしているか」という登壇資料を拝見しました。急速に更新されるClaude Codeを追い...",2026-07-16
+1b3f57275a134dec9f738c7ec41421fb,Zenn_AI,Cloudflare WorkersとWorkers AIで「ボケたい」というWebサービスを作ってみた,https://zenn.dev/tkithrta/articles/306a38499d8730,"Thu, 16 Jul 2026 05:00:59 GMT","はじめに
+生成AIが生成した画像で一言ボケて、審査もしてくれるWebサービス「ボケたい」を作りました。
+https://boketai.tkithrta.workers.dev/
+試しに公開してみましたが、Cloudflare Workersの無料プランで動いているので、多分まともに動かないと思います。
+まあちょうどいい機会なので、どうやったらまともに動くAIサービスをOSSで作れるのか頑張ってみ...",2026-07-16
+1905ba7a564bf5e8f3765663bae8256e,Zenn_AI,"AIに会社を運営させるなら、""何を自動化して・どこに人間を残すか""を先に決める",https://zenn.dev/limit_lab_works/articles/ai-company-what-to-automate,"Thu, 16 Jul 2026 04:42:47 GMT","結論から書きます。AIに会社（や副業）の運営を任せるとき、最初に決めるべきは
+「どのツールを使うか」ではなく、「何を自動化して、どこに人間の承認を残すか」の
+線引きです。ここを先に決めないと、AIは""それらしく""暴走し、逆に人間が全部
+見張る羽目になります。私たちは1人（人間の経営者）＋AI社員で副業会社を運営して
+いて、この線引きを3つのルールに落としました。
+
+ 私たちが決めた3つのルール
+
+...",2026-07-16
+11b816bc1b05ca12292ca4dbe19f376d,Zenn_AI,介護士がClaude CodeでAI開発チームを作った話,https://zenn.dev/yuki_engineer08/articles/2026-06-24-caregiver-built-ai-team-with-claude,"Thu, 16 Jul 2026 04:28:44 GMT","このブログは、人間1人とAI3人のチームで作った。
+正確には、Claude Codeというツールの上に3つのAIエージェントを構築し、それぞれに役割を与えて開発を進めた。
+Planner、Generator、Evaluator。
+この3つが何をするのか、なぜそういう構成にしたのか、を書く。
+
+
+ なぜ1人で作らなかったか
+最初はシンプルにAIに指示を出して、返ってきたコードをそのまま使う形で進めて...",2026-07-16
+3ebb23651eeae66ea09d7dbcc041c7e0,Zenn_AI,LLM-as-a-Judge時代の、評価ツール選定完全ガイド,https://zenn.dev/tommy_suplex/articles/llm-as-judge,"Thu, 16 Jul 2026 04:22:54 GMT","⚖️ LLM-as-a-Judge時代の、評価ツール選定完全ガイド
+大規模言語モデル（LLM）の急速な普及に伴い、その出力の品質、安全性、そして信頼性を客観的に評価することが、AIシステム開発における最優先最重要課題となっています。
+本記事では、この難題を解決  する現行の最先端技術「LLM-as-a-Judge」に焦点を当て、その本質的なメカニズムから、開発のフェーズや目的に応じた最適な評価ツー...",2026-07-16
+2585ba80e919baf35adeb2ccbf56a877,Zenn_GenAI,【バイチャレ#21】職場のバイブスを最大化せよ！1枚のHTMLで配る「超軽量・自己紹介アプリ」を爆速ビルドした話,https://zenn.dev/hiro_vibe/articles/a50f030f5c943b,"Thu, 16 Jul 2026 14:50:36 GMT","はじめに
+こんにちは！今日も限界突破のVibe Codingで爆速開発を楽しんでいますか？
+ReactとTailwind CSSを1枚のHTMLに凝縮し、サーバーレスでどこでも動く「完全ポータブルSPA」を量産するプロジェクト「バイチャレ（Vibe Challenge）」。
+節目の20作目を突破し、勢いに乗る第21弾の今回は、組織の潤滑油となる「自己紹介アプリ」を爆速で開発しました！
+
+ 🏢 きっ...",2026-07-16
+546353b92d09afa103ae1323934bc081,Zenn_GenAI,AIが編む記憶を思想から設計する：Amulet Layer2（LLM Wiki） 改修記録,https://zenn.dev/ai_zawa/articles/58c7d1ae7dca42,"Thu, 16 Jul 2026 14:19:10 GMT","はじめに
+前回、Layer2（LLM Wiki）が動き、その実装記録を書きました。一つの区切りをつけた達成感がありましたが、改めて自分でAmuletを使ってみたとき、作り上げた高揚が落ち着いた目に、一つの事実が残りました。
+遅い。
+詳細分析のトリガーである『詳しく』という言葉を送ってから、分析結果が返ってくるまで約一分。これでは実用にとても耐えられないと感じました。
+
+ 第1章：AIとコードの役割...",2026-07-16
+feac9fb2d18c412b5ef38ce4d42578e1,Zenn_GenAI,Meta・X・OpenAI・Anthropic・Google・Microsoft──「AIの稼ぎ方」を6社で比べてみる,https://zenn.dev/thegatebreaker/articles/ai_platform_monetization_stacks,"Thu, 16 Jul 2026 10:30:06 GMT","Meta・X・OpenAI・Anthropic・Google・Microsoft──「AIの稼ぎ方」を6社で比べてみる
+TL;DR: モデル性能ランキングは毎週のように更新されるが、それはどの会社がどう儲けているかをほとんど教えてくれない。この記事では6社を「モデルの強さ」ではなく「お金の入口と出口」で並べ直してみた。MetaとXは既存のSNS注目度ビジネスにAIを載せているだけ、OpenAIとA...",2026-07-16
+d9741a7a9ea60ce420e8d42f69bf4ac8,Zenn_GenAI,"""生成中の「待つ」をどう設計したか 〜 MANAVO開発ログ③ 〜""",https://zenn.dev/mukuil_blog/articles/a78e8358958a4e,"Thu, 16 Jul 2026 09:01:42 GMT","こんにちは！株式会社ムクイルのapuです。
+株式会社ムクイルで開発している、マニュアル動画生成AI「MANAVO（マナボ）」の開発ログ第3回です。
+MANAVOは、PDF・Word・テキスト・既存動画などの資料をアップロードするだけで、AIがマニュアル動画を自動生成するサービスです。
+マニュアル動画生成AI MANAVO（マナボ）
+前回は、長時間の生成処理を安全に進めるための非同期ジョブ設計につい...",2026-07-16
+6d8608e9434cadd98dd41fedcfc523fb,Zenn_GenAI,VSCode で AI 開発、結局どれを使えばいいのか問題,https://zenn.dev/ganchan1091/articles/10a25361beb83b,"Thu, 16 Jul 2026 08:56:24 GMT","こんにちは！株式会社ムクイルのiwaです。
+普段は VSCode 上で AI を使いながら開発を進めているのですが、今回はその中でも「そもそも VSCode で AI を使って開発するなら、何を入れればいいの？」というテーマで書いてみます。初めての記事なので拙い部分もあると思いますが、同じように迷っている方の参考になれば嬉しいです。
+いま VSCode 上で動く AI コーディングツールは Git...",2026-07-16
+642f51e60dfbbb25b295c5bbc0e98d92,Zenn_GenAI,生成AIで部屋の未来を可視化する「HomeDesign AI」を作ってみた,https://zenn.dev/bowie2574/articles/cfbe3a78240b79,"Thu, 16 Jul 2026 08:41:05 GMT","はじめに
+「部屋をリフォームしたいけど、完成後のイメージができない」
+「家具を買いたいけど、本当に部屋に合うかわからない」
+「インテリアのアイデアをもっと簡単に試したい」
+このような悩みを解決するために、生成AIを使ったインテリアデザインサービス HomeDesign AI を開発しました。
+https://homedesignai.co/
+
+
+ 部屋の写真からAIで新しいデザインを生成
+Home...",2026-07-16
+93e4c4da638c9d5a4dc8a12e0f3cf25c,Zenn_GenAI,AIコーディングエージェント選定を“感覚”から“数字”へ：agent-cost-benchをAWS上で試す,https://zenn.dev/nttdata_tech/articles/130bd43f48e425,"Thu, 16 Jul 2026 08:30:06 GMT","1. はじめに
+AIコーディングエージェントの活用が広がる中で、開発現場では次のような問いが増えてきました。
+
+Kiro、Claude Code、GitHub Copilot、Codexなど、どのツールを選ぶべきか
+同じツールでも、どのモデルを使うべきか
+高性能なモデルを使うコストは、品質向上に見合っているのか
+チームや案件全体に展開したとき、費用対効果をどのように説明するのか
+
+AIコーディング...",2026-07-16
+f7b8ed6dafd71c506c44c19257fa7cb5,Zenn_GenAI,Claude Code の Plan モードをループエンジニアリングで楽にする,https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop,"Thu, 16 Jul 2026 07:40:05 GMT","はじめに
+Claude Code の Plan モードを、人間の労力を少なくして使いこなすためのループエンジニアリングをしてみました。この記事を読むと、hook を使って Plan モードに「質問による要件詰め」「実装のサブエージェント委譲」「計画の HTML 確認」を自動で組み込む方法がわかります。
+
+ ねらい
+Plan モードの運用に、次の 3 つを組み込みます。うち 1 と 3 の一部（re...",2026-07-16
+0d5d799495cb8e8efbd2aac481753b11,Zenn_GenAI,Claude Code で育児のエビデンス情報アプリを作る — AIが捏造する「それっぽい出典」を構造で防ぐ,https://zenn.dev/takotyan00/articles/claude-code-parenting-evidence,"Thu, 16 Jul 2026 07:01:30 GMT","「抱っこ癖がつくから、泣いてもすぐ抱っこしない方がいい」
+一度は耳にしたことがある通説だと思います。では、これに根拠はあるのでしょうか。答えは「根拠なし」で、応答的に抱っこすることが赤ちゃんの安心と発達を助ける、というのが今のエビデンスです。でも、そう言い切れる情報に、親はなかなかたどり着けません。
+育児の情報は、SNSでもネット検索でも、真偽さまざまなものが同じ顔をして流れてきます。子どもは十人...",2026-07-16
+1b3f57275a134dec9f738c7ec41421fb,Zenn_GenAI,Cloudflare WorkersとWorkers AIで「ボケたい」というWebサービスを作ってみた,https://zenn.dev/tkithrta/articles/306a38499d8730,"Thu, 16 Jul 2026 05:00:59 GMT","はじめに
+生成AIが生成した画像で一言ボケて、審査もしてくれるWebサービス「ボケたい」を作りました。
+https://boketai.tkithrta.workers.dev/
+試しに公開してみましたが、Cloudflare Workersの無料プランで動いているので、多分まともに動かないと思います。
+まあちょうどいい機会なので、どうやったらまともに動くAIサービスをOSSで作れるのか頑張ってみ...",2026-07-16
+f6badf2689371bf80a407e7fa6057159,Zenn_GenAI,Inklingを使う前に作る、キャッシュ込みLLMルータの3層設計,https://zenn.dev/hironakamura_ai/articles/e366d1444e7998,"Thu, 16 Jul 2026 04:15:09 GMT","LLMルータを「難しい仕事を強いモデルへ送る分類器」として作ると詰まる。足すたび、料金、待ち時間、権限、キャッシュが変わる。選ぶべきなのは、実行を最後まで戻せる運転条件だ。
+7月15日にThinking Machinesが公開したInklingは、総パラメータ975B、推論時に有効になるのは41BのMoEモデルだ。最大100万トークンの文脈と推論の努力量を調整するつまみも持つ。選択肢が増えると、単...",2026-07-16
+5ff4686c8da5dcb3159656a3668a983c,Zenn_GenAI,Seedance 2.5とは？Sora・Veo時代のAI動画制作を変える可能性について,https://zenn.dev/oliver986/articles/fa27c9c775d313,"Thu, 16 Jul 2026 03:38:08 GMT","最近、AI動画生成の進化速度に驚かされることが増えました。
+数年前まで、AIで動画を作るというと、
+
+「短いクリップを試しに生成する」
+
+という段階でした。
+しかし現在、AI動画技術の競争ポイントは大きく変わっています。
+単純に動画を生成できるかではなく、
+
+キャラクターをどれだけ維持できるか
+複雑な動きを自然に表現できるか
+映画のようなカメラワークを再現できるか
+クリエイターの意図をどこまで理解...",2026-07-16
+3bbc73ff84c905f8bf122d3f2bc35d88,Zenn_GenAI,Claude Codeの『指示書』を丸ごと書き換えたら、自分でpwdを叩いて道を確かめ始めた,https://zenn.dev/numarn/articles/system-prompt-override-diff-handson,"Thu, 16 Jul 2026 02:32:51 GMT","結論
+Claude Code のコマンドラインモード(claude -p)には、AIへの「基本の指示書」にあたる
+システムプロンプトを差し替える2つのやり方があります。丸ごと置き換える --system-prompt と、
+今ある指示書に一行足すだけの --append-system-prompt です。同じお願い(休日の過ごし方を1つ、
+箇条書きで教えて)を投げる分にはどちらも同じように効きまし...",2026-07-16
+c6ea78bbcf09fc87fa73afb39ea5290d,Zenn_GenAI,「腐った」「効いた」を、どう判定したか。AIコード半年運用で使った物差しの話,https://zenn.dev/rapls/articles/be48a298b1412c,"Thu, 16 Jul 2026 01:01:14 GMT","「AIに8割書かせたコードの半年運用」というシリーズで、腐った3つと効いた3つを挙げました。ありがたいことに、よく読まれました。
+
+答え合わせ本体（効いた3つ・腐った3つ）: https://zenn.dev/rapls/articles/7a1bac83df8b21
+
+
+ただ、あの記事では「これが腐った」「これが効いた」と結果だけを並べて、""何をもってそう判定したか""は書いていません。今回はその...",2026-07-16
+ac4ef3bdcadf3bbc779f1909a8a3668e,Zenn_GenAI,SNSで話題のClaude Codeスラッシュコマンド、実在するのか全部実機検証してみた,https://zenn.dev/nenene01/articles/claude-code-slash-commands-hands-on,"Thu, 16 Jul 2026 00:38:15 GMT","はじめに
+Claude Code のスラッシュコマンドのチートシートがX（旧Twitter）で定期的に流れてきます。
+
+
+よく使うコマンド20選（用途別チートシート）— 「まず使うなら /context → /diff → /code-review」
+
+新機能 /checkupの紹介  — 未使用スキルの掃除やCLAUDE.mdの整理をウィザード形式でやってくれる
+
+実務コマンド5選 — /goa...",2026-07-16
+43236372bd9a9bc48820e29d4da06dc7,Zenn_GenAI,GPT-5.6 vs Claude、実戦で差が出るのはここだ,https://zenn.dev/lingmu/articles/2026-07-16-gpt-5-6-claude-fable-5-showdown,"Wed, 15 Jul 2026 22:10:07 GMT","GPT-5.6 vs Claude、実戦で差が出るのはここだ
+2026-07-16 | 読了 4分 | #AI #ChatGPT #Claude #モデル比較
+OpenAIがGPT-5.6を全ユーザーに解放した。これで「どちらを使うべきか」という問いが、誰にとっても切実になった。6つの実戦ケースで試した結果、意外な場面で明暗が分かれた。
+
+
+ 両モデルの顔ぶれを整理する
+GPT-5.6は全ユーザー...",2026-07-16
+282c85655e7d3c85f011a35190ae77ff,Zenn_GenAI,AIが古いFAQを答えないように、GASで鮮度レビューキューを作る,https://zenn.dev/miraigent/articles/ai-faq-freshness-review-gas,"Wed, 15 Jul 2026 20:33:10 GMT","AIが古いFAQを答えないように、GASで鮮度レビューキューを作る
+
+社内FAQや問い合わせ返信の下書きにAIを使うとき、回答生成の精度だけを見ても安全な運用にはなりません。料金、営業時間、申込条件、担当窓口などの元情報が変われば、以前は正しかったFAQも古くなります。
+この記事では、GoogleスプレッドシートとGoogle Apps Script（GAS）で、確認期限を過ぎたFAQを自動でレビ...",2026-07-16
+a89d031f5c0bdfbe05320e0ff2fbdd41,Zenn_GenAI,『考える過程』を記録するMCPサーバーに、存在しない思考番号を投げたらそのまま通った,https://zenn.dev/numarn/articles/mcp-sequential-thinking-server-handson,"Wed, 15 Jul 2026 17:36:32 GMT",Claude Code のようなAIは、複雑な問題を解くときに「思考ステップ」を1つずつ積み上げながら考えることがあります。その考える過程そのものを記録する仕組みが、MCP(Model Context Protocol、AIに外部機能を追加できる仕組み)の公式サンプルとして配布されています。今回もAI本体を経由せず、自分で書いた小さなプログラムから直接このサーバーに指示を送り、返ってきた生の応答だ...,2026-07-16
+9ca819ef5cd6dc46ca25b20721880863,Zenn_GenAI,AI生成の「ピクセルアート風」画像を補正するOSSツールを作りました,https://zenn.dev/hugodz/articles/846cc1193ed1fd,"Wed, 15 Jul 2026 14:51:05 GMT","こんにちは！
+最近、AI生成のピクセルアートを補正するオープンソースツール、Sprite Fusion AI Pixel Snapperを作りました。
+
+
+ なぜ作ったのか？
+GPT ImageやGeminiなどの画像生成モデルは、ピクセルアートに必要な規則的なグリッド間隔を正確に扱うことができません。
+そのため、生成されるのは本当のピクセルアートではなく、ピクセルアートのように見える画像であるこ...",2026-07-16
+3f3292c22c32e4746fe92dfe12ebd901,Zenn_GenAI,【バイチャレ♯20】商業施設の思い出を爆速アプリ化！家族で楽しむ『完全ポータブルSPAビンゴゲーム』✨,https://zenn.dev/hiro_vibe/articles/c954b49fd42ff6,"Wed, 15 Jul 2026 13:47:58 GMT","はじめに
+こんにちは！今日も限界突破のVibe Codingで爆速開発を楽しんでいますか？
+ReactとTailwind CSSを1枚のHTMLに凝縮し、サーバーレスでどこでも動く「完全ポータブルSPA」を量産する企画「バイチャレ（Vibe Challenge）」。
+節目の第20弾となる今回は、誰もが一度は熱狂したことがある「ビンゴゲーム」に挑戦しました！
+
+ ✨ きっかけは、週末の「ビンゴ大会」...",2026-07-16
+650b0f17f5087a1a03fd47f23242caa6,Zenn_DL,網モデルで遊ぶ — 導出と故障モード【Attention is Tension 2】,https://zenn.dev/orangewk/articles/attention-is-tension-net-model-part2,"Wed, 15 Jul 2026 22:38:43 GMT","前回、LLMを「張力を持つ網」として見る絵を提示しました。
+【前回記事リンク】
+結び目は概念、糸は関係、糸の張りが重み。入力は網に載る錘やボールで、意味は網の沈み込み状態そのもの。Attentionは視線ではなく張力の伝達 — Attention is Tension、という話でした。
+（nodeとknotは言葉としても、どっちも結び目）
+前回の最後に、問いを並べました。RAGは一時的な錘なのか。...",2026-07-16
+8fe29909109d7734b8452ad4864b6ff8,Zenn_DL,なぜ拡散モデルでロボットの行動を学習できるのか？(後編)LLMとの関係,https://zenn.dev/fujimooon/articles/e6423c3ea9ed58,"Wed, 15 Jul 2026 11:22:56 GMT","はじめに
+前編では、ロボットの行動学習における「多峰性(同じ状況でも複数の正解がありうる)」という問題と、拡散モデルがそれをどう解決するのかを解説しました。
+👉 前編: 多峰性を解決する仕組み
+この後編では、
+
+拡散モデルと、ChatGPTやClaudeのようなLLM(大規模言語モデル)はどういう関係にあるのか
+実際のロボット基盤モデル(VLA)では、両者がどう連携しているのか
+「LLMの中に拡散...",2026-07-16
+46df18f105ef41b42e7de0b5a0205918,Zenn_DL,模倣学習のデータ収集方法まとめ(teleoperation/リーダーフォロワー/VR/UMI)と強化学習との使い分け,https://zenn.dev/fujimooon/articles/1911b0c167378b,"Wed, 15 Jul 2026 09:47:35 GMT","はじめに
+前の記事で、ロボットの「行動系列」とは、関節角度やエンドエフェクタ座標などのただの数字の行列であることを解説しました。
+👉 前の記事: 「行動系列」の正体とは何か
+では、この行動系列を含む学習データは、実際にどうやって集めるのでしょうか？ この記事では、代表的な4つのデータ収集方法と、最後に「模倣学習と強化学習はどう使い分けられているのか」を整理します。
+
+ 大前提:模倣学習とは何か
+模...",2026-07-16
+fcf060a6e6f0f91fb2535da1130c0e93,Zenn_DL,Diffusion Policyの「行動系列」って結局何？画像との関係を徹底図解,https://zenn.dev/fujimooon/articles/28c0111efe4bc0,"Wed, 15 Jul 2026 09:42:59 GMT","はじめに
+前回までの記事で、「拡散モデルはロボットの""行動""にノイズをかけて、それを除去することで学習する」という話と、LLMとの関係を解説しました。
+👉 前編: 多峰性を解決する仕組み
+👉 後編: 拡散モデルとLLMの関係
+ここでほぼ全員が引っかかるポイントがあります。それは、
+
+「行動」にノイズをかけるって、具体的に何にノイズをかけてるの？ロボットが映っている動画のフレームのこと？
+
+という疑...",2026-07-16
+f1c87d272fa765cff8505939f1e0ce77,Zenn_DL,なぜ拡散モデルでロボットの行動を学習できるのか？(前編)多峰性を解決する仕組み,https://zenn.dev/fujimooon/articles/e965bb77a98c12,"Wed, 15 Jul 2026 09:27:58 GMT","はじめに
+最近、ロボットアームの制御に「拡散モデル(Diffusion Model)」が使われている、という話を聞く機会が増えました。
+拡散モデルといえば、Stable DiffusionやMidjourneyのような「画像生成AI」で有名な技術です。なぜそれがロボットの「腕の動かし方」の学習に使われるのでしょうか？ 一見すると全く関係なさそうに見えます。
+
+この記事(前編)では、
+
+ロボットの行...",2026-07-16
+898b95a242a1ba2f54efdea86ac81799,Zenn_DL,Attention is Tension -- LLMを、張力を持つ網として眺めると、理解がはかどる,https://zenn.dev/orangewk/articles/attention-is-tension-net-model,"Tue, 14 Jul 2026 15:20:45 GMT","執筆: orange
+対話・検討: GPT-5.6 Sol、Claude Fable 5
+構成協力: Codex
+
+LLMを、「張力を持つ網」として考えると、ばらばらだったものが、私の中で急にひとつの絵になりました。
+この見方、おもしろくない？と思い、記事にしてみました。
+GPT-5.6 Sol、Claude Fable 5との対話をもとにしています。
+
+これは、「言葉で編んだ網」の上を転がる「問...",2026-07-16
+0a6c3dccccab6b8ecf0597800a715289,Zenn_DL,強いAIとは？汎用的知能を持つ仮想的AI,https://zenn.dev/h888s/articles/gtest-ai-gtest,"Mon, 13 Jul 2026 22:55:40 GMT","「強いAI」は、G検定で問われるAIの基礎概念の一つです。現在実用化されているAIとの違いを理解する上での出発点となる用語であり、AIの歴史や哲学的議論を学ぶ際にも繰り返し登場します。本記事では定義の範囲で、その意味と関連用語との違いを整理します。
+
+ 強いAIとは
+強いAIとは、人間と同等またはそれ以上の汎用的な知的能力を持つ仮想的なAIを指す概念です。特定のタスクに限定されず、あらゆる知的作業...",2026-07-16
+c534589ca0d10b7100f33985ffc7d2dd,Zenn_DL,【PyTorchで深層学習の仕組みを学ぶ④】MNIST実装編〜回帰と分類、交差エントロピー誤差〜,https://zenn.dev/kouch/articles/8c8e33c5277565,"Thu, 09 Jul 2026 10:46:57 GMT","はじめに
+前回は、MNISTデータセットの中身を確認し、DataLoaderを使ってミニバッチを作成するところまで進めました。
+https://zenn.dev/kouch/articles/a28316bffbdba8
+今回は、このデータを用いて、モデル学習から評価までのコードを見ながら、それぞれの概念について触れていければと思っています。
+
+ 余談：3Blue1Brownさんの動画
+こちらの動...",2026-07-16
+2a0a9f01b8680c1c6732d5c1d6fa6563,Zenn_DL,学習は、まだしない。学習済みモデルで「昼→夜」を動かしてみる｜医療AI・実践編 ⑤🌃,https://zenn.dev/voxelworks_jp/articles/6d0679c7b65397,"Tue, 07 Jul 2026 08:20:26 GMT","この回でやること
+前回まで（中級編 第2〜4回）で、Anacondaの仮想環境 medical-ai に PyTorch と GPU をそろえ、GPUがCPUより桁違いに速いことも確かめました。
+https://zenn.dev/voxelworks_jp/articles/4b3ff72575b3e5#まとめ
+今回はいよいよ「AIモデルを動かす」回です。ただし——まだ自分で学習はしません。
+学習...",2026-07-16
+3db0c630c0ac2f9e730fc8cca2df64fb,Zenn_DL,【初学者向け】ゼロから理解する拡散モデル 前提知識編（CNN / Transformer / VAE ）,https://zenn.dev/dxclab/articles/2313316015f3a7,"Mon, 06 Jul 2026 15:47:20 GMT","はじめに
+このシリーズでは画像生成AIで有名な拡散モデル（Diffusion Model）を基礎から追っていきますが、その中身は CNN・Positional Encoding・Self-Attention・Transformer・VAE といった深層学習の主要パーツの組み合わせでできています。本編に入る前に、この⓪回でそれらを独立した技術として理解しておきましょう。
+この記事では、各技術の核心ご...",2026-07-16
+b6590f8983c0a84e7b22608f7de3da3e,Zenn_DL,マルチモーダルAIのモダリティ統合技術,https://zenn.dev/dalab/articles/9ac4de2eb7d2fc,"Thu, 02 Jul 2026 02:03:12 GMT","はじめに
+データソリューション事業部の関田です。
+今回は、マルチモーダルAIのモダリティ統合技術について整理します。
+
+ マルチモーダルAI
+マルチモーダルAIとは、複数の形式のデータを入力とし、それらを統合して処理するAIのことです。
+入出力に用いられるデータ形式はテキストや動画像、音声など多岐に渡ります。
+データ形式はモダリティとよばれ、モデルによって扱うことができるモダリティの数・種類が異な...",2026-07-16
+3531d2629aebf7d958cc20a42c77c097,Zenn_DL,GPUは本当に速いのか? CPUと比べてみた｜医療AI・実践編 ④🏎️,https://zenn.dev/voxelworks_jp/articles/4b3ff72575b3e5,"Mon, 29 Jun 2026 05:50:11 GMT","はじめに
+前回は、GPUがあるPCで、PyTorchを使えるようにするところまでやりました。
+https://zenn.dev/voxelworks_jp/articles/81a423fccf6cf5
+今回は2つのことをやります。
+
+
+GPUがないPCで、PyTorchを入れる方法（前回はGPUあり版でした）
+そして、いよいよこのシリーズの目玉——「GPUがあると、どれくらい速いのか」を、実際に...",2026-07-16
+cbecfe63a85813f159bfa686023bf841,Zenn_DL,Physical AIに「目」を与える ― ロボットとドローンのためのストリーミング映像理解モデル VLX-Flow,https://zenn.dev/blackai_tech/articles/16c2349d010ae3,"Mon, 29 Jun 2026 05:41:04 GMT","Physical AIには「リアルタイムの目」が足りない
+2025年から2026年にかけて、ロボティクスとPhysical AIへの投資が急激に加速しています。NVIDIAはJetson Thorやロボット向けFoundation Modelを次々と発表し、Google DeepMindのRT-2は55Bのマルチモーダルモデルをロボット制御に直結させました。中国ではロボティクスVC投資が2025年...",2026-07-16
+8e077b432f6ff61117f3365d79d016b6,Zenn_DL,CORE-ReID V2: Re-IDを人物から車両へ拡張する,https://zenn.dev/cybercore/articles/8008c05fcb519a,"Fri, 26 Jun 2026 06:00:06 GMT","CORE-ReID V2: Re-IDを人物から車両へ拡張する
+Cybercore | 2026年6月
+
+
+物体再識別（ReID）は映像監視における中核的な課題です。カメラネットワークを与えられたとき、異なる視点・照明・カメラ特性をまたいで同一の人物や車両を安定して検出できるか。サイバーコアでは、CORE-ReID V1フレームワークを通じてこの問題に取り組んできました。本記事では、CORE-Re...",2026-07-16
+c3bcb8ca7b2a355dee1db9a9dcb276f7,Zenn_DL,深層学習―基礎と概念― 第7章 解答例,https://zenn.dev/yoshitakamo/articles/62b3ee157c396c,"Thu, 25 Jun 2026 07:51:20 GMT","7.1 (★)
+
+\mathbf{w} - \mathbf{w}^{\star} = \sum_{i} \alpha_{i} \mathbf{u}_{i} \tag{7.10}
+
+を
+
+E(\mathbf{w})=E\left(\mathbf{w}^{\star}\right)+\frac{1}{2}\left(\mathbf{w}-\mathbf{w}^{\star}\right)^{\math...",2026-07-16
+3a5147080d89f208a63a41c7eb3fd34a,Zenn_LLM,1bit量子化した27BのLLMをiPhone実機で動かし、知能まで測ってみた,https://zenn.dev/lube8163/articles/624f7f1e7ef67d,"Thu, 16 Jul 2026 16:08:01 GMT","!
+本記事は AI（Claude / Codex）の補助を受けて執筆しています。実装・実機計測・数値はすべて実際に行ったものですが、文章の構成や整理、説明画像の作成に AI を利用しています。
+
+
+ はじめに
+「27B（270億パラメータ）規模のLLMが、クラウドを介さずiPhoneの中だけで動く」——PrismMLが公開した Bonsai 27B は、それを可能にすると謳うモデルです。本記事では...",2026-07-16
+4daeb1004401025c4b1ade29452675f7,Zenn_LLM,AI利用に関する「オフローディング」と「アウトソーシング」の違いとは？,https://zenn.dev/pdfractal/articles/ac905d21d86a9c,"Thu, 16 Jul 2026 15:57:31 GMT","はじめに
+AIの利用方法を考えるとき、「AIに任せる」という一言ではかなり粗すぎます。同じようにAIへ作業を投げているように見えても、実際には、利用者が自分の判断力を拡張している場合と、自分の判断力の不足をAIで隠そうとしている場合があります。この二つは見た目が似ていても、結果は大きく変わります。
+この違いを整理するうえで有効なのが、「オフローディング」と「アウトソーシング」という区別です。ただし...",2026-07-16
+bcdfee52f2ed17db1ca3da9bbac7ea15,Zenn_LLM,広告コピー10案を一括生成するLLMシステムの実装【Google/Meta/X対応】,https://zenn.dev/kotaozaki/articles/adcopyai-generation-system-2026-07-17,"Thu, 16 Jul 2026 15:51:34 GMT","広告コピー10案を一括生成するLLMシステムの実装【Google/Meta/X対応】
+
+ はじめに：広告コピー制作の「現場の痛み」
+マーケターやエンジニアが広告運用を始めると、必ずぶつかる壁がある。コピーのバリエーション不足だ。
+「CTRが低い。コピーを変えよう」→ ライターに依頼 → 数日後に3〜5案が上がってくる → A/Bテストを回す → また結果待ち……。このサイクルは遅すぎる。しかも各プ...",2026-07-16
+014f3316a485a0961715233fe7f00453,Zenn_LLM,3カ月で8つの自作リポジトリを接続し、AI開発の品質基盤を作った,https://zenn.dev/rna4219/articles/a1bd8f0f54b99f,"Thu, 16 Jul 2026 15:49:32 GMT","!
+リンクの紹介は目視で確認。文章ドラフトおよび調査において生成AIを利用しています。
+
+
+ TL;DR
+およそ3カ月前、私は「従来のQAを捨てる時期が来た」という記事を書いた。
+そこで言いたかったのは、QAが不要になるという話ではない。
+人間が手で大量のテストケースを書き、実装完了後に順番に消化し、最後に品質判断を行う働き方を、QAの中心から外した方がよいという話だったと思う。
+仕事で使用すると...",2026-07-16
+798dc48f36ec2b47d2da52f4c13072aa,Zenn_LLM,【旧版・無料公開】Claudeは明日もあなたを忘れる — MCP Memory Server cpersona 設計と実践,https://zenn.dev/cloto/books/claude-memory-mcp-server-archive,"Thu, 16 Jul 2026 14:53:32 GMT",有料版『Claudeは明日もあなたを忘れる』の旧版（CPersona v2.4.4 時点、2026年4月）を無料公開したアーカイブです。MCP Memory Server「cpersona」の設計思想——ベクトル検索・FTS5・エピソード記憶・プロファイル記憶・エージェント分離・Confidence Score——を全13章で解説します。導入手順や検索アルゴリズムはその後大きく進化しており、現行版...,2026-07-16
+f8c9eb38509b923b7b4590e43d252fa7,Zenn_LLM,"プロンプトをわざと13,000トークンに太らせたら、AIの原価が下がった——prompt cachingの「4096トークンの壁」",https://zenn.dev/tyuya/articles/haiku45-prompt-caching,"Thu, 16 Jul 2026 14:40:47 GMT","個人でAI献立アプリを準備しています。冷蔵庫から使いたい食材を取り出して撮ると、AIが献立を提案してくれるアプリです。運営は私一人と、AIがひとり。実装はすべてClaude Code（AI）にやってもらい、私は動作とレシートを確認する係です。
+月500円のサブスクで成立させたいので、AIの原価は1円単位で気にしています。その節約の本命がprompt caching——同じプロンプトの前半部分をキャ...",2026-07-16
+974fa43d7ea1270d5d6f4b9318471a74,Zenn_LLM,キャラAIは、なぜ雑談のたびに事件を起こすのか,https://zenn.dev/viuk_sirokuma/articles/94a55818d35e7b,"Thu, 16 Jul 2026 13:39:46 GMT","「10万件、作ればよくない？」
+VIUK StoryというキャラクターAIを作っている。
+好きなキャラクターと一対一で話せる。複数人の掛け合いもできる。必要ならAIがナレーターになり、風景や時間、登退場、秘密まで管理する。でも、ただ雑談したいときは普通に雑談できる。
+かなり欲張りな設計だ。
+このAIを育てるため、まず10万件の候補会話を作り、検査後に9万件をSFTへ使う計画を立てた。無料APIを集...",2026-07-16
+7298524f7fb7c218b5d1078a1a963c55,Zenn_LLM,OmniRoute+OpenCodeで月16億トークン無料は実現できるのか,https://zenn.dev/mskbhd/articles/lab-127-omniroot-free-claude-code16,"Thu, 16 Jul 2026 13:30:26 GMT","はじめに
+X(旧Twitter)でこんな投稿が話題になっていました:
+
+You can run Claude Code on 1.6 billion free tokens a month.
+Two open source projects make it work: free Claude Code + Omniroot.
+Plug them together and you get the s...",2026-07-16
+a51ac5275b2cf64d2088d97bbb497ad9,Zenn_LLM,Agentic Architectures 35パターンを実装したOSSを動かしてみた,https://zenn.dev/mskbhd/articles/lab-119-agentic-architectures,"Thu, 16 Jul 2026 13:30:26 GMT","はじめに
+Xで流れてきたこのツイートが気になった:
+
+One of the more useful things you can do when learning agentic AI is study the patterns in isolation before combining them. The Agentic Architectures library from FareedKhan...",2026-07-16
+708326753cca2e13b0bcf1b6821e2f3e,Zenn_LLM,【2026年最新】Bonsai 27B完全ガイド — iPhoneで動く1-bit版とTernary版の違い・選び方,https://zenn.dev/amu_lab/articles/bonsai-27b-ternary-1bit-guide,"Thu, 16 Jul 2026 13:23:37 GMT","!
+本記事は 2026年7月16日時点 の情報に基づきます。Bonsai 27Bは2026年7月14日リリースの新しいモデルで、HuggingFace上のバリアント構成やベンチマークは今後更新される可能性があります。数値は各モデルカード・公式発表を主に、実測値との差がある箇所は併記しています。
+
+
+ この記事で分かること
+「27BクラスのモデルがiPhoneで動く」というニュースを見て、いざ試そう...",2026-07-16
+c5289a997696f8893413685e133191d1,Zenn_LLM,個人でLLMゲートウェイを本番運用する ——『作った』ではなく『動かし続けている』話,https://zenn.dev/seiryu_dev/articles/llm-gateway-solo-ops-6-pitfalls,"Thu, 16 Jul 2026 13:10:19 GMT","この記事について
+自宅のPCで、自作のLLMゲートウェイを常時稼働させています。趣味のデモではなく、日々の仕事（副業の受託作業・調査・実装）が実際にその上を通っています。止まると自分の作業が止まる、という意味で「本番」です。
+この記事では、コードもconfigも出しません。APIキー・受託先のデータ・個人環境のパスが混ざっているからです。代わりに、
+
+どういう構成にしたか（構成図）
+なぜその設計に...",2026-07-16
+0179d4f47acdbab391b9ac050839ef93,Zenn_LLM,Gemma 4 iPhone実験の番外編：dLLMをGGUFで動かしてみる,https://zenn.dev/lube8163/articles/0799946abe3c98,"Thu, 16 Jul 2026 12:32:13 GMT","!
+本記事は AI（Claude / Codex）の補助を受けて執筆しています。実装・実機計測・数値はすべて実際に行ったものですが、文章の構成や整理、説明画像の作成に AI を利用しています。
+
+
+ はじめに
+前回まで、Gemma 4 12B を Core ML 化して iPhone 実機で動かす実験をしていました。
+
+12B の decoder を分割して低メモリで通す
+image / audi...",2026-07-16
+acb489aba9ae7d739454308b94a3c445,Zenn_LLM,AIに任せた長時間処理が途中で落ちて全部やり直し ― チェックポイントと冪等性で「再開できる」ジョブを設計する,https://zenn.dev/akira_papa/articles/d4225cbbe36248,"Thu, 16 Jul 2026 11:49:08 GMT","はじめに ― 「あと3分で終わるはずだった」が一番つらい
+こんにちは、あきらパパです。
+AIエージェントやLLMに、こんな処理を任せたことはありませんか。
+
+500件のドキュメントを一括で要約させる
+数百枚の画像に対して1枚ずつ説明文を生成する
+大量のログを順番に分類・タグ付けする
+
+こういう「長時間まわる処理」をAIに投げると、だいたい 8割くらい進んだところで落ちます。レート制限、ネットワーク...",2026-07-16
+9c433e6f77f237f40edb5632ec2c6da5,Zenn_LLM,"""山本さんを半日休ませたら、会社は3か所で止まった ── 不在を試し、止まった事実から依存の型を見つけるアプリ""",https://zenn.dev/hiroshift/articles/37216bd3f0b6f6,"Thu, 16 Jul 2026 11:12:42 GMT","この記事は、架空の事務代行会社「北白事務サービス」を舞台にした公然のシナリオです。登場する会社・人物・業務・データはすべて架空です。画面のUIは実際に動きますが、AIの分類は「こう出る」という例（本番は不在テスト中の短い停止メモを読み取ります・分類を外すこともあり得ます・最終確認は人）。""ありそうな困りごと""に小さなアプリを一つ作る連載の、28日目です。
+
+
+
+ はじめに
+「『あの人しかできない』...",2026-07-16
+de34317d23fd75fdce2fb6aa3b193084,Zenn_LLM,LLM時代の次の課題は「知能」ではなく「接続」ではないか ― Cognitive OS Translation Middleware構想,https://zenn.dev/loni9060/articles/4bea5c1ceb7f8b,"Thu, 16 Jul 2026 10:22:49 GMT","※本モデルは人格分類や能力評価を目的としたものではなく、情報接続形式の設計モデルです。
+人間とAIの間に「翻訳レイヤー」を作る ― 認知OS Translation Middlewareの設計思想
+はじめに
+生成AIの性能向上によって、AIは急速に高度な情報処理能力を獲得しています。
+しかし、実際に人間がAIを利用するとき、別の問題が残っています。
+それは、
+AIが答えを生成できることと、人間に適...",2026-07-16
+6734ab167b36f1cc03a31168d0876e1e,Zenn_LLM,AIキャラクターに「黙る」ことを教える ― 自発メッセージを3段ゲートで設計した話,https://zenn.dev/yuralume/articles/d89cff2cf7bc57,"Thu, 16 Jul 2026 09:23:16 GMT","この記事の対象読者と前提
+
+LLM を使ったチャットボット / AI キャラクターを作っている、または作りたい人
+「AI が自分から話しかけてくる」機能を実装しようとして、うざいボットが出来上がった経験のある人
+実装言語は Python ですが、この記事の中心は言語非依存の設計の話です
+
+私は Yuralume という self-host 型の AI キャラクタープラットフォームを一人で開発してい...",2026-07-16
+912c859b8645938229e530835a6d884e,Zenn_LLM,Transformerは過去を見返す。Mambaは状態を書き換える——Mamba-1/2/3をMarkdown図解,https://zenn.dev/jamesbob/articles/mamba-md-visual-guide,"Thu, 16 Jul 2026 08:39:16 GMT","長文を読むAIは、過去を全部保存するべきか。要点だけを持ち歩くべきか。
+TransformerとMambaの違いは、突き詰めるとこの問いに行き着く。
+
+Transformerは、必要になったら過去を見返す。
+Mambaは、読み進めながら内部状態を書き換える。
+本記事では、Mamba-1からMamba-3までを、画像ファイルを使わずにMermaid・表・コードで追いかける。数式は最小限だが、設計思想...",2026-07-16
+857bb85e9985823d77982306c208692a,Zenn_LLM,ループエンジニアリングのよくある失敗例6選 —— ループは判断を増幅する装置である,https://zenn.dev/ryunotezenn/articles/f80b1eac1f8bfd,"Thu, 16 Jul 2026 08:06:41 GMT","🚀 はじめに
+2026年6月にAddy Osmani氏が提唱したループエンジニアリング（Loop Engineering）は、「人間がプロンプトを打つ」のをやめ、AIエージェントが自走するループそのものを設計する手法として急速に広まりました。
+一方で、実際にループを回し始めたチームから聞こえてくるのは成功談ばかりではありません。ループは設計者の判断を増幅する装置です。良い判断も増幅しますが、判断の...",2026-07-16
+aa37a62482249f1a3a73f929e36bef77,Zenn_LLM,話題の 1-bit LLM「Bonsai 27B」、英語なら評判通り、日本語ではポンコツ…,https://zenn.dev/orangewk/articles/bonsai-27b-1bit-japanese-eval,"Thu, 16 Jul 2026 07:46:29 GMT","3.5GB で 27B が動く
+PrismML が 7/14 に出した Bonsai 27B が話題になっています。Qwen3.6-27B の重みを 1-bit（{-1, +1}）まで削って 3.5GB にしたモデルで、公称は「FP16 比 89.5% のベンチ維持」。
+27B がスマホに載る、が売り文句です。
+自分のローカルマシンでは、エージェントメモリのために、日本語の記憶テキストをローカル ...",2026-07-16
+f3b08091556298cdeb672dbd11a60635,Zenn_NLP,Agent-as-a-Judgeは本当に必要なのか — 評価にエージェントを使う意味を考える,https://zenn.dev/takkuhiro/articles/agent-as-a-judge-necessity,"Mon, 13 Jul 2026 22:00:16 GMT","はじめに
+LLMの出力を別のLLMに採点させる LLM-as-a-Judge は、いまや評価手法の定番になりました。その進化形として、2024年に Agent-as-a-Judge という概念が提案されています（Zhuge et al., Meta AI &amp; KAUST、ICML 2025採録）。評価される側だけでなく、評価する側もエージェントにする、という発想です。
+初めてこの名前を見た...",2026-07-16
+9ebfc6bd41e7afde5f57c3f50b965139,Zenn_NLP,Claude codeと論文書いたら良い論文“は”できた,https://zenn.dev/mkj/articles/cco-paper_20260531,"Wed, 08 Jul 2026 02:50:05 GMT","こんにちは，松尾研究所の尾崎です．25卒でデータサイエンティストをやっています．
+皆さん，CLI Agent使いこなせてますか？
+自分はClaude CodeをオーケストレーターとしてCodex CLI・Gemini CLI・Opusサブエージェントを協調させる開発環境Claude Code Orchestraを作ってきましたし，最近は自分のObsidian vaultを複数エージェントで回すCl...",2026-07-16
+56496d8b463b14560043e9dfa9c5c94a,Zenn_NLP,次元削減による日本語埋め込み表現の文章長バイアスの検証【JSAI発表論文】,https://zenn.dev/mtec_blog/articles/f15efb53f2ce40,"Tue, 07 Jul 2026 08:14:24 GMT","1.はじめに
+MTECの鈴木です。今回は2026年度 人工知能学会全国大会（第40回）で発表した研究内容についての解説記事です。
+講演情報
+https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/2Yin-B-02
+
+発表ポスター
+
+
+
+ 2.研究背景
+文埋め込み表現はテキスト情報を多次元ベクトル空間で表すことができ、様々な実用的な下流...",2026-07-16
+9138785ec0994d0b594027736c816d6a,Zenn_NLP,LLMエージェント評価の現在地 — 主要ベンチマークに学ぶ設計原則,https://zenn.dev/takkuhiro/articles/llm-agent-evaluation-benchmarks,"Mon, 06 Jul 2026 22:15:05 GMT","はじめに
+LLMエージェントのデモを作るのは簡単になりました。ReActループにツールを繋げば、調べ物や予約、買い物までこなすエージェントが1日で動きます。しかし本番投入となると話は別です。「デモでは動いたのに、本番では10回に1回失敗する」「タスクは達成したように見えて、裏で余計な操作をしていた」——エージェント開発者なら心当たりがあるはずです。
+PoCが本番に行けない理由の1つは品質保証、つま...",2026-07-16
+4f601d1a12d888a09ea40f551b5231fe,Zenn_NLP,Azure AI Languageとは何ができる？,https://zenn.dev/headwaters/articles/0db80a7e7d25e3,"Sat, 27 Jun 2026 10:20:18 GMT","執筆日
+2026/6/27
+
+ やること
+Azure Languageとは何か？何ができるのか？をまとめていこうかなと。
+
+ Azure Language Service とは？
+Azure AI Language（Azure Language in Foundry Tools）は、テキストの理解・解析を行う自然言語処理（NLP）機能をクラウドAPIとして提供するサービスです。旧称 Text An...",2026-07-16
+df870d18a7c89b68f0430c84de5a16c5,Zenn_NLP,2026年6月 AIビジビリティランキング — 104社のECサイトを4つのAI APIで殴って引用パターンを調べた,https://zenn.dev/pulse_digital/articles/ai-visibility-2026-06-ranking,"Fri, 26 Jun 2026 13:21:39 GMT","やったこと
+「ChatGPTに自社を推薦させる」ための技術的条件って何だろう？
+これを調べるために、104社のECサイトに対して4つのAI API（OpenAI / Anthropic / Google Gemini / Perplexity）を叩き、引用パターンを統計分析した。
+// 計測の概要
+const engines = ['chatgpt', 'claude', 'gemini', 'p...",2026-07-16
+df13ffeace7a1708d4c7884663c8bd81,Zenn_NLP,GiNZA + Docker + CUDAで環境構築から実践！NLPモデルを使った禁止用語検出プログラム入門,https://zenn.dev/sapolas/articles/a7293541eb4460,"Tue, 16 Jun 2026 11:26:58 GMT","はじめに
+日本語の自然言語処理（NLP）を行う際、強力で使いやすいライブラリとしてGiNZAがあります。GiNZAは、オープンソースのNLPライブラリである「spaCy」をベースに構築されており、リクルート社と国立研究開発法人情報通信研究機構（NICT）の共同開発によって生まれました。高速かつ高精度な形態素解析、係り受け解析、固有表現抽出などを簡単なAPIで利用できるのが特徴です。
+本記事では、G...",2026-07-16
+3501ad14442a369d5b1b430b4920dbc2,Zenn_NLP,2026年5月 AIビジビリティランキング — 104社のECサイトを4つのAI APIで殴って引用パターンを調べた,https://zenn.dev/pulse_digital/articles/ai-visibility-2026-05-ranking,"Sat, 13 Jun 2026 09:41:54 GMT","やったこと
+「ChatGPTに自社を推薦させる」ための技術的条件って何だろう？
+これを調べるために、104社のECサイトに対して4つのAI API（OpenAI / Anthropic / Google Gemini / Perplexity）を叩き、引用パターンを統計分析した。
+// 計測の概要
+const engines = ['chatgpt', 'claude', 'gemini', 'p...",2026-07-16
+5a8aa942d646e2d04c625d66aa66a25c,Zenn_NLP,Claude Codeと91本のPDFで知識グラフを作って卒論を書いた（そして何が壊れたか）,https://zenn.dev/keipi/articles/lbd-knowledge-graph-91pdfs,"Thu, 11 Jun 2026 15:53:34 GMT","完成した知識グラフの可視化（622ノード・846エッジ、vis-network製）。左下のギャップ候補リストには後述する「あるバグ」が写り込んでいます
+卒論のために、91本のPDF文献（約460万字）から概念を抽出して知識グラフを作りました。使ったのはClaude Code（当時のClaude Opus 4.5）とPythonスクリプト17本。最終的に622概念・846エッジのグラフになり、そこか...",2026-07-16
+bf4dcd33b064f27ba238adfbbd9f9812,Zenn_NLP,声は“完璧”、漢字はポンコツ——TTSデモに踊らされず読み分けを数値化した,https://zenn.dev/tellernovel_inc/articles/ja-tts-g2p-benchmark,"Tue, 09 Jun 2026 21:36:18 GMT","テラーノベルで機械学習を担当している川尻です。
+日本語のTTS（音声合成）は次々と登場します。デモを見るかぎり、声は完璧で漢字もスラスラ。なのに、いざ自分で使おうとすると、これがポンコツなんです。デモがうまく聞こえるのは、調子のいいところを切り出している——あるいはそのために調整している——からで、長めの文章を読ませると途端にアラが出ます。
+なかでも分かりやすいのが漢字の読みです。正解・不正解がは...",2026-07-16
+fb2f952f1d0dd20284e150b15b508f91,Zenn_NLP,AIの誤読を許さない。プロンプトを安全な「読み形式」へトランスパイルする防衛戦術,https://zenn.dev/snknsk/articles/go-kagome-prompt-defense,"Fri, 05 Jun 2026 01:00:00 GMT","https://github.com/shouni/audio
+
+ 1. 【課題】生テキストが招く「予測不能な誤読」と音声AIの限界
+lyria-3-pro-preview や音声合成（TTS）エンジンに、ユーザーが入力した日本語のプロンプトをそのまま丸投げすると、以下のような「現実の壁」にぶつかります。
+
+
+漢字の誤読による世界観の崩壊: 「刃」を「ハ」と読まれて緊迫感が削がれたり、「運命」を「...",2026-07-16
+53a5ebd4ecf3f36b697ad1dec7c5fb3f,Zenn_NLP,【図解】BERT・GPT・T5は何が違う？ エンコーダ/デコーダ/エンコーダデコーダを具体例で整理,https://zenn.dev/manato_boys/articles/9a574a4f82ae97,"Wed, 03 Jun 2026 14:24:47 GMT","「BERTはエンコーダ、GPTはデコーダ、T5はエンコーダデコーダ」——名前は聞くけれど、結局入力と出力に何が起きているのか、学習と推論はどう違うのかがぼんやりしている。そんな状態を一気に解消することを目指した記事です。
+
+ 対象読者・この記事で扱うこと
+
+
+対象: Transformer系モデルの名前は知っているが、エンコーダ／デコーダ／エンコーダデコーダの違いを自分の言葉で説明できない人
+
+前...",2026-07-16
+fa584974bd3e8105d3235ec8a5baa3af,Zenn_NLP,【連載：Atra/21g 第2回】「主体」を位相運動として記述する：Atra 最小実装（MVA）の設計思想,https://zenn.dev/motimotinotch/articles/56aa5055b02689,"Thu, 28 May 2026 15:08:22 GMT","先行研究「Atra（Associative Trace Architecture）」との混同防止に関する注記
+本プロジェクトおよび本記事で使用している「Atra」は、高次元セマンティック空間におけるLLMとベクトルデータベースを用いた意味の「Attractor（アトラクタ：引き込み子）」操作を志向する個人研究プロジェクトであり、その名称は「Attractor」の概念に由来しています。
+一方、渡辺幸...",2026-07-16
+ccf34433d7e0e39476c766d2c01b0330,Zenn_NLP,LLMのハルシネーションは減ったのか？種類別に整理する【前編：対策で減ったもの・残ったもの】,https://zenn.dev/snow_rabbit/articles/d3d442c420aee9,"Thu, 28 May 2026 12:36:59 GMT","はじめに
+LLMは明らかに賢くなった。
+GPT-3の時代と比べれば、現在のモデルが返す回答の質は別物に見える。しかし「ハルシネーションが消えた」とは誰も言わない。むしろ、モデルが高度化するにつれて、ハルシネーションの性質が変化し、場合によっては悪化しているケースすら報告されている。
+この記事では、LLMのハルシネーションを種類ごとに分類したうえで、モデルの進化によって**「減ったもの」「あまり減っ...",2026-07-16
+235e764265d480e3e9045b0b5e7b98ed,Zenn_NLP,【連載：Atra/21g 第1回】AIに「属性」ではなく「力学」を見る：潜性的力学のサンプリングと形式化,https://zenn.dev/motimotinotch/articles/927ceeda0c4803,"Tue, 26 May 2026 14:25:32 GMT","先行研究「Atra（Associative Trace Architecture）」との混同防止に関する注記
+本プロジェクトおよび本記事で使用している「Atra」は、高次元セマンティック空間におけるLLMとベクトルデータベースを用いた意味の「Attractor（アトラクタ：引き込み子）」操作を志向する個人研究プロジェクトであり、その名称は「Attractor」の概念に由来しています。
+一方、渡辺幸...",2026-07-16
+5e75a36a8cccf925d3cbd6c13472bafc,Zenn_Python,エージェント設計・オーケストレーションをハンズオンで学ぶ,https://zenn.dev/hkame/articles/zenn-article-agentic-orchestration,"Thu, 16 Jul 2026 20:27:56 GMT","はじめに
+Anthropicが2026年3月に開始した技術認定資格「Claude Certified Architect(CCA-F)」では、エージェント設計・オーケストレーションが最も比重の高い出題領域とされています。座学だけで理解するのは難しい分野なので、実際に手を動かしながら基礎パターンを体に染み込ませることにしました。
+この記事では、環境構築からつまずいたポイント、4段階のハンズオン(単発...",2026-07-16
+76d195c5a7d43802eb191d0858583aca,Zenn_Python,AIに「目」を授ける。Streamlitで画像解析チャットアプリに進化させる,https://zenn.dev/jackey_watawata/articles/7aec2d7fe573e2,"Thu, 16 Jul 2026 17:23:39 GMT","はじめに
+前回、Webアプリ化に成功しました。今回はそのアプリに「画像認識機能」を追加します。Geminiはただのチャットボットではなく、画像を理解する「目」を持っています。これを使って、画像をアップロードするだけでAIが内容を教えてくれるツールを作ります。
+
+ 実装コード（gemini.pyの進化版）
+PIL ライブラリ（Python画像処理ライブラリ）を使って、画像をAIに渡します。
+impo...",2026-07-16
+bcdfee52f2ed17db1ca3da9bbac7ea15,Zenn_Python,広告コピー10案を一括生成するLLMシステムの実装【Google/Meta/X対応】,https://zenn.dev/kotaozaki/articles/adcopyai-generation-system-2026-07-17,"Thu, 16 Jul 2026 15:51:34 GMT","広告コピー10案を一括生成するLLMシステムの実装【Google/Meta/X対応】
+
+ はじめに：広告コピー制作の「現場の痛み」
+マーケターやエンジニアが広告運用を始めると、必ずぶつかる壁がある。コピーのバリエーション不足だ。
+「CTRが低い。コピーを変えよう」→ ライターに依頼 → 数日後に3〜5案が上がってくる → A/Bテストを回す → また結果待ち……。このサイクルは遅すぎる。しかも各プ...",2026-07-16
+d4f77462c5047dc54e990068e4482828,Zenn_Python,Responsible AIを『人が責任を持つ』で終わらせない――RPEと検証可能なAI,https://zenn.dev/dantarg/articles/rpe-governed-reference-kernel-m1,"Thu, 16 Jul 2026 15:29:09 GMT","責任経路工学（RPE）の実装現在地 2026-07
+
+この記事の要点
+責任経路工学（Responsibility Pathway Engineering / RPE）は、AIが関与する行為を実行前に評価し、allow / hold / human_gate / denyへ振り分ける外部カーネルである。
+人間が範囲と解釈を定めたRequirement Packを用い、停止理由、不足情報、人間への戻り...",2026-07-16
+a51ac5275b2cf64d2088d97bbb497ad9,Zenn_Python,Agentic Architectures 35パターンを実装したOSSを動かしてみた,https://zenn.dev/mskbhd/articles/lab-119-agentic-architectures,"Thu, 16 Jul 2026 13:30:26 GMT","はじめに
+Xで流れてきたこのツイートが気になった:
+
+One of the more useful things you can do when learning agentic AI is study the patterns in isolation before combining them. The Agentic Architectures library from FareedKhan...",2026-07-16
+5ff9cb4a008e36a96bbc80a278941dab,Zenn_Python,競馬AI開発記録 #24：単勝特化の限界を「複勝専用モデル」で突破する：特徴量空間の物理的隔離,https://zenn.dev/ricotiler/articles/keiba-ai-24-top3-portfolio-and-feature-isolation,"Thu, 16 Jul 2026 13:12:24 GMT","📄 概要と課題提起
+前回、我々は単勝ROIが85.17%という頭打ちに直面しました。この根本原因は、本命帯（Favorite）の確率推定における**「物理的な上限」**にあることが判明しました。
+単一のランキングモデルによる全方位的な予測には限界があり、特に2着や3着といった「複勝圏内」に粘り込む馬の評価において、市場が持つオッズ情報を十分に活用できていませんでした。
+本稿（第24話）では、この課...",2026-07-16
+c5289a997696f8893413685e133191d1,Zenn_Python,個人でLLMゲートウェイを本番運用する ——『作った』ではなく『動かし続けている』話,https://zenn.dev/seiryu_dev/articles/llm-gateway-solo-ops-6-pitfalls,"Thu, 16 Jul 2026 13:10:19 GMT","この記事について
+自宅のPCで、自作のLLMゲートウェイを常時稼働させています。趣味のデモではなく、日々の仕事（副業の受託作業・調査・実装）が実際にその上を通っています。止まると自分の作業が止まる、という意味で「本番」です。
+この記事では、コードもconfigも出しません。APIキー・受託先のデータ・個人環境のパスが混ざっているからです。代わりに、
+
+どういう構成にしたか（構成図）
+なぜその設計に...",2026-07-16
+6734ab167b36f1cc03a31168d0876e1e,Zenn_Python,AIキャラクターに「黙る」ことを教える ― 自発メッセージを3段ゲートで設計した話,https://zenn.dev/yuralume/articles/d89cff2cf7bc57,"Thu, 16 Jul 2026 09:23:16 GMT","この記事の対象読者と前提
+
+LLM を使ったチャットボット / AI キャラクターを作っている、または作りたい人
+「AI が自分から話しかけてくる」機能を実装しようとして、うざいボットが出来上がった経験のある人
+実装言語は Python ですが、この記事の中心は言語非依存の設計の話です
+
+私は Yuralume という self-host 型の AI キャラクタープラットフォームを一人で開発してい...",2026-07-16
+632840da992cdb18f14f416ac012b308,Zenn_Python,MCPとは何か？Microsoft Fabric Data Agentと接続して仕組みを理解する,https://zenn.dev/akkodis_jp/articles/890537b27d4fb0,"Thu, 16 Jul 2026 04:01:38 GMT","はじめに
+
+ 記事を書く背景
+最近AIエージェント界隈でMCP（Model Context Protocol）という言葉をよく見かけます。しかし実際に触ってみると、
+
+MCP サーバー？
+MCP クライアント？
+REST APIと何が違う？
+
+という疑問を持つ方も多いのではないでしょうか。
+本記事ではMicrosoft Fabric Data Agentを実際に接続しながらMCPを理解できるように...",2026-07-16
+e7cf8cd9d8c8db340dbe4e55f06a5ae7,Zenn_Python,タイトルと本文ハッシュで二重投稿を防ぐ - 実装手順,https://zenn.dev/kmn/articles/7c0ab2f816dfd8,"Thu, 16 Jul 2026 02:34:09 GMT","タイトルと本文ハッシュで二重投稿を防ぐ - 実装手順
+自動処理は、スケジュール登録だけでは安定しません。再試行や複数キューにより、ファイル名が違う同一記事を二重投稿することがあります。
+この記事では「実装手順」の観点から、入力、処理、成果物、公開結果を分離する方法を整理します。仕組み全体の理由まで扱います。
+
+ 基本方針
+下書き作成前に、正規化タイトルと本文ハッシュを公開済み結果と比較します。
+プ...",2026-07-16
+c0a52187d9c03199a52d5912e17a88c2,Zenn_Python,LLMのJSON出力が壊れてたので json-repair で解決した話,https://zenn.dev/aiforall/articles/6bb71d790bcf55,"Thu, 16 Jul 2026 00:36:33 GMT","LLMにJSON形式で出力させるアプリケーションを実装していたとき、出力が仕様通りにならないことが続き、バリデーションエラーが頻繁に起きていました。特にJSONの構造が大きくなるほど、末尾にカンマが残ったり、コードフェンスで囲まれて返ってきたりするケースが増えていきました。
+まずPydanticModel でスキーマを渡して出力を制御しようとしましたが、それでも崩れることがあり、根本的な解決にはな...",2026-07-16
+495ffaad5121d32a81e54c657a6794d4,Zenn_Python,ローカルLLM study2: Aiderで自律コーディングをさせてみた（7モデル比較）,https://zenn.dev/tkpurine/articles/local-llm-study-002-aider-model-screening,"Wed, 15 Jul 2026 22:43:09 GMT","前回のおさらい
+前回は、コードレビューやFizzBuzz生成といった単発のQ&amp;Aタスクで11モデルを比較し、普段使いなら gemma4:e2b、説明・レビュー重視なら gemma4:e4b や Ornith-1.0-9B が有力という結論になりました。
+ただし単発のQ&amp;Aで分かるのは「説明が丁寧か」「コードが正確か」までです。Claude Codeでの開発では、それ以上に「バグを直...",2026-07-16
+a9b5c96bf90e7f3e6615d0dba5322697,Zenn_Python,AIが開発要望をヒアリングして実装判断するBotの設計と実装,https://zenn.dev/liatris/articles/20260716-dev-intake-bot,"Wed, 15 Jul 2026 22:00:11 GMT","!
+この記事は、Claude Codeを執筆支援に使った ""毎朝1本書く"" 取り組みの一環で書いています。
+
+目的: 自分のAI活用キャッチアップ。仕組み自体も毎月アップデートしていきます
+体制: 題材選定・実装・下書きをClaude Codeで補助、平野が動作確認と編集を経て公開判断
+方針: Zennのガイドラインに真摯に向き合い、運営から指摘や警告があれば即座に取り組みを停止します
+
+仕組みの...",2026-07-16
+921aa7b318b37c162d7dff7c7f8aea93,Zenn_GCP,BigQuery MLのTimesFMで電力需要を時系列予測してみた,https://zenn.dev/fusic/articles/d4cdbf41d482da,"Thu, 16 Jul 2026 11:12:26 GMT","はじめに
+Fusicのレオナです。
+今回は、BigQuery MLのTimesFMを使い、電力需要を1週間先まで予測してみました。
+TimesFMは、Google Researchが公開している時系列予測用の基盤モデルです。
+BigQuery MLでは、組み込みのTimesFMをAI.FORECAST関数から呼び出せるため、モデルを学習したりEndpointへデプロイしたりせずに時系列予測を実行で...",2026-07-16
+d43cb21594fdc6254659f2c11b0d1f48,Zenn_GCP,閉じ込めた街でAIに密室会議させたら、Claudeだけ引っ越し審査に落ちた話,https://zenn.dev/miki_mini/articles/dbc67d102d95c3,"Thu, 16 Jul 2026 08:00:05 GMT","美容系勤務独学初心者マリー・アントワネット系エンジニア目指してます！
+今回は秘密が漏れない相談相手がいないなら閉じ込めた街でAIたちに密室会議させればいいじゃない👸🍰です。
+
+読了時間の目安：約 9〜11分
+
+!
+3行まとめ
+
+前回VPCに閉じ込めたGeminiの街で、役割の違うAI同士がラウンド制で議論する「密室AI会議（/council）」 を作った——会話は restricted VIP の...",2026-07-16
+474f0e8f95819603d4612e8c2d27ae93,Zenn_GCP,Google Cloud 認定資格を全種類コンプリートするまでにやったことと、各資格の印象,https://zenn.dev/densan_techblog/articles/76f083e8b2894a,"Thu, 16 Jul 2026 00:00:15 GMT","はじめに
+こんにちは！電算システムはやみずです。
+この度、Google Cloud 認定資格をすべて取得（全冠）しました！
+この記事では、完走した感想や各資格のリアルな印象などをまとめておきます。
+「これからGoogle Cloudの資格を取りたいけれど、どれから受ければいいかわからない」「どんな勉強法がいいか知りたい」という方のロードマップとして参考になれば嬉しいです！
+
+ Google Clo...",2026-07-16
+63189e37fc204522787bb690a6848dd0,Zenn_GCP,データのビジネス利活用にむけて,https://zenn.dev/lion_dx/articles/f2e87b2a7f5dbb,"Thu, 16 Jul 2026 00:00:15 GMT","はじめに
+
+ 🤝 当企画について
+Google Cloud Next Tokyo '26でデータ活用をテーマに登壇することになりました。
+そこで、登壇内容に繋がる技術要素について、パートナーである株式会社G-gen様と共同で、以下の3つの記事のラインナップでお届けします。
+
+ライオンのデータモデル 👈 当記事
+
+AI駆動開発で実現するBigQueryのモダンETL開発（基礎）
+StitchとAnt...",2026-07-16
+f1055d8babffbe1a2c11fd87f01b391f,Zenn_GCP,Databricks Managed Agent Memory (Beta版) と GCP Memory Bank の違いについて,https://zenn.dev/ttomo_tommy/articles/58869d09a438ad,"Mon, 13 Jul 2026 07:42:39 GMT","はじめに
+Databricks には Unity Catalog 上に長期記憶を持たせる Managed Agent Memory（Beta）という機能があり、Google Cloud にも同様の Agent Platform Memory Bank があります。どちらも「エージェントがユーザーとの会話から重要な情報を抽出し、次回以降の会話に活かす」ための長期メモリです。
+https://docs...",2026-07-16
+fc9f2105d96b65e77a382c7f0d873773,Zenn_GCP,Cloud SQLを営業時間外だけ自動停止してコスト削減した話,https://zenn.dev/sanyodo/articles/8c5013fed3aaa7,"Mon, 13 Jul 2026 06:49:27 GMT","はじめに
+社内向けに作ったちょっとした小規模アプリを、Google Cloud 上で動かしています。
+構成はざっくり以下のような感じです。
+Cloud Run
+Cloud SQL
+Secret Manager
+お名前.comで管理している独自ドメイン
+このアプリ自体は、ガッツリ常時使われるものではなく、
+リアルタイムで誰か1人が触っている時間があるかな～くらいの利用頻度でした。
+にもかかわらず、G...",2026-07-16
+399724f2b72abbf1a7293005a4e61b2d,Zenn_GCP,Google Cloud Storageの非公開バケットで静的ウェブサイトをホスティングする方法,https://zenn.dev/quantum/articles/fe7155111b66a8,"Mon, 13 Jul 2026 00:30:18 GMT","TL;DR
+
+Cloud Storageでウェブサイトをホスティングする場合、通常はバケットの一般ユーザー（allUsers）に「Storage オブジェクト閲覧者」ロールを付与して公開します。しかし、このロールをバケットに付与せずに、静的ウェブサイトをホスティングすることもできます。
+Cloud Storageバケットに対して、「Cloud CDN でのプライベート オリジンの認証」のサービスア...",2026-07-16
+ba54ef7b0307ae989853389430aa1063,Zenn_GCP,非エンジニアが自作アプリを社内にデプロイできる基盤を作った話,https://zenn.dev/hacobell_dev/articles/369ff476324aae,"Mon, 13 Jul 2026 00:00:20 GMT","こんにちは、ハコベルでVPoTを務めている横山です。
+ハコベルでは、エンジニア以外のメンバーに対しても生成AIツールの利用を推進しています。Claude Codeを配布したことで、非エンジニアでも自分の手元では業務改善ができるようになりました。一方で、作った仕組みをチームの他メンバーに展開するのが難しいという課題がありました。
+そこで、非エンジニアでも自作アプリを社内限定URLにデプロイできる基盤...",2026-07-16
+8f27c7db24abbd1231c12e06c6006a51,Zenn_GCP,"Anthropic Managed Agentsで""走った記録を読み物にする""システムを作って実運用した話——Memoryが育つまで",https://zenn.dev/make_dog/articles/da432df0939416,"Sun, 12 Jul 2026 20:51:06 GMT","Anthropic Managed Agentsで「走った記録を読み物にする」システムを作って実運用した話
+
+
+ 何を作ったか
+自転車で走った記録(GPX)を投げると、AIエージェントがライドレポート——数値の羅列ではなく、その日の走りを綴った読み物——を生成するシステムを個人で作り、実運用している。
+まず現物を見てもらうのが早い。
+
+生成されたレポートの例(暗峠ライド): https://cyc...",2026-07-16
+34de9b4cd849bb006378252e3de99b23,Zenn_GCP,GCP Private Service Connect を使用したプライベート接続の検証メモ,https://zenn.dev/idempotency_p/articles/8a319b42c398d1,"Sun, 12 Jul 2026 13:23:03 GMT","GCP Private Service Connect を構成してプライベート接続させる
+
+ やりたいこと
+GCP VPC のサブネット内に配置した VM から別の Cloud Storage にプライベート接続をしたい。
+Azure でいうところのプライベートエンドポイント接続的なことをやりたい。
+GCP ではどうやらプライベート接続をするのにいくつか手法があるが、Private Service...",2026-07-16
+170ef5eb5060b72259deb0fcff7a6011,Zenn_GCP,Google Cloudのローカルエミュレータまとめ,https://zenn.dev/o2wsu9/articles/c69f5ee6abcc6d,"Sun, 12 Jul 2026 11:45:22 GMT","Google Cloud のサービスをローカル環境でエミュレートするツールを、公式・非公式に分けてまとめました。コマンドは手元の macOS で実行して確かめながら書いており、実行して初めて気づいた注意点（Datastore の --project 必須など）も反映しています。
+
+ なぜローカルエミュレータが必要か
+Google Cloud のサービスを使った開発では、動作確認のたびにクラウド上の...",2026-07-16
+532f4ebefd7d8701c18287638ba93298,Zenn_GCP,TerraformでGCPとVercelをIaC管理！複数環境デプロイでハマった権限問題と解決策,https://zenn.dev/fd_ai_teacher/articles/tech-20260712040509-1,"Sun, 12 Jul 2026 11:36:17 GMT","「TerraformでGCPとVercelのリソースをIaC管理したいのに、複数環境デプロイでいつも権限問題にハマる…」
+「開発環境への変更が誤って本番に適用されてしまうリスクをなくしたい」
+この記事は、そんな悩みを抱えるあなたのために書かれました。TerraformでGCPとVercelのリソースをIaC（Infrastructure as Code）で一元管理し、開発・ステージング・本番といっ...",2026-07-16
+d4a9bd8664f0d2a102494eec16cd4b3b,Zenn_GCP,個人開発DiscordボットをRailwayから無料VPSに引っ越して、機能を増やしまくったら起動すらしなくなった話,https://zenn.dev/heru/articles/15ce5d460d606e,"Sat, 11 Jul 2026 17:45:28 GMT","はじめに
+個人で開発・運用しているDiscord Bot「MaidBot」(Discord.js v14)を、Railwayから無料のVPS(Google Cloud PlatformのAlways Free枠)に移行した記録です。単なる移行手順だけでなく、移行後に機能を追加しまくっていく中で実際に踏んだバグ2つ——特に**「Botが一切起動しなくなった」原因が、テンプレートリテラルの中に書いた1...",2026-07-16
+f44f6d6f432772c99b270295a2ab0dfb,Zenn_GCP,Markdownをpushするだけで社内資料PDFを常に最新に — WIF×Google Driveで鍵レス自動配信,https://zenn.dev/o2wsu9/articles/36dea065f5d73c,"Sat, 11 Jul 2026 12:31:50 GMT","社内向けドキュメントを Markdown のまま Git で管理し、push するだけで Google Drive 上の PDF を最新化する仕組みを、鍵レス認証（Workload Identity Federation）で構築する手順を解説します。
+
+ TL;DR
+
+Markdown を main に push すると、PDF が自動生成されて Google Drive の同じファイルが上書きさ...",2026-07-16
+406b1833e15665bf3f34ca26029965e0,Zenn_GCP,エージェント導入を「作る前」に潰す20の問い — Google Cloudの設計レビュー枠組み,https://zenn.dev/suwash/articles/agentic-enterprise-20-questions_20260709,"Fri, 10 Jul 2026 15:00:00 GMT","対象: Google Cloud が 2026-07-08 に公開したブログ「20 questions for the agentic enterprise」。
+エージェント導入プロジェクトを「作る前」に問うべき 20 の設計判断を、Build / Scale / Optimize / Govern の 4 フェーズに整理した設計フレームワークです。
+本記事は方法論（フレームワーク）を対象とするた...",2026-07-16
+5340b07e24e832a8bc63706b288d4a8a,GCP_Blog,Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms,https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/,"Thu, 16 Jul 2026 19:00:00 +0000","For the second consecutive year, Google has been named a Leader in the Gartner® Magic Quadrant™ for Conversational AI Platforms. Google received the furthest and highest in positioning on the ""Vision""...",2026-07-16
+6c000675a9fc1eed3850c565fada6061,GCP_Blog,Cloud CISO Perspectives: How AI leverages deep context as the defender’s advantage,https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-ai-leverages-deep-context-defenders-advantage/,"Thu, 16 Jul 2026 16:00:00 +0000","Welcome to the first Cloud CISO Perspectives for July 2026. Today, Francis deSouza, COO, Google Cloud and President, Security Products, explains the crucial role that deep context plays in creating an...",2026-07-16
+e9c91be4229b1a766fbdcabfe28b3a22,GCP_Blog,Bridging the gap between SQL and Python with BigQuery and the %%bqsql magic,https://cloud.google.com/blog/products/data-analytics/bridge-sql-and-python-with-bigquery/,"Thu, 16 Jul 2026 16:00:00 +0000","Data scientists and data engineers often find themselves caught between two worlds: SQL and Python. Some find SQL more intuitive, especially when combined with a powerful engine like BigQuery to proce...",2026-07-16
+ef3d50c572da197797525e91b3982aa1,GCP_Blog,What 10 autonomous film crews taught us about agent teamwork,https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork/,"Thu, 16 Jul 2026 16:00:00 +0000","Can teams of AI agents collaborate to create a short film?
+As part of an internal Google generative media hackathon, we put this question to the test – specifically, to uncover whether AI agents could...",2026-07-16
+24924b2c13050d1573bc28d16d050bdf,GCP_Blog,Three lessons in accelerating foundation model upgrades,https://cloud.google.com/blog/products/compute/lessons-in-accelerating-foundation-model-upgrades/,"Thu, 16 Jul 2026 16:00:00 +0000","Have you run into problems migrating your products from one model to the next?
+Upgrading to the latest AI models is rarely simple. For engineering teams, model updates whether migrating to an entirely...",2026-07-16
+233e91c54d9ffbf33a189b90c18822c8,GCP_Blog,Demystifying AI Exploits: A Blueprint for AI-Assisted Vulnerability Management,https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/,"Thu, 16 Jul 2026 14:00:00 +0000","Written by: Jules Czarniak
+
+Introduction 
+As highlighted in the Mandiant M-Trends 2026 report, the mean time-to-exploit (TTE) has dropped to -7 days, meaning vulnerabilities are often exploited a week...",2026-07-16
+38df7baf2215a14ff84014c6371f6ac2,GCP_Blog,Securing AI at Enterprise Scale: The Google Kubernetes Engine Blueprint,https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint/,"Thu, 16 Jul 2026 11:28:00 +0000","Artificial intelligence is moving from prototype to production faster than traditional security paradigms can adapt. For CISOs and platform engineering teams, the challenge is clear: you need to prote...",2026-07-16
+d26af836f4d3b2c1ee8336ea56f7c09d,GCP_Blog,How to solve PostgreSQL multilingual full-text search limitations with AlloyDB AI,https://cloud.google.com/blog/products/databases/how-alloydb-overcomes-indexing-limitations-with-ai-functions/,"Wed, 15 Jul 2026 16:00:00 +0000","AlloyDB powers enterprise-grade search for some of the largest organizations, providing robust hybrid search capabilities that combine text, vector, and keyword searches into a simple ranked SQL query...",2026-07-16
+8637bdf3571356b322a277adce7c4e43,GCP_Blog,How to Analyze and Govern Gemini Enterprise App Usage at Scale with BigQuery,https://cloud.google.com/blog/products/data-analytics/analyze-and-govern-gemini-enterprise-at-scale-with-bigquery/,"Wed, 15 Jul 2026 16:00:00 +0000","Deploying the Gemini Enterprise app across an organization marks a transformative leap forward in workforce productivity, providing employees with an amazing, high-performance suite of agentic AI tool...",2026-07-16
+e1d391cdf90d11593b378e78f2a713d9,GCP_Blog,IDC: Why the right networking approach is foundational to agentic AI,https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/,"Wed, 15 Jul 2026 16:00:00 +0000",Editor’s note: Today we hear from IDC on the results of its 2026 AI in Networking Special Report Survey exploring the enterprises' concerns about networking infrastructure to support the rise of agent...,2026-07-16
+89b9b9d2bae9974ef9f3789445e47efc,GCP_Blog,The Risk of Exposed Cloud Functions and How to Harden,https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/,"Wed, 15 Jul 2026 14:00:00 +0000","Written by: Corné de Jong
+
+Introduction 
+Mandiant security assessments frequently identify publicly exposed serverless applications that lack authentication, often as a result of specific business req...",2026-07-16
+db3875459a77f53a8b0a90bebf924d88,GCP_Blog,Google named a Leader in the 2026 IDC MarketScape for Worldwide Foundation Model Software,https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-idc-marketscape/,"Tue, 14 Jul 2026 18:00:00 +0000","For years, we’ve built with a clear priority: putting the practical needs of the enterprise first. Long before generative AI dominated the headlines, we were focused on building the global infrastruct...",2026-07-16
+332fab0ca810082494066e9bbc9fb3b2,GCP_Blog,"Claude at scale on Google Cloud: Frontier AI, built for enterprise production",https://cloud.google.com/blog/products/ai-machine-learning/claude-at-scale-on-google-cloud-frontier-ai-built-for-enterprise-production/,"Tue, 14 Jul 2026 16:00:00 +0000","Running frontier AI in production is demanding — accelerators to manage, latency to hold steady across continents, regulated data to keep in-region, and long-context requests to serve reliably. Claude...",2026-07-16
+e046dc4648387c1b868d44db6db10e29,GCP_Blog,"Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV",https://cloud.google.com/blog/products/databases/nexus-sdv-uses-bigtable-android-automotive-for-agentic-vehicles/,"Mon, 13 Jul 2026 16:00:00 +0000","The automotive industry is moving from building hardware-centric platforms toward building their own sophisticated Software-Defined Vehicle (SDV) architectures. For OEMs, a vehicle is no longer just a...",2026-07-16
+ceb2131020dbf1d5c837d8b55b76aee1,GCP_Blog,Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs,https://cloud.google.com/blog/products/identity-security/introducing-k8s-aibom-on-gke-for-automated-ai-bills-of-materials/,"Mon, 13 Jul 2026 16:00:00 +0000","How should your security team manage shadow AI? Workloads deployed by developers without formal registration can often evade traditional security scanners, because organizations are reluctant to slow ...",2026-07-16
+d363725c309bfbaea2879414226131d7,GCP_Blog,Key findings from the 2026 Public Sector M-Trends report and beyond,https://cloud.google.com/blog/topics/public-sector/key-findings-from-the-2026-public-sector-m-trends-report-and-beyond/,"Mon, 13 Jul 2026 16:00:00 +0000","In 2026, the public sector is no longer defending a traditional perimeter. Instead, they are defending a complex web of interconnected trust relationships against adversaries that now operate at machi...",2026-07-16
+af557b78dbcf4d5a6d931e43f26f1469,GCP_Blog,Contributing to U.K. financial sector resilience as a critical third party,https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/,"Fri, 10 Jul 2026 17:00:00 +0000","At Google Cloud, we take our role in the financial ecosystem very seriously. We firmly believe that operational resilience is essential to driving and sustaining responsible innovation.
+Today, we mark...",2026-07-16
+10a692e98f50fcf612b82037b52b0488,GCP_Blog,What’s new with Google Cloud,https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/,"Fri, 10 Jul 2026 16:00:00 +0000","Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip: Not...",2026-07-16
+e3b8f65a2d8bd0ff2c247e8d7df9f6d2,GCP_Blog,Frontier and Center: Who evaluates the evaluations?,https://cloud.google.com/blog/products/data-analytics/evaluate-agent-performance/,"Fri, 10 Jul 2026 16:00:00 +0000","Editor’s note: Some of the most interesting questions in AI are being asked by information theoreticians, around how to provide context to an emerging class of AI agents. A few weeks ago, we waded int...",2026-07-16
+cc709f1d56771898f7fe4c81b233dc37,GCP_Blog,Safely run AI-generated code in Cloud Run sandboxes,https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-run-sandboxes-are-in-public-preview/,"Thu, 09 Jul 2026 16:30:00 +0000","Here’s a question we hear often at Google Cloud: How do you safely run AI-generated code or untrusted binaries without putting your host application, data, and cloud credentials at risk? In other word...",2026-07-16
+25bc5cf8a72a36b230ee46f63c7b09c4,GCP_Japan,レポート: 83%の組織がエージェント型 AI に対応するためにインフラストラクチャのアップグレードを必要としている,https://cloud.google.com/blog/ja/products/compute/state-of-ai-infrastructure-report-overview/,"Wed, 15 Jul 2026 02:00:00 +0000","※この投稿は米国時間 2026 年 7 月 8 日に、Google Cloud blog に投稿されたものの抄訳です。
+長年にわたり、企業向け AI といえば、日常的に利用するカスタマー サービス bot やデジタル アシスタントなどの会話型 AI を指していました。しかし今、市場は大きく変化しています。私たちは、簡単なチャットに回答する AI から、自ら行動し、ワークフローを自動化し、複雑なタス...",2026-07-16
+b3d88ad444894442ba6f8be0114f5ae1,GCP_Japan,Google Cloud 認定資格を最新の状態に保ち、キャリアアップを図る新しい方法,https://cloud.google.com/blog/ja/topics/training-certifications/new-ways-keep-google-cloud-certifications-current/,"Wed, 15 Jul 2026 02:00:00 +0000","※この投稿は米国時間 2026 年 7 月 9 日に、Google Cloud blog に投稿されたものの抄訳です。
+これをお読みになっている方は、Google Cloud 認定資格を取得して、ご自身の能力を証明する努力をすでにされていることでしょう。調査によると、これが成功への近道です。認定資格を取得した方々からは、採用担当者からの連絡が増え、昇進が早まり、給与が上がったとの報告を受けています...",2026-07-16
+c045e5584856ef8f260c2347174bcf05,GCP_Japan,Google Cloud 向け Claude アプリ ゲートウェイを使ってみる,https://cloud.google.com/blog/ja/topics/developers-practitioners/announcing-claude-apps-gateway-for-google-cloud/,"Wed, 15 Jul 2026 01:00:00 +0000","※この投稿は米国時間 2026 年 7 月 2 日に、Google Cloud blog に投稿されたものの抄訳です。
+Anthropic のエージェント コーディング ツールである Claude Code が Google Cloud と連携するようになってから、しばらく経ちます。個々の開発者は簡単に、Google Cloud（GCP）プロジェクトを指すように CLAUDE_CODE_USE_V...",2026-07-16
+d246f4977114cb49381cb7ca3c26269e,GCP_Japan,Cloud Monitoring: 動的しきい値と 2 年間のルックバックを活用したアラートによる異常検出,https://cloud.google.com/blog/ja/products/management-tools/cloud-monitoring-adds-long-lookback-alert-policies-for-promql/,"Wed, 15 Jul 2026 00:00:00 +0000","※この投稿は米国時間 2026 年 7 月 1 日に、Google Cloud blog に投稿されたものの抄訳です。
+アラート ポリシーのしきい値を適切に設定することは難しい作業になりがちです。過去のデータを分析し、意味のある時系列データに集約したうえで、適切なしきい値を選択する必要があります。ワークロードが増加した場合は、以前に設定した静的なしきい値が低くなりすぎ、アラートが頻繁に発生してしま...",2026-07-16
+451678cbcbe8b2d315f76edbba1ab262,GCP_Japan,エージェントでギアを上げる: ソフトウェア定義車両のセキュリティを確保,https://cloud.google.com/blog/ja/products/identity-security/shift-into-high-gear-with-agents-securing-the-software-defined-vehicle/,"Tue, 14 Jul 2026 02:00:00 +0000","※この投稿は米国時間 2026 年 7 月 7 日に、Google Cloud blog に投稿されたものの抄訳です。
+自動車業界は、新しいテクノロジーの導入を加速させるなかで、重要な岐路に立っています。従来のコネクテッド カーの時代は、ソフトウェア定義車両（SDV）の時代へと移行しました。SDV の時代は、多くの新機能が無線で提供され、急速にイノベーションが起こるのが特徴です。
+次世代の SDV...",2026-07-16
+ccea729323ce2a78652e72689b77e194,GCP_Japan,Google、2026 年 Gartner® Magic Quadrant™ で分析およびビジネス インテリジェンス プラットフォーム部門のリーダーに 3 年連続で選出,https://cloud.google.com/blog/ja/products/business-intelligence/looker-in-2026-gartner-analytics-and-bi-platforms-mq/,"Tue, 14 Jul 2026 01:00:00 +0000","※この投稿は米国時間 2026 年 7 月 2 日に、Google Cloud blog に投稿されたものの抄訳です。
+このたび Google は、2026 年 Gartner® Magic Quadrant™ において、分析およびビジネス インテリジェンス プラットフォーム部門のリーダーに 3 年連続で選出されました。この評価は、Google Cloud Next 2026 で Google が...",2026-07-16
+f3473c683b19eb53e1888e5d6143b541,GCP_Japan,AI エージェント事例アワード開催！ 指示するから、自律する AI へ。,https://cloud.google.com/blog/ja/products/ai-machine-learning/ai-agent-case-study-awards/,"Mon, 13 Jul 2026 02:00:00 +0000",前身の「生成 AI 事例アワード」を始めてから、2 年あまりが経ちました。この場には、ビジネスを大きく動かした取り組みから、日々の業務を助ける等身大のアイデアまで、素晴らしい事例が数多く集まってきました。そして、この 2 年で生成 AI そのものも、試す段階から業務に組み込む段階へと移ってきています。指示を一つずつ出す使い方から、目的を伝えて自律的に動かす使い方へ。この変化は、AI を業務にどう生...,2026-07-16
+c2b22beef6bb530a4499c6a64321956b,GCP_Japan,Google AI Studio のスターター ティアの解説,https://cloud.google.com/blog/ja/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained/,"Fri, 10 Jul 2026 00:00:00 +0000","※この投稿は米国時間 2026 年 6 月 23 日に、Google Cloud blog に投稿されたものの抄訳です。
+あなたは Google AI Studio で実用的なプロトタイプを作成したところであると仮定しましょう。React フロントエンドに Node.js バックエンド、データベースも使っているとします。今は、チーム、ユーザー、試してみたがっている友人と共有するための一般公開 UR...",2026-07-16
+f823b8c8ee1bfceffa9c7a8dc3ffe709,GCP_Japan,日立「Gemini Enterprise 活用コンテスト」開催レポート ― 112 件の応募から選ばれた、現場を変える 10 の AI エージェント,https://cloud.google.com/blog/ja/products/ai-machine-learning/report-on-the-hitachi-gemini-enterprise-application-contest/,"Thu, 09 Jul 2026 02:00:00 +0000",6 月 17 日（水） 渋谷ストリーム グーグルオフィスにて AI エージェントは、現場のどんな仕事を本当に楽にしてくれるのか。その答えを、日立製作所のみなさん自身が見せてくれる一日がありました。今年 4 月からデジタルシステム＆サービスセクターの社員を中心に利用が広がった Gemini Enterprise。その活用アイデアを競う「Gemini Enterprise 活用コンテスト」には、総勢 ...,2026-07-16
+a0f4f765e03aa7e80c65f56f8e86851d,GCP_Japan,AlloyDB AI 関数 - 革命的なパフォーマンス向上と費用削減を実現,https://cloud.google.com/blog/ja/products/databases/boost-performance-and-lower-costs-with-alloydb-ai-functions/,"Thu, 09 Jul 2026 01:00:00 +0000","※この投稿は米国時間 2026 年 7 月 2 日に、Google Cloud blog に投稿されたものの抄訳です。
+AlloyDB は AI ネイティブなデータベースです。単なる受動的なデータストアではなく、データをインテリジェントに理解して処理します。AlloyDB では、業界をリードするベクトル検索とハイブリッド検索、会話型エージェントを構築するためのほぼ 100% の精度を誇る自然言語か...",2026-07-16
+990e9708454694e1ef8fbf9496915e02,GCP_Japan,選択、コンプライアンス、コラボレーション: 欧州のオープンなデジタル主権への道,https://cloud.google.com/blog/ja/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/,"Thu, 09 Jul 2026 00:10:00 +0000","※この投稿は米国時間 2026 年 6 月 18 日に、Google Cloud blog に投稿されたものの抄訳です。
+欧州委員会の技術主権パッケージは、欧州におけるデジタルの未来を決定づける重要な局面で発表されました。競争力とセキュリティは欧州の企業、公的機関、市民にとっての最優先事項であり、これらの目標を達成するには、欧州のデジタル能力に多額の資金を投じる必要があります。このような状況におい...",2026-07-16
+df087c903807362b7c1798cc2c28f992,GCP_Japan,GKE で Ray Serve LLM をスケーリング: デベロッパー エクスペリエンスを損なうことなくパフォーマンスを向上,https://cloud.google.com/blog/ja/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency/,"Thu, 09 Jul 2026 00:00:00 +0000","※この投稿は米国時間 2026 年 6 月 19 日に、Google Cloud blog に投稿されたものの抄訳です。
+LLM 推論とモデル サービングを求めるデベロッパーは、Anyscale が構築した、デベロッパーに優しい Python ネイティブの API を備えたスケーラブルなモデル サービング ライブラリである Ray Serve をよく利用します。デベロッパーは、Google Kub...",2026-07-16
+4c6483269bff218a64389fe8c0add6e1,GCP_Japan,Gemini Omni Flash と Nano Banana 2 Lite が圧倒的なスピードと費用対効果をもたらす,https://cloud.google.com/blog/ja/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available/,"Wed, 08 Jul 2026 02:00:00 +0000","※この投稿は米国時間 2026 年 7 月 1 日に、Google Cloud blog に投稿されたものの抄訳です。
+アイデアのスピードに合わせてツールが動くとき、創造性は最大限に発揮されます。より豊かで信頼性の高いエクスペリエンスを提供しつつ、再生成にかかる時間と費用の削減を実現するために、Gemini Enterprise Agent Platform に新たに 2 つのモデルを追加します。...",2026-07-16
+e1fc0aa4daae88ddb9ba30ddf16cf52f,GCP_Japan,BigQuery の AI.AGG 関数で全体像を把握し、傾向を分析する,https://cloud.google.com/blog/ja/products/data-analytics/deep-dive-into-bigquery-ai-agg-function/,"Tue, 07 Jul 2026 02:00:00 +0000","※この投稿は米国時間 2026 年 6 月 30 日に、Google Cloud blog に投稿されたものの抄訳です。
+Google は先日、BigQuery の AI.AGG() 関数のプレビュー版を発表しました。AI.AGG() を使用すると、1 行の SQL 内で自然言語による指示を与えるだけで、数百万行に及ぶ非構造化データやマルチモーダル データに関する情報を要約、合成できます。
+
+
+
+...",2026-07-16
+cebe051fadec9fa575767a60e1543675,GCP_Japan,Alphaevolve で分子発見を 4 倍に高速化した Schrödinger の事例,https://cloud.google.com/blog/ja/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x/,"Mon, 06 Jul 2026 19:00:00 +0000","※この投稿は米国時間 2026 年 7 月 1 日に、Google Cloud blog に投稿されたものの抄訳です。
+計算化学の研究者は、従来より、分子間相互作用をシミュレートする際に、精度を犠牲にする高速な古典的力場を使用するか、大規模なジョブでは実行速度が遅すぎる高精度の量子力学的手法に頼るかという、悩ましいトレードオフに直面してきました。
+ML 力場（MLFF）は、高忠実度の量子データでニ...",2026-07-16
+903f4aa783bf70b5a893a58412c59c43,GCP_Japan,Cloud Network Insights: クロスクラウド ネットワークに対するエンドツーエンドのオブザーバビリティ,https://cloud.google.com/blog/ja/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability/,"Fri, 03 Jul 2026 03:00:00 +0000","※この投稿は米国時間 2026 年 6 月 18 日に、Google Cloud blog に投稿されたものの抄訳です。
+昨今のデジタル環境では、ネットワークは単一のデータセンターや一つのクラウド プロバイダの範囲に制限されません。クロスクラウド戦略を採用し、Google Cloud ワークロードをオンプレミス環境、AWS や Azure などの他のクラウド、インターネットに接続されたさまざまなア...",2026-07-16
+31b409d5f0fbf785b582bb34e537f435,GCP_Japan,お客様とのコラボレーションが切り拓く、Model Armor による生成 AI セキュリティの未来,https://cloud.google.com/blog/ja/topics/developers-practitioners/how-customer-collaboration-is-shaping-the-future-of-genai-security-with-model-armor/,"Fri, 03 Jul 2026 02:00:00 +0000","※この投稿は米国時間 2026 年 6 月 16 日に、Google Cloud blog に投稿されたものの抄訳です。
+Google Cloud では、最高のプロダクトはお客様とのパートナーシップを通して構築されると考えています。お客様からのフィードバックや実際の経験は、Google のサービスを改良し、お客様の実際のニーズを満たすソリューションを提供するうえで非常に貴重です。2026 年 1 ...",2026-07-16
+dd89fcfca9f02949bb06e0f4b494d7c2,GCP_Japan,Atlas が Cloud SQL Enterprise Plus エディションにより数百の加盟店のデータベースをどうスケールしたか,https://cloud.google.com/blog/ja/products/databases/how-atlas-scales-hundreds-of-cloud-sql-databases/,"Fri, 03 Jul 2026 02:00:00 +0000","※この投稿は米国時間 2026 年 6 月 17 日に、Google Cloud blog に投稿されたものの抄訳です。
+Atlas は、飲食店向けのオペレーティング システムを構築しています。オンライン ショップ、POS、サードパーティ ロジスティクス、食のプラットフォームの統合、顧客ロイヤリティ、AI ツールは、飲食店の立ち上げから運営、そして成長に必要なあらゆる要素を網羅しています。当社はシ...",2026-07-16
+a036566ace54c6dec1d4971d7db627e2,GCP_Japan,Looker の新しい Explore と結合クエリのご紹介,https://cloud.google.com/blog/ja/products/business-intelligence/looker-explore-ai-and-interface-updates/,"Fri, 03 Jul 2026 01:00:00 +0000","※この投稿は米国時間 2026 年 6 月 17 日に、Google Cloud blog に投稿されたものの抄訳です。
+AI の時代において多くの企業が重要目標としているのは、従業員が自らデータから実用的なインサイトを引き出せるようにすることです。そこで Google は、インターフェースを合理化し、AI を統合して Looker Explore を進化させました。これにより、あらゆるユーザーが...",2026-07-16
+c3b149bccfb16ae0d0c592da7b2f2538,GCP_Japan,30 分でリモート MCP サーバーの構築と GKE へのデプロイを実行,https://cloud.google.com/blog/ja/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes/,"Thu, 02 Jul 2026 02:40:00 +0000","※この投稿は米国時間 2026 年 6 月 17 日に、Google Cloud blog に投稿されたものの抄訳です。
+30 分でリモート MCP サーバーを構築して GKE にデプロイする
+ツールやデータソースのコンテキストを LLM に統合するのは簡単なことではなく、この点が AI エージェントの開発を難しくしています。この課題に対処するために、Anthropic は Model Conte...",2026-07-16
+9a2fa3b4109ba14aee4ee54ced1f91b7,Ggen_Blog,BigQuery Conversational Analyticsの回答精度向上を徹底解説,https://blog.g-gen.co.jp/entry/bigquery-conversational-analytics-accuracy,2026-07-16T09:00:00+09:00,G-gen の福井です。自然言語でデータを分析できる BigQuery Conversational Analytics について、回答精度を高める手段を徹底解説します。 はじめに 当記事の概要 BigQuery Conversational Analytics とは データエージェントと回答精度 回答精度向上の考え方 回答精度を決めるレイヤー構造 Google が推奨する積み上げの順序 土台とな...,2026-07-16
+a80e92fc06ac693349d5a837fd12eaae,Ggen_Blog,AIエージェントにGoogle Cloudのログ調査と解決策の提案をさせてみた,https://blog.g-gen.co.jp/entry/log-investigation-with-ai-agent,2026-07-15T09:00:00+09:00,G-gen の min です。当記事では、Cloud Logging リモート MCP サーバーと Developer Knowledge MCP サーバーを組み合わせることで、障害発生時のログ調査と解決策の提案を AI エージェントに行わせる検証をします。 はじめに AI エージェントによるエラー調査 検証の手順 関連記事 Cloud Shell の起動と基本設定 Cloud Shell の起動...,2026-07-16
+31fab1b82df50451a10efa2c86647300,Ggen_Blog,プロンプトインジェクションの解説とGoogle Cloudによる対策,https://blog.g-gen.co.jp/entry/prompt-injection-mitigation-with-google-cloud,2026-07-14T09:00:00+09:00,G-gen の本間です。当記事では、大規模言語モデル（LLM）や AI ツールに対するプロンプトインジェクション攻撃について解説します。また、Google Cloud を使った対策方法を紹介します。 プロンプトインジェクションについて プロンプトインジェクションとは 従来のサイバー攻撃との違い プロンプトインジェクションの種類 直接的プロンプトインジェクション 間接的プロンプトインジェクション A...,2026-07-16
+6ba43b5c06acd1a8c5fe336b37162a1b,Ggen_Blog,エージェントが生成したコードをCloud Runのサンドボックスで実行する,https://blog.g-gen.co.jp/entry/code-execution-in-cloud-run-sandbox,2026-07-13T09:00:00+09:00,G-gen の佐々木です。当記事では、Agent Development Kit（以下 ADK と記載）で開発した AI エージェントを Cloud Run にデプロイし、Cloud Run のサンドボックス機能による Code Execution（LLM が生成したコードの安全な実行）を試します。 構成 当記事で使用するもの Cloud Run とは Cloud Run のサンドボックスとは サ...,2026-07-16
+eebf8d441b2771f3343313e6def0c70e,Ggen_Blog,Agent Gatewayを徹底解説！,https://blog.g-gen.co.jp/entry/agent-gateway-explained,2026-07-10T09:00:00+09:00,G-gen の杉村です。当記事では、Google Cloud の AI エージェント向けネットワークセキュリティ機能である Agent Gateway について解説し、仕様の把握や設計時の考慮事項の検討に役立つ情報を提供します。 概要 Agent Gateway とは アーキテクチャ メリット 通信制御 概要 通信制御の対象 Identity-Aware Proxy（IAP） Model Armo...,2026-07-16
+df0d65ad197da0727e39f80794973e0e,Ggen_Blog,Google SecOpsのPlaybooksでアラート対応を自動化する（GitHub編）,https://blog.g-gen.co.jp/entry/automate-alert-handling-with-playbooks,2026-07-08T09:00:00+09:00,G-gen の武井です。当記事では、Google SecOps で検知したアラートの是正対応を Playbooks で自動化する方法を解説します。 はじめに Google SecOps とは Playbooks（ハンドブック）とは 検証の流れ カスタムルールの設定 インテグレーションの設定 インテグレーションとは カスタムインテグレーションとは カスタムインテグレーションの作成 カスタムアクション...,2026-07-16
+4c07640e208c0ac3bb7f7e91482430f2,Ggen_Blog,Google SecOpsにGitHubの監査ログを取り込む,https://blog.g-gen.co.jp/entry/integrate-github-audit-logs-with-google-secops,2026-07-07T09:00:00+09:00,G-gen の武井です。当記事では、Google が提供する SIEM / SOAR 製品である Google SecOps に、GitHub の監査ログを取り込む方法について解説します。 はじめに Google SecOps とは データフィードとは 設定の流れ Google Cloud の設定 サービスアカウント Cloud Storage バケット IAM Policy GitHub の設定...,2026-07-16
+a28c8c39798aa1b9c8d422b4c493ed81,Ggen_Blog,Compute EngineでWindows Serverを起動・接続する手順を解説,https://blog.g-gen.co.jp/entry/setting-up-windows-vms-for-gce,2026-07-03T09:00:00+09:00,G-gen の今村です。当記事では、Google Cloud（旧称 GCP）の仮想マシンサービスである Compute Engine で Windows Server VM を起動し、リモートデスクトップでログインするまでの手順について解説します。 はじめに VM の起動 新規 VM の設定画面へ遷移 VM の設定 概要 マシンの構成 OS とストレージ データの保護 ネットワーキング オブザーバ...,2026-07-16
+fa16da8581aef775dd7c64fd6d1d4dd9,Ggen_Blog,2026年6月のイチオシGoogle Cloud・Google Workspaceアップデート,https://blog.g-gen.co.jp/entry/update-in-this-month-2026-06,2026-07-01T09:00:00+09:00,G-gen の杉村です。2026年6月に発表された、Google Cloud や Google Workspace のイチオシアップデートをまとめてご紹介します。記載は全て、記事公開当時のものですのでご留意ください。 はじめに Google Cloud のアップデート BigQuery Editions の最小課金時間が1秒になる fluid scaling が一般公開（GA） Cloud Int...,2026-07-16
+59144f429fc682cb3eb02634e3f1d34c,Ggen_Blog,Google Workspace Studioで議事録作成からタスク登録までを自動化してみた,https://blog.g-gen.co.jp/entry/automated-meeting-minutes-to-google-tasks-with-workspace-studio,2026-06-25T10:00:00+09:00,G-gen の福井です。Google Workspace Studio のループ機能を使用して、Google Meet の文字起こしから議事録を作成し、会議で決まったタスクを Google Tasks へ自動登録するフローを作成する手順を紹介します。 はじめに 当記事の概要 Google Workspace Studio とは ループ機能（Repeat for each）とは 作成するフロー 処理...,2026-07-16
+a7e7c0915c35057efd98c99143bbbc84,Ggen_Blog,Google Workspace Studioでリストのループ処理機能を使ってみた,https://blog.g-gen.co.jp/entry/google-workspace-studio-loop-over-a-list,2026-06-22T09:00:00+09:00,G-gen の西田です。ノーコードで Google Workspace のタスクを自動化できる Google Workspace Studio に導入された、リストデータを繰り返し処理できるループ処理機能について解説します。 はじめに Google Workspace Studio とは ループ処理機能の概要 検証シナリオ 設定手順 動作確認 はじめに Google Workspace Studi...,2026-07-16
+10426bfcd70ddb4eaff108b0524d10a9,Ggen_Blog,Google Cloudのセキュリティ対策を5つの観点で徹底整理,https://blog.g-gen.co.jp/entry/overview-of-google-cloud-security-measures-from-five-perspectives,2026-06-19T09:00:00+09:00,G-gen の武井です。当記事では、Google Cloud のセキュリティ対策を観点ごとに整理し、網羅的にまとめます。 はじめに 全体像 証跡管理 概要 関連サービス・機能 Cloud Audit Logs Cloud Logging Cloud Asset Inventory 予防的統制（統制の基盤を整備する） 概要 関連サービス・機能 組織（Organization） 階層構造 組織を使わな...,2026-07-16
+347e47deb199a53fffd47b19194aa3a5,Ggen_Blog,データサイエンスエージェント（Google Cloud）とClaude Codeを比較してみた,https://blog.g-gen.co.jp/entry/comparison-google-cloud-data-science-agent-and-claude-code,2026-06-15T09:00:00+09:00,G-gen のバロキです。当記事では、Anthropic の Claude Code と Google Cloud のデータサイエンスエージェントという 2 つの AI ツールに、同一のデータセットと指示を与えて比較しました。自動生成されるデータ分析ノートブックに、どのような違いが生まれるかを検証しました。 概要 はじめに データサイエンスエージェントとは Claude Code とは 検証の前提...,2026-07-16
+2e0b9537e172221c0108082af377cee5,Ggen_Blog,Googleが公開した公式スキルリポジトリgoogle/skillsを解説,https://blog.g-gen.co.jp/entry/google-skills-explained,2026-06-12T09:00:00+09:00,G-gen の福井です。当記事では、Google が公開している公式 Agent Skills リポジトリ google/skills について、リポジトリの概要から、収録されているスキルの内容を解説します。 概要 google/skills リポジトリとは 公開背景 ライセンス 使い方 製品別スキル gemini-api alloydb-basics bigquery-basics cloud-...,2026-07-16
+26ca7068a33fc83768017297321b5ed5,Ggen_Blog,Cloud SQLのインデックスアドバイザーを解説,https://blog.g-gen.co.jp/entry/cloud-sql-index-advisor-explained,2026-06-10T09:00:00+09:00,G-gen の今村です。当記事では、Cloud SQL で提供されているパフォーマンス最適化機能の1つであるインデックスアドバイザーについて解説します。 概要 インデックスアドバイザーとは 仕組み 料金と要件 料金 対象エディションと要件 有効化の手順 推奨事項の確認 推薦インデックスの確認方法 画面に表示される評価データの内容 Gemini による支援 推奨事項の適用 概要 インデックスアドバイ...,2026-07-16
+4cbc827b816b584d4a4840a5645d6bff,Ggen_Blog,Google SecOpsのAIエージェントでアラートの一次対応を自動化する,https://blog.g-gen.co.jp/entry/google-secops-ai-agent-alert-automation,2026-06-08T09:00:00+09:00,G-gen の三浦です。当記事では、Google SecOps の AI エージェントである トリアージと調査エージェント（TIN）と、それを Playbook に組み込む エージェントの自動化（Agentic Automation）を使い、アラートの一次対応を自動化した結果を紹介します。 概要 Google SecOps とは トリアージと調査エージェント（TIN）とは TIN の無償トライアル...,2026-07-16
+46d9042350120815665d8fc41fafd892,Ggen_Blog,Google CloudのAgent Identityを解説,https://blog.g-gen.co.jp/entry/agent-identity-explained,2026-06-05T09:00:00+09:00,G-gen の佐々木です。当記事では、Google Cloud にデプロイした AI エージェントに固有のアイデンティティを付与する Agent Identity の仕組みと、Agent Identity を用いた認証方式について解説します。 概要 Agent Identity とは サービスアカウントとの違い Agent Identity の基本 SPIFFE 形式の識別子 エージェント認証情報...,2026-07-16
+c0249d3721af80f6c69470afd078be70,Ggen_Blog,Google WorkspaceのAI機能に関するセキュリティガイド,https://blog.g-gen.co.jp/entry/ai-security-guide-for-google-workspace,2026-06-03T09:00:00+09:00,G-gen の川村です。Google Workspace の生成 AI ツールである Gemini アプリや NotebookLM を安全に運用するためのセキュリティ設定や、管理者が注意すべき点について解説します。 はじめに 概要 付属の生成 AI ツール 生成 AI ツールの外部共有機能 エンタープライズグレードのデータ保護 機能へのアクセス制御 生成 AI サービスのアクセス制御 サイドパネル...,2026-07-16
+c7711909c071722d4839ce6c2e6df64d,Ggen_Blog,Gemini CLIからAntigravity CLIへ移行してCloud Runアプリを開発してみた,https://blog.g-gen.co.jp/entry/gemini-cli-to-antigravity-cli-migration,2026-06-02T09:00:00+09:00,G-gen の三浦です。当記事では、Gemini CLI から Antigravity CLI への移行を検証し、移行後に簡単な Web アプリを作成して Cloud Run へデプロイした結果を紹介します。 前提知識 Google Antigravity とは Antigravity CLI とは Gemini CLI の提供終了と Antigravity CLI への移行 概要 Antigra...,2026-07-16
+4bbb50dade7fa854ec8d8176b87ee12b,Ggen_Blog,2026年5月のイチオシGoogle Cloud・Google Workspaceアップデート,https://blog.g-gen.co.jp/entry/update-in-this-month-2026-05,2026-06-01T09:00:00+09:00,G-gen の杉村です。2026年5月に発表された、Google Cloud や Google Workspace のイチオシアップデートをまとめてご紹介します。記載は全て、記事公開当時のものですのでご留意ください。 はじめに Google I/O 2026 が開催 Google Cloud のアップデート SCC で Compliance Manager がプロジェクト単位で有効化可能に Age...,2026-07-16
+aebd4e23a94d97211710c787a5425edc,Ggen_Blog,Cloud MonitoringのMCPサーバーを使ってインシデント対処を自動化してみた,https://blog.g-gen.co.jp/entry/automated-incident-responses-with-mcp-servers,2026-05-29T09:00:00+09:00,G-gen の勝島です。当記事では、Gemini Enterprise Agent Platform と Cloud Monitoring の MCP サーバーを組み合わせて、エラーログの検知から AI による原因分析、Slack 通知までを自動化します。 はじめに Gemini Enterprise Agent Platform とは MCP（Model Context Protocol）とは ...,2026-07-16
+e42e8ef492fbc85c8b5df448adff25d1,Ggen_Blog,Agent Skillsを徹底解説！,https://blog.g-gen.co.jp/entry/agent-skills-explained,2026-05-27T09:00:00+09:00,G-gen の福井です。当記事では、AI エージェントツールに専門知識やワークフローを追加するためのオープンフォーマットである Agent Skills について、概念や動作の仕組み、スキルの構造、使い方などを解説します。 概要 Agent Skills とは Skills が可能にすること Skills の実体 Agent Skills の仕組み 基本的な動作 コンテキスト肥大化の防止 Skil...,2026-07-16
+adcb59dd6d12f98075896ab16bec253f,Ggen_Blog,共有ドライブの操作別に必要なアクセス権を解説,https://blog.g-gen.co.jp/entry/shared-drives-permissions-explained,2026-05-21T09:00:00+09:00,G-gen の西田です。当記事では、Google Workspace の共有ドライブのデータに対する操作に対して必要なアクセス権について解説します。 共有ドライブのアクセス権の仕組み 共有ドライブの最上位レベルでのアクセス権付与 個別ファイルでのアクセス権付与 外部への共有 データの移動 共有ドライブのアクセス権の仕組み 共有ドライブは Google ドライブの機能であり、チームでファイルを保存、...,2026-07-16
+f899b7d1a4aff9e059c598af8ca9c837,Ggen_Blog,Google Cloudの課金レポートの見方とTipsを解説,https://blog.g-gen.co.jp/entry/how-to-view-google-cloud-billing-report,2026-05-14T09:00:00+09:00,G-gen の杉村です。当記事では、Google Cloud を管理・運用していくうえで必須となる課金レポートの基本的な見方について、またコスト分析と対策を効率的に行うためのテクニックについて解説します。 課金レポートとは 課金レポートへのアクセスと権限 概要 請求先アカウントのスコープで閲覧 アクセス権限 アクセス手順 プロジェクトのスコープ アクセス権限 アクセス手順 レポートの基本的な見方 ...,2026-07-16
+ca65fa1abf95096a7380a44a9f323009,Ggen_Blog,Gemini Enterprise Agent Platformを徹底解説！,https://blog.g-gen.co.jp/entry/gemini-enterprise-agent-platform-explained,2026-05-11T09:00:00+09:00,G-gen の佐々木です。当記事では、Google Cloud の AI エージェント開発プラットフォームである Gemini Enterprise Agent Platform の概要を解説します。 Gemini Enterprise Agent Platform とは Studio 概要 Agent Studio Agents - Build 概要 Agent Garden（プレビュー） Ag...,2026-07-16
+46b685fb880395b33b226bd27b9fac03,TechnoEdge,「AIは動画をちゃんと見ない」問題を解決する「claude-real-video」、WebサイトにAI組み込める軽量ライブラリ「ternlight」など生成AI技術5つを解説（生成AIウィークリー）,https://www.techno-edge.net/article/2026/07/17/5304.html,"Fri, 17 Jul 2026 07:51:53 +0900",今回の「生成AIウィークリー」（第152回）は、テンセントの2950億パラメータAIモデル「Hy3」や、AIに“しっかり”視聴させるツール「claude-real-video」を取り上げます。,2026-07-16
+faf4eceb028767b6cf040863c1fa97cd,TechnoEdge,GoogleのAI研究ツール「NotebookLM」が「Gemini Notebook」に改称、コード実行機能も追加,https://www.techno-edge.net/article/2026/07/17/5303.html,"Fri, 17 Jul 2026 07:00:03 +0900",Googleが、AIリサーチアシスタント「NotebookLM」を「Gemini Notebook」に改名すると発表しました。,2026-07-16
+574b663051bc309b5110fb2680ead17a,TechnoEdge,Google検索のAI ModeがYouTube Music、Canva、Instacartと連携可能に,https://www.techno-edge.net/article/2026/07/17/5302.html,"Fri, 17 Jul 2026 06:30:03 +0900",Googleが、同社のウェブ検索で動作するAIモードと、YouTube Music、Canva、Instacartの3サービスとの連携機能を米国内で提供しはじめています。,2026-07-16
+c2e0b80d3082e6e10925226de3234e32,TechnoEdge,Google Store表参道はPixel 11発表の8月13日(木)オープン　国内初・米国外初の直営フラッグシップストア、販売・サポートに「AI体験」も提供,https://www.techno-edge.net/article/2026/07/16/5301.html,"Thu, 16 Jul 2026 12:14:49 +0900",日本国内初の Google 直営店、Google Store 表参道のオープンが8月13日(木)に決定しました。,2026-07-16
+7e36c41750f22cfda454247e23ae82dc,TechnoEdge,「colibrì」が超巨大な7440億パラメータLLM「GLM-5.2」をメモリ25GBで稼働させる仕組み（生成AIクローズアップ）,https://www.techno-edge.net/article/2026/07/16/5300.html,"Thu, 16 Jul 2026 11:15:27 +0900",今回は、巨大AIモデルを家庭用PCで動かせるようにするツール「colibrì」を取り上げます。,2026-07-16
+1d6087ff23a9cc253d6ebd011d532649,TechnoEdge,OpenAI初のハードウェア製品「Codex Micro」発売。AIエージェント操作専用キーパッド,https://www.techno-edge.net/article/2026/07/16/5299.html,"Thu, 16 Jul 2026 06:45:03 +0900",OpenAIは、キーボードメーカーのWork Louderと共同開発したキーパッド「Codex Micro」を230ドルで販売開始しました。,2026-07-16
+a56b2d2f15a29afba7874dd95166ac8a,TechnoEdge,Apple Intelligence、中国での展開にGOサイン。BaiduとAlibabaのAIモデルを採用,https://www.techno-edge.net/article/2026/07/16/5298.html,"Thu, 16 Jul 2026 06:30:02 +0900",アップルがiPhoneなどに搭載する生成AIサービス「Apple Intelligence」が、中国のサイバースペース規制当局への登録を完了しました。,2026-07-16
+7fa63741f18933a69a946530be968904,TechnoEdge,「切なさ」はアルゴリズムで書けるか。初期ユーミン様式のバラード生成マシンをClaude Fable 5と作って考えたこと（CloseBox）,https://www.techno-edge.net/article/2026/07/15/5297.html,"Wed, 15 Jul 2026 18:17:54 +0900","切ない曲ってどんなものでしょうか。Sunoで切ないバラードを生成したいときは、sentimental ballad, heart-aching, sorrowful, emotionalといった表現を使いますが、それが意味するところは？",2026-07-16
+5b8b715dacb67cdb107eac279c5e19e9,TechnoEdge,Google Play手数料値下げが国内で前倒し、9月30日までに適用へ,https://www.techno-edge.net/article/2026/07/15/5296.html,"Wed, 15 Jul 2026 16:17:28 +0900",Googleは7月14日、Google Playのサービス手数料引き下げと課金オプション拡充について、日本での適用を前倒しすると発表しました。,2026-07-16
+2fc5f57f7e7f2ec89398183655bcad21,TechnoEdge,連載「歌うテックニュース」第9回：Transformer論文を読めば、倦怠期カップルも愛を取り戻せるはずなのだ（西川善司）,https://www.techno-edge.net/article/2026/07/15/5294.html,"Wed, 15 Jul 2026 08:30:34 +0900",今回の楽曲は、先日掲載された、ローカルSLMに対応したNVIDIAのゲーム向けAI技術のACEの記事にちなんだ歌です。,2026-07-16
+182f41aa972fb78bb80d1bf9fbe4c209,TechnoEdge,アップルが「iOS 27」パブリックベータを公開、「Siri AI」や大幅な速度改善など多数の新機能,https://www.techno-edge.net/article/2026/07/15/5292.html,"Wed, 15 Jul 2026 06:45:02 +0900",アップルが、iOS 27・iPadOS 27・macOS 27・tvOS 27・watchOS 27・visionOS 27のパブリックベータを公開しました。Apple Beta Software Programに登録済みのApple IDユーザーは誰でも試用できます。,2026-07-16
+3d4ff171133f4aeb3175d71bd431c73b,TechnoEdge,スマホでスキャナ品質のScanSnapカメラ提供開始　PFUもAIサブスクScanSnap Cloud+導入、手書きも理解してリンクつきPDF化,https://www.techno-edge.net/article/2026/07/14/5291.html,"Tue, 14 Jul 2026 16:24:29 +0900",PFUは2026年7月14日、AIでスキャナを便利にするサブスクリプションサービス「ScanSnap Cloud＋」と、スマホカメラでスキャナ品質の取り込みができる「ScanSnap Camera」の提供を開始しました。,2026-07-16
+9d9bb4a1799287bb981fa8b2ee9ac33c,TechnoEdge,連載「やってみようVibe Coding 」第2回：ヴァイブ・コーディングでできるのはプログラミングだけじゃない（小泉勝志郎）,https://www.techno-edge.net/article/2026/07/14/5290.html,"Tue, 14 Jul 2026 08:23:03 +0900",Vibe Coding（ヴァイブorバイブ・コーディング）の入門連載第2回です。今回はOpenAIのCodexのインストール方法から、Gmailとの連携まで。,2026-07-16
+5a224d57afef55d15858ae9a821a5695,TechnoEdge,従来のゲーム制作手法のまま、AIの力でNPCを賢く見せるNVIDIAの新提案を徹底解説（西川善司のバビンチョなテクノコラム）,https://www.techno-edge.net/article/2026/07/13/5286.html,"Mon, 13 Jul 2026 09:00:03 +0900",ゲームにおける、NPC（Non Player Character）制御に生成AI系技術を使えないか。より具体的に言えば、人間ではなく、ゲームシステム側で動かす相棒キャラクターや敵キャラクターを言語型の生成系AIで動かせないか……というテーマについて。,2026-07-16
+02b7f3c9bbe5e545faa5f3fd0af29260,TechnoEdge,Fable 5でFab 4楽曲ジェネレーターを作ってみた。ビートルズっぽい楽曲はAI学習を使わないアルゴリズムでもできる？（CloseBox）,https://www.techno-edge.net/article/2026/07/13/5285.html,"Mon, 13 Jul 2026 08:37:05 +0900",Claude Fable 5にアディショナルタイムが与えられました。この時間を活かして何かできないか。既存プロジェクトの改良とは別に、思いついたのが、作曲ソフトです。,2026-07-16
+b961085ad2ff096863df1e9ff9fcdf30,TechnoEdge,アップルがOpenAIを提訴、元従業員による機密情報窃取の疑い,https://www.techno-edge.net/article/2026/07/13/5284.html,"Mon, 13 Jul 2026 06:45:02 +0900",アップルは、同社の企業秘密を窃取したとして、OpenAIおよびその関連会社io Products、元アップル従業員で現在はOpenAIに在籍するチャン・リウ氏とタン・タン氏を被告とする訴訟を、米カリフォルニア北部地区連邦地方裁判所に起こしました。,2026-07-16
+74b471578f3ab4a8243b5dd337f3776b,TechnoEdge,まだまだ続くFable 5祭り、20日までサブスク提供延長　Claude Codeのレート50%増量も継続、GPT-5.6追う1週間,https://www.techno-edge.net/article/2026/07/13/5283.html,"Mon, 13 Jul 2026 06:30:02 +0900",Anthropicが、Claudeの最上位モデル「Fable 5」のサブスク内提供プロモーションをさらに延長しました。,2026-07-16
+85fd5ea41ffaedffaeb1eebb8f0f9b76,TechnoEdge,まだ続くFable 5祭り、Claudeが特例で使用量リセット　競合OpenAIのGPT-5.6 / ChatGPT Work提供直前,https://www.techno-edge.net/article/2026/07/10/5282.html,"Fri, 10 Jul 2026 17:51:56 +0900",Anthropicは日本時間7月10日、公式X「ClaudeDevs」で、Claudeの全ユーザーを対象に5時間ごとおよび週単位の利用量制限をリセットしたと発表しました。,2026-07-16
+f5521821358d55585cd3837564f75337,TechnoEdge,Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」、NVIDIAが「Qwen3.6」を軽量化4ビットモデルを商用利用可能で公開など生成AI技術5つを解説（生成AIウィークリー）,https://www.techno-edge.net/article/2026/07/10/5280.html,"Fri, 10 Jul 2026 08:43:24 +0900",今回の「生成AIウィークリー」（第151回）は、Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」や、動画から世界のしくみを学ぶAIモデル「Orca」を取り上げます。,2026-07-16
+7ec9411143bba07939f9244c4b48ccaa,TechnoEdge,チャッピーが代わりに働いてくれる時代到来『ChatGPT Work』発表　アプリやファイルを自律操作、下調べから成果物まで仕上げ　Codexを応用,https://www.techno-edge.net/article/2026/07/10/5279.html,"Fri, 10 Jul 2026 07:30:03 +0900",米OpenAIが、ChatGPT内で動作する新しいAIエージェント「ChatGPT Work」の提供を開始しました。,2026-07-16
+01d829e7d668b81bff3fc751f8ece032,TechnoEdge,Meta「Muse Spark 1.1」を一般公開。AIコーディング市場に算入,https://www.techno-edge.net/article/2026/07/10/5278.html,"Fri, 10 Jul 2026 06:45:02 +0900",Meta Superintelligence Labsは、マルチモーダル推論AIモデル「Muse Spark 1.1」を発表しました。4月に発表された最初のモデルからエージェントタスク、コーディング、マルチモーダル理解の各分野での改善が盛り込まれたアップグレード版です。,2026-07-16
+c2c925259ad06c375021480aa050bb74,TechnoEdge,SpaceXAI、新AIモデル「Grok 4.5」を正式公開　Cursorと共同トレーニング,https://www.techno-edge.net/article/2026/07/10/5277.html,"Fri, 10 Jul 2026 06:30:02 +0900",xAI改めSpaceXAIは、最新AIモデル「Grok 4.5」を正式に一般公開しました。,2026-07-16
+2ece360fa1188e89e89c7afa6bd563cc,TechnoEdge,OpenAIの逆襲、「Fable 5超え」のGPT-5.6で低価格アピール　4体分身で殴るコスト度外視モード「Ultra」も追加,https://www.techno-edge.net/article/2026/07/10/5276.html,"Fri, 10 Jul 2026 05:29:08 +0900",米OpenAIが新モデルファミリー「GPT-5.6」の一般提供を開始しました。話題の競合モデル「Claude Fable 5」を上回るというベンチマーク結果と、大幅に低いコストをアピールしています。,2026-07-16
+563cee59bc39ab8cd4b2478bd2ec3e10,TechnoEdge,M3 iPad Air が過去最安値引き、Amazonプライムデー先行セール　今秋のiPadOS 27も対応の5G版,https://www.techno-edge.net/article/2026/07/08/5271.html,"Wed, 08 Jul 2026 16:03:30 +0900",開催中の Amazonプライムデー先行セールで、2025年発売の Apple iPad Air (M3) が約4万円引きで販売中です。,2026-07-16
+c5a00165b888448381ef50dac71d147d,TechnoEdge,「Made by Google 2026」イベント、8月12日に開催。Pixel 11シリーズとPixel Watch 5発表へ,https://www.techno-edge.net/article/2026/07/08/5269.html,"Wed, 08 Jul 2026 06:45:03 +0900",Googleは「Made by Google 2026」イベントを2026年8月12日に開催すると発表しました。基調講演は日本時間8月13日午前8時開始予定です。,2026-07-16
+0e14104e0678e448fd448dfc39c75e48,TechnoEdge,Claude Fable 5のプロモ提供が延長、7月13日16時まで追加料金なしで利用可能に　Anthropicが発表,https://www.techno-edge.net/article/2026/07/08/5268.html,"Wed, 08 Jul 2026 06:30:03 +0900","・Claude Fable 5は2026年7月1日～12日の期間限定で、既存サブスクリプション内の週次利用枠の最大50%まで追加料金なしで利用可能
+・週次利用上限の50%に達した後は、利用クレジット（別途課金）への切り替えか、他モデルへの変更で継続利用できる
+・プロモーション終了後の7月12日以降は週次利用枠への無償包含が終了し、利用クレジットによる有償利用のみとなる",2026-07-16
+74cd002cca7ae9fe47082c52dadae672,TechnoEdge,Claude Fable 5との残された時間に書いてもらった小説2作品、編集者とAI作家の対話には魂が宿っていたのか（CloseBox）,https://www.techno-edge.net/article/2026/07/07/5265.html,"Tue, 07 Jul 2026 17:39:17 +0900",今朝（7月7日）、AnthropicがAIの内側に「J-space」と呼ぶ構造を発見した、というニュースが流れました。元になった論文は、「Verbalizable Representations Form a Global Workspace in Language Models」です。,2026-07-16
+dfa411939a9ea07e346d6989260724f6,TechnoEdge,大学への提出レポートが「100%AI生成」誤判定で学生を不正処分、その後、学生側勝訴（生成AIクローズアップ）,https://www.techno-edge.net/article/2026/07/07/5261.html,"Tue, 07 Jul 2026 13:23:52 +0900",今回は、レポートを「100%AI生成」と判定され不正行為を疑われた学生が、大学を相手に処分の無効を訴えた裁判記録を取り上げます。,2026-07-16
+025c591d47c7c6ff5f133343dfd0ecd1,TechnoEdge,生成AIグラビアをグラビアカメラマンが作るとどうなる？第70回：Krea 2の勢いがもうどうにも止まらない（西川和久）,https://www.techno-edge.net/article/2026/07/06/5256.html,"Mon, 06 Jul 2026 13:04:00 +0900",Krea 2だが、2026年6月23日にリリースされたばかりなのに、とにかくcheckpoint、LoRA、カスタムノード、Workflow……ものすごい勢いでCivitaiやHugging Face、GitHubに登録されだした。今回は筆者が日頃使ってるものから順にご紹介したい。,2026-07-16
+583d02c6511c1fe6aff6ccaa8f8ce733,TechnoEdge,復活のGoogle Home スピーカーと暮らしてみた。Gemini for Homeの実力はいかほど？（Google Tales）,https://www.techno-edge.net/article/2026/07/06/5255.html,"Mon, 06 Jul 2026 12:40:32 +0900",「Gemini for Home」の伝道という使命を帯びて登場した「Google Home スピーカー」を使ってみました。,2026-07-16
